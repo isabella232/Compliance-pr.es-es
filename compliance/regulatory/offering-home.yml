@@ -16,12 +16,12 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 6dabbb8599288d0291934135ef208b52b9ec0003
-  ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+  ms.openlocfilehash: 95c5b020d516d5fc7ccce6978c6f4cf0ad590b5f
+  ms.sourcegitcommit: 98b2d08699e942b4d4f3d7960df6e8e85030f5ec
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 11/30/2020
-  ms.locfileid: "49509751"
+  ms.lasthandoff: 12/01/2020
+  ms.locfileid: "49527127"
 conceptualContent:
   title: Ofertas de cumplimiento para Microsoft 365, servicios en la nube de Azure y otros servicios de Microsoft
   summary: Microsoft ofrece ofertas de cumplimiento para ayudar a su organización a cumplir con los requisitos nacionales, regionales y de la industria que rigen la recopilación y el uso de datos.
@@ -305,6 +305,8 @@ additionalContent:
         url: offering-tisax-germany.md
     - title: Regional
       links:
+      - text: ABS OSPAR (Singapur)
+        url: offering-abs-ospar.md
       - text: Leyes de privacidad de Canadá
         url: offering-canadian-privacy-laws.md
       - text: Cyber Essentials Plus (Reino Unido)
