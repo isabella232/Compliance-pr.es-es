@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0e04239b8dcbe50d054ec02f2164a301c775aaac
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4766d0152e2ee5b372157dd56f28690161f04045
+ms.sourcegitcommit: 5ebe2ba746bba2d5058dcc0469a67e81fa3a8dce
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509989"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49559856"
 ---
 # <a name="health-insurance-portability-and-accountability-hipaa--hitech-acts"></a>Ley de transferencia y responsabilidad de seguros de salud (HIPAA) & alta tecnología
 
 ## <a name="hipaa-and-the-hitech-act-overview"></a>Información general sobre la ley HIPAA y la tecnología de alta tecnología
 
-La ley de transferencia y responsabilidad de seguros de salud (HIPAA) es una ley estadounidense de atención médica que establece los requisitos para el uso, la divulgación y la protección de la información de salud de identificación individual. Se aplica a las entidades cubiertas (las oficinas de los médicos, los hospitales, los aseguradores de salud y otras empresas de salud), con acceso a la información de salud protegida de los pacientes (PHI), así como a empresas asociadas, como el servicio en la nube y los proveedores de ti, que procesan la PHI en su nombre. (Las entidades más cubiertas no llevan a cabo funciones como notificaciones o procesamiento de datos por cuenta propia; dependen de los asociados de negocios para hacerlo).
+La ley de transferencia y responsabilidad de seguros de salud (HIPAA) es una ley estadounidense de atención médica que establece los requisitos para el uso, la divulgación y la protección de la información de salud de identificación individual. Se aplica a las entidades cubiertas, las oficinas de los médicos, los hospitales, los aseguradores de salud y otras empresas de cuidado de la salud, con acceso a la información de salud protegida de los pacientes (PHI), así como a empresas asociadas, como el servicio en la nube y los proveedores de ti, que procesan la PHI en su nombre. (Las entidades más cubiertas no llevan a cabo funciones como notificaciones o procesamiento de datos por cuenta propia; dependen de los asociados de negocios para hacerlo).
 
 La ley regula el uso y la difusión de la información protegida sobre la salud en cuatro áreas generales:
 
@@ -45,7 +45,7 @@ La regla final de notificación de infracción de alta tecnología, que requiere
 
 ## <a name="microsoft-and-hipaa-and-the-hitech-act"></a>Ley de Microsoft e HIPAA y la alta tecnología
 
-Las regulaciones de HIPAA requieren que los encargados de las entidades cubiertas y sus asociados de negocios (en este caso, Microsoft al proporcionar servicios, incluidos los servicios en la nube) a las entidades cubiertas, entren en contratos para garantizar que estos asociados de negocios protejan la PHI de forma adecuada. Estos contratos, o HIPAA, aclaran y limitan el modo en que el asociado comercial puede tratar la PHI y establecen el cumplimiento de cada una de las partes respecto de las disposiciones de seguridad y privacidad que se establecen en HIPAA y la tecnología de alta definición. Una vez que se ha implementado un BAA, los clientes de Microsoft (entidades cubiertas) pueden usar sus servicios para procesar y almacenar la PHI.
+Las regulaciones de HIPAA requieren que las entidades cubiertas y sus asociados de negocios, en este caso, Microsoft al proporcionar servicios, incluidos los servicios en la nube, a entidades cubiertas, entren en contratos para garantizar que estos asociados de negocios protegerán la PHI de forma adecuada. Estos contratos, o HIPAA, aclaran y limitan el modo en que el asociado comercial puede tratar la PHI y establecen el cumplimiento de cada una de las partes respecto de las disposiciones de seguridad y privacidad que se establecen en HIPAA y la tecnología de alta definición. Una vez que se ha implementado un BAA, los clientes de Microsoft (entidades cubiertas) pueden usar sus servicios para procesar y almacenar la PHI.
 
 Actualmente no hay certificación oficial para el cumplimiento de la ley HIPAA o de alta tecnología. Sin embargo, estos servicios de Microsoft cubiertos por el BAA han sido sometidos a auditorías realizadas por auditores independientes autorizados para la certificación Microsoft ISO/IEC 27001.
 
@@ -53,12 +53,13 @@ Los servicios en la nube de Microsoft Enterprise también están cubiertos por e
 
 Para obtener información sobre cómo la nube de Microsoft ayuda a los clientes a apoyar los requisitos de HIPAA y alta tecnología, visite [historias de clientes de Microsoft](https://customers.microsoft.com).
 
-## <a name="microsoft-in-scope-cloud-services"></a>En el ámbito de los Servicios en la nube de Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Microsoft en el ámbito de los servicios en la nube
 
 - [Azure y Azure Government](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
-- [Microsoft Cloud para el sector sanitario](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
+- [Nube de Microsoft para el cuidado de la salud](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Servicio de bot de Microsoft Healthcare
+- Escritorio administrado de Microsoft
 - Microsoft Stream
 - Servicios profesionales de Microsoft: Premier y local para Azure, Dynamics 365, Intune y para empresas medianas y clientes empresariales de Microsoft 365 para empresas
 - [Dynamics 365 y Dynamics 365 para la Administración Pública de Estados Unidos](https://aka.ms/d365-compliance-list)
@@ -71,9 +72,7 @@ Para obtener información sobre cómo la nube de Microsoft ayuda a los clientes 
 
 ## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Acelere la implementación de las soluciones HIPAA/HITRUST en Azure
 
-Empiece a aprovechar las ventajas de la nube para obtener soluciones de datos de estado con el proyecto de Azure Security and Compliance Blueprint: datos de salud de HIPAA/HITRUST y AI. Este proyecto le proporciona herramientas y orientación para empezar a crear soluciones de HIPAA/HITRUST en la actualidad.
-
-[Empezar a usar el Blueprint de Azure HIPAA/HITRUST](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
+Empiece a aprovechar las ventajas de la nube para obtener soluciones de datos de estado con el proyecto de [Azure Security and Compliance Blueprint: HIPAA/HITRUST Health Data and AI](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2). Este proyecto le proporciona herramientas y orientación para empezar a crear soluciones de HIPAA/HITRUST en la actualidad.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
@@ -117,4 +116,4 @@ Para ayudar a los clientes con esta tarea, Microsoft ha publicado estas guías:
 - [Nube de Microsoft para la Administración Pública](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Descripción de la compatibilidad con HIPAA con Azure](https://www.youtube.com/embed/6ptdye1LZ5k?autoplay=0)(19 de mayo de 2016)
 - [Ejemplo de HITRUST de Blueprint de Azure HIPAA](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust/)
-- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
