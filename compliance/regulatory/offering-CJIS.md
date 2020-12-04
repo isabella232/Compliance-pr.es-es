@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 46de9832d4ba155e0e500462b7c82fad16a3bda2
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 05458ef4c0ef85a00939f53698639ef1be9174ff
+ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509861"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49568666"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Directiva de seguridad de los servicios de información de Justicia Penal (CJIS)
 
@@ -31,7 +31,7 @@ La división de los servicios de información de Justicia Penal (CJIS) de la Ofi
 
 La Directiva de seguridad CJIS integra directivas presidencial y FBI, leyes federales y decisiones del Consejo de directiva de asesoría de la comunidad de justicia penal, junto con instrucciones del Instituto Nacional de normas y tecnología (NIST). La Directiva se actualiza periódicamente para reflejar los requisitos de seguridad en constante evolución.
 
-La Directiva de seguridad CJIS define 13 áreas que los contratistas privados, como los proveedores de servicios de nube, deben evaluar para determinar si el uso de los servicios en la nube puede ser coherente con los requisitos de CJIS. Estas áreas corresponden estrechamente con NIST 800-53, que también es la base para el programa de administración de riesgos y autorización Federal ([FedRAMP (Office 365)](offering-FedRAMP.md)), un programa con el que Microsoft ha sido certificado por sus ofertas de nube gubernamental.
+La Directiva de seguridad CJIS define 13 áreas que los contratistas privados, como los proveedores de servicios de nube, deben evaluar para determinar si el uso de los servicios en la nube puede ser coherente con los requisitos de CJIS. Estas áreas corresponden estrechamente con NIST 800-53, que también es la base para el [programa de administración de riesgos y autorización Federal (FedRAMP)](offering-FedRAMP.md), un programa con el que Microsoft ha sido certificado por sus ofertas de nube gubernamental.
 
 Además, todos los contratistas privados que procesan CJI deben firmar el anexo de seguridad de CJIS, un acuerdo uniforme aprobado por el abogado general que contribuye a garantizar la seguridad y confidencialidad de CJI que requiere la Directiva de seguridad. También compromete al contratista a mantener un programa de seguridad coherente con las leyes, regulaciones y estándares federales y estatales, y limita el uso de CJI a los propósitos para los que una agencia gubernamental lo ha proporcionado.
 
@@ -45,11 +45,11 @@ Obtenga información sobre las ventajas de la Directiva de seguridad de CJIS en 
 
 Obtenga información sobre cómo acelerar la Directiva de seguridad de CJIS con nuestro proyecto de Azure Security and Compliance: [descargar las instrucciones de implementación de CJIS para Microsoft Government Cloud Services](https://gallery.technet.microsoft.com/CJIS-Implementation-62af7c27)
 
-## <a name="microsoft-in-scope-cloud-services"></a>En el ámbito de los Servicios en la nube de Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Microsoft en el ámbito de los servicios en la nube
 
-- [Administración pública de Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365 para el gobierno de Estados Unidos](https://aka.ms/d365-compliance-list)
-- [Office 365 para el gobierno de Estados Unidos](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- [Administración pública de Azure](https://docs.microsoft.com/azure/azure-government/documentation-government-welcome)
+- [Dynamics 365 para el gobierno de Estados Unidos](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
+- [Office 365 para el gobierno de Estados Unidos](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
 - El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
@@ -82,7 +82,7 @@ La [Directiva de seguridad de CJIS](https://aka.ms/cjis-security-policy) cubre l
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
-[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Puede encontrar la plantilla en la página **Plantillas de evaluación**, en el Administrador de cumplimiento. Obtenga información acerca de cómo [Compilar evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
