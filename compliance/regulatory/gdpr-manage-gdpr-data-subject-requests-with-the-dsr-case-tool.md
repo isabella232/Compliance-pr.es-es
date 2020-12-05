@@ -1,11 +1,11 @@
 ---
 title: Administración de solicitudes del interesado de RGPD con la herramienta de caso DSR en el centro de seguridad & cumplimiento
+description: Obtenga información sobre cómo administrar las solicitudes de interesados de datos del Reglamento de protección general de datos (RGPD) de la UE con la herramienta de casos de DSR.
 f1.keywords:
 - NOCSH
 ms.author: markjjo
 author: markjjo
 manager: laurawi
-ms.date: ''
 audience: Admin
 ms.topic: article
 ms.service: O365-seccomp
@@ -18,14 +18,13 @@ ms.collection:
 - SPO_Content
 - MS-Compliance
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
-description: Obtenga información sobre cómo administrar las solicitudes de interesados de datos del Reglamento de protección general de datos (RGPD) de la UE con la herramienta de casos de DSR.
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: fc11eeb61a71c47fb37d6b020cd61b8a2b39d429
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 5d6e7d88894673d30b6f2c7bdf0ab02ac933588b
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509879"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574852"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-security--compliance-center"></a>Administración de solicitudes del interesado de RGPD con la herramienta de casos de DSR en el centro de seguridad & cumplimiento
 

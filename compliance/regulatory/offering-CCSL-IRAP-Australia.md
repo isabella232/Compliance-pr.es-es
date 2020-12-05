@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5f1eba5677869e337764b4b0864fac27222d4d77
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b2b7374eff6bcce8f0c36f6bc40709123041a2a7
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49510024"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574882"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Programa de evaluación de la seguridad de la información del gobierno australiano (IRAP)
 
@@ -65,9 +65,10 @@ Como siempre, los controles de compensación adicionales se pueden implementar e
 
 La evaluación IRAP de los servicios de Microsoft ayuda a garantizar a los clientes del sector público en el gobierno y a sus socios que Microsoft tiene controles de seguridad adecuados y efectivos para el procesamiento, el almacenamiento y la transmisión de información protegida y por debajo de la clasificación. Esta evaluación incluye la mayoría de los datos de la administración pública, la sanidad y la educación en Australia.
 
-## <a name="microsoft-in-scope-cloud-services"></a>En el ámbito de los Servicios en la nube de Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Microsoft en el ámbito de los servicios en la nube
 
 - [Azure y Dynamics](https://aka.ms/AzureCompliance)
+- Escritorio administrado de Microsoft
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
@@ -90,7 +91,7 @@ Empiece con [Qué es IRAP](https://www.cyber.gov.au/irap/what-irap) y siga la in
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
-[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Puede encontrar la plantilla en la página **Plantillas de evaluación**, en el Administrador de cumplimiento. Obtenga información acerca de cómo [Compilar evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
@@ -98,4 +99,4 @@ Empiece con [Qué es IRAP](https://www.cyber.gov.au/irap/what-irap) y siga la in
 - [Página de Australia del portal de confianza de servicios de Microsoft (STP)](https://aka.ms/au-irap)
 - [Guías de seguridad y puerta de enlace de Australia](https://docs.microsoft.com/azure/azure-australia)
 - [Servicios de nube certificados de ASD](https://acsc.gov.au/infosec/irap/certified_clouds.htm)
-- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
