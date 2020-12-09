@@ -1,15 +1,15 @@
 ---
-title: Solicitudes del interesado de Azure DevOps para el RGPD y CCPA
+title: Solicitudes de los interesados de Azure DevOps para el RGPD y CCPA
+description: Obtenga información sobre cómo usar las herramientas de Microsoft para exportar o eliminar datos personales recopilados durante una sesión autenticada de Azure DevOps Services.
 keywords: Visual Studio Team Services, VSTS, documentación de Azure DevOps, privacidad, RGPD, CCPA
 localization_priority: Priority
 audience: itpro
 ms.prod: devops
 ms.topic: article
-ms.date: 06/11/2018
 author: robmazz
+ms.author: robmazz
 f1.keywords:
 - NOCSH
-ms.author: robmazz
 manager: laurawi
 ms.collection:
 - GDPR
@@ -18,14 +18,13 @@ ms.collection:
 ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
-description: Obtenga información sobre cómo usar las herramientas de Microsoft para exportar o eliminar datos personales recopilados durante una sesión autenticada de Azure DevOps Services.
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: f2c8e0f91af1b2779ac8f5af08c555976a757a24
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 9918046fc0e76bdfbccd5e199f4e576c77f4ca67
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509896"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574832"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes del interesado de Azure DevOps Services para el RGPD y CCPA
 
