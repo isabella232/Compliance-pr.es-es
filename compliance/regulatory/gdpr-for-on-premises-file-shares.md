@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 55c94de3fe6e1c1a827003dfdaa61b74d2d712d4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 5a3b192e4c374dac4248300627e5659a1b5f66fd
+ms.sourcegitcommit: 18c7e403d6ffbc9afa323fadc04c673dbb7bd391
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509767"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49620765"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>RGPD para uso compartido de archivos de Windows Server local.
 
@@ -56,6 +56,6 @@ El enfoque recomendado para el uso compartido de archivos incluye estos pasos:
 
     -   Para buscar datos personales para solicitudes de datos personales, utilice el escáner de Azure Information Protection. También puede configurar la búsqueda de SharePoint Server para rastrear el uso compartido de archivos.
 
-Para obtener más información sobre cómo usar el escáner de Azure Information Protection para buscar y etiquetar datos personales, vea el Kit de herramientas de detección de datos de RGPD de Microsoft en [https://aka.ms/gdprpartners](<https://aka.ms/gdprpartners>).
+Para obtener más información sobre cómo usar el escáner de Azure Information Protection para buscar y etiquetar datos personales, consulte [Implementar escáner de AIP](<https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner).
 
 Para obtener información sobre cómo configurar el escáner para buscar condiciones y usar los tipos de información confidencial prevención de pérdida de datos (DLP) de Office 365, consulte [Configuración de las condiciones para la clasificación automática y recomendada en Azure Information Protection](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification). Tenga en cuenta que los nuevos tipos de información confidencial de Office 365 no estarán disponibles inmediatamente para su uso con el escáner y que los tipos de información confidencial personalizados no pueden usarse con este.
