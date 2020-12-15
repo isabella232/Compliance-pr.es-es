@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 17c43992f813ba8f0b5b3e9400fadb29eb4174d5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fe7572c8b9f5d8d73d09e57c873a092a97c3226c
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507973"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669761"
 ---
 # <a name="united-kingdom-financial-conduct-authority-fca"></a>Autoridad de realización financiera del Reino Unido (FCA)
 
@@ -45,7 +45,7 @@ Obtenga información sobre cómo Azure habilita el cumplimiento de la FCA en los
 
 [Descargar el enfoque de Microsoft a FCA instrucciones de nube finalizadas](https://go.microsoft.com/fwlink/p/?linkid=2101561)
 
-## <a name="microsoft-in-scope-cloud-services"></a>En el ámbito de los Servicios en la nube de Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
@@ -57,8 +57,6 @@ Obtenga información sobre cómo Azure habilita el cumplimiento de la FCA en los
 
 Sí. Sin embargo, aunque las respuestas de Microsoft a este marco están confirmadas por terceros, los clientes son responsables de validar el cumplimiento de las soluciones implementadas en Azure o Power BI.
 
-Sí. Sin embargo, aunque las respuestas de Microsoft a este marco están confirmadas por terceros, los clientes son responsables de validar el cumplimiento de las soluciones implementadas en Azure o Power BI.
-
 ## <a name="resources"></a>Recursos
 
 - [Lista de comprobación de la nube de Microsoft para instituciones financieras en el Reino Unido](https://aka.ms/Azure-UK-compliance)
@@ -67,4 +65,4 @@ Sí. Sin embargo, aunque las respuestas de Microsoft a este marco están confirm
 - [Programa de cumplimiento de servicios financieros de Microsoft](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Programa de cumplimiento de servicios financieros en Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Servicios en la nube de Microsoft para empresas y servicios financieros](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
-- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -19,14 +19,19 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 801bac11d7f9ee377aaa4082bdab8dde533ce177
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f2e55701f5825a5edb42e69d23f0ce7553f7ba17
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507863"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669741"
 ---
 # <a name="exchange-online-data-resiliency-in-microsoft-365"></a>Resistencia de datos de Exchange online en Microsoft 365
+
+> [!IMPORTANT]
+>  A medida que seguimos invirtiendo en diferentes formas de conservar el contenido de los buzones, anunciamos la jubilación de In-Place suspensiones en el centro de administración de Exchange (EAC) en Exchange Online. A partir del 1 de julio de 2020, no podrá crear nuevas suspensiones de In-Place. Pero todavía podrá administrar las retenciones de In-Place en el EAC o con el cmdlet **set-MailboxSearch** en Exchange Online PowerShell. Sin embargo, a partir del 1 de octubre de 2020, no podrá administrar suspensiones de In-Place. Solo podrá quitarlos en el EAC o mediante el cmdlet **Remove-MailboxSearch** . Todavía se admitirá el uso de In-Place suspensiones en Exchange Server y las implementaciones híbridas de Exchange. Para obtener más información sobre el retiro de In-Place retenciones en Exchange Online, consulte [jubilación de las herramientas de eDiscovery heredadas](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement).
+
+Una conservación local conserva todo el contenido de un buzón de correo, incluidos los elementos eliminados y las versiones originales de los elementos modificados. Todos los elementos del buzón de correo se devuelven en una búsqueda de [Exhibición de documentos electrónicos en contexto](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery). Cuando se coloca una In-Place en el buzón de un usuario, el contenido del buzón de archivo correspondiente (si está habilitado) también se coloca en retención y se devuelve en una búsqueda de exhibición de documentos electrónicos.
 
 Hay dos tipos de daños que pueden afectar a una base de datos de Exchange: los daños físicos, que suelen deberse a problemas de hardware (en particular, del hardware de almacenamiento) y a los daños lógicos, que se producen debido a otros factores. Por lo general, hay dos tipos de daños lógicos que pueden producirse dentro de una base de datos de Exchange:
 
