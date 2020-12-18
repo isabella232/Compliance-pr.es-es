@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 071bbbb24110b9d74aa75580d9a23628041455a6
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 51a09772498da0ffc4c7d135e8b9ae103364a984
+ms.sourcegitcommit: 9d00734702fec0e76f6b001e31ff0a6eb60cae6f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509741"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49712088"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -44,9 +44,10 @@ Los requisitos del SP 800-171 de NIST son un subconjunto de NIST SP 800-53, el e
 
 Cualquier entidad que procese o almacene CUI gubernamentales (instituciones de investigación, empresas de consultoría, contratistas de fabricación) debe cumplir con los requisitos estrictos del NIST SP 800-171. Esta atestación significa que los servicios en la nube de Microsoft en el ámbito pueden acomodar a los clientes que quieran implementar cargas de trabajo de CUI con la certeza de que Microsoft tiene el total cumplimiento. Por ejemplo, todos los contratistas de DoD que procesan, almacenan o transmiten la ' información de defensa cubierta ' con los servicios en la nube de Microsoft en sus sistemas de información cumplen las cláusulas DFARS del Departamento de defensa de Estados Unidos que requieren el cumplimiento de los requisitos de seguridad del NIST SP 800-171.
 
-## <a name="microsoft-in-scope-cloud-services"></a>En el ámbito de los Servicios en la nube de Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
 
 - [Administración pública de Azure](https://aka.ms/AzureCompliance)
+- [Azure Commercial](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/)
 - [Dynamics 365 para el gobierno de Estados Unidos](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365 de la comunidad de administración de Estados Unidos en la nube (GCC), Office 365 GCC High y DoD](https://aka.ms/o365-compliance-framework)
@@ -55,11 +56,11 @@ Cualquier entidad que procese o almacene CUI gubernamentales (instituciones de i
 
 - [Certificación de cumplimiento de Azure Government con NIST SP 800-171](https://aka.ms/Azure-NIST-800-171)
 
-## <a name="how-to-implement"></a>Cómo se debe implementar
+## <a name="how-to-implement"></a>Cómo implementar
 
 - [Ejemplos de Azure Blueprint](https://docs.microsoft.com/azure/governance/blueprints/samples/): Obtenga soporte para implementar cargas de trabajo que cumplan con los controles basados en NIST.
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Puedo usar Microsoft Compliance con NIST SP 800-171 para mi organización?**
 
@@ -67,7 +68,7 @@ Sí. Los clientes de Microsoft pueden usar los controles auditados que se descri
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
-[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Puede encontrar la plantilla en la página **Plantillas de evaluación**, en el Administrador de cumplimiento. Obtenga información acerca de cómo [Compilar evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
