@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f58caebee758c9e4d4d1159ebd701c09df81e018
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
+ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509850"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49759695"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 Information Security Management Standards (Estándares de administración de seguridad de la información ISO/IEC 27001:2013)
 
@@ -117,7 +117,7 @@ El [Portal del Centro de confianza](https://docs.microsoft.com/microsoft-365/com
 
 Sí. El proceso de certificación de ISO/IEC 27001 anual para la infraestructura de nube de Microsoft y el grupo de operaciones incluye una auditoría para la resistencia operativa. Para obtener una vista previa de los certificados más recientes, haga clic en el siguiente vínculo.
 
-- Microsoft Azure: [certificado ISO/IEC 27001:2013 para operaciones de infraestructuras de nube de Microsoft](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dMicrosoft&licencenumber=IS%20533913)
+- Microsoft Azure: [certificado ISO/IEC 27001:2013 para operaciones de infraestructuras de nube de Microsoft](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 - Azure Alemania
 
 **¿Dónde puedo iniciar el trabajo de cumplimiento de la ISO/IEC 27001 de mi organización?**
