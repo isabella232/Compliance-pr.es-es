@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Ofertas de cumplimiento de Microsoft
-summary: Obtenga información sobre cómo los productos y servicios de Microsoft ayudan a su organización a cumplir los estándares de cumplimiento normativo.
+summary: Obtenga información sobre cómo los productos y servicios de Microsoft ayudan a su organización a cumplir con los estándares de cumplimiento normativo.
 brand: m365
 metadata:
-  title: Ofertas de cumplimiento para Microsoft 365, Azure y otros servicios de Microsoft.
-  description: Obtenga información sobre cómo los productos y servicios de Microsoft ayudan a su organización a cumplir los estándares de cumplimiento normativo.
+  title: Ofertas de cumplimiento para Microsoft 365, Azure y otros servicios Microsoft.
+  description: Obtenga información sobre cómo los productos y servicios de Microsoft ayudan a su organización a cumplir con los estándares de cumplimiento normativo.
   services: service
   ms.service: O365-seccomp
   ms.subservice: subservice
@@ -16,15 +16,15 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 82d7c9b4c39d4916a81d08abb34c3d8bc6d65b31
-  ms.sourcegitcommit: db4bd64256f52087d450c2f7fd4632718aa2c33d
+  ms.openlocfilehash: 55a5d3691e7b27f5823eb07662dc7b44f09e2870
+  ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 12/08/2020
-  ms.locfileid: "49588704"
+  ms.lasthandoff: 01/22/2021
+  ms.locfileid: "49924853"
 conceptualContent:
-  title: Ofertas de cumplimiento para Microsoft 365, Azure y otros servicios de Microsoft
-  summary: Microsoft ofrece ofertas de cumplimiento para ayudar a su organización a cumplir con los requisitos nacionales, regionales y de la industria que rigen la recopilación y el uso de datos.
+  title: Ofertas de cumplimiento para Microsoft 365, Azure y otros servicios Microsoft
+  summary: Microsoft proporciona ofertas de cumplimiento para ayudar a su organización a cumplir con los requisitos nacionales, regionales y específicos del sector que rigen la recopilación y el uso de datos.
   items:
   - title: Global
     links:
@@ -70,7 +70,7 @@ conceptualContent:
       text: DoE 10 CFR Parte 810
     - url: offering-ear.md
       itemType: reference
-      text: EAR (US Export ADM. REG.)
+      text: EAR (US Export Adm. Reg.)
     - url: offering-fedramp.md
       itemType: reference
       text: FedRAMP
@@ -150,7 +150,7 @@ conceptualContent:
       text: HDS (Francia)
     - url: offering-hipaa-hitech.md
       itemType: reference
-      text: HIPAA/ALTA TECNOLOGÍA
+      text: HIPAA /HITECH
     - url: offering-hitrust.md
       itemType: reference
       text: HITRUST
@@ -193,13 +193,13 @@ conceptualContent:
       text: C5 (Alemania)
     - url: offering-ccpa.md
       itemType: reference
-      text: CCPA (US-California)
-    - url: offering-ccsl-irap-australia.md
+      text: CCPA (EE.UU.-California)
+    - url: offering-irap-australia.md
       itemType: reference
-      text: IRAP/CCSL (Australia)
+      text: IRAP (Australia)
     - url: offering-cs-mark-gold-japan.md
       itemType: reference
-      text: Marca CS Gold (Japón)
+      text: CS Mark Gold (Japón)
     - url: https://www.trustcenter.cn/compliance/default.html#DJCP
       itemType: reference
       text: DJCP (China)
@@ -216,7 +216,7 @@ conceptualContent:
       text: Cláusulas del modelo de UE
     - url: offering-eu-us-privacy-shield.md
       itemType: reference
-      text: EU-US Privacy Shield
+      text: Escudo de privacidad UE-EE. UU.
     - url: https://www.trustcenter.cn/compliance/default.html#GB18030
       itemType: reference
       text: GB 18030 (China)
@@ -260,8 +260,8 @@ conceptualContent:
       text: TRUCS (China)
 additionalContent:
   sections:
-  - title: Ofertas de cumplimiento específicas para Azure
-    summary: Ofertas de cumplimiento específicas para Azure para ayudar a su organización a cumplir con los requisitos nacionales, regionales y de la industria que rigen la recopilación y el uso de los datos.
+  - title: Ofertas de cumplimiento específicamente para Azure
+    summary: Ofertas de cumplimiento específicamente para Azure para ayudar a su organización a cumplir con los requisitos nacionales, regionales y específicos del sector que rigen la recopilación y el uso de datos.
     items:
     - title: Global
       links:
@@ -297,7 +297,7 @@ additionalContent:
         url: offering-nerc-cip.md
       - text: PCI DSS
         url: offering-pci-dss.md
-      - text: Regulaciones de la SEC SCI
+      - text: SEC Regulations SCI
         url: offering-sec-reg-sci.md
       - text: Evaluaciones compartidas
         url: offering-shared-assessments.md
