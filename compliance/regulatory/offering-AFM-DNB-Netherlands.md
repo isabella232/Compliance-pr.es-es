@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d860cf04b91143a65a9b0fd4aad090968a7de7a1
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6a952d33a440681acc3dd5057c8a7e175e57bfa9
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509755"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937025"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Autoridad neerlandesa para los mercados financieros y el Banco Central de países bajos
 
@@ -81,5 +81,4 @@ Sí. Las disposiciones y modalidades que deben incluirse en los contratos de la 
 - [Programa de cumplimiento de servicios financieros de Microsoft](https://aka.ms/FSCP-Print)
 - [Servicios financieros y servicios empresariales en la nube de Microsoft](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Cumplimiento de los servicios financieros en Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Herramienta de evaluación de riesgos en la nube para servicios financieros de Azure](https://aka.ms/FFIEC-CSDT)
 - [Cumplimiento normativo en el Centro de confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
