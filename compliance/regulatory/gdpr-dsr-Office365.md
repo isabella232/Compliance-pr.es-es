@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 774ab44b1683a0becd7fcf86b6ea90df83a4a1fe
-ms.sourcegitcommit: 5ebe2ba746bba2d5058dcc0469a67e81fa3a8dce
+ms.openlocfilehash: b22af83dbae8c251f6bba1928011fceaa4bba072
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49559876"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937055"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes del interesado de Office 365 para el RGPD y la CCPA
 
@@ -118,7 +118,10 @@ Tabla 1: Aplicaciones en las que se puede usar la Búsqueda de contenido para bu
 - Word
 
 > [!NOTE]
-> La herramienta de Búsqueda de contenido eDiscovery no está disponible en [Office 365 ofrecido por 21Vianet (China)](https://docs.microsoft.com/microsoft-365/admin/services-in-china/services-in-china). Esto significa que no puede usar esta herramienta para buscar y exportar datos del cliente en las aplicaciones de Office 365 que se muestran en la tabla 1. Sin embargo, puede usar la herramienta eDiscovery local en Exchange Online para buscar contenido en buzones de usuario. También puede usar el Centro de eDiscovery en SharePoint Online para buscar contenido en cuentas de OneDrive y sitios de SharePoint. Como alternativa, puede pedirle a un propietario del documento que le ayude a buscar y realizar cambios en el contenido, eliminarlo o exportarlo si es necesario. Para obtener más información, vea:</br><br> * [Crear una búsqueda de eDiscovery local](https://docs.microsoft.com/exchange/create-in-place-ediscovery-search-exchange-2013-help)<br> * [Configurar un Centro de eDiscovery en SharePoint Online](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
+> La herramienta de Búsqueda de contenido eDiscovery no está disponible en [Office 365 ofrecido por 21Vianet (China)](https://docs.microsoft.com/microsoft-365/admin/services-in-china/services-in-china). Esto significa que no puede usar esta herramienta para buscar y exportar datos del cliente en las aplicaciones de Office 365 que se muestran en la tabla 1. Sin embargo, puede usar la herramienta eDiscovery local en Exchange Online para buscar contenido en buzones de usuario. También puede usar el Centro de eDiscovery en SharePoint Online para buscar contenido en cuentas de OneDrive y sitios de SharePoint. Como alternativa, puede pedirle a un propietario del documento que le ayude a buscar y realizar cambios en el contenido, eliminarlo o exportarlo si es necesario. Para obtener más información, vea:
+> 
+> * [Crear una búsqueda de eDiscovery local](https://docs.microsoft.com/exchange/create-in-place-ediscovery-search-exchange-2013-help)
+> * [Configurar un centro de eDiscovery en SharePoint Online](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
 
 ### <a name="using-content-search-to-find-personal-data"></a>Usar la Búsqueda de contenido para buscar datos personales
 
@@ -169,10 +172,10 @@ La tabla siguiente incluye algunas condiciones que puede usar para restringir el
 
 ***Tabla 2: limitar el ámbito de búsqueda mediante el uso de condiciones** _
 
-| _ *Condición** | **Descripción** | **Ejemplo de valor de condición** |
+| Condition | Description | Ejemplo de valor de condición |
 | :--- | :--- |:--- |
 | Tipo de archivo | La extensión de un documento o archivo. Use esta condición para buscar documentos de Office y archivos creados por aplicaciones de Office 365. Use esta condición al buscar documentos en sitios de SharePoint Online y en cuentas de OneDrive para la empresa.<br/>La propiedad correspondiente del documento es el tipo de archivo. <br/>Para obtener una lista completa de extensiones de archivo que puede buscar, consulte Extensiones de nombre de archivo y tipos de archivos analizados predeterminados en SharePoint(https://technet.microsoft.com/library/jj219530.aspx).|&nbsp;&bull;&nbsp;&nbsp;csv: busca archivos con valores separados por coma (CSV); Los archivos de Excel se pueden guardar en formato CSV y un archivo CSV puede importarse fácilmente a Excel<br><br>&bull;&nbsp;&nbsp;docx: busca archivos de Word <br><br>&bull;&nbsp;&nbsp;mpp: busca archivos de Project <br/><br>&bull;&nbsp;&nbsp;one: busca archivos de OneNote <br><br>&bull;&nbsp;&nbsp;pdf: busca archivos guardados en formato PDF <br><br>&bull;&nbsp;&nbsp;pptx: busca archivos de PowerPoint <br><br>&bull;&nbsp;&nbsp;xlxs: busca archivos de Excel <br><br>&bull;&nbsp;&nbsp;vsd: busca archivos de Visio <br><br>&bull;&nbsp;&nbsp;wmv: busca archivos de vídeo de Windows Media <br>|
-| Tipo de mensaje | El tipo de mensaje de correo electrónico a buscar. Use esta condición para buscar en los buzones contactos (Personas), reuniones (Calendario) o conversaciones de Skype empresarial. La propiedad de correo electrónico correspondiente es *kind*.|&bull;&nbsp;&nbsp;*contactos: busca en la lista de Mis contactos (Personas) de un buzón <br><br>&bull;&nbsp;&nbsp;* correo electrónico: busca mensajes de correo electrónico <br><br>&bull;&nbsp;&nbsp;*im: realiza búsquedas en las conversaciones de Skype Empresarial<br><br>&bull;&nbsp;&nbsp;* reuniones: busca citas y solicitudes de reunión (Calendario). <br><br>&bull;&nbsp;&nbsp;*tareas: busca en la lista de Mis tareas (Tareas); usar este valor también devolverá las tareas creadas en Microsoft To-Do.<br>|
+| Tipo de mensaje | El tipo de mensaje de correo electrónico a buscar. Use esta condición para buscar en los buzones contactos (Personas), reuniones (Calendario) o conversaciones de Skype empresarial. La propiedad de correo electrónico correspondiente es _kind*.|&bull;&nbsp;&nbsp;*contactos: busca en la lista de Mis contactos (Personas) de un buzón <br><br>&bull;&nbsp;&nbsp;* correo electrónico: busca mensajes de correo electrónico <br><br>&bull;&nbsp;&nbsp;*im: realiza búsquedas en las conversaciones de Skype Empresarial<br><br>&bull;&nbsp;&nbsp;* reuniones: busca citas y solicitudes de reunión (Calendario). <br><br>&bull;&nbsp;&nbsp;*tareas: busca en la lista de Mis tareas (Tareas); usar este valor también devolverá las tareas creadas en Microsoft To-Do.<br>|
 | Etiqueta de cumplimiento |La etiqueta asignada a un mensaje de correo electrónico o un documento. Las etiquetas se usan para clasificar correos electrónicos y documentos para el gobierno de datos y para aplicar reglas de retención basadas en la clasificación definida por la etiqueta. Use esta condición para buscar elementos que tengan una etiqueta asignada automática o manualmente.<br/>Esta condición es útil para las investigaciones de DSR porque es posible que su organización utilice etiquetas para clasificar contenido relacionado con la privacidad de datos o que contenga datos personales o información confidencial. Consulte la sección "Usar la búsqueda de contenido para encontrar todo el contenido que tenga aplicada una etiqueta de retención específica" en [Información sobre directivas y etiquetas de retención](https://docs.microsoft.com/microsoft-365/compliance/labels).|compliancetag="datos personales"|
 ||||
 
@@ -208,7 +211,9 @@ _*_GUI_*_
 
 Este ejemplo devuelve archivos de Excel o Word ubicados en sitios de SharePoint Online y cuentas de OneDrive para la Empresa que contienen el id. o la fecha de nacimiento del empleado especificado.
 
-(98765 OR "20-01-1990") AND (filetype="xlxs" OR filetype="docx")
+```
+(98765 OR "01-20-1990") AND (filetype="xlxs" OR filetype="docx")
+```
 
 _*_GUI_*_
 
@@ -294,14 +299,14 @@ Los usuarios finales pueden descubrir, tener acceso y corregir datos de perfil d
 
 Otra forma de que los usuarios tengan acceso a sus datos de perfil de SharePoint consiste en navegar a la **página de edición de perfil** de su cuenta OneDrive para la Empresa, a la que se puede acceder dirigiéndose a la ruta de acceso **EditProfile.aspx** en la dirección URL de la cuenta de OneDrive para la Empresa. Por ejemplo, para un usuario <strong>user1@contoso.com</strong>, la cuenta de OneDrive para la empresa del usuario se encuentra en:
 
-```URL
-`https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/OneDrive.aspx`
+```http
+https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/OneDrive.aspx
 ```
 
 La dirección URL de la página de edición de perfil sería:
 
-```URL
-`https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/EditProfile.aspx`
+```http
+https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/EditProfile.aspx
 ```
 
 Las propiedades con origen en Azure Active Directory no se pueden cambiar en SharePoint Online. Sin embargo, los usuarios pueden ir a la página de su **Cuenta** seleccionando su **foto** en el encabezado de Office 365 y, a continuación, seleccionando **Mi cuenta**. Para cambiar las propiedades desde aquí es posible que los administradores deban explicar a los usuarios cómo descubrir, tener acceso o rectificar una propiedad de Perfil de usuario.
@@ -679,7 +684,6 @@ En esta sección se explica cómo usar la funcionalidad integrada en la aplicaci
 - [Bookings](#bookings)
 - [Listings](#listings)
 - [Connections](#connections)
-- [Invoicing](#invoicing)
 
 #### <a name="bookings"></a>Bookings
 
@@ -995,7 +999,7 @@ Los planes de Planner están asociados a un grupo de Microsoft 365 y los archivo
 
 Como se ha explicado anteriormente, puede buscar el sitio subordinado de SharePoint Online y el buzón que están asociados con un plan. A continuación, puede obtener una vista previa o descargar los resultados de búsqueda relacionados para obtener acceso a los datos.
 
-#### <a name="delete"></a>Delete
+#### <a name="delete"></a>Eliminar
 
 Puede eliminar de forma manual la información personal de un usuario tanto otorgándose a sí mismo permisos de acceso a los planes de los que forma parte el usuario, o iniciar sesión como el usuario para realizar los cambios. Vea [Eliminar datos de usuario en Microsoft Planner](https://support.office.com/article/delete-user-data-in-microsoft-planner-4349ded2-1891-4896-8e27-05fd40f3929f).
 
@@ -1096,7 +1100,7 @@ Puede exportar el contenido de un usuario específico de su entorno de Project O
 
 Las secciones siguientes explican cómo usar la función integrada en la aplicación en Microsoft Publisher para acceder a datos personales, buscarlos, exportarlos y eliminarlos.
 
-#### <a name="discover"></a>Descubrir
+#### <a name="discover"></a>Detectar
 
 Puede usar la característica de búsqueda en la aplicación para buscar texto en un archivo de Publisher del mismo modo que puede hacer en la mayoría de aplicaciones de Office. Vea [Buscar y reemplazar texto](https://support.office.com/article/find-and-replace-text-bfe54275-b7c7-4d0f-904d-a2f38d322268).
 
@@ -1394,11 +1398,11 @@ Como la mayoría de los documentos de Office se encuentra en los sitios de Share
 2. Almacene el documento en una ubicación local (por ejemplo, un servidor de archivos o un recurso compartido de archivos) o en otra ubicación que distinta al inquilino de Office 365 en la nube de Microsoft.
 3. Elimine permanentemente el documento original (Purgar) de Office 365. Esto es un proceso de tres pasos:
 
-    a. Elimine la copia original del documento. Al eliminar un documento de un sitio, se envía a la Papelera de reciclaje del sitio (también denominada *Papelera de reciclaje de primer nivel*).
+   1.  Elimine la copia original del documento. Al eliminar un documento de un sitio, se envía a la Papelera de reciclaje del sitio (también denominada *Papelera de reciclaje de primer nivel*).
 
-    b. Vaya a la Papelera de reciclaje y elimine la copia del documento. Al eliminar un documento de la Papelera de reciclaje, se envía a la Papelera de reciclaje de la colección de sitios (también denominada *Papelera de reciclaje de segundo nivel*). Vea [Eliminar un archivo, carpeta o vínculo de una biblioteca de documentos de SharePoint](https://support.microsoft.com/office/delete-a-file-folder-or-link-from-a-sharepoint-document-library-71f3c90a-0d24-4d80-8b66-f88234b79a52).
+   1.  Vaya a la Papelera de reciclaje del sitio y elimine la copia del documento. Al eliminar un documento de la Papelera de reciclaje del sitio, se envía a la Papelera de reciclaje de la colección del sitio (también denominada *Papelera de reciclaje de segundo nivel*). Obtenga más información sobre [Eliminar un archivo, carpeta o vínculo de una biblioteca de documentos de SharePoint](https://support.microsoft.com/office/delete-a-file-folder-or-link-from-a-sharepoint-document-library-71f3c90a-0d24-4d80-8b66-f88234b79a52)
 
-    c. Vaya a la Papelera de reciclaje de la colección de sitios y elimine la copia del documento permanentemente de Office 365. Vea [Eliminar elementos de la Papelera de reciclaje de la colección de sitios](https://support.microsoft.com/office/delete-items-from-the-site-collection-recycle-bin-dd5c00c2-aef6-4458-9d04-80b185077653).
+   1.  Vaya a la Papelera de reciclaje de la colección de sitios y elimine la copia del documento, lo que lo elimina permanentemente de Office 365. Obtenga más información sobre [Eliminar elementos de la papelera de reciclaje de la colección de sitios](https://support.microsoft.com/office/delete-items-from-the-site-collection-recycle-bin-dd5c00c2-aef6-4458-9d04-80b185077653)
 
 4. Cuando ya no se aplique la restricción, la copia del documento que se almacenó localmente puede volver a cargarse en el sitio de Office 365.
 
@@ -1470,7 +1474,7 @@ Los usuarios pueden eliminar la siguiente información en Delve:
 
 ### <a name="myanalytics"></a>MyAnalytics
 
-MyAnalytics proporciona estadísticas a los usuarios para ayudarles a comprender cómo invierten su tiempo en el trabajo. Para ayudar a los usuarios a comprender mejor los datos que se muestran en el panel personal y cómo se calculan estos, recomiende a los usuarios el tema de ayuda [Panel personal de MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2).
+MyAnalytics ofrece estadísticas que ayudan a los usuarios a comprender cómo invierten el tiempo en el trabajo. Para ayudar a los usuarios a comprender mejor los datos que se muestran en el panel personal y cómo se calculan estos, recomiende a los usuarios el [Panel personal de MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2).
 
 #### <a name="access-and-export"></a>Obtener acceso y exportar
 
