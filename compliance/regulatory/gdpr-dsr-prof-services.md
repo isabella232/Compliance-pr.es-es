@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 7be8b0dce164dc14ff70ca3bc91b805e84eb0363
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: 6c1e6c0a3aa8362d2bdba68f9919e6edb9919277
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669751"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012986"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de interesados del soporte técnico y los servicios profesionales de Microsoft para el RGPD y la CCPA
 
@@ -30,7 +30,7 @@ ms.locfileid: "49669751"
 
 El equipo de Servicios profesionales de Microsoft está formado por un grupo diverso de arquitectos técnicos, ingenieros, consultores y profesionales de soporte técnico dedicados a alcanzar la misión de Microsoft de proporcionar recursos a los clientes para mejorar su productividad. Nuestro equipo de Servicios profesionales está formado por un total de más de 21 000 consultores, asesores digitales, representantes de soporte técnico Premier, ingenieros y profesionales de ventas que trabajan en 191 países o regiones, ofrecen asistencia en 46 idiomas, administran varios millones de interacciones al mes, e interactúan con clientes y partners con herramientas automatizadas, locales, telefónicas, web y de la comunidad. La organización ofrece amplia experiencia en toda la cartera de Microsoft, con una extensa red de partners, comunidades técnicas, herramientas, diagnósticos y canales que nos conectan con nuestros clientes empresariales.
 
-Para obtener más información sobre los Servicios Profesionales de Microsoft visite la [página web de documentación de seguridad sobre los Servicios Profesionales de Microsoft](https://www.microsoft.com/es-ES/professionalservices/overview). En los Servicios profesionales de Microsoft nos tomamos muy en serio nuestras obligaciones relativas al Reglamento general de protección de datos (RGPD). La información de este documento está diseñada para responder a preguntas de clientes sobre cómo el servicio de atención al cliente de Microsoft y las ofertas de consultoría asistirán y responderán a los clientes a solicitudes del interesado relativas al RGPD.
+Para obtener más información sobre los Servicios Profesionales de Microsoft visite la [página web de documentación de seguridad sobre los Servicios Profesionales de Microsoft](https://www.microsoft.com/professionalservices/overview). En los Servicios profesionales de Microsoft nos tomamos muy en serio nuestras obligaciones relativas al Reglamento general de protección de datos (RGPD). La información de este documento está diseñada para responder a preguntas de clientes sobre cómo el servicio de atención al cliente de Microsoft y las ofertas de consultoría asistirán y responderán a los clientes a solicitudes del interesado relativas al RGPD.
 
 ### <a name="introduction-to-dsrs"></a>Introducción a las solicitudes del interesado 
 
@@ -96,25 +96,25 @@ Para mantener la continuidad empresarial del cliente, Microsoft no procesará so
 
 Puede que los clientes decidan realizar cambios en sus datos recopilados durante las interacciones con Servicios profesionales mediante los canales habituales de consultoría o soporte técnico, de manera independiente de esta solicitud del interesado. Por ejemplo, Microsoft puede ayudarle a eliminar las interacciones de soporte técnico a petición (consulte la sección *Guía de solicitud del interesado para datos proporcionados por el cliente*).
 
-***Este ejemplo solo se proporciona con fines ilustrativos** _
+*Este ejemplo solo se proporciona con fines ilustrativos*
 
 Juan es un jefe de proyectos para un cliente de O365 Enterprise, con un compromiso de consultoría abierto y dos compromisos cerrados. Ahora, Juan deja la compañía y quiere que se eliminen sus datos. Juan se pone en contacto con el Centro de respuesta de privacidad, que lo identifica como jefe de proyecto. Se dice a Juan que su nombre no se puede eliminar de las negociaciones anteriores (cerradas) o de cualquier dato de negociaciones abiertas. Sin embargo, el Centro de respuesta de privacidad reemplazará a Juan como contacto en la negociación abierta actual, si él encuentra un contacto sustituto. Juan comunica a Microsoft que María será su contacto de recambio y Microsoft realizará el cambio en todos los sistemas.
 
 ## <a name="dsr-for-an-end-user-engaging-microsoft"></a>DSR para un usuario final que interactúa con Microsoft
 
-_Cómo responde Microsoft a las solicitudes de los empleados de un cliente u otros sujetos de datos para ejercer sus derechos.*
+*Forma en que Microsoft responde a solicitudes de los empleados de un cliente u otros derechos del titular de los datos para el ejercicio de sus derechos.*
 
 Si el empleado de un cliente u otro titular de los datos se pone en contacto con Microsoft para ejercer sus derechos en relación con los datos que Microsoft recopiló como procesador de datos, se informará a ese titular de los datos de que necesita ponerse en contacto con el cliente de Microsoft, como el poseedor de los datos, para ejercer esos derechos. Microsoft no realizará ninguna otra acción.
 
 Si el titular de los datos también se puso en contacto con Microsoft en relación con el ejercicio de sus derechos de los datos que Microsoft recopiló en situaciones en las que Microsoft sea el poseedor de los datos (por ejemplo, soporte técnico para consumidores, contacto de cliente comercial, etc.), Microsoft responderá por separado a la solicitud adecuada del titular de los datos en relación con esos datos personales.
 
-***Este ejemplo solo se proporciona con fines ilustrativos** _
+*Este ejemplo solo se proporciona con fines ilustrativos*
 
 Elvira es una empleada de un cliente empresarial, Contoso, que le asignó una cuenta de Dynamics 365. Se pone en contacto con Microsoft para solicitar la eliminación de todos sus datos y se le remite al Centro de respuestas para la privacidad. Elvira rellena el formulario de solicitud. El Centro de respuestas para la privacidad identifica a Elvira como una usuaria final empresarial y le informa de que necesita dirigirse a Contoso para eliminar sus datos empresariales. También la identifican como un usuario de Microsoft Xbox y eliminan sus datos de su cuenta Microsoft de consumidor.
 
 ## <a name="dsr-for-customer-provided-data-commercial-support"></a>Solicitud de derechos del titular de los datos proporcionados por el cliente: Asistencia comercial
 
-_Cómo recibir asistencia de Microsoft cuando un cliente ha recibido una solicitud de su empleado u otros titulares de datos para ejercer sus derechos, y los datos personales de ese titular fueron recopilados por el Soporte técnico de Microsoft durante un contrato de soporte técnico,*
+*Explicación de cómo recibir asistencia de Microsoft cuando un cliente recibe una solicitud de su empleado u otros derechos del titular de los datos para ejercer sus derechos, y cuando los datos personales del titular de los datos fueron recopilados por el Soporte técnico de Microsoft durante una interacción de soporte técnico.*
 
 Cuando un cliente interacciona con el Soporte técnico de Microsoft, Microsoft recopila datos de soporte técnico del cliente para solucionar los problemas necesarios que requieren una interacción de soporte técnico. En estos datos de soporte técnico, se incluyen la interacción de Microsoft con el cliente (por ejemplo, chat, teléfono, correo electrónico, envío web), además de los archivos de contenido que el cliente envíe a Microsoft, o bien contenido que Microsoft haya extraído con el permiso del cliente del entorno de TI del cliente o del espacio empresarial de los servicios en línea para solucionar el problema de soporte técnico. En el caso del soporte técnico Premier, también se incluyen los datos que recopilamos del usuario para impedir de forma proactiva problemas futuros. Sin embargo, se excluye otra información de la relación empresarial de Microsoft con el cliente (por ejemplo, registros de facturación).
 
@@ -132,9 +132,9 @@ Al detectar datos relevantes y obtener ayuda de Microsoft, los clientes tienen d
 
 *Opción A: Solicitud de derechos del titular de los datos de cliente de varios servicios de soporte técnico de Microsoft.* Se aplica la solicitud de derechos del titular de los datos a todos los datos de soporte técnico del cliente de todo el entorno de Soporte técnico de Microsoft. Para hacerlo, un cliente puede pedir a Microsoft que aplique la solicitud de derechos del titular de los datos a todos los datos de soporte técnico recopilados.
 
-*Opción B: Interacciones con clientes específicas.* Use los sistemas en línea para revisar incidencias, identifique interacciones específicas que contengan datos personales relevantes e informe de estas a Microsoft. Microsoft intentará proporcionar asistencia para realizar una búsqueda si el cliente no puede buscar en distintas interacciones (incidencias).
+*Opción B: Interacciones con clientes específicas*. Use los sistemas en línea para revisar incidencias, identifique interacciones específicas que contengan datos personales relevantes e informe de estas a Microsoft. Microsoft intentará proporcionar asistencia para realizar una búsqueda si el cliente no puede buscar en distintas interacciones (incidencias).
 
-***Después de identificar las interacciones, solicite aplicar la solicitud de derechos del titular de los datos en una parte específica del registro o en todo lo relacionado con esa interacción en Microsoft.** _
+*Después de identificar las interacciones, solicite aplicar la solicitud de derechos del titular de los datos en una parte específica del registro o en todo lo relacionado con esa interacción en Microsoft.*
 
 Para identificar interacciones específicas, los clientes necesitan buscar en todas sus interacciones. Para los clientes Premier, el administrador de servicios del contrato de un cliente puede ver todas las solicitudes de soporte técnico creadas en esa programación de contrato. Para los clientes que no sean Premier, hay disponibles portales equivalentes de interacción de soporte técnico, como las áreas de soporte técnico de servicios en línea.
 
@@ -175,9 +175,9 @@ Cuando un cliente investiga o se prepara para eliminar datos personales en respu
 
 Todos los datos en Microsoft tienen aplicada una directiva de retención y eliminación, que puede variar dependiendo del riesgo y de otros factores.
 
-Los clientes que soliciten la eliminación de los datos personales de un titular de los datos de forma universal en todos los sistemas de soporte pueden hacerlo a través de su responsable técnico de cuenta, mediante la presentación de una solicitud de soporte técnico (SR) en el Centro de servicios. _Debe* indicar que esta es una solicitud para asistir con una DSR cumpliendo el RGPD.
+Los clientes que soliciten la eliminación de los datos personales de un titular de los datos de forma universal en todos los sistemas de soporte pueden hacerlo a través de su responsable técnico de cuenta, mediante la presentación de una solicitud de soporte técnico (SR) en el Centro de servicios. *Debe* indicar que esta es una solicitud para asistir con una DSR cumpliendo el RGPD.
 
-*Opción A: Solicitud del interesado de cliente de varios servicios de Soporte técnico de Microsoft*. Para las solicitudes de derechos del titular de los datos que abarquen varios sistemas, el cliente tiene que especificar los datos personales que Microsoft necesita para identificar los datos necesarios (por ejemplo, dirección de correo electrónico o número de teléfono). Microsoft no pondrá en correlación ni investigará los registros, y solo buscará directamente según los identificadores proporcionados por el cliente. Cuando se encuentren los datos, Microsoft eliminará todas las interacciones y todos los datos asociados.
+*Opción A: DSR para el cliente de Soporte técnico de Microsoft*. Para las solicitudes de derechos del titular de los datos que abarquen varios sistemas, el cliente tiene que especificar los datos personales que Microsoft necesita para identificar los datos necesarios (por ejemplo, dirección de correo electrónico o número de teléfono). Microsoft no pondrá en correlación ni investigará los registros, y solo buscará directamente según los identificadores proporcionados por el cliente. Cuando se encuentren los datos, Microsoft eliminará todas las interacciones y todos los datos asociados.
 
 > Nota importante: esto puede causar la pérdida de registros históricos que sean importantes para la organización del cliente.
 
@@ -198,7 +198,7 @@ El "derecho a la portabilidad de los datos" permite a un titular de los datos so
 
 Nota: En los datos exportados, es posible que no se incluyan datos de propiedad intelectual de Microsoft, ni cualquier otro dato que pueda poner en peligro la seguridad o la estabilidad del servicio.
 
-***Este ejemplo solo se proporciona con fines ilustrativos** _
+*Este ejemplo solo se proporciona con fines ilustrativos*
 
 Sergio es administrador de servicios del contrato Premier de un cliente empresarial, Contoso, que usa Office 365 para su correo electrónico de empleado, y Azure para hospedar una SQL Database de Contoso. Contoso tiene varias incidencias abiertas y cerradas. Recientemente, el Soporte técnico de Microsoft, con el permiso de Contoso, movió una copia de la SQL Database en DTM con fines de soporte técnico y de solución de problemas.
 
@@ -214,7 +214,7 @@ El soporte técnico de Microsoft realiza todas estas eliminaciones y, basándose
 
 ## <a name="dsr-guide-for-customer-provided-data-in-consulting-services-including-migration-services"></a>Guía de solicitud de derechos del titular de los datos proporcionados por el cliente en servicios de consultoría, incluidos los Servicios de migración Microsoft
 
-Cómo recibir asistencia de Microsoft cuando un cliente ha recibido una solicitud de su empleado u otros sujetos de datos para ejercer sus derechos, y los datos personales de ese sujeto de datos fueron recopilados por Microsoft durante un contrato de consultoría.*
+*Explicación de cómo recibir asistencia de Microsoft cuando un cliente recibe una solicitud de su empleado u otros derechos del titular de los datos para ejercer sus derechos, y cuando los datos personales del titular de los datos fueron recopilados por Microsoft durante una interacción de consultoría.*
 
 ## <a name="microsoft-consulting-services"></a>Servicios de consultoría de Microsoft
 
