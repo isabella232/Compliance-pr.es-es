@@ -1,6 +1,6 @@
 ---
 title: Filtrado previo al empleo de Microsoft
-description: En este artículo, puede encontrar información general sobre las prácticas de filtrado de Microsoft pre-empleo para Microsoft 365.
+description: En este artículo, encontrará información general sobre las prácticas de filtrado previo al empleo de Microsoft para Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,71 +19,71 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 03936deb44b950d289c2f1b3cad896352bf3715f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6b285f6b0370966cc66a4fed1309a88aec89e839
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508122"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012916"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Filtrado previo al empleo de Microsoft
 
-Microsoft trabaja para mantener un entorno seguro y seguro que proteja adecuadamente a nuestros empleados, clientes, propiedades, datos personales e información de propiedad. Un programa de detección de fondo exhaustivo es esencial para lograr este objetivo. Todos los candidatos para empleo y internación son necesarios para completar de forma satisfactoria una detección en segundo plano antes de comenzar su empleo en Microsoft. Los empleados actuales de roles específicos también pueden estar sujetos a un nuevo examen periódico.
+Microsoft trabaja para mantener un entorno seguro y seguro que proteja correctamente a nuestros empleados, clientes, propiedades, datos personales e información de propiedad. Un programa completo de filtrado de antecedentes es esencial para lograr este objetivo. Todos los candidatos para obtener empleo y empleo deben completar satisfactoriamente un examen de antecedentes antes de la contratación en Microsoft. Los empleados actuales en roles específicos también pueden estar sujetos a una rescreening periódica.
 
-## <a name="the-microsoft-personnel-screening-standard"></a>El estándar de examen de personal de Microsoft
+## <a name="the-microsoft-personnel-screening-standard"></a>Estándar de filtrado de personal de Microsoft
 
-El estándar de examen de personal de Microsoft se aplica a todos los empleados, los empleados y el personal de la nube de Microsoft que participan en el desarrollo, la operación o la entrega de servicios en línea a los clientes de la nube gubernamental o comercial.
+El Estándar de filtrado de personal de Microsoft se aplica a todos los empleados, becario y personal cualificado de Microsoft implicados en el desarrollo, la operación o la entrega de servicios en línea a los clientes de la nube comercial o gubernamental.
 
-Los procedimientos de filtrado de personal para Microsoft 365 se alinean con los estándares corporativos de Microsoft y los controles del Instituto Nacional de estándares y tecnología (NIST) para la detección de personas. El personal de Microsoft que requieran acceso a lo siguiente están sujetos al estándar de examen de personal de Microsoft:
+Las prácticas de filtrado de personal de Microsoft 365 se alinean con los estándares corporativos de Microsoft y los controles del Instituto Nacional de Estándares y Tecnología (NIST) para el filtrado de personal. El personal de Microsoft que requiera acceso a lo siguiente está sujeto al Estándar de filtrado de personal de Microsoft:
 
-- Acceso físico a centros de usuarios, colocaciones, salas protegidas, jaulas, racks de servidores o sitios perimetrales que proporcionan la infraestructura que admite los servicios en línea para los clientes de la nube pública o comercial.
-- Acceso lógico a los datos de clientes de la nube pública o de la nube proporcionada a través de entornos administrados específicos.
-- Acceso a la administración de red a dispositivos y servicios que transporten o almacenan datos de clientes de la nube comercial o del gobierno.
+- Acceso físico a centros de datos, ubicaciones compartidas, salas protegidas, bastidores de servidores o sitios perimetrales que proporcionan la infraestructura compatible con los servicios en línea para los clientes de la nube comercial o gubernamental.
+- Acceso lógico a datos de clientes en la nube comercial o gubernamentales proporcionados a través de entornos administrados específicos.
+- Acceso de administración de red a dispositivos y servicios que transportan o almacenan datos de clientes en la nube comercial o gubernamentales.
 
-En los países con leyes sólidas de privacidad que restringen el acceso a la información personal, el personal implicado en el desarrollo, la operación o la entrega de servicios en línea a los clientes de la nube de administración pública o comercial pueden estar sujetos a comprobaciones adicionales. Los eventos específicos relacionados con el personal que desencadenan los requisitos de filtrado son:
+En países con leyes de privacidad sólidas que restringen el acceso a la información personal, el personal implicado en el desarrollo, la operación o la entrega de servicios en línea a clientes de la nube comercial o gubernamental puede estar sujeto a comprobaciones adicionales. Entre los eventos específicos relacionados con el personal que desencadenan los requisitos de filtrado se incluyen:
 
-- El nuevo personal de Microsoft se coloca en funciones en las que el filtrado es un requisito definido.
-- El personal interno de Microsoft se transfiere o se mueve a un rol existente que actualmente incluye filtrado como un requisito definido.
-- Funciones existentes que cambian el ámbito para incluir el filtrado como un requisito definido.
+- Nuevo personal de Microsoft colocado en roles en los que el filtrado es un requisito definido.
+- El personal interno de Microsoft transferido o movido a un rol existente que actualmente incluye el filtrado como requisito definido.
+- Roles existentes que cambian el ámbito para incluir el filtrado como requisito definido.
 
 ## <a name="microsoft-pre-employment-screening"></a>Filtrado previo al empleo de Microsoft
 
-El Departamento de seguridad global de Microsoft es responsable de garantizar que los candidatos se filtran en segundo plano antes de comenzar el empleo de Microsoft.
+El Departamento de seguridad global de Microsoft es responsable de garantizar que los candidatos estén en segundo plano antes de empezar a trabajar con Microsoft.
 En la medida permitida por la legislación local, las comprobaciones incluyen lo siguiente:
 
-- SSN rastrea en los Estados Unidos o la confirmación de la identidad de un documento de administración pública en Europa, Oriente Medio y Asia.
-- La comprobación de los antecedentes penales es de hasta siete años para los delitos de Felony y delitos en el estado, el condado y los niveles locales, y en el nivel federal, si procede en los Estados Unidos. Una comprobación de los antecedentes penales internacionales (en función de la legislación local) se aplica a las áreas fuera de los Estados Unidos.
-- Confirmación del mayor nivel de logros académicos
-- Historial de empleo de 5 años
-- Sanciones globales y comprobación de la aplicación, incluida la lista de Office de control de activos extranjeros (OFAC), la lista de la oficina de la industria y la seguridad (BIS) y la lista de controles comerciales de Office of Defense (DDTC).
+- Seguimiento de SSN en Estados Unidos o confirmación de identidad de un documento emitido por el gobierno en Europa, Oriente Medio y Asia.
+- El historial delictivo comprueba hasta siete años por delitos graves y faltas en los niveles de estado, provincia y local, y en el nivel federal, si corresponde, en los Estados Unidos. Se aplica una comprobación de historial criminal internacional (dependiente de la legislación local) para áreas fuera de los Estados Unidos.
+- Confirmación del máximo nivel de logros académicos
+- Historial de empleo de cinco años
+- Sanciones globales y comprobación de cumplimiento, incluida la lista de la Oficina de Control de Activos Externos (OFAC), la lista de la Oficina de Industria y Seguridad (BIS) y las comprobaciones de listas de personas desbarradas de controles comerciales de la Oficina de Defensa (DDTC).
 
 ## <a name="supplier-screening"></a>Filtrado de proveedores
 
-Microsoft requiere que los proveedores (personal contingente) lleven a cabo comprobaciones previas a la asignación de todo el personal que realizará servicios o proyectos que requieran acceso a los miembros de Microsoft o alquilados o acceso a recursos de Microsoft como correo electrónico, acceso a la red, Cardkey u otros distintivos de acceso.
+Microsoft requiere que los proveedores (personal cualificado) realicen comprobaciones de antecedentes previos a la colocación de todo su personal que realizará servicios o proyectos que requieran acceso a las instalaciones de Microsoft propiedad o alquiladas o acceso a recursos de Microsoft, como correo electrónico, acceso a la red, clave de tarjeta u otros distintivos de acceso.
 
-En la medida permitida por las comprobaciones de los proveedores de la legislación local, se incluyen las siguientes:
+En la medida permitida por la legislación local, las comprobaciones de filtrado de proveedores incluyen los siguientes elementos:
 
-- SSN rastrea en los Estados Unidos o la confirmación de la identidad de un documento de administración pública en Europa, Oriente Medio y Asia.
-- La comprobación de los antecedentes penales es de hasta siete años para los delitos de Felony y delitos en el estado, el condado y los niveles locales, y en el nivel federal, si procede en los Estados Unidos. Una comprobación de los antecedentes penales internacionales (en función de la legislación local) se aplica a las áreas fuera de los Estados Unidos.
-- Confirmación del mayor nivel de logros académicos
-- Sanciones globales y comprobación de aplicación
+- Seguimiento de SSN en Estados Unidos o confirmación de identidad de un documento emitido por el gobierno en Europa, Oriente Medio y Asia.
+- El historial delictivo comprueba hasta siete años por delitos graves y faltas en los niveles de estado, provincia y local, y en el nivel federal, si corresponde, en los Estados Unidos. Se aplica una comprobación del historial delictivo internacional (dependiente de la legislación local) para las áreas fuera de los Estados Unidos.
+- Confirmación del máximo nivel de logros académicos
+- Sanciones globales y comprobación de cumplimiento
 
-En Estados Unidos, antes de cada ubicación de cada miembro del personal del proveedor para realizar para Microsoft, en la medida en que lo permitiera la legislación local, el proveedor llevará a cabo una preinstalación y para ciertas ubicaciones, una comprobación periódica de antecedentes con el proveedor de servicios de detección de comprobación en segundo plano de Microsoft que confirmará a Microsoft que el filtrado cumple el estándar de Microsoft. 
+En los Estados Unidos antes de cada colocación de cada miembro del personal del proveedor para realizar para Microsoft, en la medida permitida por la legislación local, el proveedor llevará a cabo una colocación previa y, para determinadas ubicaciones, una comprobación periódica y en segundo plano con el proveedor de servicios de filtrado de comprobación de antecedentes preferido de Microsoft que confirmará a Microsoft que el filtrado cumple con el estándar de Microsoft. 
 
-Internacionalmente, el requisito anterior se implementará en todos los países en septiembre de 2020 y, cuando no se implemente actualmente, el contrato con la tercera parte especifica los requisitos de Microsoft para el filtrado que deben realizarse y el proveedor es responsable de certificar a Microsoft por escrito que la comprobación de segundo plano se ha completado correctamente.
+Internacionalmente, el requisito anterior se implementará en todos los países antes de septiembre de 2020 y, si no se ha implementado actualmente, el contrato con el tercero especifica los requisitos de Microsoft para el filtrado que debe realizarse y el proveedor es responsable de certificar a Microsoft por escrito que la comprobación de antecedentes se ha completado correctamente.
 
-## <a name="microsoft-cloud-background-check"></a>Comprobación de fondo de nube de Microsoft
+## <a name="microsoft-cloud-background-check"></a>Comprobación de antecedentes en la nube de Microsoft
 
-Para los candidatos contratados como empleados que proporcionan servicios relacionados con Microsoft 365 en Estados Unidos, es necesario realizar una comprobación de fondo de nube de Microsoft. Los empleados de Microsoft de Estados Unidos con acceso a los datos de los clientes deben seguir el proceso de comprobación de fondo de nube de Microsoft que necesitan todos los servicios de Microsoft 365. Fuera de los Estados Unidos, el proceso varía. Por ejemplo, la nube de Microsoft para Alemania usa un modelo de aprobación de confianza de datos, diseñado para garantizar que el administrador de datos (una compañía alemana), y no Microsoft, está en el control del acceso a los datos de los clientes. La nube de Microsoft en Alemania se entrega desde los centros de datos de Alemania y los centros de operaciones (OC) que contengan el personal técnico del administrador de datos también se encuentran en Alemania. El administrador de datos opera, mantiene y controla el centro de datos y las instalaciones de OC.
+Se requiere una comprobación en segundo plano de Microsoft Cloud para los candidatos contratados como empleados que proporcionan servicios relacionados con Microsoft 365 en los Estados Unidos. Los empleados de Microsoft en los Estados Unidos con acceso a los datos de los clientes deben seguir el proceso de comprobación en segundo plano de Microsoft Cloud requerido por todos los servicios de Microsoft 365. Fuera de los Estados Unidos, el proceso varía. Por ejemplo, Microsoft Cloud para Alemania usa un modelo de aprobación de administrador de datos, diseñado para garantizar que el administrador de datos (una empresa alemana) y no Microsoft controla el acceso a los datos de los clientes. Microsoft Cloud en Alemania se entrega desde centros de datos de Alemania y los Centros de operaciones (OC) que contienen el personal técnico del administrador de datos también están en Alemania. Tanto el centro de datos como las instalaciones de OC son operados, mantenidos y controlados por el administrador de datos.
 
-En la medida permitida por la legislación local, se realizan las siguientes comprobaciones como parte de la comprobación de fondo de nube de Microsoft.
+En la medida permitida por la legislación local, se realizan las siguientes comprobaciones como parte de la comprobación en segundo plano de Microsoft Cloud.
 
-- Estados Unidos: seguimiento del número de la seguridad social
-- La comprobación de los antecedentes penales es de hasta siete años para los delitos de Felony y delitos en el estado, el condado y los niveles locales, y en el nivel federal, si procede en los Estados Unidos. Una comprobación de los antecedentes penales internacionales (en función de la legislación local) se aplica a las áreas fuera de los Estados Unidos.
-- Sanciones globales y comprobación de la aplicación, incluida la lista de Office de control de activos extranjeros (OFAC), la lista de la oficina de la industria y la seguridad (BIS) y la lista de controles comerciales de Office of Defense (DDTC).
+- Estados Unidos: seguimiento de números de la Seguridad Social
+- El historial delictivo comprueba hasta siete años por delitos graves y faltas en los niveles de estado, provincia y local, y en el nivel federal, si corresponde, en los Estados Unidos. Se aplica una comprobación del historial delictivo internacional (dependiente de la legislación local) para las áreas fuera de los Estados Unidos.
+- Las sanciones globales y la comprobación de la aplicación, incluida la lista de la Oficina de Control de Activos Externos (OFAC), la lista de la Oficina de Industria y Seguridad (BIS) y las comprobaciones de listas de personas desbarradas (DDTC) de los controles comerciales de la Oficina de Defensa.
 
-Los resultados de la comprobación de fondo de nube de Microsoft se almacenan en nuestra base de datos de empleados y se conectan a nuestros sistemas de control de acceso al centro de datos. Si la comprobación de fondo de nube de Microsoft expira y el empleado no la renueva, el acceso a los servicios de Microsoft 365 se revocará y dejará de estar disponible hasta que se complete la comprobación de fondo de nube de Microsoft. Cuando la relación de empleo con Microsoft finaliza, todos los accesos al centro de trabajo se revocan inmediatamente.
+Los resultados de la comprobación en segundo plano de Microsoft Cloud se almacenan en nuestra base de datos de empleados y se conectan a nuestros sistemas de control de acceso a centros de datos. Si la comprobación en segundo plano de Microsoft Cloud expira y el empleado no la renueva, el acceso a los servicios de Microsoft 365 se revoca y ya no está disponible hasta que se complete la comprobación en segundo plano de Microsoft Cloud. Cuando finaliza la relación laboral con Microsoft, se revoca inmediatamente todo el acceso al centro de datos.
 
-La ciudadanía estadounidense se comprueba para todos los empleados con acceso físico o lógico a los servicios gubernamentales de Estados Unidos de Microsoft 365. Para comprobar la nacionalidad, los empleados o los candidatos nuevos para el contrato se reúnen con un delegado de la ciudadanía estadounidense que está entrenado para revisar la documentación para comprobar la nacionalidad de Estados Unidos. Los empleados o los candidatos de nueva contratación deben poner la documentación necesaria y firmar un formulario de atestación en una reunión con el delegado de ciudadanía para su región. La reunión debe realizarse en persona. Una vez que la persona ha cumplido con el delegado de la ciudadanía y ha proporcionado la documentación y las firmas necesarias, el delegado de la ciudadanía reenvía una copia de los documentos a las operaciones de personal de Microsoft que envían la copia a la retención de registros.
+Se comprueba la nacionalidad estadounidense para todos los empleados con acceso físico o lógico a los servicios gubernamentales de Microsoft 365 Estados Unidos. Para comprobar la nacionalidad, los empleados o los candidatos de nuevos empleados se reúnen con un delegado de nacionalidad estadounidense que está formado para revisar la documentación que comprueba la nacionalidad estadounidense. Los empleados o candidatos a nuevos empleados deben llevar la documentación necesaria y firmar un formulario de atestación en una reunión con el delegado de nacionalidad de su región. La reunión debe realizarse en persona. Una vez que la persona se ha reunido con el delegado de ciudadanos y ha proporcionado la documentación y las firmas necesarias, el delegado de ciudadanos reenvía una copia de los documentos a las operaciones de personal de Microsoft que envían la copia para registrar la conservación.
 
-El personal con acceso lógico a la nube de la comunidad de Microsoft 365 U.S. Government Community, o el acceso lógico o físico a las ofertas del gobierno de Estados Unidos de Azure, debe cumplir con los requisitos del gobierno federal de los [servicios de información de justicia criminal](https://www.fbi.gov/services/cjis) del FBI (CJIS), incluida la detección de personal. La detección de CJIS en apoyo del servicio de administración pública de Microsoft 365 incluye una comprobación de fondo penal basada en huellas dactilares contratada por el contratante designado del organismo del sistema CJIS en [los Estados que se han inscrito](https://blogs.office.com/2013/10/23/california-and-microsoft-sign-cjis-security-policy-agreement/) en el programa de soporte técnico de Microsoft Online Services CJIS.
+El personal con acceso lógico a microsoft 365 U.S. Government Community Cloud, o el acceso lógico o físico a las ofertas [](https://www.fbi.gov/services/cjis) gubernamentales de Azure U.S., deben cumplir con los requisitos del gobierno federal de los Servicios de Información de Antecedentes Penales (CJIS) del INSTITUTO FEDERAL, incluido el filtrado de personal. El filtrado de CJIS en apoyo al servicio de Administración Pública de Microsoft 365 ee. UU. incluye [](https://blogs.office.com/2013/10/23/california-and-microsoft-sign-cjis-security-policy-agreement/) una comprobación de antecedentes penales basada en huellas digitales que la agencia del sistema CJIS designó como moderador en los estados que se han inscrito en el programa de soporte técnico CJIS de Microsoft Online Services.
