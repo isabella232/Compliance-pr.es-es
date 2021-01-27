@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5d73dfe71ea0872e02e516e0c952d017ded22150
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 172b031f4193a24a36126d3aabfadb02f3f20247
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509753"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013006"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>El Catálogo de controles de cumplimiento de informática en la nube (C5)
 
@@ -31,7 +31,7 @@ En el año 2016, la Oficina Federal Alemana para la Seguridad de la Información
 
 El objetivo del catálogo de controles C5 es proporcionar un marco de seguridad coherente para certificar a los proveedores de los Servicios en la Nube y ofrecer a los clientes la seguridad de que sus datos serán gestionados de forma segura.
 
-El C5 se basa en los estándares de seguridad de TI reconocidos internacionalmente, como la norma ISO/IEC 27001:2013, la Cloud Security Alliance Cloud Controls Matrix 3.0.1 y los catálogos de TI Grundschutz de BSI. El catálogo consta de 114 requisitos en 17 dominios, por ejemplo, la organización de la seguridad de la información y la seguridad física, con requisitos de seguridad básicos para todos los proveedores de servicios en la nube, y requisitos adicionales para el procesamiento de datos altamente confidenciales y situaciones que requieren una alta disponibilidad.
+El C5 se basa en los estándares de seguridad de TI reconocidos internacionalmente, como la norma ISO/IEC 27001:2013, la Cloud Security Alliance Cloud Controls Matrix 3.0.1 y los catálogos de TI Grundschutz de BSI. El catálogo consta de 114 requisitos en 17 dominios, por ejemplo, la organización de la seguridad de la información y la seguridad física, con requisitos de seguridad básicos para todos los proveedores de servicios en la nube, y otros requisitos para el procesamiento de datos altamente confidenciales y situaciones que requieren una alta disponibilidad.
 
 El BSI también se enfoca en la transparencia. Como parte de una auditoría, el proveedor de la nube debe incluir una descripción detallada del sistema e informar a las autoridades públicas acerca de los parámetros del entorno, como la jurisdicción y la ubicación del procesamiento de datos, la prestación de servicios y otras certificaciones otorgadas a los servicios en la nube, así como información sobre las obligaciones que proveedor de la nube tiene de informar a las autoridades públicas. Esto ayuda a los clientes potenciales de la nube a decidir si los servicios en la nube cumplen con los requisitos esenciales, tales como el cumplimiento de los requisitos legales de protección de datos, políticas de la empresa, o la capacidad para hacer frente a la amenaza de espionaje industrial.
 
