@@ -16,15 +16,15 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 55a5d3691e7b27f5823eb07662dc7b44f09e2870
-  ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
+  ms.openlocfilehash: e3604114977188d8c74bd3c8a3d283e8e98aaf11
+  ms.sourcegitcommit: 81522892bcb66641eddb8cfa85c1160c689e2599
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 01/22/2021
-  ms.locfileid: "49924853"
+  ms.lasthandoff: 02/01/2021
+  ms.locfileid: "50068642"
 conceptualContent:
-  title: Ofertas de cumplimiento para Microsoft 365, Azure y otros servicios Microsoft
-  summary: Microsoft proporciona ofertas de cumplimiento para ayudar a su organización a cumplir con los requisitos nacionales, regionales y específicos del sector que rigen la recopilación y el uso de datos.
+  title: Ofertas de cumplimiento de Microsoft
+  summary: Información de Microsoft 365, Azure, Dynamics 365, Power Platform y otros servicios para ayudar con las regulaciones nacionales, regionales y específicas del sector para la recopilación y el uso de datos.
   items:
   - title: Global
     links:
