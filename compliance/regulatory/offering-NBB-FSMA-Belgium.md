@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 972cd483c4976e683e359c52a78067e3d3faeb3a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508342"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120095"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>Banco Nacional de Bélgica (NBB) y Autoridad de Mercados y Servicios Financieros (FSMA)
 
@@ -31,7 +31,7 @@ Los principales organismos reguladores de servicios financieros en Bélgica son 
 
 El NBB es responsable de la supervisión prudencial de las entidades de crédito, aseguradoras, corredores de bolsa y otras organizaciones financieras. Como banco central de Bélgica, el NBB dirige la política monetaria para Bélgica y contribuye a la estabilidad del sistema financiero. Junto con el NBB, la FSMA supervisa los mercados financieros belgas, los proveedores de servicios financieros (incluidas las empresas de inversión) y las pensiones complementarias. Algunas de sus tareas son la supervisión de la información financiera que divulgan las empresas, los productos que ofrecen a los consumidores y su 	cumplimiento de las reglas de conducta empresarial.
 
-El NBB y la FSMA actúan de acuerdo con la Autoridad Bancaria Europea (ABE), "una autoridad independiente que trabaja para garantizar una regulación y supervisión prudencial eficaz y coherente en todo el sector bancario europeo". Para este fin, la EBA ha descrito un enfoque global para el uso de la informática en la nube por parte de instituciones financieras en la UE: [Recomendaciones para subcontratar a proveedores de servicios en la nube](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362).
+El NBB y la FSMA actúan de acuerdo con la Autoridad Bancaria Europea (ABE), "una autoridad independiente que trabaja para garantizar una regulación y supervisión prudencial eficaz y coherente en todo el sector bancario europeo". Para este fin, la EBA ha descrito un enfoque global para el uso de la computación en la nube por parte de instituciones financieras en la UE: [Recomendaciones para externalizar a proveedores de servicios en la nube](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362).
 
 Existen varios requisitos y directrices que las instituciones financieras en Bélgica deben tener en cuenta al trasladar funciones de empresa a la nube, entre los que se incluyen:
 
@@ -60,7 +60,7 @@ La lista de comprobación de Microsoft ayuda a las empresas financieras en Bélg
 
 - [Lista de comprobación de cumplimiento: Bélgica](https://aka.ms/FinServ-Guide-Belgium): las instituciones financieras pueden obtener ayuda para llevar a cabo evaluaciones de riesgos de servicios en la nube de Microsoft.
 - [Guía de evaluación de riesgos y cumplimiento normativo](https://aka.ms/RiskGovernanceGuide): cree un modelo de gobierno para la evaluación de riesgos sobre los servicios en la nube de Microsoft y las notificaciones reglamentarias.
-- [Casos de uso financiero](https://docs.microsoft.com/azure/industry/financial/): información general de casos de uso, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros.
+- [Casos de uso financiero](/azure/industry/financial/): información general de casos de uso, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
@@ -74,7 +74,7 @@ Sí. Hay cuestiones específicas que las instituciones financieras deben asegura
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
-[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[El Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

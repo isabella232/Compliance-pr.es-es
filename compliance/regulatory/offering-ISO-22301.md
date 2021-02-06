@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ac0915f6209a9024f8dcaae5ce2fed8ab8186b9a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e4907cabfc1dededfafd83ea4c2924c97651246f
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507922"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120219"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>Norma ISO 22301:2012 de Administración de Continuidad Empresarial 
 
@@ -75,14 +75,14 @@ Sí. Si su empresa requiere la certificación de ISO 22301 para las implementaci
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
-[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[El Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
 - [Norma ISO 22301:2012](https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=50038) (para compra)
-- [Guía técnica de resistencia de Azure](https://docs.microsoft.com/azure/architecture/framework/resiliency/overview) (Explica el modelo de responsabilidad compartida de Azure para la continuidad empresarial).
+- [Guía técnica de resistencia de Azure](/azure/architecture/framework/resiliency/overview) (Explica el modelo de responsabilidad compartida de Azure para la continuidad empresarial).
 - [Marco de Cumplimiento del Centro de Controles Comunes de Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Términos de Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Descripción del Programa de Administración de Continuidad Empresarial de Microsoft Enterprise](https://go.microsoft.com/fwlink/p/?linkid=2092212)
-- [Puntuación de conformidad](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
+- [Puntuación de conformidad](/microsoft-365/compliance/compliance-manager)
 - [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

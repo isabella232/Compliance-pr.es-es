@@ -1,6 +1,6 @@
 ---
 title: Límites de recursos de Microsoft 365
-description: En este artículo, puede encontrar información acerca de los límites de recursos para las distintas aplicaciones en Microsoft 365.
+description: En este artículo, encontrará información sobre los límites de recursos para las distintas aplicaciones de Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -18,27 +18,26 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 4d0985c500da4d9cd43e3b3240c07e9d08c0bf15
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 632a0b78c5c5ba02a59f8863c2e751f009cc968e
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508112"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120759"
 ---
-# <a name="service-resource-limits"></a>Límites de recursos de servicio
+# <a name="service-resource-limits"></a>Límites de recursos del servicio
 
-Los límites de recursos se aplican mediante cuotas (límites) y limitación. Azure Active Directory (Azure AD) y los servicios individuales de Microsoft 365 usan ambos. Los límites son específicos del servicio y cambian a lo largo del tiempo a medida que se agregan nuevas capacidades. Para obtener más información sobre los límites actuales para los distintos servicios, vea los siguientes temas:
+Los límites de recursos se aplican mediante cuotas (límites) y limitación. Azure Active Directory (Azure AD) y los servicios individuales de Microsoft 365 usan ambos. Los límites son específicos del servicio y cambian con el tiempo a medida que se agregan nuevas funcionalidades. Para obtener más información sobre los límites actuales de los distintos servicios, consulte los siguientes temas:
 
-- [Límites y restricciones del servicio de Azure AD](https://docs.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits)
-- [Límites de Exchange Online](https://technet.microsoft.com/library/exchange-online-limits.aspx)
-- [Límites de Exchange Online Protection](https://technet.microsoft.com/library/exchange-online-protection-limits.aspx)
+- [Restricciones y límites de servicio de Azure AD](/azure/azure-resource-manager/management/azure-subscription-service-limits)
+- [Límites de Exchange Online](/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)
 - [Límites y límites del software de SharePoint Online](https://support.office.com/article/SharePoint-Online-software-boundaries-and-limits-8F34FF47-B749-408B-ABC0-B605E1F6D498)
-- [Límites de Skype empresarial](https://technet.microsoft.com/library/skype-for-business-online-limits.aspx)
-- [Límites de frecuencia y API de REST de Yammer](https://developer.yammer.com/docs/rest-api-rate-limits)
+- [Límites de Skype Empresarial](https://technet.microsoft.com/library/skype-for-business-online-limits.aspx)
+- [API de REST de Yammer y límites de velocidad](https://developer.yammer.com/docs/rest-api-rate-limits)
 - [Límites de tamaño de archivo en Sway](https://support.office.com/article/File-size-limits-in-Sway-4db21bc6-b42b-499f-9272-66e089db109f)
 
-Además de estos límites, se usan varios mecanismos de limitación en Azure AD y Microsoft 365. La limitación en el servicio es especialmente importante, dado que los recursos de red en los centros de recursos de Microsoft están optimizados para el amplio conjunto de clientes que usan los servicios. Los mecanismos de limitación incluyen:
+Además de estos límites, se usan varios mecanismos de limitación en Azure AD y Microsoft 365. La limitación dentro del servicio es especialmente importante, dado que los recursos de red de los centros de datos de Microsoft están optimizados para el amplio conjunto de clientes que usan los servicios. Entre los mecanismos de limitación se incluyen:
 
-- La limitación a nivel de usuario de la característica de Azure AD y Microsoft 365, que limita el número de transacciones o llamadas simultáneas (por script o código) que un solo usuario puede realizar.
-- Se asigna una directiva de limitación de PowerShell predeterminada a cada inquilino en la creación del espacio empresarial. Esta configuración afecta a otros elementos, como el número máximo de sesiones simultáneas de PowerShell que puede abrir un administrador único.
-- Cada cliente de Exchange Online tiene una directiva de servicios web Exchange (EWS) predeterminada que se ajusta a las operaciones de cliente de EWS y que se aplica a todos los clientes de Outlook.
+- Azure AD y Microsoft 365 ofrecen limitación de nivel de usuario, que limita el número de transacciones o llamadas simultáneas (por script o código) que puede realizar un solo usuario.
+- Se asigna una directiva de limitación de PowerShell predeterminada a cada inquilino durante la creación del espacio empresarial. Esta configuración afecta a otros elementos, como el número máximo de sesiones simultáneas de PowerShell que puede abrir un único administrador.
+- Cada cliente de Exchange Online tiene una directiva predeterminada de Servicios Web Exchange (EWS) que está ajustada para las operaciones del cliente EWS y la limitación que se aplica a todos los clientes de Outlook.

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f6c03f1c9cddbdf1cd62be075f471a3a52e19a19
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509912"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119889"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -54,7 +54,7 @@ Para comprar la *evaluación de riesgos sobre los Servicios en la Nube de Micros
 ## <a name="how-to-implement"></a>Cómo se debe implementar
 
 - [Guía de evaluación de riesgos y cumplimiento normativo](https://aka.ms/RiskGovernanceGuide): Cree un modelo de gobernanza para la evaluación de riesgos sobre los Servicios en la Nube de Microsoft y las notificaciones reglamentarias.
-- [Casos de uso de servicios financieros](https://docs.microsoft.com/azure/industry/financial/): Use visiones generales sobre los casos, tutoriales u otros recursos para compilar soluciones de Azure para servicios financieros.
+- [Casos de uso de servicios financieros](/azure/industry/financial/): Use visiones generales sobre los casos, tutoriales u otros recursos para compilar soluciones de Azure para servicios financieros.
 - [Regulación de los servicios financieros en los Estados Unidos](https://aka.ms/FinServ-Guide-US): Cómo se alinean los servicios en línea de Microsoft con las expectativas clave para la regulación de las instituciones financieras de los Estados Unidos.
 
 ## <a name="frequently-asked-questions"></a>Preguntas frecuentes

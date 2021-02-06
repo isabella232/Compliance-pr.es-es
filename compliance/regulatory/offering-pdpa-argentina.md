@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c14d32a172dc5d6ea934abb20c7df956d43d3bb
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509938"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119919"
 ---
 # <a name="personal-data-protection-act-pdpa-argentina"></a>Ley de Protección de Datos Personales (PDPA) de Argentina
 
@@ -41,7 +41,7 @@ Las medidas de seguridad técnicas y organizativas implementadas en los servicio
 
 El acuerdo de transferencia de datos de Microsoft es una enmienda (Enmienda ID M314) a los términos de procesamiento de datos de nuestros Términos de Servicios en Línea. Agrega compromisos importantes, incluido que Microsoft notificará al cliente cualquier solicitud legalmente vinculante para revelar datos personales. Además, solicitará a sus instalaciones de procesamiento de datos que auditen la solicitud del cliente, ya sea por parte del cliente o un tercero independiente, y obtendrá el consentimiento por escrito para el uso de subcontratistas.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft en el ámbito de los servicios en la nube
+## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
 
 - [Azure y Azure DevOps](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
@@ -50,7 +50,7 @@ El acuerdo de transferencia de datos de Microsoft es una enmienda (Enmienda ID M
 ## <a name="how-to-implement"></a>Cómo implementar
 
 - [Privacidad en los servicios en la nube de Microsoft](https://www.microsoft.com/download/details.aspx?id=55710): obtenga más información sobre los principios y estándares de privacidad de Microsoft y sobre las leyes de privacidad específicas para Argentina.  
-- [Protección de datos en Azure](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data): Azure proporciona a los clientes una seguridad de datos robusta, tanto en las opciones predeterminadas como en las opciones del cliente.
+- [Protección de datos en Azure](/azure/security/azure-protection-of-customer-data): Azure proporciona a los clientes una seguridad de datos robusta, tanto en las opciones predeterminadas como en las opciones del cliente.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
@@ -60,7 +60,7 @@ A finales de 2018, Argentina aún no ha promulgado normativas relacionadas con e
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
-[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[El Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

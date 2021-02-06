@@ -17,12 +17,12 @@ ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
-ms.openlocfilehash: 895dbe3b4fb0c272da22302a8e455da681b0ea88
-ms.sourcegitcommit: b366fb7c148b4da40f8c5d8ff41adbff0bcb850e
+ms.openlocfilehash: f0faaefd7ff3feae482ad62b506163796d80eec5
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49585375"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121519"
 ---
 # <a name="data-processor-service-for-windows-enterprise-data-subject-requests-for-the-gdpr-and-ccpa"></a>Servicio de tratamiento de datos de solicitudes de interesados de Windows Enterprise para el RGPD y la CCPA 
 
@@ -33,7 +33,7 @@ ms.locfileid: "49585375"
 
 El Reglamento General de Protección de Datos (RGPD) otorga derechos a las personas (denominadas _interesados_ en el reglamento) para administrar los datos personales recopilados por una empresa u otro tipo de agencia u organización (denominado _responsable de los datos_ o simplemente _responsable_). Los datos personales se definen ampliamente en el RGPD como cualquier dato que guarde relación con una persona física identificada o identificable. El RGPD ofrece a los interesados derechos específicos sobre sus datos personales, como la obtención de copias de ellos, la solicitud de modificaciones, la restricción de tratamiento, la eliminación o la recepción en un formato electrónico que permita su transferencia a otro responsable. Una solicitud formal de un interesado a un responsable para que realice una acción sobre sus datos personales se denomina _Solicitud del interesado_ o DSR. 
 
-De forma similar, la Ley de Privacidad del Consumidor de California (CCPA) proporciona derechos y obligaciones de privacidad a los consumidores de California, incluidos derechos similares a los Derechos del interesado del RGPD, como el derecho a eliminar sus datos personales, obtener acceso a ellos y recibirlos (portabilidad). La CCPA también prevé casos de divulgación de información, protecciones contra la discriminación en el ejercicio de derechos y requisitos de "cancelación/suscripción" para ciertas transferencias de datos clasificadas como "ventas". Las ventas se definen de forma amplia para incluir el uso compartido de datos con ánimo de lucro. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](https://docs.microsoft.com/microsoft-365/compliance/offering-ccpa) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](https://docs.microsoft.com/microsoft-365/compliance/ccpa-faq).
+De forma similar, la Ley de Privacidad del Consumidor de California (CCPA) proporciona derechos y obligaciones de privacidad a los consumidores de California, incluidos derechos similares a los Derechos del interesado del RGPD, como el derecho a eliminar sus datos personales, obtener acceso a ellos y recibirlos (portabilidad). La CCPA también prevé casos de divulgación de información, protecciones contra la discriminación en el ejercicio de derechos y requisitos de "cancelación/suscripción" para ciertas transferencias de datos clasificadas como "ventas". Las ventas se definen de forma amplia para incluir el uso compartido de datos con ánimo de lucro. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](/microsoft-365/compliance/offering-ccpa) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](/microsoft-365/compliance/ccpa-faq).
 
 En esta guía se explica cómo usar los productos, servicios y herramientas administrativas de Microsoft para ayudar a nuestros clientes que sean responsables de los datos a encontrar datos personales y actuar sobre ellos para responder a solicitudes de interesado. En concreto, esto abarca cómo encontrar datos personales hospedados en la nube de Microsoft, cómo tener acceso a ellos y cómo actuar en consecuencia. Este es un breve resumen de los procedimientos descritos en esta guía: 
 
@@ -41,7 +41,7 @@ En esta guía se explica cómo usar los productos, servicios y herramientas admi
 2. **Eliminar**: eliminar de forma permanente los datos personales que residen en la nube de Microsoft. 
 3. **Exportar**: enviar una copia electrónica (en un formato legible) de datos personales al interesado. La información personal de acuerdo con la CCPA es cualquier información relacionada con una persona identificada o identificable.
 
-La información personal bajo la CCPA es cualquier información relacionada con una persona identificada o identificable. No hay distinción entre los roles privados, públicos o laborales de una persona. La definición del término "información personal" es, a grandes rasgos, similar a la que el RGPD da al término "datos personales". Sin embargo, la CCPA también incluye datos domésticos y familiares. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](https://docs.microsoft.com/microsoft-365/compliance/offering-ccpa) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](https://docs.microsoft.com/microsoft-365/compliance/ccpa-faq).
+La información personal bajo la CCPA es cualquier información relacionada con una persona identificada o identificable. No hay distinción entre los roles privados, públicos o laborales de una persona. La definición del término "información personal" es, a grandes rasgos, similar a la que el RGPD da al término "datos personales". Sin embargo, la CCPA también incluye datos domésticos y familiares. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](/microsoft-365/compliance/offering-ccpa) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](/microsoft-365/compliance/ccpa-faq).
 
 Cada sección de esta guía describe los procedimientos técnicos que puede realizar una organización responsable de los datos para responder a una solicitud del interesado de datos personales en la nube de Microsoft. 
 
@@ -78,26 +78,26 @@ Microsoft ofrece la posibilidad de acceder a determinados datos de diagnóstico 
 
 El administrador de inquilinos es la única persona de la organización que puede obtener acceso a los datos de diagnóstico de Windows relacionados con el uso por parte de un usuario en particular de un servicio de tratamiento de datos para un dispositivo inscrito en Windows Enterprise. Los datos recuperados para una solicitud de acceso se proporcionarán, mediante exportación, en un formato legible por una máquina y se facilitarán en archivos que permitirán al usuario saber a qué dispositivos y servicios se asocian los datos. Como se ha señalado anteriormente, los datos recuperados no incluirán datos que puedan comprometer la seguridad o la estabilidad del dispositivo Windows. 
 
-Microsoft ofrece una experiencia de portal que proporciona al administrador de inquilinos del cliente empresarial la capacidad de administrar las solicitudes de acceso de DSR. [DSR de Azure, parte 2, paso 3: Exportar](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-azure#step-3-export) describe cómo ejecutar una solicitud de acceso de DSR, mediante exportación, a través del portal de Azure.
+Microsoft ofrece una experiencia de portal que proporciona al administrador de inquilinos del cliente empresarial la capacidad de administrar las solicitudes de acceso de DSR. [DSR de Azure, parte 2, paso 3: Exportar](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export) describe cómo ejecutar una solicitud de acceso de DSR, mediante exportación, a través del portal de Azure.
 
 ### <a name="step-2-delete"></a>Paso 2: Eliminar 
 
 Microsoft proporciona una manera de ejecutar solicitudes de eliminación de DSR basadas en el usuario en función de un objeto de Azure Active Directory de un usuario determinado.
 
-Para las solicitudes de eliminación basadas en el usuario, Microsoft ofrece una experiencia de portal que proporciona al administrador de inquilinos del cliente empresarial la capacidad de administrar las solicitudes de acceso de DSR. [DSR de Azure, parte 1, paso 5: Eliminar](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete) describe cómo ejecutar una solicitud de acceso de DSR a través del portal de Azure. 
+Para las solicitudes de eliminación basadas en el usuario, Microsoft ofrece una experiencia de portal que proporciona al administrador de inquilinos del cliente empresarial la capacidad de administrar las solicitudes de acceso de DSR. [DSR de Azure, parte 1, paso 5: Eliminar](/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete) describe cómo ejecutar una solicitud de acceso de DSR a través del portal de Azure. 
 
-Microsoft proporciona la capacidad de eliminar usuarios, lo que a su vez eliminaría datos de cliente, directamente a través de interfaces de programación de aplicaciones (API) ya existentes. Los detalles se describen en la [documentación de referencia de la API](https://docs.microsoft.com/graph/api/directory-deleteditems-delete). 
+Microsoft proporciona la capacidad de eliminar usuarios, lo que a su vez eliminaría datos de cliente, directamente a través de interfaces de programación de aplicaciones (API) ya existentes. Los detalles se describen en la [documentación de referencia de la API](/graph/api/directory-deleteditems-delete). 
 
 >[!IMPORTANT]  
->La eliminación de datos recopilados no detiene la recopilación posterior. Para desactivar la recopilación de datos, siga el procedimiento descrito en la [documentación de referencia del servicio correspondiente](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management).
+>La eliminación de datos recopilados no detiene la recopilación posterior. Para desactivar la recopilación de datos, siga el procedimiento descrito en la [documentación de referencia del servicio correspondiente](/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management).
  
  Además, las solicitudes de eliminación basadas en el usuario requieren la eliminación de la cuenta del usuario. 
 
 ### <a name="step-3-export"></a>Paso 3: exportar 
 
-El administrador de espacio empresarial es la única persona de la organización que puede obtener acceso a los datos de diagnóstico de Windows relacionados con el uso por parte de un usuario en particular de un servicio de tratamiento de datos para un dispositivo inscrito en Windows Enterprise. Los datos recuperados para una solicitud de exportación se proporcionarán en un formato legible por una máquina y se facilitarán en archivos que permitirán al usuario saber a qué dispositivos y servicios se asocian los datos. Como se ha señalado anteriormente, los datos recuperados no incluirán datos que puedan comprometer la seguridad o la estabilidad del dispositivo Windows. [DSR de Azure, parte 2, paso 3: Exportar](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-azure#step-3-export) describe cómo ejecutar una solicitud de exportación de DSR a través del portal de Azure. 
+El administrador de espacio empresarial es la única persona de la organización que puede obtener acceso a los datos de diagnóstico de Windows relacionados con el uso por parte de un usuario en particular de un servicio de tratamiento de datos para un dispositivo inscrito en Windows Enterprise. Los datos recuperados para una solicitud de exportación se proporcionarán en un formato legible por una máquina y se facilitarán en archivos que permitirán al usuario saber a qué dispositivos y servicios se asocian los datos. Como se ha señalado anteriormente, los datos recuperados no incluirán datos que puedan comprometer la seguridad o la estabilidad del dispositivo Windows. [DSR de Azure, parte 2, paso 3: Exportar](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export) describe cómo ejecutar una solicitud de exportación de DSR a través del portal de Azure. 
 
-Microsoft proporciona la capacidad de exportar datos de cliente directamente a través de interfaces de programación de aplicaciones (API) ya existentes. Los detalles se describen en la [documentación de referencia de la API](https://docs.microsoft.com/graph/api/user-exportpersonaldata).
+Microsoft proporciona la capacidad de exportar datos de cliente directamente a través de interfaces de programación de aplicaciones (API) ya existentes. Los detalles se describen en la [documentación de referencia de la API](/graph/api/user-exportpersonaldata).
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>Notificar sobre los problemas de exportación o eliminación 
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f8734dc5ebfd4c6d1c6c3404285dfc6ac22fc6d7
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 9f751777f527a13d4dc572ef58e82ffcbd6ce1b3
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509948"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121179"
 ---
 # <a name="trusted-information-security-assessment-exchange-tisax-germany"></a>Intercambio de Evaluación de Seguridad sobre la información confiable (TISAX, por sus siglas en inglés) en Alemania
 
@@ -67,9 +67,9 @@ La duración de esta evaluación es de tres años.
 
 ### <a name="manufacturing-use-cases"></a>Casos de uso en la fabricación
 
-Utilice resúmenes de casos, guías de soluciones, tutoriales y otros recursos para ayudar a crear [soluciones Azure](https://docs.microsoft.com/azure/industry/manufacturing/).
+Utilice resúmenes de casos, guías de soluciones, tutoriales y otros recursos para ayudar a crear [soluciones Azure](/azure/industry/manufacturing/).
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Por qué no puedo ver una copia de la certificación TISAX de Microsoft?**
 
@@ -77,7 +77,7 @@ ENX proporciona confirmación de certificación sólo a representantes registrad
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
-[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[El Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

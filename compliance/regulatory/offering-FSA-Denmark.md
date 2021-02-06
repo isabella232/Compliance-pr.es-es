@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 28fec212d8ba00d2e319abf856db342c83408238
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a0e643e768d8570f1c65f19e2eec1b84bce5701a
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507942"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120379"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>Autoridad de supervisión financiera (FSA) de Dinamarca
 
@@ -58,7 +58,7 @@ La lista de comprobación de Microsoft ayuda a las empresas financieras danesas 
 
 - [Lista de comprobación de cumplimiento: Dinamarca](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=524cc66f-b292-49e9-aa14-04560401baa0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides): Las instituciones financieras pueden obtener ayuda para llevar a cabo evaluaciones de riesgos de los servicios en la nube de Microsoft.
 - [Guía de cumplimiento y evaluación de riesgos](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Cree un modelo de gobierno para la evaluación de riesgos de los servicios en la nube de Microsoft y las notificaciones reglamentarias.
-- [Casos de uso financiero](https://docs.microsoft.com/previous-versions/azure/industry-marketing/financial/index): información general de casos de uso, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros.
+- [Casos de uso financiero](/previous-versions/azure/industry-marketing/financial/index): información general de casos de uso, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 

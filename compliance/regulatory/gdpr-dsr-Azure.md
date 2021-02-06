@@ -1,7 +1,7 @@
 ---
 title: Solicitudes de titulares de los datos de Azure para el RGPD y la CCPA
 description: Aprenda a utilizar los productos, servicios y herramientas de administración de Azure para encontrar y actuar sobre los datos personales para responder a los DSR.
-keywords: Microsoft 365, Microsoft 365 Educación, documentación de Microsoft 365, RGPD, CCPA
+keywords: Microsoft 365, Educación de Microsoft 365, documentación de Microsoft 365, RGPD, CCPA
 localization_priority: Priority
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: cc71af74f88592e13f5dacf78d92193cea8ea356
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509813"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121009"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de titulares de los datos de Azure para el RGPD y la CCPA
 
@@ -151,11 +151,11 @@ Usted puede corregir, actualizar o eliminar información identificable sobre los
 
     ![Seleccionar a los usuarios](../media/gdpr-azure-dsr-azure-all-users.png)
 
-4. En la hoja **Todos los usuarios**, seleccione un usuario de la lista y después, en el módulo para el usuario seleccionado, seleccione **Perfil** para ver la información que debe corregirse o actualizarse.
+4. En la hoja **Todos los usuarios**, seleccione un usuario de la lista y, a continuación, en el módulo para el usuario seleccionado, seleccione **Perfil** para ver la información que debe corregirse o actualizarse.
 
     ![Seleccionar perfil de usuario](../media/gdpr-azure-dsr-azure-user-profile.png)
 
-5. Corrija o actualice la información del perfil del usuario, incluida la información del trabajo, seleccionando **Editar** en la barra de comandos, luego seleccione  **Guardar** después de realizar los cambios.  
+5. Para corregir o actualizar la información de perfil del usuario, incluida la información de trabajo, seleccionando **Editar** en la barra de comandos y, a continuación  **Guardar** después de realizar los cambios.
 
     ![Seleccione Editar.](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
 
@@ -301,7 +301,7 @@ Aquí está el proceso de alto nivel para exportar los datos de su inquilino.
 
 - **Usuario.** Escriba la dirección de correo electrónico del usuario de Azure Active Directory que solicita la exportación.
 - **Suscripción.** Seleccione la cuenta que usa para informar del uso de recursos y para facturar por servicios. Esta también es la ubicación de la cuenta de almacenamiento de Azure.
-- **Cuenta de almacenamiento.** Seleccione la ubicación de su Azure Storage (Blob). Para obtener más información, consulte el artículo [Introducción a Microsoft Azure Storage, almacenamiento de blobs](https://docs.microsoft.com/azure/storage/common/storage-introduction#blob-storage).
+- **Cuenta de almacenamiento.** Seleccione la ubicación de su Azure Storage (Blob). Para obtener más información, consulte el artículo [Introducción a Microsoft Azure Storage, almacenamiento de blobs](/azure/storage/common/storage-introduction#blob-storage).
 - **Contenedor.** Crear un nuevo contenedor (o seleccionar uno existente) como lugar de almacenamiento de los datos de privacidad exportados por el usuario.
 
 4. Seleccione **Crear**.

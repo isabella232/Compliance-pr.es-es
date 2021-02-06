@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 6c1e6c0a3aa8362d2bdba68f9919e6edb9919277
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: d7acc085c3e84772dfecd2c34ee9f4496c06de4d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012986"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121939"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de interesados del soporte técnico y los servicios profesionales de Microsoft para el RGPD y la CCPA
 
@@ -232,7 +232,7 @@ Microsoft es el poseedor de los datos de los contactos de clientes que trabajen 
 
 Para los servicios de migración de FastTrack, Microsoft es el procesador de datos. Según nuestra declaración de divulgación de privacidad adicional de FastTrack, todos los datos de la migración se consideran "datos de la migración". Si necesita ejecutar DSR mientras su organización está ocupada en un proyecto de migración de FastTrack, se requiere especial atención.
   
-Si necesita procesar cualquier acceso, corregir o exportar solicitudes de DSR mientras se están procesando los datos de un usuario a través de sistemas de migración de FastTrack, será responsabilidad del cliente realizar estas DSR mediante los sistemas de origen existentes en los que se almacenan los datos del usuario. Cuando finalice la migración del usuario y los datos se hayan migrado al destino de Servicios en la nube de Microsoft, se aplicarán las instrucciones de Microsoft sobre cómo los clientes puedan usar sus productos, servicios y herramientas administrativas para buscar y realizar acciones sobre los datos personales con el fin de responder a la solicitud del interesado. Para conocer estas instrucciones, vea [Solicitudes de interesados para el RGPD](https://docs.microsoft.com/microsoft-365/compliance/gdpr-data-subject-requests). 
+Si necesita procesar cualquier acceso, corregir o exportar solicitudes de DSR mientras se están procesando los datos de un usuario a través de sistemas de migración de FastTrack, será responsabilidad del cliente realizar estas DSR mediante los sistemas de origen existentes en los que se almacenan los datos del usuario. Cuando finalice la migración del usuario y los datos se hayan migrado al destino de Servicios en la nube de Microsoft, se aplicarán las instrucciones de Microsoft sobre cómo los clientes puedan usar sus productos, servicios y herramientas administrativas para buscar y realizar acciones sobre los datos personales con el fin de responder a la solicitud del interesado. Para conocer estas instrucciones, vea [Solicitudes de interesados para el RGPD](/microsoft-365/compliance/gdpr-data-subject-requests). 
 
 Si necesita eliminar una cuenta de usuario de en respuesta a una solicitud de eliminación de DSR mientras su organización está ocupada en un proyecto de migración de FastTrack en curso, debe tener en cuenta que los sistemas de migración pueden conservar una copia de los datos de migración del usuario durante un período de tiempo tras la finalización de la migración del usuario, y la eliminación de la cuenta de usuario de no eliminará automáticamente estos datos migración de usuario almacenados en los sistemas de migración de FastTrack. Si desea que el equipo de Microsoft FastTrack elimine los datos de migración del usuario, puede [enviar una solicitud](https://go.microsoft.com/fwlink/?linkid=874544). Durante el transcurso habitual de la actividad empresarial, Microsoft FastTrack eliminará todas las copias de datos cuando finalice la migración de su organización.
 

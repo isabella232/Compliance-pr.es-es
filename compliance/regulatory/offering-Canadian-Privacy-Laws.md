@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 44308d7184f6633ab58a4971fe4e9c70717f8591
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b5921a0535b9fe3dd84f4faf57dca4d7d117498e
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49510012"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121315"
 ---
 # <a name="canadian-privacy-laws"></a>Leyes de privacidad de Canadá
 
@@ -31,9 +31,9 @@ Las leyes de privacidad de Canadá se establecieron para proteger la privacidad 
 
 La [Ley de Privacidad](https://privacy.microsoft.com/es-ES/#heading-0-0-2-1) regula cómo las organizaciones de administración federal recopilan, usan y divulgan información de identificación personal, incluida la de los empleados federales. La [Ley de Protección de Información Personal y Documentos Electrónicos](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) (PIPEDA) rige lo mismo para las actividades empresariales de las empresas con fines de lucro y para los empleados de empresas reguladas por el gobierno federal como bancos, aerolíneas y empresas de telecomunicaciones.
 
-La ley PIPEDA se basa en 10 [principios de información justa](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/) que las empresas deben seguir para cumplir con ella. Por ejemplo, el principio básico del consentimiento da lugar al requisito PIPEDA de que las organizaciones deben obtener el permiso de un individuo para recopilar o usar su información personal. Los individuos tienen tanto el derecho de acceder a esa información personal como a cuestionar su exactitud (con base en el principio de "acceso individual"). El principio de "propósitos de identificación" conduce a la regla de que la información personal solo puede usarse para los propósitos acordados.
+La ley PIPEDA se basa en 10 [principios de información justa](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/) que las empresas deben seguir para cumplir con ella. Por ejemplo, el principio básico del consentimiento da lugar al requisito de PIPEDA de que las organizaciones deben obtener el permiso de un individuo para recopilar o usar su información personal. Los individuos tienen tanto el derecho de acceder a esa información personal como a cuestionar su exactitud (con base en el principio de "acceso individual"). El principio de "propósitos de identificación" conduce a la regla de que la información personal solo puede usarse para los propósitos acordados.
 
-En general, el requisito PIPEDA se aplica a las actividades comerciales en todas las provincias y territorios, excepto aquellas que operan completamente dentro de provincias con sus propias leyes de privacidad que se hayan declarado como "sustancialmente similares" a la legislación federal. Por ejemplo, Columbia Británica, Alberta y Quebec tienen una legislación de privacidad del sector privado considerada sustancialmente similar al requisito PIPEDA y, como resultado, se siguen las leyes provinciales en lugar de la legislación federal.
+En general, el requisito PIPEDA se aplica a las actividades comerciales en todas las provincias y territorios, excepto aquellas que operan completamente dentro de provincias con sus propias leyes de privacidad que se hayan declarado como "sustancialmente similares" a la legislación federal. Por ejemplo, Columbia Británica, Alberta y Quebec tienen una legislación de privacidad del sector privado considerada sustancialmente similar a la ley PIPEDA y, como resultado, se siguen las leyes provinciales en lugar de la legislación federal.
 
 ## <a name="microsoft-and-canadian-privacy-laws"></a>Microsoft y las leyes de privacidad de Canadá
 
@@ -52,13 +52,13 @@ Para guiar a los clientes de Canadá que consideren la subcontratación de funci
 
 - [Privacidad en Microsoft](https://www.microsoft.com/download/details.aspx?id=55710): Obtenga más información sobre los principios y estándares de privacidad de Microsoft y sobre las leyes de privacidad específicas para Canadá.
 - [Lista de comprobación de cumplimiento para Canadá](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=626fb641-9dca-45c0-abaf-0a7849c15f81&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides): Obtenga más información sobre las funcionalidades de Azure e Intune que pueden ayudarle a cumplir con las leyes de privacidad canadiense.
-- [Protección de datos en Azure](https://docs.microsoft.com/azure/security/fundamentals/protection-customer-data): Azure proporciona a los clientes una seguridad de datos sólida, tanto en las opciones de forma predeterminada como en las de cliente.
+- [Protección de datos en Azure](/azure/security/fundamentals/protection-customer-data): Azure proporciona a los clientes una seguridad de datos sólida, tanto en las opciones de forma predeterminada como en las de cliente.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Pueden los clientes que usan Azure e Intune cumplir con la ley PIPEDA y otras leyes de privacidad de Canadá?**
 
-Microsoft reconoce en sus [Términos de servicios en línea](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31) que cumple con las leyes y regulaciones que se aplican a la prestación de los servicios en línea de Microsoft. Sin embargo, las organizaciones que usen los servicios de nube empresarial de Microsoft siempre serán responsables de la adopción de la legislación de privacidad de Canadá, las leyes son claras en que las organizaciones son las responsables en última instancia de garantizar que todos los datos confidenciales que recopilan se administran de forma justa y están debidamente protegidos.  
+Microsoft reconoce en sus [Términos de servicios en línea](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31) que cumple con las leyes y regulaciones que se aplican a la prestación de Microsoft Online Services. Sin embargo, las organizaciones que usen los servicios de nube empresarial de Microsoft siempre serán responsables de la adopción de la legislación de privacidad de Canadá, las leyes son claras en que las organizaciones son las responsables en última instancia de garantizar que todos los datos confidenciales que recopilan se administran de forma justa y están debidamente protegidos.  
 
 Por lo tanto, la privacidad es una responsabilidad compartida entre Microsoft, como proveedor de servicios en la nube y el cliente que usa los servicios en la nube. En un nivel alto, este requisito significa que los clientes deben asegurarse de que las soluciones implementadas dentro de entornos Microsoft aborden los 10 principios codificados en PIPEDA. Por ejemplo, recibir el consentimiento de los usuarios para recopilar sus datos y protegerlos mediante las medidas de seguridad adecuadas.
 

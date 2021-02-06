@@ -18,12 +18,12 @@ ms.collection:
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 9be40afbe9df0a3744022366119aaa7d35da992c
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e8426e0e988c2f29a5223abb7e10a205f3941cfd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509771"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121509"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>Apoye a su programa de RGPD con las listas de comprobación de preparación de responsabilidad
 
@@ -40,7 +40,7 @@ Puede ver una guía con cuatro secciones específicas para familias de productos
 - [Azure](gdpr-arc-azure-dynamics.md)
 - [Soporte técnico y servicios profesionales de Microsoft](gdpr-arc-prof-services.md)
 
-Puede administrar los elementos de esta lista de comprobación con el [Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) haciendo referencia al identificador de control y el título del control en Controles administrados de cliente en el icono RGPD.
+Puede administrar los elementos de esta lista de comprobación con el [Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager) haciendo referencia al identificador de control y el título del control en Controles administrados de cliente en el icono RGPD.
 
 Las listas de comprobación incluyen cuatro categorías básicas para un programa de privacidad compatible con el RGPD. Estas se muestran a continuación acompañadas con ejemplos de requisitos.
 
@@ -75,7 +75,7 @@ Las listas de comprobación incluyen cuatro categorías básicas para un program
 
 ## <a name="gdpr-compliance-controls"></a>Controles de cumplimiento del RGPD
 
-- **Usar el Administrador de cumplimiento**: revise e incorpore los controles que Microsoft usa para apoyar las obligaciones relativas al RGPD con el [Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager).
+- **Usar el Administrador de cumplimiento**: revise e incorpore los controles que Microsoft usa para apoyar las obligaciones relativas al RGPD con el [Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager).
 - **Asignación de controles del RGPD**: obtenga acceso a una [asignación detallada](https://go.microsoft.com/fwlink/p/?linkid=2052220) de los controles de Microsoft para las obligaciones relativas al GDPR.
 
 ## <a name="records-of-processing-for-processors"></a>Registros de procesamiento para procesadores
@@ -86,31 +86,31 @@ Debido a la extensa y amplia variedad de servicios en línea que proporcionamos 
 
 Por lo general, los clientes se interesarán en los registros de actividad y, potencialmente, en los registros de diagnóstico:
 
-- **Registros de actividad**: los [registros de actividad](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview) proporcionan información sobre las operaciones efectuadas en los recursos de una suscripción. Los registros de actividad pueden ayudar a determinar el iniciador de una operación, el tiempo de la incidencia y su estado.
-- **Registros de diagnóstico**: los [registros de diagnóstico](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview) son todos los registros emitidos por cada recurso. Entre estos registros se incluyen los del sistema de eventos de Windows, los de Azure Storage, los de la auditoría de Key Vault y los de acceso a la puerta de enlace de aplicaciones y firewall.
+- **Registros de actividad**: los [registros de actividad](/azure/azure-monitor/platform/platform-logs-overview) proporcionan información sobre las operaciones efectuadas en los recursos de una suscripción. Los registros de actividad pueden ayudar a determinar el iniciador de una operación, el tiempo de la incidencia y su estado.
+- **Registros de diagnóstico**: los [registros de diagnóstico](/azure/azure-monitor/platform/platform-logs-overview) son todos los registros emitidos por cada recurso. Entre estos registros se incluyen los del sistema de eventos de Windows, los de Azure Storage, los de la auditoría de Key Vault y los de acceso a la puerta de enlace de aplicaciones y firewall.
 - **Archivado de registro**: todos los registros de diagnóstico se archivan en una cuenta de almacenamiento de Azure centralizada y cifrada. La retención se puede configurar por el usuario hasta por 730 días para cumplir los requisitos de retención específicos de la organización. Estos registros se conectan con los de Azure Monitor para su procesamiento, almacenamiento e informes de panel.
 
 ### <a name="other-logs"></a>Otros registros
 
 Asimismo, las siguientes soluciones de supervisión se instalan como parte de esta arquitectura. Es responsabilidad del cliente configurar estas soluciones para que se alineen con los controles de seguridad de FedRAMP:
 
-- [Evaluación de AD](https://docs.microsoft.com/azure/azure-monitor/insights/ad-assessment): la solución de comprobación de estado de Active Directory evalúa el riesgo y el estado de los entornos de servidor en un intervalo regular y proporciona una lista de priorizada de las recomendaciones específicas para la infraestructura de servidor implementada.
-- [Evaluación contra el malware](https://docs.microsoft.com/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-): la solución contra el malware informa sobre el malware, las amenazas y el estado de protección.
-- [Azure Automation](https://docs.microsoft.com/azure/automation/automation-hybrid-runbook-worker): la solución Azure Automation almacena, ejecuta y administra los runbook.
-- [Seguridad y auditoría](https://docs.microsoft.com/azure/security-center/security-center-introduction): el panel de seguridad y auditoría proporciona información de alto nivel sobre el estado de seguridad de los recursos al ofrecer métricas en dominios de seguridad, problemas notables, detecciones, inteligencia sobre amenazas y consultas de seguridad comunes.
-- [Evaluación de SQL](https://docs.microsoft.com/azure/azure-monitor/insights/sql-assessment): la solución de comprobación de estado de SQL evalúa el riesgo y el estado de los entornos de servidor en un intervalo regular y proporciona a los clientes con una lista de priorizada de las recomendaciones específicas para la infraestructura de servidor implementada.
-- [Administración de actualizaciones](https://docs.microsoft.com/azure/automation/update-management/update-mgmt-overview): la solución de administración de actualizaciones permite a los clientes administrar actualizaciones de seguridad del sistema operativo, incluyendo el estado de las actualizaciones disponibles y el proceso de instalación de las actualizaciones necesarias.
-- [Estado del agente](https://docs.microsoft.com/azure/azure-monitor/insights/solution-agenthealth): la solución de estado del agente informa sobre cuántos agentes se han implementado y su distribución geográfica, así como cuántos no responden y el número de los que están enviando datos operacionales.
-- [Registros de actividad de Azure](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log): la solución de análisis de registros de actividad ayuda a analizar los registros de actividad de Azure en todas las suscripciones de Azure para un cliente.
-- [Seguimiento de cambios](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log): la solución de seguimiento de los cambios permite a los clientes identificar fácilmente los cambios en el entorno.
+- [Evaluación de AD](/azure/azure-monitor/insights/ad-assessment): la solución de comprobación de estado de Active Directory evalúa el riesgo y el estado de los entornos de servidor en un intervalo regular y proporciona una lista de priorizada de las recomendaciones específicas para la infraestructura de servidor implementada.
+- [Evaluación contra el malware](/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-): la solución contra el malware informa sobre el malware, las amenazas y el estado de protección.
+- [Azure Automation](/azure/automation/automation-hybrid-runbook-worker): la solución Azure Automation almacena, ejecuta y administra los runbook.
+- [Seguridad y auditoría](/azure/security-center/security-center-introduction): el panel de seguridad y auditoría proporciona información de alto nivel sobre el estado de seguridad de los recursos al ofrecer métricas en dominios de seguridad, problemas notables, detecciones, inteligencia sobre amenazas y consultas de seguridad comunes.
+- [Evaluación de SQL](/azure/azure-monitor/insights/sql-assessment): la solución de comprobación de estado de SQL evalúa el riesgo y el estado de los entornos de servidor en un intervalo regular y proporciona a los clientes con una lista de priorizada de las recomendaciones específicas para la infraestructura de servidor implementada.
+- [Administración de actualizaciones](/azure/automation/update-management/update-mgmt-overview): la solución de administración de actualizaciones permite a los clientes administrar actualizaciones de seguridad del sistema operativo, incluyendo el estado de las actualizaciones disponibles y el proceso de instalación de las actualizaciones necesarias.
+- [Estado del agente](/azure/azure-monitor/insights/solution-agenthealth): la solución de estado del agente informa sobre cuántos agentes se han implementado y su distribución geográfica, así como cuántos no responden y el número de los que están enviando datos operacionales.
+- [Registros de actividad de Azure](/azure/azure-monitor/platform/activity-log): la solución de análisis de registros de actividad ayuda a analizar los registros de actividad de Azure en todas las suscripciones de Azure para un cliente.
+- [Seguimiento de cambios](/azure/azure-monitor/platform/activity-log): la solución de seguimiento de los cambios permite a los clientes identificar fácilmente los cambios en el entorno.
 
-Para obtener más información sobre las medidas técnicas y de seguridad para Azure, los clientes responsables deberán visitar la [documentación de seguridad de Azure](https://docs.microsoft.com/azure/security/). Como Microsoft no sabe si los datos de los clientes son datos personales o no, Azure procesa todos los datos de los clientes como si fueran datos personales, por lo que es probable que el cliente considere todo el material como relevante.
+Para obtener más información sobre las medidas técnicas y de seguridad para Azure, los clientes responsables deberán visitar la [documentación de seguridad de Azure](/azure/security/). Como Microsoft no sabe si los datos de los clientes son datos personales o no, Azure procesa todos los datos de los clientes como si fueran datos personales, por lo que es probable que el cliente considere todo el material como relevante.
 
 ### <a name="processor-information"></a>Información del procesador
 
-Office 365 es otro producto del que es posible que el cliente necesite registros de información de procesamiento para procesadores. Para ver información relacionada con Office 365, consulte el artículo sobre [Buscar el registro de auditoría en el centro de seguridad y cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+Office 365 es otro producto del que es posible que el cliente necesite registros de información de procesamiento para procesadores. Para ver información relacionada con Office 365, consulte el artículo sobre [Buscar el registro de auditoría en el centro de seguridad y cumplimiento](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-También puede ver información sobre Dynamics 365 gracias al centro de seguridad y cumplimiento.  Para ver la página del centro de seguridad y cumplimiento, asegúrese de que tiene la licencia correcta. Obtenga más información sobre las licencias con el artículo sobre la [descripción del servicio del centro de seguridad y cumplimiento](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center). Para buscar los eventos de Dynamics 365, visite el registro de auditoría unificado en el [centro de seguridad y cumplimiento](https://protection.office.com/unifiedauditlog).
+También puede ver información sobre Dynamics 365 gracias al centro de seguridad y cumplimiento.  Para ver la página del centro de seguridad y cumplimiento, asegúrese de que tiene la licencia correcta. Obtenga más información sobre las licencias con el artículo sobre la [descripción del servicio del centro de seguridad y cumplimiento](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center). Para buscar los eventos de Dynamics 365, visite el registro de auditoría unificado en el [centro de seguridad y cumplimiento](https://protection.office.com/unifiedauditlog).
 
 ### <a name="professional-services-information"></a>Información de servicios profesionales
 

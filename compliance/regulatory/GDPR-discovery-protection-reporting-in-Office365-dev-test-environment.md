@@ -20,12 +20,12 @@ search.appverid:
 ms.assetid: c2112ce8-1c4b-424f-b200-59e161db2d21
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 246c39c3bfd8f59cd2dab9c3a1b942d36942370f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 92c98d710c34f1304ddc0a2e8acfe09c4570e97c
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507742"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121639"
 ---
 # <a name="gdpr-discovery-protection-and-reporting-in-the-devtest-environment"></a>RGPD: Informes, protección y detección de en el entorno de desarrollo y pruebas
 
@@ -35,7 +35,7 @@ En este artículo se explica cómo configurar y demostrar las funciones de infor
 
 ## <a name="phase-1-create-and-configure-your-trial-microsoft-365-subscription"></a>Fase 1: Crear y configurar una suscripción de prueba a Microsoft 365
 
-Realice primero los pasos de la [fase 2 del artículo sobre el entorno de desarrollo y pruebas de Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/office-365-dev-test-environment#phase-2-create-an-office-365-trial-subscription).
+Realice primero los pasos de la [fase 2 del artículo sobre el entorno de desarrollo y pruebas de Microsoft 365](/Office365/Enterprise/office-365-dev-test-environment#phase-2-create-an-office-365-trial-subscription).
 
 Luego, realice los pasos aquí indicados para configurar el Supervisor de eDiscovery:
 
@@ -99,7 +99,7 @@ En esta fase, creará un tipo de información confidencial personalizado para la
 
 Contoso siempre hace referencia a los clientes usando un CCN en la correspondencia interna, la correspondencia externa, los documentos y otros formularios. En dicha empresa se necesita un tipo de información confidencial personalizado que permita detectar el uso de CCN en el contenido de Microsoft 365 para, así, poder poner en marcha medidas de protección en el uso de esta información de identificación personal.
 
-1. Siga las instrucciones sobre la conexión con autenticación multifactor (MFA) en [Conectarse al PowerShell del Centro de seguridad y cumplimiento](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell) y conéctese al Centro de seguridad y cumplimiento con el UPN de su cuenta de administrador global.
+1. Siga las instrucciones sobre la conexión con autenticación multifactor (MFA) en [Conectarse al PowerShell del Centro de seguridad y cumplimiento](/powershell/exchange/connect-to-scc-powershell) y conéctese al Centro de seguridad y cumplimiento con el UPN de su cuenta de administrador global.
 
 2. Ejecute los siguientes comandos de PowerShell.
 

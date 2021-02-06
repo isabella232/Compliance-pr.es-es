@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3c167ac9a0b98157c51abaf284c2d6277c8150ef
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: ae241dcff38ac764c2b57f559e95c079d6e59cd7
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507993"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121239"
 ---
 # <a name="eu-us-and-swiss-us-privacy-shield-frameworks"></a>Marcos de los Escudos de Privacidad entre la UE y EE. UU., y Suiza y EE. UU.
 
@@ -61,7 +61,7 @@ Privacidad en la nube de Microsoft: obtenga más detalles sobre los principios y
     - [Obtener más información](https://www.microsoft.com/download/details.aspx?id=55710)
 
 Protección de datos en Azure: Azure proporciona a los clientes una seguridad de datos sólida en ambas opciones, tanto de forma predeterminada como de cliente.  
-    - [Obtener más información](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data)
+    - [Obtener más información](/azure/security/azure-protection-of-customer-data)
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 

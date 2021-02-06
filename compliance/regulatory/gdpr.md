@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 2d4c319bd5c0d3d264ae67179dc4d55e0a0e4fe8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 44df81658719397271020f38088d3287e67774a1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509867"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121439"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Resumen del reglamento general de protección de datos 
 
@@ -60,7 +60,7 @@ Como se ha mencionado anteriormente, el plan de acción recomendado para las lis
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
-[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento tiene una evaluación predefinida para esta normativa para los clientes de Enterprise E5. Busque la plantilla para generar la evaluación en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[El Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento tiene una evaluación predefinida para esta normativa para los clientes de Enterprise E5. Busque la plantilla para generar la evaluación en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="data-subject-request-dsr"></a>Solicitud de temas de datos (STD).
 
@@ -74,7 +74,7 @@ Una STD implica seis actividades: descubrir, obtener acceso, rectificar, limitar
 
 **¿Cuáles son los orígenes de datos?**
 
-Una gran fracción de los datos de una organización se genera en [aplicaciones de Office ](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs) como Excel y Outlook. Es posible que también encuentre información relevante para una solicitud de temas de datos (STD) en[opciones](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365) generadas por productos y servicios de Microsoft, y[ registros](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)generados por el sistema.
+Una gran fracción de los datos de una organización se genera en [aplicaciones de Office ](/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs) como Excel y Outlook. Es posible que también encuentre información relevante para una solicitud de temas de datos (STD) en[opciones](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365) generadas por productos y servicios de Microsoft, y[ registros](/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)generados por el sistema.
 
 **¿Qué tipos de datos debe buscar?**
 
@@ -82,7 +82,7 @@ Es posible que los datos personales se encuentren en datos de clientes, opciones
 
 **¿Cómo se buscarán los datos personales?**
 
-La búsqueda de datos personales puede variar entre todos los productos y servicios de Microsoft. Las herramientas de búsqueda incluyen las capacidades [búsqueda de contenido](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs) o [búsqueda en aplicación](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs). Los administradores pueden acceder a los [registros generados s](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)por el sistema asociados a la actividad de un usuario.  
+La búsqueda de datos personales puede variar entre todos los productos y servicios de Microsoft. Las herramientas de búsqueda incluyen las capacidades [búsqueda de contenido](/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs) o [búsqueda en aplicación](/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs). Los administradores pueden acceder a los [registros generados s](/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)por el sistema asociados a la actividad de un usuario.  
 
 **¿En que formato debería estar disponible la información personal?**
 
@@ -110,13 +110,13 @@ Los servicios en línea ofrecen una gran cantidad de capacidades para permitirle
 
 ## <a name="data-protection-impact-assessment"></a>Evaluaciones de impacto de protección de datos
 
-De acuerdo con el reglamento general de protección de datos (RGPD), los controladores de datos son requeridos para preparar una[evaluación de impacto de la protección de datos ](gdpr-data-protection-impact-assessments.md)(EPIA) para procesar operaciones que sean "probables que resulten en un alto riesgo para los derechos y libertades de las personas naturales". No hay nada inherente a los productos y servicios de Microsoft que necesitan la creación de un evaluación de impacto de la protección de datos (EIPA). En su lugar, depende de los detalles de la configuración de Microsoft. Encontrará una lista de los detalles que debe considerar de Office en [Contenido de la evaluación de impacto de la protección de datos (EIPA)](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)
+De acuerdo con el reglamento general de protección de datos (RGPD), los controladores de datos son requeridos para preparar una[evaluación de impacto de la protección de datos ](gdpr-data-protection-impact-assessments.md)(EPIA) para procesar operaciones que sean "probables que resulten en un alto riesgo para los derechos y libertades de las personas naturales". No hay nada inherente a los productos y servicios de Microsoft que necesitan la creación de un evaluación de impacto de la protección de datos (EIPA). En su lugar, depende de los detalles de la configuración de Microsoft. Encontrará una lista de los detalles que debe considerar de Office en [Contenido de la evaluación de impacto de la protección de datos (EIPA)](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)
 
 ### <a name="dpia-faqs"></a>Preguntas frecuentes sobre EIPA
 
 **¿Cuándo debería llevar a cabo una evaluación de impacto de la protección de datos (EIPA)?**
 
-Los controladores son necesarios para realizar una evaluación de impacto de la protección de datos (EIPA), solucionar problemas de seguridad de datos personales o como resultado de una infracción de datos. Se tratan ejemplos específicos de factores de riesgo en Office [para determinar si se necesita una evaluación de impacto de la protección de datos (EIPA)](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed).  
+Los controladores son necesarios para realizar una evaluación de impacto de la protección de datos (EIPA), solucionar problemas de seguridad de datos personales o como resultado de una infracción de datos. Se tratan ejemplos específicos de factores de riesgo en Office [para determinar si se necesita una evaluación de impacto de la protección de datos (EIPA)](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed).  
 
 **¿Qué se necesita para elaborar una EIPA?**
 
@@ -185,7 +185,7 @@ Microsoft cuenta con directivas y procedimientos para notificarle inmediatamente
 
 ## <a name="accountability-readiness-checklists-for-the-gdpr"></a>Listas de comprobación de preparación de responsabilidad para el reglamento general de protección de datos (RGPD)
 
-Estas [listas de comprobación](gdpr-arc.md)proporciona una forma cómoda de obtener acceso a la información que puede necesitar para respaldar el reglamento general de protección de datos (RGPD) al usar los productos de Microsoft. Puede administrar los elementos de esta lista de comprobación con el [Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) haciendo referencia al Id. y el título de control en Controles administrados de cliente en el icono del Reglamento general de protección de datos (RGPD).
+Estas [listas de comprobación](gdpr-arc.md)proporciona una forma cómoda de obtener acceso a la información que puede necesitar para respaldar el reglamento general de protección de datos (RGPD) al usar los productos de Microsoft. Puede administrar los elementos de esta lista de comprobación con el [Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) haciendo referencia al Id. y el título de control en Controles administrados de cliente en el icono del Reglamento general de protección de datos (RGPD).
 
 ## <a name="gdpr-faqs"></a>Preguntas frecuentes sobre el RGPD
 

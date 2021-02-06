@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3bfbddcf9518e86c747315b4eac472ac42365ede
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 2ecf4d029b1c69e4ce7da1244d71d47433eb3873
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509983"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120149"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>Estándares de los sistemas de gestión de la calidad ISO 9001:2015
 
@@ -63,7 +63,7 @@ Este estándar de práctica ofrece directrices y herramientas para que los prove
 
 **¿Dónde puedo obtener los informes de auditoría y las declaraciones de ámbito de ISO 9001:2015 para los servicios de Microsoft?**
 
-El [Portal del Centro de confianza](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) ofrece informes de cumplimiento auditados de forma independiente. Puede usar el portal para solicitar informes para que los auditores puedan comparar los resultados de los servicios de nube de Microsoft con sus propios requisitos legales y regulatorios. El [informe de evaluación ISO 9001 de Microsoft Azure del AF17](https://www.microsoft.com/?ref=aka) y el [certificado ISO 9001 de Microsoft Azure del AF17](https://www.microsoft.com/?ref=aka) ya están disponibles.
+El [Portal del Centro de confianza](/microsoft-365/compliance/get-started-with-service-trust-portal) ofrece informes de cumplimiento auditados de forma independiente. Puede usar el portal para solicitar informes para que los auditores puedan comparar los resultados de los servicios de nube de Microsoft con sus propios requisitos legales y regulatorios. El [informe de evaluación ISO 9001 de Microsoft Azure del AF17](https://www.microsoft.com/?ref=aka) y el [certificado ISO 9001 de Microsoft Azure del AF17](https://www.microsoft.com/?ref=aka) ya están disponibles.
 
 **¿Microsoft ejecuta pruebas anuales de errores de infraestructura?**
 

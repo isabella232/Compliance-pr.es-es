@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 89d708c0f934a95b0145bc1ff24709c531967bac
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: c2b8c28db6383cf35384103117ae3e5b18f4c280
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509763"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121869"
 ---
 # <a name="gdpr-for-sharepoint-server"></a>RGPD para SharePoint Server
 
@@ -31,9 +31,9 @@ Como parte de la protección de información personal, le recomendamos lo siguie
 
 -   Clasifique sus datos con Azure Information Protection.
 
--   Ejecute SharePoint Server con una configuración de privilegios mínimos. Para obtener más información, vea [Planear la administración de privilegios mínimos en SharePoint Server](https://docs.microsoft.com/SharePoint/security-for-sharepoint-server/plan-for-least-privileged-administration) y [Seguridad para SharePoint Server](https://docs.microsoft.com/sharepoint/security-for-sharepoint-server/security-for-sharepoint-server).
+-   Ejecute SharePoint Server con una configuración de privilegios mínimos. Para obtener más información, vea [Planear la administración de privilegios mínimos en SharePoint Server](/SharePoint/security-for-sharepoint-server/plan-for-least-privileged-administration) y [Seguridad para SharePoint Server](/sharepoint/security-for-sharepoint-server/security-for-sharepoint-server).
 
--   [Habilite el cifrado de BitLocker en sus servidores](https://docs.microsoft.com/windows/security/information-protection/bitlocker/bitlocker-how-to-deploy-on-windows-server).
+-   [Habilite el cifrado de BitLocker en sus servidores](/windows/security/information-protection/bitlocker/bitlocker-how-to-deploy-on-windows-server).
 
 ## <a name="user-generated-content"></a>Contenido generado por el usuario
 
@@ -41,11 +41,11 @@ El método recomendado básico para contenido generado por usuarios contenido en
 
 -   Use Azure Information Protection para etiquetar la información confidencial.
 
--   Use la [búsqueda de SharePoint Server](https://docs.microsoft.com/SharePoint/search/search) e [eDiscovery](https://docs.microsoft.com/SharePoint/governance/ediscovery-and-in-place-holds-in-sharepoint-server) para recuperar información confidencial.
+-   Use la [búsqueda de SharePoint Server](/SharePoint/search/search) e [eDiscovery](/SharePoint/governance/ediscovery-and-in-place-holds-in-sharepoint-server) para recuperar información confidencial.
 
 El método recomendado para recursos compartidos de archivos y bibliotecas y sitios de SharePoint está compuesto por estos pasos:
 
-1.  **[Instale y configure el escáner de Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-install#options-to-install-the-azure-information-protection-client-for-users)**
+1.  **[Instale y configure el escáner de Azure Information Protection.](/azure/information-protection/rms-client/client-admin-guide-install#options-to-install-the-azure-information-protection-client-for-users)**
 
     -   Decida qué tipos de información confidencial quiere usar.
 
@@ -77,7 +77,7 @@ Al aplicar etiquetas a información confidencial, asegúrese de usar una etiquet
 
 Para obtener más información sobre cómo usar el escáner de Azure Information Protection para buscar y etiquetar datos personales, vea el [Kit de herramientas de detección de datos de RGPD de Microsoft](https://aka.ms/gdprpartners) (https://aka.ms/gdprpartners).
 
-Para obtener información sobre cómo configurar el escáner para buscar condiciones y usar los tipos de información confidencial de prevención de pérdida de datos (DLP) de Office 365, vea [Configurar las condiciones para la clasificación automática y recomendada en Azure Information Protection](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification). Tenga en cuenta que los nuevos tipos de información confidencial de Office 365 no estarán disponibles inmediatamente para su uso con el escáner y que los tipos de información confidencial personalizados no pueden usarse con el escáner.
+Para obtener información sobre cómo configurar el escáner para buscar condiciones y usar los tipos de información confidencial de prevención de pérdida de datos (DLP) de Office 365, vea [Configurar las condiciones para la clasificación automática y recomendada en Azure Information Protection](/information-protection/deploy-use/configure-policy-classification). Tenga en cuenta que los nuevos tipos de información confidencial de Office 365 no estarán disponibles inmediatamente para su uso con el escáner y que los tipos de información confidencial personalizados no pueden usarse con el escáner.
 
 ## <a name="removing-personal-information-from-office-files"></a>Quitar información personal de archivos de Office
 
@@ -95,15 +95,15 @@ El proceso para quitar información personal (como metadatos o comentarios en un
 
 ### <a name="uls-logs"></a>Registros de ULS
 
-El Servicio de registro unificado (ULS) y el Registro de uso en SharePoint Server realizan un seguimiento de una amplia variedad de funciones del sistema y pueden contener información de usuario. Los registros de ULS y los registros de uso son archivos de texto y permiten realizar búsquedas con distintas herramientas de búsqueda. El [cmdlet de PowerShell Merge-SPLogFile](https://docs.microsoft.com/powershell/module/sharepoint-server/merge-splogfile) proporciona un método para devolver entradas de registro desde los registros de ULS en varios servidores de una granja de servidores.
+El Servicio de registro unificado (ULS) y el Registro de uso en SharePoint Server realizan un seguimiento de una amplia variedad de funciones del sistema y pueden contener información de usuario. Los registros de ULS y los registros de uso son archivos de texto y permiten realizar búsquedas con distintas herramientas de búsqueda. El [cmdlet de PowerShell Merge-SPLogFile](/powershell/module/sharepoint-server/merge-splogfile) proporciona un método para devolver entradas de registro desde los registros de ULS en varios servidores de una granja de servidores.
 
-Puede configurar las directivas de retención de registros con el valor mínimo necesario para sus fines empresariales. Para obtener información sobre cómo configurar el registro en SharePoint Server, vea [Configuración del registro de diagnóstico en SharePoint Server](https://docs.microsoft.com/SharePoint/administration/configure-diagnostic-logging).
+Puede configurar las directivas de retención de registros con el valor mínimo necesario para sus fines empresariales. Para obtener información sobre cómo configurar el registro en SharePoint Server, vea [Configuración del registro de diagnóstico en SharePoint Server](/SharePoint/administration/configure-diagnostic-logging).
 
 Tenga en cuenta que algunos eventos del sistema también se registran en el Registro de eventos de Windows.
 
 ### <a name="usage-database"></a>Base de datos de uso
 
-La base de datos de uso de SharePoint Server (nombre predeterminado WSS_Logging) contiene un subconjunto de la información que se encuentra en los registros de ULS. El período máximo de retención de datos en esta base de datos es de 30 días. Le recomendamos que lo configure para la duración mínima permitida según sus necesidades empresariales. Para obtener más información, vea [Configurar el registro de diagnóstico en SharePoint Server](https://docs.microsoft.com/SharePoint/administration/configure-diagnostic-logging).
+La base de datos de uso de SharePoint Server (nombre predeterminado WSS_Logging) contiene un subconjunto de la información que se encuentra en los registros de ULS. El período máximo de retención de datos en esta base de datos es de 30 días. Le recomendamos que lo configure para la duración mínima permitida según sus necesidades empresariales. Para obtener más información, vea [Configurar el registro de diagnóstico en SharePoint Server](/SharePoint/administration/configure-diagnostic-logging).
 
 ## <a name="personal-information-and-search"></a>Información personal y búsqueda
 
@@ -290,9 +290,9 @@ Además de almacenar archivos en el índice, el complemento FAST Search Server 2
 
 Las acciones recomendadas para las soluciones de búsqueda híbrida son las mismas que para la búsqueda en SharePoint Server o SharePoint Online. Hay dos soluciones de búsqueda híbrida:
 
-**Solución de búsqueda híbrida en la nube**: con la solución de búsqueda híbrida la nube para SharePoint, indexará todo el contenido rastreado, incluido el contenido local, en el índice de búsqueda de Office 365. Cuando los usuarios consultan el índice de búsqueda de Office 365, obtienen resultados de la búsqueda tanto del contenido local como del contenido de Office 365. Al eliminar documentos del entorno de SharePoint Server, también se eliminan del índice de búsqueda en Office 365. [Obtenga más información sobre la solución de búsqueda híbrida en la nube](https://docs.microsoft.com/sharepoint/hybrid/learn-about-cloud-hybrid-search-for-sharepoint) y [cómo interactúan los componentes de búsqueda y las bases de datos en la búsqueda híbrida en la nube](https://docs.microsoft.com/sharepoint/hybrid/plan-cloud-hybrid-search-for-sharepoint) para comprender mejor cómo afecta el RGPD al entorno híbrido.
+**Solución de búsqueda híbrida en la nube**: con la solución de búsqueda híbrida la nube para SharePoint, indexará todo el contenido rastreado, incluido el contenido local, en el índice de búsqueda de Office 365. Cuando los usuarios consultan el índice de búsqueda de Office 365, obtienen resultados de la búsqueda tanto del contenido local como del contenido de Office 365. Al eliminar documentos del entorno de SharePoint Server, también se eliminan del índice de búsqueda en Office 365. [Obtenga más información sobre la solución de búsqueda híbrida en la nube](/sharepoint/hybrid/learn-about-cloud-hybrid-search-for-sharepoint) y [cómo interactúan los componentes de búsqueda y las bases de datos en la búsqueda híbrida en la nube](/sharepoint/hybrid/plan-cloud-hybrid-search-for-sharepoint) para comprender mejor cómo afecta el RGPD al entorno híbrido.
 
-**Solución de búsqueda federada híbrida**: con la solución de búsqueda federada híbrida, usará tanto el índice de SharePoint Server como el índice de Office 365. Tanto los servicios de SharePoint Server como los servicios de búsqueda de SharePoint Online pueden consultar el índice de búsqueda del otro entorno y devolver resultados federados. Cuando los usuarios buscan desde un Centro de búsqueda, los resultados de la búsqueda provienen tanto del índice de búsqueda en SharePoint Server como del índice de búsqueda en Office 365. [Obtenga más información sobre la solución de búsqueda federada híbrida](https://docs.microsoft.com/sharepoint/hybrid/learn-about-hybrid-federated-search-for-sharepoint) para comprender mejor cómo afecta el RGPD al entorno híbrido.
+**Solución de búsqueda federada híbrida**: con la solución de búsqueda federada híbrida, usará tanto el índice de SharePoint Server como el índice de Office 365. Tanto los servicios de SharePoint Server como los servicios de búsqueda de SharePoint Online pueden consultar el índice de búsqueda del otro entorno y devolver resultados federados. Cuando los usuarios buscan desde un Centro de búsqueda, los resultados de la búsqueda provienen tanto del índice de búsqueda en SharePoint Server como del índice de búsqueda en Office 365. [Obtenga más información sobre la solución de búsqueda federada híbrida](/sharepoint/hybrid/learn-about-hybrid-federated-search-for-sharepoint) para comprender mejor cómo afecta el RGPD al entorno híbrido.
 
 ## <a name="on-prem-to-cloud-migrations"></a>Migración de un entorno local a la nube
 
@@ -306,7 +306,7 @@ Siga estos pasos básicos para eliminar la información personal de un usuario d
 
 1.  Quite la información de usuario de cualquier sistema externo que inserte información en el perfil de usuario de SharePoint Server. Si usa la sincronización de directorios, es necesario quitar al usuario del entorno de Active Directory local.
 
-2.  Ejecute una [sincronización de perfiles](https://docs.microsoft.com/sharepoint/administration/start-profile-synchronization-manually) en SharePoint Server.
+2.  Ejecute una [sincronización de perfiles](/sharepoint/administration/start-profile-synchronization-manually) en SharePoint Server.
 
 3.  Elimine el perfil de SharePoint Server. Una vez hecho esto, SharePoint Server eliminará completamente el perfil de la base de datos de perfiles de usuario en 30 días. La página del perfil del usuario y el sitio personal serán eliminados.
 

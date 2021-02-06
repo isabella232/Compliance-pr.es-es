@@ -19,12 +19,12 @@ ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 1b5df025c8c55790181e1f737388b1c15f475d72
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 29d845c1b9e1c60169db56ba76d731892302bff0
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574792"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121929"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de interesados de la familia de Visual Studio para el RGPD y CCPA
 
@@ -40,7 +40,7 @@ Esta guía describe cómo usar las herramientas de Microsoft para exportar o eli
 
 ## <a name="additional-privacy-information"></a>Información de privacidad adicional
 
-Nuestros procedimientos de procesamiento de datos se explican en los Términos de licencia del software de Microsoft que se incluyen junto con los productos, en la [declaración de privacidad de Microsoft](https://go.microsoft.com/fwlink/?LinkId=660726) y en los [compromisos con el RGPD de Microsoft](https://docs.microsoft.com/legal/gdpr).
+Nuestros procedimientos de procesamiento de datos se explican en los Términos de licencia del software de Microsoft que se incluyen junto con los productos, en la [declaración de privacidad de Microsoft](https://go.microsoft.com/fwlink/?LinkId=660726) y en los [compromisos con el RGPD de Microsoft](/legal/gdpr).
 
 ## <a name="visual-studio-visual-studio-for-mac-and-visual-studio-code"></a>Visual Studio, Visual Studio para Mac y Visual Studio Code
 
@@ -62,7 +62,7 @@ En tanto que procesador de datos en virtud de lo estipulado en el RGPD, Microsof
 "SearchTerm":null,"SearchResult":null}
 ```
 
-Para más información, vea [Registros generados por el sistema recopilados por Visual Studio](https://docs.microsoft.com/visualstudio/ide/diagnostic-data-collection).
+Para más información, vea [Registros generados por el sistema recopilados por Visual Studio](/visualstudio/ide/diagnostic-data-collection).
 
 Una solicitud de interesado solo se puede cursar con datos personales que guarden relación con una identidad autenticada; por ejemplo, como Visual Studio Code no admite el inicio de sesión, los registros generados por el sistema desde este producto no estarán vinculados a una identidad autenticada y no se podrá cursar este tipo de solicitudes. Pese a esto, algunas extensiones de Microsoft para Visual Studio Code pueden facilitar datos autenticados y estos datos sí son válidos en una solicitud de interesado. Para más información, vea [RGPD y Visual Studio Code](https://code.visualstudio.com/docs/supporting/faq#_gdpr-and-vs-code). En general, no guardamos datos de Visual Studio 2013 y versiones anteriores, si bien algunas extensiones y componentes pueden facilitar datos vinculados con identidades autenticadas y sí se podrá cursar la solicitud de interesado, tal como se describe abajo.
 
@@ -74,8 +74,8 @@ Visual Studio 2015 y las versiones posteriores, Visual Studio para Mac y Visual 
 
 Los usuarios pueden controlar la configuración de privacidad de estos productos. Para más información, vea los siguientes temas:
 
-- [Cómo administrar la configuración de privacidad en Visual Studio](https://docs.microsoft.com/visualstudio/ide/visual-studio-experience-improvement-program)
-- [Cómo administrar la configuración de privacidad en Visual Studio para Mac](https://docs.microsoft.com/visualstudio/mac/visual-studio-experience-improvement-program)
+- [Cómo administrar la configuración de privacidad en Visual Studio](/visualstudio/ide/visual-studio-experience-improvement-program)
+- [Cómo administrar la configuración de privacidad en Visual Studio para Mac](/visualstudio/mac/visual-studio-experience-improvement-program)
 - [Cómo desactivar los informes de telemetría en Visual Studio Code](https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting).
 
 #### <a name="exporting-or-deleting-data"></a>Exportar o eliminar datos
@@ -100,7 +100,7 @@ Microsoft recopila datos que nos sirven para reproducir y solucionar los problem
 
 - Información de perfil de la [comunidad de desarrolladores](https://developercommunity.visualstudio.com)
 - Preferencias y notificaciones
-- Datos adjuntos y registros generados por el sistema facilitados al [informar de un problema en Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) o a través de la [comunidad de desarrolladores](https://developercommunity.visualstudio.com)
+- Datos adjuntos y registros generados por el sistema facilitados al [informar de un problema en Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) o a través de la [comunidad de desarrolladores](https://developercommunity.visualstudio.com)
 - Sus votos.
 
 En cuanto a los comentarios públicos, se componen de problemas notificados, comentarios y soluciones.
@@ -124,7 +124,7 @@ Puede exportar los datos de comentarios como parte de una solicitud de interesad
 
 - Información de perfil de la [comunidad de desarrolladores](https://developercommunity.visualstudio.com)
 - Configuración de preferencias y notificaciones
-- Datos adjuntos facilitados al [informar de un problema en Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) o a través de la [comunidad de desarrolladores](https://developercommunity.visualstudio.com)
+- Datos adjuntos facilitados al [informar de un problema en Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) o a través de la [comunidad de desarrolladores](https://developercommunity.visualstudio.com)
 
 > [!NOTE]
 > Se excluirán los siguientes comentarios públicos que haya proporcionado del archivo: comentarios, soluciones y problemas notificados.
@@ -147,7 +147,7 @@ Con el proceso de eliminación se quitará la siguiente información sobre el us
 
 - Información del perfil
 - Configuración de preferencias y notificaciones
-- Datos adjuntos facilitados al [informar de un problema en Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) o a través de la [comunidad de desarrolladores](https://developercommunity.visualstudio.com)
+- Datos adjuntos facilitados al [informar de un problema en Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) o a través de la [comunidad de desarrolladores](https://developercommunity.visualstudio.com)
 - Sus votos
 
 > [!NOTE]
@@ -199,7 +199,7 @@ Xamarin Forums se hospeda por medio de un tercero, Vanilla Forums. Para solicita
 
 ## <a name="nuget"></a>NuGet
 
-Para más información sobre las solicitudes de interesados en NuGet.org, vea [Solicitudes de datos de usuario](https://docs.microsoft.com/nuget/policies/data-requests).
+Para más información sobre las solicitudes de interesados en NuGet.org, vea [Solicitudes de datos de usuario](/nuget/policies/data-requests).
 
 ## <a name="aspnet"></a>ASP.NET
 
@@ -217,7 +217,7 @@ De vez en cuando, invitamos a los clientes a que aporten sus comentarios sobre e
 
 ## <a name="learn-more"></a>Más información
 
-- [Compromisos de Microsoft en virtud del RGPD con los clientes de nuestros productos de software empresarial generalmente disponibles](https://docs.microsoft.com/legal/gdpr)
+- [Compromisos de Microsoft en virtud del RGPD con los clientes de nuestros productos de software empresarial generalmente disponibles](/legal/gdpr)
 - [Centro de confianza de Microsoft](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
 - [Portal de confianza del servicio](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 - [Panel de privacidad de Microsoft](https://account.microsoft.com/privacy)

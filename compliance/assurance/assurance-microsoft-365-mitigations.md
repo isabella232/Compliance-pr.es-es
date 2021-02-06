@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 para mitigaciones de la administración de la continuidad del negocio empresarial
+title: Mitigaciones de administración de continuidad empresarial de Microsoft 365 para empresas
 description: Algunos ejemplos de mitigaciones para escenarios de incidentes del servicio de Microsoft 365.
 author: robmazz
 ms.author: robmazz
@@ -16,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b31ee58d4e9a60232d7d5df4ff1bf4f16b6266cf
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: b77af73db3a6b9d9fbaf3ae776a6c5077c6972d1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574752"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120479"
 ---
 # <a name="service-incident-mitigation-strategies"></a>Estrategias de mitigación de incidentes del servicio
 
@@ -37,7 +37,7 @@ Estas son algunas estrategias y escenarios que muestran cómo mitigar el impacto
 |Los teléfonos VoIP se usan como métodos de comunicación secundarios.|Implemente teléfonos no compatibles con VoIP, capaces de realizar llamadas RTC, especialmente para centros de operaciones de red y servicios durante los incidentes. Agregar los números de teléfono móvil de empleados al directorio de la empresa para que el personal importante puede ser contactado a través de la red móvil.|
 |OneDrive para la Empresa es un servicio confiable para el almacenamiento de archivos y la productividad de los usuarios. [Archivos a petición](https://techcommunity.microsoft.com/t5/Microsoft-OneDrive-Blog/OneDrive-Files-On-Demand-For-The-Enterprise/ba-p/117234) se configura para liberar espacio en las unidades de usuario locales.|La sincronización de OneDrive proporciona directivas de grupo que permiten a los administradores solicitar que un contenido específico se sincronice localmente o liberar espacio cuando se desee. Para mitigar el riesgo de inaccesibilidad del documento, configure esta directiva para sincronizar localmente los documentos importantes. Capacite a los usuarios para aplicar manualmente la configuración "mantener siempre en este dispositivo" para los documentos clave.|
 |La comunicación de las alteraciones del negocio a los clientes y proveedores depende de Exchange Online.|Las redes sociales de terceros pueden usarse como medio alternativo de comunicación masiva.
-|La arquitectura híbrida local, como ADFS o Pass Through Autenticación, falla y causa interrupciones en la capacidad del usuario para autenticarse en los servicios en la nube.|Configure [Password Hash Sync](https://docs.microsoft.com/azure/active-directory/authentication/concept-resilient-controls#deploy-password-hash-sync-even-if-you-are-federated-or-use-pass-through-authentication), junto con sus servicios de autenticación híbrida, como un mecanismo secundario de autenticación basado en la nube para evitar la interrupción del inicio de sesión durante la interrupción. [Consulte Crear una estrategia de administración de control de acceso resistente con Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-resilient-controls) para obtener más información sobre cómo crear una autenticación resistente y arquitecturas de control de acceso.|  
+|La arquitectura híbrida local, como ADFS o Pass Through Autenticación, falla y causa interrupciones en la capacidad del usuario para autenticarse en los servicios en la nube.|Configure [Password Hash Sync](/azure/active-directory/authentication/concept-resilient-controls#deploy-password-hash-sync-even-if-you-are-federated-or-use-pass-through-authentication), junto con sus servicios de autenticación híbrida, como un mecanismo secundario de autenticación basado en la nube para evitar la interrupción del inicio de sesión durante la interrupción. [Consulte Crear una estrategia de administración de control de acceso resistente con Azure Active Directory](/azure/active-directory/authentication/concept-resilient-controls) para obtener más información sobre cómo crear una autenticación resistente y arquitecturas de control de acceso.|  
 
 ## <a name="leveraging-mobile-app-access"></a>Aproveche el acceso a las aplicaciones móviles
 

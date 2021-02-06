@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8bde27222806ea5909c67bac8556ff682453809b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49510023"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121379"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Indicadores del Centro de seguridad de internet (CSI)
 
@@ -70,8 +70,8 @@ Obtenga una [lista completa de indicadores de CSI](https://www.cisecurity.org/ci
 ## <a name="how-to-implement"></a>Cómo se debe implementar
 
 - [Indicadores CSI para Azure](https://azure.microsoft.com/mediahandler/files/resourcefiles/cis-microsoft-azure-foundations-security-benchmark/CIS_Microsoft_Azure_Foundations_Benchmark_v1.0.0.pdf): Obtenga una guía prescriptiva para establecer una configuración de línea de base segura para Azure.  
-- [Plan de desarrollo de seguridad de Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap): Minimice el potencial de una vulneración de datos o de una cuenta comprometida siguiendo este plan de desarrollo.
-- [Líneas de base de seguridad de Windows](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines): Siga estas directrices para el uso eficaz de las líneas de base de seguridad en su organización.
+- [Plan de desarrollo de seguridad de Microsoft 365](/microsoft-365/security/office-365-security/security-roadmap): Minimice el potencial de una vulneración de datos o de una cuenta comprometida siguiendo este plan de desarrollo.
+- [Líneas de base de seguridad de Windows](/windows/security/threat-protection/windows-security-baselines): Siga estas directrices para el uso eficaz de las líneas de base de seguridad en su organización.
 - [Guía complementaria de la nube de controles CSI](https://www.cisecurity.org/white-papers/cis-controls-cloud-companion-guide/): Obtenga orientación sobre la aplicación de las mejores prácticas de seguridad en los entornos de nube de Controles CSI Versión 7.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
@@ -90,11 +90,11 @@ El CIS señala que sus "bancos de pruebas se desarrollan gracias a los generosos
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
-[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[El Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
 - [Mejores prácticas de CIS para el uso seguro de Microsoft 365](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
-- [Configuración de las directivas de seguridad de Windows 10](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/security-policy-settings)
-- [ Seguridad de Windows 10 para empresas](https://docs.microsoft.com/windows/security/index)
+- [Configuración de las directivas de seguridad de Windows 10](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
+- [ Seguridad de Windows 10 para empresas](/windows/security/index)
 - [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

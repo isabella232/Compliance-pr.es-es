@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
-ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
+ms.openlocfilehash: 16c388f3618fe7b62b596dd158dee05a55608234
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49759695"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120229"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 Information Security Management Standards (Estándares de administración de seguridad de la información ISO/IEC 27001:2013)
 
@@ -111,7 +111,7 @@ El cumplimiento de estas normas, confirmado por un auditor autorizado, demuestra
 
 **¿Dónde puedo obtener los informes de auditoría y declaraciones de ámbito de ISO/IEC 27001 para los servicios de Microsoft?**
 
-El [Portal del Centro de confianza](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) ofrece informes de cumplimiento auditados de forma independiente. Puede usar el portal para solicitar informes para que los auditores puedan comparar los resultados de los servicios de nube de Microsoft con sus propios requisitos legales y regulatorios.
+El [Portal del Centro de confianza](/microsoft-365/compliance/get-started-with-service-trust-portal) ofrece informes de cumplimiento auditados de forma independiente. Puede usar el portal para solicitar informes para que los auditores puedan comparar los resultados de los servicios de nube de Microsoft con sus propios requisitos legales y regulatorios.
 
 **¿Microsoft ejecuta pruebas anuales de errores de infraestructura?**
 
@@ -130,7 +130,7 @@ Sí. Si su empresa requiere la certificación de ISO/IEC 27001 para las implemen
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
-[El Administrador de cumplimiento de Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento tiene una evaluación predefinida para esta normativa para los clientes de Enterprise E5. Busque la plantilla para generar la evaluación en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[El Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento tiene una evaluación predefinida para esta normativa para los clientes de Enterprise E5. Busque la plantilla para generar la evaluación en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

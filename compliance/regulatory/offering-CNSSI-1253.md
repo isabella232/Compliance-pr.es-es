@@ -1,6 +1,6 @@
 ---
-title: Comité de la instrucción máquina de sistemas de seguridad nacional 1253 (CNSSI 1253)
-description: Azure Government cumple con los controles de seguridad de CNSSI 1253 para los sistemas gubernamentales de Estados Unidos que requieren alta confidencialidad, alta integridad y alta disponibilidad.
+title: Comité de instrucción de sistemas de seguridad nacionales No. 1253 (CNSSI 1253)
+description: Azure Government cumple con los controles de seguridad CNSSI 1253 para los sistemas gubernamentales de Estados Unidos que requieren alta confidencialidad, alta integridad y alta disponibilidad.
 keywords: Microsoft 365, cumplimiento, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,57 +16,57 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4fe114483c8225824fd55309ea48d4fafb750e61
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 87d74d3e8c6a23c17ac0515601cbe140b760efcf
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49510022"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121359"
 ---
-# <a name="committee-on-national-security-systems-instruction-no-1253-cnssi-1253"></a>Comité de la instrucción máquina de sistemas de seguridad nacional 1253 (CNSSI 1253)
+# <a name="committee-on-national-security-systems-instruction-no-1253-cnssi-1253"></a>Comité de instrucción de sistemas de seguridad nacionales No. 1253 (CNSSI 1253)
 
 ## <a name="about-cnss-instruction-1253"></a>Acerca de la instrucción CNSS 1253
 
-El Comité de National Security Systems (CNSS) es una organización gubernamental que establece la Directiva de Cybersecurity nacional para los departamentos y agencias del gobierno de Estados Unidos. La [instrucción CNSS no. 1253](https://www.dss.mil/Portals/69/documents/io/rmf/CNSSI_No1253.pdf), "Security Categorizer and control Selection for National Security Systems", ofrece orientación sobre los estándares de seguridad que las agencias federales deben aplicar para clasificar la información de seguridad nacional y los sistemas en los niveles de seguridad apropiados.  
+El Comité de Sistemas de Seguridad Nacional (CNSS) es una organización gubernamental que establece la directiva de ciberseguridad nacional para los departamentos y organismos gubernamentales de los Estados Unidos. La instrucción [N. 1253 del CNSS](https://www.dss.mil/Portals/69/documents/io/rmf/CNSSI_No1253.pdf), "Selección de categorización y control de seguridad para sistemas de seguridad nacionales", proporciona instrucciones sobre los estándares de seguridad que las agencias federales deben aplicar para clasificar la información y los sistemas de seguridad nacionales en los niveles de seguridad adecuados.  
   
-La CNSSI 1253 se basa en NIST SP 800-53, que proporciona la línea base de control para la alta autorización de FedRAMP. Sin embargo, hay algunas diferencias clave entre las publicaciones de CNSSI 1253 y NIST.  
+El CNSSI 1253 se basa en NIST SP 800-53, que proporciona la línea base de control para la autorización FedRAMP High. Sin embargo, existen algunas diferencias clave entre las publicaciones CNSSI 1253 y NIST.  
   
-Por ejemplo, el enfoque CNSSI 1253 define explícitamente las asociaciones de confidencialidad, integridad y disponibilidad con controles de seguridad, y refina el uso de las superposiciones de control de seguridad para la comunidad de seguridad nacional. El CNSS usa una categoría separada, media y alta para cada uno de estos tres objetivos de seguridad. Esto da como resultado categorizaciones como moderado-moderado-bajo: confidencialidad moderada, integridad moderada y baja disponibilidad. CNSSI 1253 proporciona las líneas de base de seguridad adecuadas para cada categorización de sistema posible mediante el uso de controles de NIST SP 800-53.
+Por ejemplo, el enfoque CNSSI 1253 define explícitamente las asociaciones de confidencialidad, integridad y disponibilidad con controles de seguridad, y refina el uso de superposiciones de control de seguridad para la comunidad de seguridad nacional. El CNSS usa una categoría baja, media y alta independiente para cada uno de estos tres objetivos de seguridad. Esto da como resultado categorizaciones como Moderado-Moderado-Bajo: Confidencialidad moderada, Integridad moderada y Baja Disponibilidad. A continuación, CNSSI 1253 proporciona las líneas base de seguridad adecuadas para cada posible categorización del sistema mediante controles de NIST SP 800-53.
 
 ## <a name="microsoft-and-cnssi-1253"></a>Microsoft y CNSSI 1253
 
-Una organización de evaluación de terceros aprobada por FedRAMP (3PAO), Kratos SecureInfo, ha validado por separado el cumplimiento del sistema Microsoft Azure Government con la línea base de CNSSI 1253 High-High-High. Kratos SecureInfo certifica que el CNSSI 1253 Security Assessment Report (SAR) de Azure Government proporciona una evaluación completa de los controles de seguridad correspondientes estipulados en el plan de evaluación de seguridad (SAP). El SAR documenta las pruebas realizadas para validar a Azure Government con respecto a una selección de controles de seguridad de CNSSI 1253 para sistemas que requieren alta confidencialidad, alta integridad y alta disponibilidad.  
+Una organización de evaluación de terceros (3PAO) aprobada por FedRAMP, Kratos SecureInfo, validó de forma independiente el cumplimiento del sistema de Microsoft Azure Government con la línea base de alto y alto alto CNSSI 1253. Kratos SecureInfo atestigua que el informe de evaluación de seguridad (RAE) CNSSI 1253 de Azure Government proporciona una evaluación completa de los controles de seguridad aplicables estipulados en el Plan de evaluación de seguridad (SAP). La RAE documenta las pruebas realizadas para validar Azure Government con una selección de controles de seguridad CNSSI 1253 para sistemas que requieren alta confidencialidad, alta integridad y alta disponibilidad.  
   
-Azure Government actualmente posee una autorización provisional FedRAMP alta para operar (P-ATO) emitida por el Comité de autorización conjunta (JAB) y un departamento de autorizaci? n provisional del Departamento de defensa al nivel 5 de la guía de requisitos de seguridad de informática en la nube (SRG). Mediante el uso de estas autorizaciones, Kratos SecureInfo analizó los controles de seguridad que se probaron en las evaluaciones anteriores para determinar qué controles de seguridad adicionales de CNSSI 1253 se probarán para garantizar el cumplimiento de la línea base de CNSSI de nivel alto y alto de 1253. Kratos SecureInfo ha examinado pruebas y ha realizado entrevistas para validar la correcta implementación de 43 controles de seguridad aplicables y ha publicado los resultados de sus pruebas completas en el CNSSI 1253 SAR.  
+Actualmente, Azure Government posee una Autorización provisional alta (P-ATO) de FedRAMP emitida por la Junta de Autorización Conjunta (JAB) y un Departamento de Defensa de autorización provisional (PA) en el nivel de impacto 5 de la Guía de requisitos de seguridad de informática en la nube (SRG). Con estas autorizaciones, Kratos SecureInfo analiza los controles de seguridad que se probaron en las evaluaciones anteriores para determinar qué controles de seguridad cnssi 1253 adicionales probar para garantizar el cumplimiento de la línea base cnssi 1253 alto-alto. Kratos SecureInfo examinó pruebas y realizó entrevistas para validar la correcta implementación de 43 controles de seguridad aplicables y publicó los resultados de sus pruebas completas en la RAE CNSSI 1253.  
   
-El cumplimiento de Azure Government con los requisitos CNSSI 1253 de la demanda significa que Azure puede ofrecer a los clientes del sector público en Estados Unidos una amplia variedad de servicios compatibles con CNSSI 1253, lo que les permite beneficiarse del ahorro de costos y de la seguridad rigurosa de la nube de Microsoft.
+El cumplimiento de Azure Government con los estrictos requisitos de CNSSI 1253 significa que Azure puede ofrecer a los clientes del sector público en los Estados Unidos una amplia variedad de servicios compatibles con CNSSI 1253, lo que les permite beneficiarse del ahorro de costos y la rigurosa seguridad de Microsoft Cloud.
 
-## <a name="microsoft-in-scope-cloud-services"></a>En el ámbito de los Servicios en la nube de Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
 
-- [Administración pública de Azure](https://aka.ms/AzureCompliance)
+- [Azure Government](https://aka.ms/AzureCompliance)
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
-Azure Government CNSSI 1253 atestación del cumplimiento de la CNSSI 1253 de alta-alta-alta base
+Certificación CNSSI 1253 de Azure Government de cumplimiento con la línea base CNSSI 1253 High-High-High
 
 ## <a name="how-to-implement"></a>Cómo se debe implementar
 
-- [Documentación de Azure Government](https://docs.microsoft.com/azure/azure-government/): las guías de tutoriales y procedimientos ayudan a los desarrolladores a implementar y administrar los servicios con el gobierno de Azure.
+- [Documentación de Azure Government:](/azure/azure-government/)tutoriales y guías de ayuda ayudan a los desarrolladores a implementar y administrar servicios con Azure Government.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
-**¿A quién se aplica la CNSSI 1253?**
+**¿A quién se aplica CNSSI 1253?**
 
-Los clientes con National Security Systems (NSS) deben cumplir con los requisitos y controles de CNSSI 1253.
+Los clientes con sistemas de seguridad nacionales (NSS) deben cumplir con los requisitos y controles de CNSSI 1253.
 
-**¿Qué entornos de Azure se han probado con controles de seguridad de CNSSI 1253?**
+**¿Qué entornos de Azure se han probado con los controles de seguridad de CNSSI 1253?**
 
-Azure Government (FedRAMP Package ID F1603087869) se ha probado de nuevo estos controles.
+Azure Government (FedRAMP package ID F1603087869) ha vuelto a probar estos controles.
 
 ## <a name="resources"></a>Recursos
 
-- [¿Qué es Azure Government?](https://docs.microsoft.com/azure/azure-government/documentation-government-welcome)
-- [Administración pública de Azure](https://aka.ms/Azure-Government)
+- [¿Qué es Azure Government?](/azure/azure-government/documentation-government-welcome)
+- [Azure Government](https://aka.ms/Azure-Government)
 - [Microsoft y FedRAMP](offering-fedramp.md)
 - [Autorización provisional de Microsoft y DoD](offering-DoD-DISA-L2-L4-L5.md)
 - [Nube de Microsoft para la Administración Pública](https://www.microsoft.com/enterprise/government)

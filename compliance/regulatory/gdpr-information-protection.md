@@ -16,12 +16,12 @@ ms.collection:
 - M365-security-compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 0f0ca41f3b69d595dcdb3f3d2049fe2a0f7a95e1
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: df5131af45a938199df1a52bbf3e437f34ed3f9a
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574872"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121859"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Protección de la información para el RGPD con funciones de Microsoft 365
 
@@ -31,9 +31,9 @@ Para obtener más información sobre cómo Microsoft puede ayudarle con el RGPD,
 
 ## <a name="information-protection"></a>Protección de la información
 
-Office 365 ofrece una amplia variedad de funciones de gobierno de datos. Para obtener ayuda para encontrar, clasificar, proteger y supervisar datos personales, vea [Protección de la información de Office 365 para el RGPD](https://docs.microsoft.com/microsoft-365/compliance/office-365-information-protection-for-gdpr).
+Office 365 ofrece una amplia variedad de funciones de gobierno de datos. Para obtener ayuda para encontrar, clasificar, proteger y supervisar datos personales, vea [Protección de la información de Office 365 para el RGPD](/microsoft-365/compliance/office-365-information-protection-for-gdpr).
 
-Vea [RGPD para servidores locales de Office](https://docs.microsoft.com/microsoft-365/compliance/gdpr-for-office-servers) para obtener ayuda con los servidores locales, que incluye los recursos compartidos de archivos, SharePoint Server, Exchange Server, Skype Empresarial Server, Project Server y Office Online Server. 
+Vea [RGPD para servidores locales de Office](/microsoft-365/compliance/gdpr-for-office-servers) para obtener ayuda con los servidores locales, que incluye los recursos compartidos de archivos, SharePoint Server, Exchange Server, Skype Empresarial Server, Project Server y Office Online Server. 
 
 ## <a name="identity-and-access-management"></a>Administración de identidad y acceso
 
@@ -48,16 +48,16 @@ Azure Active Directory y otras características de Microsoft 365 ofrecen una amp
 
 Microsoft ofrece una configuración recomendada que puede usar como punto de inicio:
 
-- [Configuraciones de acceso a dispositivos e identidad](https://docs.microsoft.com/microsoft-365/security/office-365-security/microsoft-365-policies-configurations): configuraciones de directiva recomendadas para alcanzar tres niveles de protección (línea base, confidencialidad, sujeto a normativas estrictas). En esta guía, se incluyen directivas recomendadas para Exchange Online y SharePoint Online (incluido OneDrive para la Empresa).
-- [Guía de seguridad para campañas políticas, ONG y otras organizaciones ágiles](https://docs.microsoft.com/microsoft-365/security/office-365-security/microsoft-security-guidance-for-political-campaigns-nonprofits-and-other-agile-o): se incluye el mismo conjunto de directivas, pero se ofrecen más directrices para entornos de BYOD y para cuentas de B2B.
+- [Configuraciones de acceso a dispositivos e identidad](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations): configuraciones de directiva recomendadas para alcanzar tres niveles de protección (línea base, confidencialidad, sujeto a normativas estrictas). En esta guía, se incluyen directivas recomendadas para Exchange Online y SharePoint Online (incluido OneDrive para la Empresa).
+- [Guía de seguridad para campañas políticas, ONG y otras organizaciones ágiles](/microsoft-365/security/office-365-security/microsoft-security-guidance-for-political-campaigns-nonprofits-and-other-agile-o): se incluye el mismo conjunto de directivas, pero se ofrecen más directrices para entornos de BYOD y para cuentas de B2B.
 
 ## <a name="threat-protection"></a>Protección contra amenazas
 
 Protección contra amenazas se basa en los servicios de Microsoft 365. Aquí encontrará algunos recursos para empezar:
 
-- [Plan de desarrollo de seguridad de Office 365: Prioridades más importantes para los primeros 30 días, 90 días y posteriores](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap). En este plan de desarrollo, se incluyen recomendaciones para implementar funciones. 
-- [Protect against threats in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats) (Protección contra amenazas en Office 365). Obtenga información acerca de acciones de protección que puede realizar en el Centro de seguridad de Microsoft 365.
-- [Protección contra amenazas avanzada Windows](https://docs.microsoft.com/windows/security/threat-protection/). Obtenga más información sobre Protección contra amenazas avanzada de Windows Defender y otras funciones en Windows 10.
+- [Plan de desarrollo de seguridad de Office 365: Prioridades más importantes para los primeros 30 días, 90 días y posteriores](/microsoft-365/security/office-365-security/security-roadmap). En este plan de desarrollo, se incluyen recomendaciones para implementar funciones. 
+- [Protect against threats in Office 365](/microsoft-365/security/office-365-security/protect-against-threats) (Protección contra amenazas en Office 365). Obtenga información acerca de acciones de protección que puede realizar en el Centro de seguridad de Microsoft 365.
+- [Protección contra amenazas avanzada Windows](/windows/security/threat-protection/). Obtenga más información sobre Protección contra amenazas avanzada de Windows Defender y otras funciones en Windows 10.
 
 ## <a name="learn-more"></a>Más información
 

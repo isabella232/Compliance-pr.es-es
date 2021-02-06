@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f84f4a57afd968a428cd345dd521a3bd83cea238
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937035"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120929"
 ---
 # <a name="european-banking-authority-eba"></a>Autoridad bancaria europea (ABE)
 
@@ -54,7 +54,7 @@ Para las instituciones financieras de la UE, Microsoft también ha publicado una
 ## <a name="how-to-implement"></a>Cómo implementar
 
 - [Respuesta a la guía ABE](https://aka.ms/FinServ-Guide-EuBankAuth): la guía de Microsoft ayuda a las instituciones financieras de la UE a seguir las recomendaciones de la ABE para la adopción de la nube.
-- [Casos de uso financiero](https://docs.microsoft.com/azure/industry/financial/): resúmenes de casos de uso, tutoriales y otros recursos para construir soluciones Azure para servicios financieros.
+- [Casos de uso financiero](/azure/industry/financial/): resúmenes de casos de uso, tutoriales y otros recursos para construir soluciones Azure para servicios financieros.
 - [Programa de cumplimiento financiero](https://aka.ms/FSCP-Print): Las instituciones financieras pueden obtener ayuda para evaluar los riesgos de utilizar los servicios en la nube de Microsoft.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes

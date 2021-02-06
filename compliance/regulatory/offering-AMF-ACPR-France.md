@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1229dba8c5106c48e431c0bdf09e86e65bb402cc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: cd26a6a8256d2efa85451e84f1caffc7e68c043b
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509864"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121409"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Autoridad financiera (AMF) y Autoridad de supervisión prudencial y de resolución (ACPR) de Francia
 
@@ -59,7 +59,7 @@ La lista de comprobación de Microsoft ayuda a las empresas financieras francesa
 
 - [Lista de comprobación de cumplimiento: Francia](https://aka.ms/FinServ-Guide-France): Las instituciones financieras pueden obtener ayuda para llevar a cabo evaluaciones de riesgos de servicios en la nube de Microsoft.
 - [Guía de cumplimiento y evaluación de riesgos](https://aka.ms/RiskGovernanceGuide): Cree un modelo de gobierno para la evaluación de riesgos de los servicios en la nube de Microsoft y las notificaciones reglamentarias.
-- [Casos de uso financiero](https://docs.microsoft.com/azure/industry/financial/): información general de casos de uso, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros.
+- [Casos de uso financiero](/azure/industry/financial/): información general de casos de uso, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 

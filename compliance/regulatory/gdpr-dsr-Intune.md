@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: d6b0a96cfa82f9e0d841703d2124c0e9dda7fe1f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fabaa7487da2dae72cc2aa8aa050b43713154fbe
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509809"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120939"
 ---
 # <a name="intune-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de Intune Data Subject para GDPR y CCPA
 
@@ -86,9 +86,9 @@ El primer paso para responder a una DSR consiste en encontrar los datos personal
 
 Tras encontrar los datos, puede realizar la acción específica para satisfacer la solicitud interesado. Consulte los siguientes recursos para obtener más detalles:
 
-- [Recopilación de datos](https://docs.microsoft.com/intune/privacy-data-collect)
-- [Procesamiento y almacenamiento de datos](https://docs.microsoft.com/intune/privacy-data-store-process)
-- [Ver datos personales](https://docs.microsoft.com/intune/privacy-data-view-correct#view-personal-data)
+- [Recopilación de datos](/intune/privacy-data-collect)
+- [Procesamiento y almacenamiento de datos](/intune/privacy-data-store-process)
+- [Ver datos personales](/intune/privacy-data-view-correct#view-personal-data)
 
 ### <a name="step-2-access"></a>Paso 2: Acceso
 
@@ -114,15 +114,15 @@ Como encargado de los datos, Microsoft no ofrece la posibilidad de corregir los 
 
 ### <a name="step-4-restrict"></a>Paso 4: Restricción
 
-Los interesados pueden pedir que restrinja el procesamiento de sus datos personales. Proporcionamos tanto Azure Portal como interfaces de programación de aplicaciones (API) o interfaces de usuario (IU) ya existentes. Estas experiencias proporcionan al administrador del arrendatario de la empresa la capacidad de gestionar esos DSR mediante una combinación de exportación y eliminación de datos. Para obtener más información vea[, procesamiento de datos personales](https://docs.microsoft.com/intune/privacy-data-store-process#processing-personal-data).
+Los interesados pueden pedir que restrinja el procesamiento de sus datos personales. Proporcionamos tanto Azure Portal como interfaces de programación de aplicaciones (API) o interfaces de usuario (IU) ya existentes. Estas experiencias proporcionan al administrador del arrendatario de la empresa la capacidad de gestionar esos DSR mediante una combinación de exportación y eliminación de datos. Para obtener más información vea[, procesamiento de datos personales](/intune/privacy-data-store-process#processing-personal-data).
 
 ### <a name="step-5-delete"></a>Paso 5: Eliminar
 
-El “derecho a la eliminación” de datos personales de los datos de cliente de una organización es una protección clave en el RGPD. Cuando se quitan datos personales, esto incluye todos los datos personales y los registros generados por el sistema, salvo la información de registros de auditoría. Para obtener detalles, consulte [Eliminación de los datos personales del usuario final](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#delete-end-user-personal-data).
+El “derecho a la eliminación” de datos personales de los datos de cliente de una organización es una protección clave en el RGPD. Cuando se quitan datos personales, esto incluye todos los datos personales y los registros generados por el sistema, salvo la información de registros de auditoría. Para obtener detalles, consulte [Eliminación de los datos personales del usuario final](/intune/privacy-data-audit-export-delete#delete-end-user-personal-data).
 
 ## <a name="part-2-system-generated-logs"></a>Parte 2: Registros generados por el sistema
 
-Los registros de auditoría proporcionan a los administradores de inquilinos un registro de actividades que generan un cambio en Microsoft Intune. Hay registros de auditoría disponibles relativos a muchas actividades de administración y a las acciones habituales de creación, actualización (edición), eliminación y asignación. También se pueden revisar las tareas remotas que generan eventos de auditoría. Estos registros de auditoría pueden contener datos personales de los usuarios cuyos dispositivos están inscritos en Intune. Los administradores no pueden eliminar los registros de auditoría. Para obtener detalles, vea [Auditar datos personales](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#audit-personal-data).
+Los registros de auditoría proporcionan a los administradores de inquilinos un registro de actividades que generan un cambio en Microsoft Intune. Hay registros de auditoría disponibles relativos a muchas actividades de administración y a las acciones habituales de creación, actualización (edición), eliminación y asignación. También se pueden revisar las tareas remotas que generan eventos de auditoría. Estos registros de auditoría pueden contener datos personales de los usuarios cuyos dispositivos están inscritos en Intune. Los administradores no pueden eliminar los registros de auditoría. Para obtener detalles, vea [Auditar datos personales](/intune/privacy-data-audit-export-delete#audit-personal-data).
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>Notificar sobre los problemas de exportación o eliminación
 
