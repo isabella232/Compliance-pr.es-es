@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4de465bbb17f5609af376920052d6abd366e5429
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 0a8cc37a24d3a51d79fb1ac34c92d96fc7e76fdd
+ms.sourcegitcommit: 66a26facea6ec9a95e5e61f1b5b69402f03db481
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121729"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50279847"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Directiva de seguridad de servicios de información de criminalidad (CJIS)
 
 ## <a name="cjis-overview"></a>Información general sobre CJIS
 
-La División de Servicios de Información de Delitos Penales (CJIS) de la Oficina Federal de Investigación de Estados Unidos (CRIMINAL) proporciona a las autoridades judiciales federales, estatales y federales acceso a la información de antecedentes penales (CJI), por ejemplo, registros de huellas digitales e historiales penales. Las autoridades judiciales y otras agencias gubernamentales de los Estados Unidos deben asegurarse de que el uso de los servicios en la nube para la transmisión, el almacenamiento o el procesamiento de CJI cumpla con la Directiva de seguridad [CJIS,](https://aka.ms/cjis-security-policy)que establece los requisitos y controles de seguridad mínimos para proteger CJI.
+La División de Servicios de Información de Delitos Penales (CJIS) de la Oficina Federal de Investigación de Estados Unidos (CRIMINAL) proporciona a las autoridades estatales, locales y federales y a los organismos judiciales acceso a información delictiva (CJI), por ejemplo, registros de huellas digitales e historiales penales. Las autoridades judiciales y otras agencias gubernamentales de los Estados Unidos deben asegurarse de que el uso de los servicios en la nube para la transmisión, el almacenamiento o el procesamiento de CJI cumpla con la Directiva de seguridad [CJIS,](https://aka.ms/cjis-security-policy)que establece los requisitos y controles de seguridad mínimos para proteger CJI.
 
 La directiva de seguridad de CJIS integra directivas de LAN Y DELS, leyes federales y decisiones del Consejo de Directivas Delictivos de la comunidad criminal, junto con instrucciones del Instituto Nacional de Estándares y Tecnología (NIST). La directiva se actualiza periódicamente para reflejar los requisitos de seguridad en evolución.
 
@@ -39,11 +39,9 @@ Además, todos los contratistas privados que procesan CJI deben firmar el Anexo 
 
 Microsoft firma el anexo de seguridad CJIS en estados con acuerdos de información CJIS. Estos informan a las autoridades de seguridad del estado responsables del cumplimiento de la directiva de seguridad CJIS de cómo los controles de seguridad en la nube de Microsoft ayudan a proteger el ciclo de vida completo de los datos y a garantizar una investigación en segundo plano adecuada del personal operativo con acceso a CJI. Microsoft continúa trabajando con los gobiernos del estado para firmar acuerdos de información CJIS.
 
-Microsoft ha evaluado las directivas y procedimientos operativos de Microsoft Azure Government, Microsoft Office 365 U.S. Government y Microsoft Dynamics 365 U.S. Government, y atestará su capacidad en los acuerdos de servicios aplicables para cumplir los requisitos de LAN para el uso de servicios en el ámbito.
+Microsoft ha evaluado las directivas y procedimientos operativos de Microsoft Azure Government, Microsoft Office 365 U.S. Government y Microsoft Dynamics 365 U.S. Government, y dará fe de su capacidad en los acuerdos de servicios aplicables para cumplir los requisitos del DEPARTAMENTO DE SEGURIDAD para el uso de servicios en el ámbito.
 
-Obtenga información sobre las ventajas de la directiva de seguridad CJIS en La nube de Microsoft: lea cómo Genetec borra las [investigaciones penales](https://customers.microsoft.com/story/genetec)
-
-Obtenga información sobre cómo acelerar la directiva de seguridad CJIS con nuestro Proyecto de seguridad y cumplimiento de Azure: descargue las directrices de implementación de [CJIS para Microsoft Government Cloud Services](https://gallery.technet.microsoft.com/CJIS-Implementation-62af7c27)
+Obtenga información sobre las ventajas de la directiva de seguridad CJIS en Microsoft Cloud: lea cómo Genetec borra las [investigaciones penales](https://customers.microsoft.com/story/genetec)
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
 
@@ -66,7 +64,7 @@ Alabama, Alaska, Vancouver, Portland, California, Colorado, Vancouver, Georgia, 
 
 El compromiso de Microsoft de cumplir con los controles normativos CJIS aplicables permite a las organizaciones delictivas implementar soluciones basadas en la nube y cumplir con la directiva de seguridad CJIS V5.8.
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Dónde puedo solicitar información de cumplimiento?**
 
@@ -78,7 +76,7 @@ Microsoft firma un acuerdo de información con una agencia de sistemas CJIS (CSA
 
 **¿Dónde comienzo con el esfuerzo de cumplimiento de mi agencia?**
 
-[La directiva de seguridad CJIS](https://aka.ms/cjis-security-policy) cubre las precauciones que debe tomar su agencia para proteger CJI. Además, el representante de su cuenta microsoft puede ponerle en contacto con aquellos que están familiarizados con los requisitos de su jurisdicción.
+[La directiva de seguridad de CJIS](https://aka.ms/cjis-security-policy) cubre las precauciones que su agencia debe tomar para proteger CJI. Además, el representante de su cuenta de Microsoft puede ponerle en contacto con aquellos que están familiarizados con los requisitos de su jurisdicción.
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
