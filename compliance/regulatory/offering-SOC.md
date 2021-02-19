@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2fec2c20a4d2d2ddbf5a39b7cda1ff67a19e5830
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 9a75bf130ff6a34ffc44df2f60c682c0d5e77d4b
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119939"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276148"
 ---
 # <a name="service-organization-controls-soc"></a>Controles para la Organización de Servicios (SOC)
 
@@ -54,7 +54,7 @@ Microsoft ha logrado los informes de SOC 1 Tipo 2, SOC 2 Tipo 2 y SOC 3. En gene
 - [Dynamics 365 y Dynamics 365 para la Administración Pública de Estados Unidos](https://aka.ms/d365-compliance-list)
 - Microsoft Graph
 - Intune
-- Escritorio administrado de Microsoft
+- [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
 - [Office 365, Office 365 Administración Pública para Estados Unidos y Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - El servicio de nube de PowerApps como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365
@@ -68,7 +68,7 @@ Microsoft ha logrado los informes de SOC 1 Tipo 2, SOC 2 Tipo 2 y SOC 3. En gene
 - Microsoft Cloud App Security
 - Microsoft Graph
 - Intune
-- Escritorio administrado de Microsoft
+- [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
 - El servicio de nube de PowerApps como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365
 - [Office 365, Office 365 Administración Pública para Estados Unidos y Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)

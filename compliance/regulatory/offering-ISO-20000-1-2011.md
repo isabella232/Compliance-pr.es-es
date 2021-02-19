@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 893bdc6f4fd854718db9fce56e92436c0d9384fc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 953bf5587f621bb46c086ff8138b5519edd8d9fe
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509987"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276058"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>ISO/IEC 20000-1:2011 administración del servicio de tecnologías de la información
 
@@ -45,7 +45,7 @@ Una empresa de auditoría de terceros independiente realizó una rigurosa revisi
 - Microsoft Graph
 - Bot de Microsoft Healthcare
 - Intune
-- Escritorio administrado de Microsoft
+- [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Office 365 operado por 21Vianet
 - Microsoft PowerApps
 - Power Automate (anteriormente Microsoft Flow)

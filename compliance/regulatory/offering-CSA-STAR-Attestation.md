@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: eb73d95d25327220b9c2dc2769703101ba2c60e9
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: a2ca0cf98216e2caf6e8d7057f6dea5241f2842a
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121319"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276208"
 ---
 # <a name="cloud-security-alliance-csa-star-attestation"></a>Certificación STAR de Cloud Security Alliance (CSA)
 
@@ -46,7 +46,7 @@ Se ha concedido la Certificación STAR CSA a Microsoft Azure y Microsoft Intune.
 - Microsoft Cloud App Security
 - Microsoft Graph
 - Intune
-- Escritorio administrado de Microsoft
+- [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
 - El servicio de nube de PowerApps como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365 
 - Power BI
