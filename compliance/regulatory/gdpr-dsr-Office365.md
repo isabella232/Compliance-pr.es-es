@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: fb982899fb5159abecc07b90700134b6247b6fee
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3ffda250e017bd97cbfd9d1cf60c8251699e9740
+ms.sourcegitcommit: 3761eaf22bb2c7ed09ed24b9a526404ac7283ab8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121949"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "50822523"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes del interesado de Office 365 para el RGPD y la CCPA
 
@@ -646,7 +646,7 @@ Tabla 3: Aplicaciones con funcionalidad integrada en la aplicación que puede us
 - Stream
 - Yammer
 
-### <a name="access"></a>Acceso
+### <a name="access"></a>Access
 
 En las secciones siguientes se explica cómo usar la funcionalidad integrada en la aplicación en Microsoft Access para acceder a datos personales, buscarlos, exportarlos y eliminarlos.
 
@@ -727,7 +727,7 @@ Bookings recopila y almacena los siguientes tipos de datos:
 
 ##### <a name="export"></a>Exportar
 
-Para exportar datos correspondientes al propietario de empresa, el personal y los clientes, puede usar el portal de privacidad de Business Center. Vea [Export or delete user data using Business center privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8) (Exportar o eliminar datos de usuario mediante el portal de privacidad de Business Center).
+Para exportar datos correspondientes al propietario de empresa, el personal y los clientes, puede usar el [Portal de privacidad de Business Center](https://businessaccount.microsoft.com/).
 
 ##### <a name="delete"></a>Eliminar
 
@@ -738,7 +738,7 @@ Puede eliminar los siguientes tipos de datos de Bookings en respuesta a una soli
 - **Eventos de Bookings**: puede eliminar eventos de reserva del calendario de Bookings, lo que quitará la información del cliente.
 - **Convocatorias de reuniones, confirmaciones, cancelaciones y actualizaciones por correo electrónico y correos electrónicos de aviso**: puede eliminar estos elementos del calendario de Bookings, lo que quitará la información del cliente.
 
-Los propietarios de empresa y los administradores también pueden eliminar los datos de sus clientes mediante el portal de privacidad de Business Center. Vea [Export or delete user data using Business center privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8) (Exportar o eliminar datos de usuario mediante el portal de privacidad de Business Center).
+Para exportar datos correspondientes al propietario de empresa, el personal y los clientes, puede usar el [Portal de privacidad de Business Center](https://businessaccount.microsoft.com/).
 
 Se pueden eliminar los datos del propietario de empresa y del personal, así como la cuenta de usuario correspondiente. Vea la sección [Borrar un usuario](#deleting-a-user).
 
@@ -760,7 +760,7 @@ Los propietarios de Listings pueden iniciar sesión en el panel Listings para ve
 
 ##### <a name="export"></a>Exportar
 
-Para exportar datos del propietario, el personal y los clientes de la empresa, use el portal de privacidad de Business Center. Vea [Export or delete user data using Business center privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8) (Exportar o eliminar datos de usuario mediante el portal de privacidad de Business Center).
+Para exportar datos correspondientes al propietario de empresa, el personal y los clientes, puede usar el [Portal de privacidad de Business Center](https://businessaccount.microsoft.com/).
 
 ##### <a name="delete"></a>Eliminar
 
@@ -784,7 +784,7 @@ Los propietarios de Connections pueden iniciar sesión en el panel Connections y
 
 ##### <a name="export"></a>Exportar
 
-Para exportar datos del propietario, el personal y los clientes de la empresa, use el portal de privacidad de Business Center. Vea [Export or delete user data using Business center privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8) (Exportar o eliminar datos de usuario mediante el portal de privacidad de Business Center).
+Para exportar datos correspondientes al propietario de empresa, el personal y los clientes, puede usar el [Portal de privacidad de Business Center](https://businessaccount.microsoft.com/).
 
 ##### <a name="delete"></a>Eliminar
 
@@ -999,7 +999,7 @@ Los planes de Planner están asociados a un grupo de Microsoft 365 y los archivo
 
 Como se ha explicado anteriormente, puede buscar el sitio subordinado de SharePoint Online y el buzón que están asociados con un plan. A continuación, puede obtener una vista previa o descargar los resultados de búsqueda relacionados para obtener acceso a los datos.
 
-#### <a name="delete"></a>Eliminar
+#### <a name="delete"></a>Delete
 
 Puede eliminar de forma manual la información personal de un usuario tanto otorgándose a sí mismo permisos de acceso a los planes de los que forma parte el usuario, o iniciar sesión como el usuario para realizar los cambios. Vea [Eliminar datos de usuario en Microsoft Planner](https://support.office.com/article/delete-user-data-in-microsoft-planner-4349ded2-1891-4896-8e27-05fd40f3929f).
 
