@@ -17,12 +17,13 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 description: Aprenda a completar los DSR bajo la Regulación general de protección de datos (GPDR) y la Ley de privacidad del consumidor de California (CCPA) utilizando los productos y servicios de Microsoft.
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 83ba52015eeb7aed73cd231ff01f824f75337360
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 8e6b862de3e52b171d886613af8529c082bad56d
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121039"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496262"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>Solicitudes de los temas de datos del RGPD y Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés)
 

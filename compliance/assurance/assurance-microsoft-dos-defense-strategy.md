@@ -1,6 +1,6 @@
 ---
-title: Estrategia de defensa de denegación de servicio de Microsoft 365
-description: En este artículo, puede encontrar información general sobre la estrategia de defensa de Microsoft para ataques por denegación de servicio (DoS).
+title: Estrategia de defensa por denegación de servicio de Microsoft 365
+description: En este artículo, encontrará una introducción a la estrategia de defensa de Microsoft para ataques de denegación de servicio (DoS).
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,21 +19,51 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: c812a1bacb8e128998ae30a026e231cf8677de87
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: 5776b3eb6c0b79b5f272d6e24dd8680967ca2eb4
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507773"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496950"
 ---
-# <a name="microsoft-365-denial-of-service-defense-strategy"></a>Estrategia de defensa de denegación de servicio de Microsoft 365
+# <a name="microsoft-365-denial-of-service-defense-strategy"></a>Estrategia de defensa por denegación de servicio de Microsoft 365
 
-La estrategia de Microsoft para defenderse contra los ataques de denegación de servicio (DoS) basados en red es única debido a nuestra escala y a la superficie global. Esta escala permite a Microsoft usar estrategias y técnicas para que puedan coincidir algunas organizaciones, proveedores o organizaciones de clientes. La piedra angular de la estrategia DoS es nuestra presencia global. Microsoft se compromete con los proveedores de Internet, los proveedores de emparejamiento (públicos y privados) y las corporaciones privadas de todo el mundo. Esto proporciona a Microsoft una presencia importante en Internet y permite a Microsoft absorber ataques en un área de gran superficie.
+## <a name="core-principles-of-defense-against-denial-of-service-attacks"></a>Principios básicos de defensa contra ataques por denegación de servicio
 
-Teniendo en cuentan esta naturaleza única, Microsoft usa procesos de detección y mitigación que difieren de los usados por grandes empresas. La estrategia se basa en una separación de detección y mitigación global distribuida a través de muchos perímetros de red. Muchas empresas usan soluciones de terceros para detectar y mitigar los ataques en el perímetro. A medida que aumentaba la capacidad de la periferia de Microsoft, se denominó la importancia de cualquier ataque contra contornos individuales o específicos. Debido a esta configuración única, Microsoft separó los componentes de detección y mitigación. Microsoft implementa sistemas de detección de varios niveles para detectar ataques más cercanos a sus puntos de saturación, a la vez que mantiene una mitigación global en el perímetro. Esta estrategia garantiza que se puedan controlar varios ataques simultáneos.
+Existen tres principios básicos al defenderse de los ataques de denegación de servicio (DoS) basados en la red: la absorción, la detección y la mitigación. La absorción se produce antes de la detección y la detección debe producirse antes de que pueda comenzar la mitigación. Si incluso un ataque DoS pequeño no se puede absorber, los servicios no sobrevivirán lo suficiente como para que se detecte el ataque. Al detectar un ataque antes de que el sistema se agote, los defensores pueden implementar un plan de respuesta.
 
-Una de las defensas más eficaces y de bajo costo utilizadas por Microsoft contra ataques DoS es reducir las superficies de ataque al servicio. El tráfico no deseado se descarta en el perímetro de la red en lugar de analizar, procesar y limpiar los datos en línea.
+La siguiente fórmula ayuda a aproximar el tiempo de impacto de un ataque DoS:
 
-En la interfaz con la red pública, Microsoft usa dispositivos de seguridad de propósito especial para el firewall, la traducción de direcciones de red y las funciones de filtrado IP. Microsoft también usa el enrutamiento global de igualdad de costos (ECMP). El enrutamiento de ECMP global es un marco de red para garantizar que hay varias rutas globales para llegar a un servicio. Con estas varias rutas, los ataques contra los servicios se limitan a la región desde la que se origina el ataque. Otras regiones no deberían verse afectadas por este ataque, ya que los usuarios finales usarían otras rutas para llegar al servicio en esas regiones. Microsoft también ha desarrollado sistemas de correlación y detección de DoS internos que usan datos de flujo, métricas de rendimiento y otra información. Se trata de un servicio en la nube de hiperescala en Microsoft Azure, que analiza los datos recopilados de varios puntos de los servicios y las redes de Microsoft. Un equipo de respuesta ante incidentes entre cargas de trabajo en DoS identifica los roles y las responsabilidades en Teams, los criterios de escalabilidad y los protocolos para la contratación de varios equipos y el tratamiento de incidentes. Estas soluciones proporcionan protección basada en red contra ataques DoS.
+  **Capacidad máxima (en bytes/s) / Tasa de crecimiento (en bytes/seg. ) = Tiempo de impacto (en segundos)**
 
-Por último, las cargas de trabajo basadas en la nube se configuran con umbrales optimizados basados en su Protocolo y el uso de ancho de banda debe proteger la carga de trabajo de manera exclusiva.
+Si el tiempo de detección es mayor que el tiempo de impacto, es probable que el ataque DoS se realice correctamente. Si el tiempo de detección es menor que el tiempo de impacto, los servicios afectados deben permanecer en línea y accesibles si las estrategias de mitigación son correctas.
+
+Por lo tanto, hay dos estrategias principales para defenderse de los ataques DoS:
+
+- Aumentar la capacidad para elevar el límite máximo de capacidad (que a su vez proporciona más tiempo para detectar un ataque); o
+- Reduzca el tiempo para detectar un ataque.
+
+Una ventaja de seguridad del uso de los servicios en la nube de Microsoft es cómo los servicios de Microsoft a gran escala proporcionan una protección de red sólida a los clientes en la nube de forma rentable. Incluso a gran escala, debe haber un equilibrio entre la absorción, la detección y la mitigación. Para encontrar ese equilibrio, Microsoft estudia las tasas de crecimiento de ataques para calcular cuánto deben absorber los servicios de Microsoft.
+
+## <a name="denial-of-service-defense-strategy"></a>Estrategia de defensa de denegación de servicio
+
+La estrategia de Microsoft para defenderse de los ataques DoS basados en red es única debido a nuestra escala y a nuestra superficie global. Esta escala permite a Microsoft usar estrategias y técnicas que no están disponibles para la mayoría de otras organizaciones. La base de nuestra estrategia de DoS es nuestra presencia global. Microsoft se compromete con proveedores de Internet, proveedores de emparejamiento (públicos y privados) y empresas privadas de todo el mundo. Esta interacción proporciona a Microsoft una presencia significativa en Internet y permite a Microsoft absorber los ataques en una gran superficie.
+
+A medida que la capacidad perimetral de Microsoft ha aumentado con el tiempo, la importancia de los ataques contra bordes individuales ha disminuido considerablemente. Debido a esta disminución, Microsoft ha separado los componentes de detección y mitigación de su sistema de prevención doS. Microsoft implementa sistemas de detección de varios niveles en centros de datos regionales para detectar ataques más próximos a sus puntos de saturación y mantener la mitigación global en los nodos perimetrales. Esta estrategia garantiza que los servicios microsoft puedan controlar varios ataques simultáneos.
+
+Una de las defensas más eficaces y de bajo costo empleadas por Microsoft contra los ataques DoS es reducir las superficies de ataque de servicio. El tráfico no deseado se descarta en el borde de red en lugar de analizar, procesar y limpiar los datos en línea.
+
+En la interfaz con la red pública, Microsoft usa dispositivos de seguridad de uso especial para funciones de firewall, traducción de direcciones de red y filtrado de IP. Microsoft también usa el enrutamiento global de múltiples rutas de acceso (ECMP) de igual costo. El enrutamiento ECMP global es un marco de red para garantizar que hay varias rutas de acceso globales para llegar a un servicio. Con varias rutas de acceso a cada servicio, los ataques DoS se limitan a la región desde la que se origina el ataque. Otras regiones no deberían estar afectadas por el ataque, ya que los usuarios finales usarían otras rutas de acceso para llegar al servicio en esas regiones. Microsoft también ha desarrollado sistemas internos de correlación y detección doS que usan datos de flujo, métricas de rendimiento y otra información para detectar rápidamente ataques DoS.
+
+Para proteger aún más nuestros servicios en la nube, Microsoft 365 usa un sistema de defensa de denegación de servicio (DDoS) distribuido integrado en los procesos continuos de supervisión y pruebas de penetración de Microsoft Azure. El sistema de defensa de Azure DDoS está diseñado no solo para resistir ataques externos, sino también ataques de otros inquilinos de Azure. Azure usa técnicas estándar de detección y mitigación, como cookies SYN, limitación de velocidad y límites de conexión para proteger contra ataques DDoS. Para admitir nuestras protecciones automatizadas, un equipo de respuesta a incidentes DoS entre cargas de trabajo identifica los roles y responsabilidades entre equipos, los criterios de escalamiento y los protocolos para el tratamiento de incidentes en todos los equipos afectados.
+
+La mayoría de los ataques DoS que se inician contra objetivos se encuentran en las capas Red (L3) y Transporte (L4) [del](/windows-hardware/drivers/network/windows-network-architecture-and-the-osi-model) modelo de interconexión de sistemas abiertos (OSI). Los ataques dirigidos a las capas L3 y L4 están diseñados para inundar una interfaz de red o servicio con tráfico de ataques para saturar los recursos y denegar la capacidad de responder al tráfico legítimo. Para protegerse de los ataques L3 y L4, las soluciones DoS de Microsoft usan datos de muestreo de tráfico de enrutadores de centros de datos para proteger la infraestructura y los destinos de los clientes. Un servicio de supervisión de red analiza los datos de muestreo de tráfico para detectar ataques. Cuando se detecta un ataque, los mecanismos de defensa automatizados se inician para mitigar el ataque y garantizar que el tráfico dirigido a un cliente no da como resultado daños colaterales o disminución de la calidad de servicio de la red para otros clientes.
+
+## <a name="application-level-defenses"></a>Defensas de nivel de aplicación
+
+Los equipos de ingeniería de Microsoft siguen los rigurosos estándares establecidos [por Microsoft Operational Security Assurance](https://www.microsoft.com/SDL/OperationalSecurityAssurance) para ayudar a proteger los datos de los clientes. Los servicios en la nube de Microsoft se han creado intencionadamente para admitir cargas elevadas, lo que ayuda a proteger contra ataques DoS a nivel de aplicación. La arquitectura de escalado horizontal de Microsoft 365 distribuye servicios en varios centros de datos globales con aislamiento regional y características de limitación específicas de la carga de trabajo para cargas de trabajo relevantes.
+
+El país o región de cada cliente, que el administrador del cliente identifica durante la configuración inicial de los servicios, determina la ubicación de almacenamiento principal para los datos de ese cliente. Los datos de los clientes se replican entre centros de datos redundantes de acuerdo con una estrategia principal/de copia de seguridad. Un centro de datos principal hospeda el software de la aplicación junto con todos los datos de cliente principales que se ejecutan en el software. Un centro de datos de copia de seguridad proporciona conmutación por error automática. Si el centro de datos principal deja de funcionar por cualquier motivo, las solicitudes se redirigen a la copia del software y los datos del cliente en el centro de datos de copia de seguridad. En cualquier momento, los datos de los clientes pueden procesarse en el centro de datos principal o en el centro de datos de copia de seguridad. La distribución de datos entre varios centros de datos reduce la superficie afectada en caso de que se ataque un centro de datos. Además, los servicios del centro de datos afectado se pueden redirigir rápidamente al centro de datos secundario para mantener la disponibilidad durante un ataque y redirigirlos al centro de datos principal una vez mitigado un ataque.
+
+Como otra mitigación contra ataques DoS, las cargas de trabajo individuales incluyen características integradas que administran el uso de recursos. Por ejemplo, los mecanismos de limitación en Exchange Online y SharePoint Online forman parte de un enfoque multicapa para defenderse de los ataques DoS.

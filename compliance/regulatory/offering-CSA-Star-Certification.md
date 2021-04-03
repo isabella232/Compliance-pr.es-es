@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9c808a80aa2d2ab358378cfb0e50ef28f023bbf7
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: a33f9e6d19caa5a3b26f011b985481224123ea38
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276188"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496565"
 ---
 # <a name="cloud-security-alliance-csa-star-certification"></a>Certificación Cloud Security Alliance (CSA) STAR
 
@@ -49,7 +49,7 @@ Infórmese sobre cómo acelerar la implementación de la certificación de CSA S
 - Bot de Microsoft Healthcare
 - Intune
 - [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
-- Protección contra amenazas avanzada de Microsoft Defender
+- Microsoft Defender para punto de conexión
 - OMS Service Map
 - Power Automate (anteriormente conocido como Microsoft Flow): el servicio en la nube como servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
 - El servicio en la nube de PowerApps: como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365

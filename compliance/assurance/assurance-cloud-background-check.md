@@ -1,6 +1,6 @@
 ---
-title: Comprobación de fondo de nube de Microsoft
-description: En este artículo, puede encontrar información general sobre los procedimientos de filtrado de personal de Microsoft para Microsoft 365.
+title: Comprobación de antecedentes en la nube de Microsoft
+description: En este artículo, encontrará una introducción a las prácticas de filtrado de personal de Microsoft para Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,29 +19,30 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: d86fd7ca92113b538bef72213976b1a10eed85fa
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: 2347d524bf1561b60eb40020636196332e2accd7
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509784"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497661"
 ---
-# <a name="microsoft-cloud-background-check"></a>Comprobación de fondo de nube de Microsoft
+# <a name="microsoft-cloud-background-check"></a>Comprobación de antecedentes en la nube de Microsoft
 
-Para los candidatos contratados como empleados que proporcionan servicios relacionados con Microsoft 365 en Estados Unidos, es necesario realizar una comprobación de fondo de nube de Microsoft. Los empleados de Microsoft de Estados Unidos con acceso a los datos de los clientes deben seguir el proceso de comprobación de fondo de nube de Microsoft que necesitan todos los servicios de Microsoft 365. Fuera de los Estados Unidos, el proceso varía. Por ejemplo, la nube de Microsoft para Alemania usa un modelo de aprobación de confianza de datos, diseñado para garantizar que el administrador de datos (una compañía alemana), y no Microsoft, está en el control del acceso a los datos de los clientes. La nube de Microsoft en Alemania se entrega desde los centros de datos de Alemania y los centros de operaciones (OC) que contengan el personal técnico del administrador de datos también se encuentran en Alemania. El administrador de datos opera, mantiene y controla el centro de datos y las instalaciones de OC.
+Se requiere una comprobación en segundo plano de Microsoft Cloud para los candidatos contratados como empleados que proporcionan servicios relacionados con Microsoft 365 en los Estados Unidos. Los empleados de Microsoft en los Estados Unidos con acceso a los datos de los clientes deben seguir el proceso de comprobación en segundo plano de Microsoft Cloud requerido por todos los servicios de Microsoft 365. Fuera de los Estados Unidos, el proceso varía. Por ejemplo, Microsoft Cloud para Alemania usa un modelo de aprobación de data trustee, diseñado para garantizar que el administrador de datos (una empresa alemana) y no Microsoft tiene el control del acceso a los datos de los clientes. Microsoft Cloud en Alemania se entrega desde centros de datos en Alemania y los Centros de operaciones (OC) que contienen el personal técnico del administrador de datos también están en Alemania. Tanto el centro de datos como las instalaciones oc son operados, mantenidos y controlados por el Administrador de datos.
 
-En la medida permitida por la legislación local, se realizan las siguientes comprobaciones como parte de la comprobación de fondo de nube de Microsoft.
+En la medida permitida por la legislación local, las siguientes comprobaciones se realizan como parte de la comprobación en segundo plano de Microsoft Cloud.
 
-- Estados Unidos: seguimiento del número de la seguridad social
-- El Historial Penal comprueba hasta siete años en el caso de inofensivas de Felony y delitos en los niveles de estado, Condado y local, y en el nivel federal, si procede en los Estados Unidos. Una comprobación de los antecedentes penales internacionales (en función de la legislación local) se aplica a las áreas fuera de los Estados Unidos.
-- Sanciones globales y comprobación de la aplicación, incluida la lista de Office de control de activos extranjeros (OFAC), la lista de la oficina de la industria y la seguridad (BIS) y la lista de controles comerciales de Office of Defense (DDTC).
+- Estados Unidos: seguimiento de número de seguridad social
+- El historial penal comprueba hasta siete años por delitos graves y delitos menores en los niveles estatal, del condado y local, y en el nivel federal si procede en los Estados Unidos. Se aplica una comprobación de historial penal internacional (dependiente de la legislación local) para áreas fuera de los Estados Unidos.
+- Sanciones globales y controles de cumplimiento, incluida la lista de la Oficina de Control de activos extranjeros (OFAC), la lista de la Oficina de Industria y Seguridad (BIS) y las comprobaciones de lista de controles comerciales de la Oficina de Defensa Debarred Persons (DDTC).
 
-Los resultados de la comprobación de fondo de nube de Microsoft se almacenan en nuestra base de datos de empleados y se conectan a nuestros sistemas de control de acceso al centro de datos. Si la comprobación de fondo de nube de Microsoft expira y el empleado no la renueva, el acceso a los servicios de Microsoft 365 se revocará y dejará de estar disponible hasta que se complete la comprobación de fondo de nube de Microsoft. Cuando la relación de empleo con Microsoft finaliza, todos los accesos al centro de trabajo se revocan inmediatamente.
+Los resultados de la comprobación en segundo plano de Microsoft Cloud se almacenan en nuestra base de datos de empleados y se conectan a nuestros sistemas de control de acceso a centros de datos. Si la comprobación en segundo plano de Microsoft Cloud expira y el empleado no la renueva, se revoca el acceso a los servicios de Microsoft 365 y ya no está disponible hasta que se complete la comprobación en segundo plano de Microsoft Cloud. Cuando finaliza la relación de trabajo con Microsoft, se revoca inmediatamente todo el acceso al centro de datos.
 
-La ciudadanía estadounidense se comprueba para todos los empleados con acceso físico o lógico a los servicios gubernamentales de Estados Unidos de Microsoft 365. Para comprobar la nacionalidad, los empleados o los candidatos nuevos para el contrato se reúnen con un delegado de la ciudadanía estadounidense que está entrenado para revisar la documentación para comprobar la nacionalidad de Estados Unidos. Los empleados o los candidatos de nueva contratación deben poner la documentación necesaria y firmar un formulario de atestación en una reunión con el delegado de ciudadanía para su región. La reunión debe realizarse en persona. Una vez que la persona ha cumplido con el delegado de la ciudadanía y ha proporcionado la documentación y las firmas necesarias, el delegado de la ciudadanía reenvía una copia de los documentos a las operaciones de personal de Microsoft que envían la copia a la retención de registros.
+La ciudadanía de los Estados Unidos se comprueba para todos los empleados con acceso físico o lógico a los servicios gubernamentales de Microsoft 365 Estados Unidos. Para comprobar la ciudadanía, los empleados y/o los candidatos a nuevos empleados se reúnen con un delegado de ciudadanía estadounidense que está capacitado para revisar la documentación que comprueba la ciudadanía estadounidense. Los empleados o los nuevos candidatos a la contratación deben llevar la documentación necesaria y firmar un formulario de atestación en una reunión con el delegado de ciudadanía de su región. La reunión debe realizarse en persona. Una vez que la persona se ha reunido con el delegado de ciudadanía y ha proporcionado la documentación y las firmas necesarias, el delegado de ciudadanía reenvía una copia de los documentos a Microsoft Staffing Operations que envía la copia a la conservación de registros.
 
-El personal con acceso lógico a la nube de la comunidad de Microsoft 365 U.S. Government Community, o el acceso lógico o físico a las ofertas del gobierno de Estados Unidos de Azure, debe cumplir con los requisitos del gobierno federal de los [servicios de información de justicia criminal](https://www.fbi.gov/services/cjis) del FBI (CJIS), incluida la detección de personal. La detección de CJIS en apoyo del servicio de administración pública de Microsoft 365 incluye una comprobación de fondo penal basada en huellas dactilares contratada por el contratante designado del organismo del sistema CJIS en [los Estados que se han inscrito](https://blogs.office.com/2013/10/23/california-and-microsoft-sign-cjis-security-policy-agreement/) en el programa de soporte técnico de Microsoft Online Services CJIS.
+El personal con acceso lógico a microsoft 365 U.S. Government Community Cloud, o el acceso lógico o físico a las ofertas [](https://www.fbi.gov/services/cjis) del gobierno de Azure U.S., deben cumplir con los requisitos del gobierno federal de los Servicios de información de justicia criminal (CJIS) del FBI, incluido el filtrado de personal. El examen CJIS en apoyo del servicio gubernamental de Estados Unidos de Microsoft 365 incluye una comprobación de [](https://blogs.office.com/2013/10/23/california-and-microsoft-sign-cjis-security-policy-agreement/) antecedentes penales basada en huellas digitales que ha sido adjudicada por el administrador designado por la agencia del sistema CJIS en los estados que se han inscrito en el programa de soporte técnico de CJIS de Microsoft Online Services.
 
-## <a name="periodic-rescreening"></a>Repantalla periódica
+## <a name="periodic-rescreening"></a>Rescreening periódico
 
-Es posible que se requiera volver a buscar o realizar comprobaciones de antecedentes periódicas para determinados roles de administración, seguridad u otros, incluidos los empleados de roles que requieran acceso a los datos de los clientes (consulte Comprobación de fondo de nube).
+Es posible que se requieran revisiones periódicas y/o comprobaciones adicionales en segundo plano para determinadas funciones de administración, seguridad u otros roles, incluidos los empleados de roles que requieren acceso a los datos del cliente (consulte Cloud Background Check).

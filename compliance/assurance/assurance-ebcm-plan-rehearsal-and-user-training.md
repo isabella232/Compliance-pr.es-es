@@ -16,16 +16,17 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 7eb4be06eef8ded455f906b7b9757365bfe03010
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+hideEdit: true
+ms.openlocfilehash: 032e9046db5b7cd6bea2c2ad68bc63079bfbef78
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574822"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497557"
 ---
-# <a name="train-for-business-continuity-in-your-organization"></a>Entrenamiento para la continuidad del negocio en su organización
+# <a name="train-for-business-continuity-in-your-organization"></a>Entrenar para la continuidad empresarial en su organización
 
-En última instancia, los procesos de negocio se realizan por interacciones entre los empleados, los socios y los clientes. Puede crear un plan de continuidad empresarial increíble, pero si no capacita a los usuarios, a los administradores y a los socios, no será tan exitoso como podría llegar a serlo si lo hubiera hecho. Proporcione formación a los usuarios al contratarlos y lleve a cabo una actualización de dicha formación anualmente. El personal técnico debería revisar y realizar las actualizaciones necesarias periódicamente.
+En última instancia, los procesos de negocio se realizan mediante interacciones entre sus empleados, socios y clientes. Puede crear un plan de continuidad empresarial increíble, pero si no capacita a los usuarios, a los administradores y a los socios, no será tan exitoso como podría llegar a serlo si lo hubiera hecho. Proporcione formación a los usuarios al contratarlos y lleve a cabo una actualización de dicha formación anualmente. El personal técnico debería revisar y realizar las actualizaciones necesarias periódicamente.
 
 Asegúrese de incluir estos temas clave en la formación sobre la resistencia del servicio:
 
@@ -37,17 +38,17 @@ Asegúrese de incluir estos temas clave en la formación sobre la resistencia de
 
 ## <a name="plan-the-exercise-and-exercise-the-plan"></a>Planifique la ejecución y ejecute el plan
 
-Debería practicar periódicamente sus planes de continuidad y actualizarlos en función de lo que aprendió en la práctica. Si no las prueba, sus planes de continuidad se quedan rápidamente obsoletos y la mayoría de los ejercicios de sobremesa no son de preparación suficiente para resolver los problemas que se producen en las pruebas reales. Una práctica habitual es ejecutar cada plan de continuidad empresarial (BCP) dentro de los primeros 12 meses (como mínimo) desde la última validación. Microsoft recomienda integrar la ejecución de continuidad a las operaciones habituales con más frecuencia, lo que puede requerir desconectar los sistemas o deshabilitar temporalmente los métodos de comunicación principales.  
+Debería practicar periódicamente sus planes de continuidad y actualizarlos en función de lo que aprendió en la práctica. Si no los pruebas, los planes de continuidad se vuelven obsoletos rápidamente y la mayoría de los ejercicios sobre tabla no son suficiente preparación para solucionar los problemas que encuentras en la prueba del mundo real. Una práctica habitual es ejecutar cada plan de continuidad empresarial (BCP) dentro de los primeros 12 meses (como mínimo) desde la última validación. Microsoft recomienda integrar la ejecución de continuidad a las operaciones habituales con más frecuencia, lo que puede requerir desconectar los sistemas o deshabilitar temporalmente los métodos de comunicación principales.  
 
-A la hora de considerar los escenarios de prueba, necesitará equilibrar el impacto potencial para la empresa de inyectar errores en su entorno de producción en comparación con los procesos de continuidad del negocio y skillsets de alta mejora.
-Durante cada ejercicio, preste especial atención a cualquier suposición que no resultó ser correcta e identifique los huecos en los procesos que ha establecido. Un ejercicio de prueba de recuperación ante desastres no es necesariamente malo, ya que le permitirá identificar problemas en el plan y corregirlos antes de que se produzca un desastre real. Asegúrese de incluir estos puntos en la planificación de la ejecución.
+Al considerar escenarios de prueba, deberá equilibrar el impacto potencial para su negocio de inyectar errores en su entorno de producción en beneficio de procesos y conjuntos de aptitudes de continuidad empresarial altamente pulidos.
+Durante cada ejercicio, preste especial atención a los supuestos que han resultado incorrectos e identifique las diferencias en los procesos que haya establecido. Un ejercicio de prueba de recuperación ante desastres fallido no es necesariamente malo, ya que te permitirá identificar problemas en el plan y corregirlos antes de que se produce un desastre real. Asegúrese de incluir estos puntos en la planificación de la ejecución.
 
 1. Asegúrese de que toda la documentación BCP se mantiene actualizada y se encuentre disponible en repositorios redundantes y seguros.
-2. Entrenar a todos los usuarios y a las partes interesadas en cuanto a los procesos y procedimientos que haya establecido para la obtención de detalles.
+2. Entrenar a todos los usuarios y partes interesadas con respecto a los procesos y procedimientos que ha establecido para el simulacro.
 3. Establezca los objetivos de la ejecución, defina los criterios de éxito y elija si notificará o no a los usuarios antes de que se realice la prueba, ya que esto indicará si la formación previa ha sido eficaz.
 4. Registre una escala de tiempo detallada durante la prueba para realizar un seguimiento de todas las acciones llevadas a cabo por el equipo de administración de incidentes.
 5. Pruebe los servicios de comunicación de refuerzo para asegurarse de que cumplan con el rol necesario.
 6. Pruebe el árbol de llamadas para asegurarse de que los recursos críticos se pueden involucrar con la solución alternativa.
-7. Determine si la prueba se aprobó o se falló en función de los criterios de éxito que se establecieron anteriormente. Las pruebas que no se hayan realizado correctamente deben repetirse dentro de los 3-6 meses.
+7. Determine si la prueba se aprobó o se falló en función de los criterios de éxito que se establecieron anteriormente. Cualquier prueba con errores debe reejerse en un plazo de 3 a 6 meses.
 8. Realice una revisión posterior al simulacro para identificar cualquier error, intervalos inesperados o problemas que surjan durante el incidente.
 9. Realice un seguimiento de los intervalos o problemas de su sistema interno de administración de problemas y asígnelos al propietario correcto para su corrección.

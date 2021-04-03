@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 951b35d755091555450b7bcd4361d56c5159591e
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 319f51416b0bcafb17d8ac343093789146d13742
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276098"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497734"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>ISO/IEC 27018 Código de prácticas para proteger los datos personales en la nube
 
@@ -62,8 +62,8 @@ Al seguir las normas de la ISO/IEC 27001 y el código de prácticas incluido en 
 - Power BI incrustado
 - Power Virtual Agents
 - Expertos en amenazas de Microsoft
-- Microsoft Stream
-- ATP de Windows Defender: detección y respuesta de puntos de conexión, investigación automática y corrección, puntuación de seguridad
+- Microsoft Stream
+- Microsoft Defender para punto de conexión: detección y respuesta de puntos de conexión, investigación y corrección automáticas, puntuación de seguridad
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 

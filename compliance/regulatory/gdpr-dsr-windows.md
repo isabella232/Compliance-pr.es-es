@@ -17,12 +17,13 @@ ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
-ms.openlocfilehash: f0faaefd7ff3feae482ad62b506163796d80eec5
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 702a51589a3ce7118b8d3a8dafb6c96db247232f
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121519"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496180"
 ---
 # <a name="data-processor-service-for-windows-enterprise-data-subject-requests-for-the-gdpr-and-ccpa"></a>Servicio de tratamiento de datos de solicitudes de interesados de Windows Enterprise para el RGPD y la CCPA 
 
@@ -39,7 +40,7 @@ En esta guía se explica cómo usar los productos, servicios y herramientas admi
 
 1. **Acceder**: recupere datos personales alojados en la nube de Microsoft y, si se le pide, realice una copia que puede estar a disposición del interesado. 
 2. **Eliminar**: eliminar de forma permanente los datos personales que residen en la nube de Microsoft. 
-3. **Exportar**: enviar una copia electrónica (en un formato legible) de datos personales al interesado. La información personal de acuerdo con la CCPA es cualquier información relacionada con una persona identificada o identificable.
+3. **Exportar**: enviar una copia electrónica (en un formato legible) de datos personales al interesado. La información personal bajo la CCPA es cualquier información relacionada con una persona identificada o identificable.
 
 La información personal bajo la CCPA es cualquier información relacionada con una persona identificada o identificable. No hay distinción entre los roles privados, públicos o laborales de una persona. La definición del término "información personal" es, a grandes rasgos, similar a la que el RGPD da al término "datos personales". Sin embargo, la CCPA también incluye datos domésticos y familiares. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](/microsoft-365/compliance/offering-ccpa) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](/microsoft-365/compliance/ccpa-faq).
 

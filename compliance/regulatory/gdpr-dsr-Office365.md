@@ -17,12 +17,13 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 3ffda250e017bd97cbfd9d1cf60c8251699e9740
-ms.sourcegitcommit: 3761eaf22bb2c7ed09ed24b9a526404ac7283ab8
+hideEdit: true
+ms.openlocfilehash: 9b8c329909a301abee9b10d8b202c81b3b148037
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50822523"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496245"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes del interesado de Office 365 para el RGPD y la CCPA
 
@@ -646,7 +647,7 @@ Tabla 3: Aplicaciones con funcionalidad integrada en la aplicación que puede us
 - Stream
 - Yammer
 
-### <a name="access"></a>Access
+### <a name="access"></a>Acceso
 
 En las secciones siguientes se explica cómo usar la funcionalidad integrada en la aplicación en Microsoft Access para acceder a datos personales, buscarlos, exportarlos y eliminarlos.
 
@@ -999,7 +1000,7 @@ Los planes de Planner están asociados a un grupo de Microsoft 365 y los archivo
 
 Como se ha explicado anteriormente, puede buscar el sitio subordinado de SharePoint Online y el buzón que están asociados con un plan. A continuación, puede obtener una vista previa o descargar los resultados de búsqueda relacionados para obtener acceso a los datos.
 
-#### <a name="delete"></a>Delete
+#### <a name="delete"></a>Eliminar
 
 Puede eliminar de forma manual la información personal de un usuario tanto otorgándose a sí mismo permisos de acceso a los planes de los que forma parte el usuario, o iniciar sesión como el usuario para realizar los cambios. Vea [Eliminar datos de usuario en Microsoft Planner](https://support.office.com/article/delete-user-data-in-microsoft-planner-4349ded2-1891-4896-8e27-05fd40f3929f).
 

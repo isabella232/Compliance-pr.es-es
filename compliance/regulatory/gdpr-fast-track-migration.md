@@ -17,12 +17,13 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: b4c46e63ecbde1d160b0e0224a77ead751c37557
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: 134bf099671830856f97bf4dd770123d7efaf41a
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509895"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496112"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Conjunto de herramientas de migración de FastTrack para cursar solicitudes de eliminación
 
@@ -34,14 +35,14 @@ Si es un cliente que actualmente está realizando una migración de FastTrack, e
 
 Microsoft admite la versión inicial de este conjunto de herramientas en la plataforma de Windows y en la consola de PowerShell. Este conjunto de herramientas admite las siguientes plataformas conocidas:
 
-***Tabla 1: plataformas admitidas por este conjunto de herramientas** _
+***Tabla 1: plataformas admitidas por este conjunto de herramientas***
 
-_***
+****
 
 |Versión de PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|5.0|No compatible|Compatible|Compatible.|Compatible.|Compatible|
-|5.1|No compatible|Compatible|Compatible.|Compatible.|Compatible.|
+|5.0|No compatible|Compatible|Compatible|Compatible|Compatible|
+|5.1|No compatible|Compatible|Compatible|Compatible|Compatible.|
 |
 
 ### <a name="obtaining-the-toolset"></a>Obtener el conjunto de herramientas
@@ -60,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 Se le pedirá que confirme esta acción, dado que el administrador puede cambiar el ámbito a su conveniencia.
 
-**_Definir la directiva de ejecución_* _
+***Definir la directiva de ejecución***
 
 ![Cambio de establecimiento de la directiva de ejecución en PowerShell](../media/powershell-set-execution-policy_image.png)
 
@@ -82,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 Tras haber iniciado sesión correctamente, la clave y las credenciales se almacenarán para su uso con módulos FastTrack durante lo que quede de la sesión actual de PowerShell.
 
-Si necesita conectarse a un entorno de nube que no sea comercial, deberá agregar _-Environment* al comando de *Inicio de sesión* con uno de los siguientes entornos válidos:
+Si necesita conectarse a un entorno de nube que no sea comercial, deberá agregar *-Environment* al comando *Login* con uno de los siguientes entornos válidos:
 
 - AzureCloud
 - AzureChinaCloud
