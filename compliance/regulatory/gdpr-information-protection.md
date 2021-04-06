@@ -1,7 +1,7 @@
 ---
 title: Protección de la información
 description: Conozca las capacidades de protección de la información en Microsoft 365 para el Reglamento general de protección de datos (GDPR)
-keywords: Microsoft 365, Microsoft 365 Education, documentación de Microsoft 365, RGPD
+keywords: Microsoft 365, Microsoft 365 Educación, documentación de Microsoft 365, RGPD
 localization_priority: Priority
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,13 @@ ms.collection:
 - M365-security-compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: df5131af45a938199df1a52bbf3e437f34ed3f9a
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 59f32d9ae9afc5e3682c032168d296dc0eec95f4
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121859"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496041"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Protección de la información para el RGPD con funciones de Microsoft 365
 
@@ -57,7 +58,7 @@ Protección contra amenazas se basa en los servicios de Microsoft 365. Aquí enc
 
 - [Plan de desarrollo de seguridad de Office 365: Prioridades más importantes para los primeros 30 días, 90 días y posteriores](/microsoft-365/security/office-365-security/security-roadmap). En este plan de desarrollo, se incluyen recomendaciones para implementar funciones. 
 - [Protect against threats in Office 365](/microsoft-365/security/office-365-security/protect-against-threats) (Protección contra amenazas en Office 365). Obtenga información acerca de acciones de protección que puede realizar en el Centro de seguridad de Microsoft 365.
-- [Protección contra amenazas avanzada Windows](/windows/security/threat-protection/). Obtenga más información sobre Protección contra amenazas avanzada de Windows Defender y otras funciones en Windows 10.
+- [Protección contra amenazas de Windows](/windows/security/threat-protection/) Obtenga más información sobre Microsoft Defender para punto de conexión y otras funcionalidades de Windows 10.
 
 ## <a name="learn-more"></a>Más información
 
