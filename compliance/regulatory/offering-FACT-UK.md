@@ -1,6 +1,6 @@
 ---
-title: Federación contra robos de copyright (FACT)
-description: Microsoft Azure obtuvo la certificación de la Federación contra el robo de copyright en el Reino Unido.
+title: Federación contra el robo de derechos de autor (FACT)
+description: Microsoft Azure la federación contra el robo de derechos de autor en el Reino Unido.
 keywords: Microsoft 365, cumplimiento, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,46 +16,46 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 82d3672bd8d07f99bfd741d7a8bac74b24300e21
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 10e96993f6e063ccdf0a7f23fc188a37f422adca
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49510006"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089069"
 ---
-# <a name="federation-against-copyright-theft-fact"></a>Federación contra robos de copyright (FACT)
+# <a name="federation-against-copyright-theft-fact"></a>Federación contra el robo de derechos de autor (FACT)
 
-## <a name="fact-overview"></a>Información general de hechos
+## <a name="fact-overview"></a>Información general de FACT
 
-El contenido protegido por copyright tiene muchas formas, imágenes, vídeos, música, contratos, scripts, flujos de trabajo, arte, arquitectura, etc., y representa los activos principales de muchas empresas. La piratería amenaza para menoscabar la gran existencia de estos negocios a través de la distribución ilícita de propiedad intelectual para la ganancia ilícita o la perturbación del mercado. Como los flujos de trabajo de producción y posproducción se mueven cada vez más a la nube, el mercado negro de la propiedad intelectual se aleja de forma similar de los medios físicos hacia los mecanismos en línea.
+El contenido protegido por derechos de autor se incluye en muchas formas, imágenes, vídeos, música, contratos, scripts, flujos de trabajo, arte, arquitectura y mucho más, y representa los activos principales de muchas empresas. La piratería amenaza con socavar la existencia misma de estas empresas mediante la distribución ilegal de la propiedad intelectual para ganancias ilícitas o interrupciones del mercado. A medida que los flujos de trabajo de producción y posproducción se mueven cada vez más a la nube, el mercado negro de la propiedad intelectual se aleja de los medios físicos hacia los mecanismos en línea.
 
-## <a name="microsoft-and-federation-against-copyright-theft-fact"></a>Microsoft y Federación contra el robo (FACT) de copyright
+## <a name="microsoft-and-federation-against-copyright-theft-fact"></a>Microsoft y federación contra el robo de derechos de autor (FACT)
 
-Para subrayar el compromiso de Microsoft de proteger a los clientes cuando estos entrusten recursos en la nube pública, Microsoft Azure ha sido certificado por la Federación contra el robo (FACT) de copyright en el Reino Unido. La certificación de hechos se basa en la norma ISO 27001, que se centra en la seguridad física y digital, el examen y la formación del personal y el control de acceso. El programa de protección y seguridad del contenido de hechos incorpora experiencia en la aplicación de la ley, socios tecnológicos y asociaciones del sector para luchar contra la infracción de los derechos de autor y el robo de contenido, como uso compartido de punto a punto, duplicación de disco ilegal y robo de señal.
+Para subrayar el compromiso de Microsoft de proteger a los clientes cuando confían dichos activos a la nube pública, Microsoft Azure ha sido certificado por la Federación contra el Robo de Derechos de Autor (FACT) en el Reino Unido. La certificación FACT se basa en LA ISO 27001, centrándose en la seguridad física y digital, el control de acceso y el control de acceso. El programa de seguridad y protección de contenido FACT incorpora experiencia entre las fuerzas del orden, los socios tecnológicos y las asociaciones del sector para combatir la infracción de derechos de autor y el robo de contenido, como el uso compartido punto a punto, la duplicación ilegal de discos y el robo de señales.
 
-Basado en el envío voluntario de Microsoft a una auditoría de hechos, el Auditor de hechos certificado de Azure. Azure fue el primer servicio de nube pública de varios inquilinos que lograba la certificación de hechos, que agregaba a la cartera de Azure de certificaciones relacionadas con los medios, incluida la certificación CDSA y una evaluación formal por parte de MPAA.
+En función del envío voluntaria de Microsoft a una auditoría FACT, el auditor fact certificó Azure. Azure fue el primer servicio de nube pública multiinquilino en lograr la certificación FACT, lo que agregó a la cartera de certificaciones relacionadas con medios de Azure, incluida la certificación CDSA y una evaluación formal por parte de la MPAA.
 
-## <a name="microsoft-in-scope-cloud-services"></a>En el ámbito de los Servicios en la nube de Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Servicios en la nube de Microsoft en el ámbito
 
 [Azure y Azure Government](https://aka.ms/AzureCompliance)
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
-La certificación de Azure se renueva anualmente: [certificado de hecho de Azure](https://aka.ms/azurefactcert)
+La certificación de Azure se renueva anualmente: [certificado de Azure FACT](https://aka.ms/azurefactcert)
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
-**¿Por qué es importante el hecho?**
+**¿Por qué es importante FACT?**
 
-La seguridad de contenido es fundamental para la película de características y el desarrollo de televisión, ya que hay varios puntos a lo largo del flujo de trabajo donde los activos digitales pueden verse comprometidos o ser robados. Dailies, cortes rugosos y efectos visuales son solo algunos de los materiales expuestos durante un ciclo de producción de película normal y el impacto de la caja-oficina en un proyecto de Blockbuster puede llegar a decenas de millones de dólares. Al pasar la auditoría de hecho, Azure proporciona otra capa de garantía a los clientes ayudando a evitar la distribución y venta ilegales de los activos de películas y televisión.
+La seguridad del contenido es fundamental para el desarrollo de largometraje y televisión, ya que hay varios puntos a lo largo del flujo de trabajo en los que los activos digitales pueden verse comprometidos o robados. Dailies, rough cuts, and visual effects are just some of the materials exposed during a normal film production cycle, and the box-office impacts of a security breach on a blockbuster project can reach tens of millions of dollars. Al pasar la auditoría FACT, Azure proporciona otra capa de garantía a los clientes al ayudar a evitar la distribución y venta ilegales de activos de cine y televisión.
 
-**¿Mi organización todavía necesita someterse a una auditoría de hechos o puede usar la auditoría de Azure?**
+**¿Mi organización todavía necesita someterse a una auditoría FACT o podemos usar la auditoría de Azure?**
 
-El cumplimiento de FACTo es voluntario, pero Microsoft decidió realizar una evaluación independiente para que los clientes de medios puedan estar seguros en las capacidades de seguridad y protección de contenido de Azure. Sin embargo, los entornos de nube individuales de los clientes no se administran con Azure y, por lo tanto, pueden estar sujetos a un Reglamento adicional que se resuelve mejor mediante una auditoría individual.
+El cumplimiento de FACT es voluntaria, pero Microsoft ha elegido llevar a cabo una evaluación independiente para que los clientes multimedia puedan confiar en las capacidades de protección y seguridad de contenido de Azure. Sin embargo, Azure no administra los entornos de nube individuales de los clientes y, por lo tanto, puede estar sujeto a una regulación adicional que mejor se aborde mediante una auditoría individual.
 
 ## <a name="resources"></a>Recursos
 
-- Federación contra el robo de copyright
+- Federación contra el robo de derechos de autor
 - [Programa de certificación de seguridad de hechos](https://go.microsoft.com/fwlink/?linkid=2099508)
 - [Certificación CDSA de Azure Media Services](https://aka.ms/cdsa-cert)
 - [Certificación ISO 27001 de Azure](https://aka.ms/Azure-BSI-Cert)

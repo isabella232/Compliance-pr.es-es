@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e93f71a023fe79e768e96b3c8894bf09d0655b6e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d8ffd78c4d762d72310e3ac5b200d422b0af26cf
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508262"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089764"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>Buenas prácticas clínicas, de laboratorio y de fabricación (GxP)
 
@@ -55,7 +55,7 @@ Las organizaciones de ciencias biológicas que crean soluciones GxP en Azure y O
 ## <a name="how-to-implement"></a>Cómo se debe implementar
 
 - [Directrices GxP de Microsoft 365](../downloads/microsoft-365-gxp-guidelines-july-2020.pdf): Notas del producto para usar Microsoft 365 al mismo tiempo que se cumplen las prácticas recomendadas y las normativas de GxP.
-- [Directrices GxP de Microsoft Dynamics 365](../downloads/microsoft-dynamics-365-gxp-guidelines-july-2020.pdf): Notas del producto para usar Microsoft Dynamics 365 al mismo tiempo que se cumplen las prácticas recomendadas y las normativas de GxP.
+- [Directrices GxP de Microsoft Dynamics 365](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=fb579b09-0874-4197-a97e-a25992383482&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_Compliance_Guides): Notas del producto para usar Microsoft Dynamics 365 al mismo tiempo que se cumplen las prácticas recomendadas y las normativas de GxP.
 - [Directrices GxP de Azure](https://aka.ms/gxpcompliance): Un conjunto integral de herramientas para usar Azure al mismo tiempo que se cumple con las prácticas recomendadas y las normativas de GxP.
 - [El uso de Azure con sistemas GxP](https://aka.ms/GXP-Azure-Strategies): Ayuda para las organizaciones de las ciencias biológicas al establecer una estrategia para crear aplicaciones de GxP.
 - Guías del FDA CFR título 21, parte 11: Obtenga ayuda para establecer una estrategia de calificación de [Azure](https://aka.ms/Azure-FDA-Guidelines) y [Office 365](https://aka.ms/o365-qualification-guideline) que cumpla con las directrices de la FDA para los registros electrónicos.

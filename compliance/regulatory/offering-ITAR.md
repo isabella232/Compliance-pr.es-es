@@ -1,6 +1,6 @@
 ---
-title: Tráfico internacional en las regulaciones de brazos (ITAR)
-description: Azure Government es compatible con los clientes que crean tráfico internacional en los brazos regs.
+title: Reglamento de tráfico internacional de armas (ITAR)
+description: Azure Government es compatible con los clientes que construyen el tráfico internacional de Estados Unidos en sistemas compatibles con los regantes de armas.
 keywords: Microsoft 365, cumplimiento, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,47 +16,47 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dbc69c59b2f6a0a5df266ea0fe0694f3c4ac609e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 5ee31d5d61048593eec53a6bb72f8af538d2c3b3
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509976"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088929"
 ---
-# <a name="international-traffic-in-arms-regulations-itar"></a>Tráfico internacional en las regulaciones de brazos (ITAR)
+# <a name="international-traffic-in-arms-regulations-itar"></a>Reglamento de tráfico internacional de armas (ITAR)
 
-## <a name="itar-overview"></a>Información general sobre ITAR
+## <a name="itar-overview"></a>Introducción a ITAR
 
-El Departamento de estado de Estados Unidos es responsable de administrar la exportación y la importación temporal de artículos de defensa (es decir, cualquier elemento o dato técnico designados bajo la lista de municiones de Estados Unidos, tal como se describe en el título 22 CFR 121,1) que se rige por la ley de control de exportación de brazos (título 22 USC 2778 La dirección para los controles comerciales de la defensa (DDTC) es responsable de administrar entidades que se rigen por estos programas.
+El Departamento de Estado de los Estados Unidos es responsable de administrar la exportación e importación temporal de artículos de defensa (es decir, cualquier elemento o datos técnicos designados en la lista de munición de estados unidos, tal como se describe en el título 22 CFR 121.1) que se rigen por la Ley de control de exportación de armas (título 22 USC 2778) y el Reglamento de tráfico internacional de armas (ITAR) (título 22 CFR 120-130). La Dirección de Controles de Comercio de Defensa (DDTC) es responsable de administrar las entidades que se rigen por estos programas.
 
 ## <a name="microsoft-and-itar"></a>Microsoft y ITAR
 
-Microsoft proporciona determinados servicios en la nube o características de servicio que pueden admitir a los clientes con obligaciones ITAR. Aunque no hay ninguna certificación de cumplimiento para el ITAR, Microsoft opera y ha diseñado los servicios en el ámbito para que admitan el programa de cumplimiento y las obligaciones de ITAR de un cliente.  
+Microsoft proporciona determinados servicios en la nube o características de servicio que pueden admitir clientes con obligaciones itar. Aunque no hay ninguna certificación de cumplimiento para el ITAR, Microsoft opera y ha diseñado servicios en el ámbito para poder admitir las obligaciones y el programa de cumplimiento de ITAR de un cliente.  
   
-Microsoft Azure Government y Microsoft Office 365 U.S. Government for Defense proporcionan soporte a los clientes con los datos sujetos a la ITAR a través de compromisos contractuales adicionales con los clientes en relación con la ubicación de los datos almacenados y las limitaciones de la capacidad de obtener acceso a dichos datos a personas de los Estados Unidos. Microsoft proporciona estas garantías para los componentes de infraestructura y operativos de estos servicios en la nube gubernamental, pero los clientes son, en última instancia, responsables de la protección y la arquitectura de sus aplicaciones en sus entornos.  
+Microsoft Azure Gobierno y Microsoft Office 365 Gobierno de los Estados Unidos para la Defensa proporcionan soporte técnico a clientes con datos sujetos al ITAR a través de compromisos contractuales adicionales con los clientes con respecto a la ubicación de los datos almacenados y limitaciones en la capacidad de acceder a dichos datos a personas estadounidenses. Microsoft proporciona estas garantías para la infraestructura y los componentes operativos de estos servicios en la nube gubernamentales, pero los clientes son en última instancia responsables de la protección y la arquitectura de sus aplicaciones en sus entornos.  
   
-Los clientes deben firmar acuerdos adicionales que notifiquen formalmente a Microsoft de su intención de almacenar datos controlados por ITAR, de modo que Microsoft pueda cumplir con las responsabilidades tanto a nuestros clientes como a los gobiernos de Estados Unidos.  
+Los clientes deben firmar acuerdos adicionales que notifiquen formalmente a Microsoft su intención de almacenar datos controlados por ITAR, de modo que Microsoft pueda cumplir con las responsabilidades tanto para nuestros clientes como para el gobierno de los Estados Unidos.  
   
-El ITAR tiene obligaciones específicas para informar sobre infracciones, que pueden proporcionar ciertas ventajas de mitigación de riesgos. La enmienda del contrato Enterprise de Microsoft permite que Microsoft y el cliente trabajen juntos en la generación de informes de estas infracciones.  
+El ITAR tiene obligaciones específicas para informar sobre infracciones, lo que puede proporcionar ciertos beneficios de mitigación de riesgos. La modificación de Enterprise Agreement microsoft permite a Microsoft y al cliente trabajar juntos en la presentación de informes de dichas infracciones.  
   
-Los clientes que quieran hospedar datos regulados por el ITAR deben trabajar con su cuenta de Microsoft y con Microsoft Teams para obtener más información, obtener contratos adecuados y acceder a información relevante sobre la arquitectura del sistema.
+Los clientes que deban hospedar datos regulados por ITAR deben trabajar con su cuenta de Microsoft y los equipos de licencias para obtener más información, obtener acuerdos adecuados y obtener acceso a la información relevante de arquitectura del sistema.
 
-## <a name="microsoft-in-scope-cloud-services"></a>En el ámbito de los Servicios en la nube de Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Servicios en la nube de Microsoft en el ámbito
 
-- [Administración pública de Azure](https://aka.ms/AzureCompliance)
+- [Azure Government](https://aka.ms/AzureCompliance)
 - [Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Dónde puedo solicitar información de cumplimiento?**
 
-Ponte en contacto con tu representante de cuentas de Microsoft.
+Póngase en contacto con el representante de su cuenta microsoft.
 
 ## <a name="resources"></a>Recursos
 
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
-- [ITAR título 22 CFR 120 – 130](https://aka.ms/itar)
+- [TÍTULO ITAR 22 CFR 120–130](https://aka.ms/itar)
 - [Uso de Azure Government con datos controlados por ITAR](https://aka.ms/azure-itar-guide)
-- [Administración pública de Azure](https://azure.microsoft.com/features/gov/)
-- [Office 365 para el gobierno de Estados Unidos](https://products.office.com/government/office-365-web-services-for-government)
+- [Azure Government](https://azure.microsoft.com/features/gov/)
+- [Office 365 Gobierno de EE. UU.](https://products.office.com/government/office-365-web-services-for-government)
 - [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)

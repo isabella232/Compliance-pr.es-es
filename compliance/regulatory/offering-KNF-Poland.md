@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cb696db772f0bffda701c7ecadbb768c2575343
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 68d5fc100ac504eaed07f45dabbfe37c82e1c66a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120159"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089593"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>Autoridad de supervisión financiera (KNF) de Polonia
 
@@ -29,7 +29,7 @@ ms.locfileid: "50120159"
 
 La [Autoridad de supervisión financiera polaca](https://www.knf.gov.pl/en/) ([Komisja Nadzoru Finansowego](https://www.knf.gov.pl/), KNF) es la autoridad de reglamentación financiera de Polonia. Es responsable de la supervisión del mercado financiero, que engloba las instituciones bancarias y las de mercados de capitales, seguros, planes de pensiones y dinero electrónico.
 
-La KNF actúa de acuerdo con la [Autoridad Bancaria Europea](https://eba.europa.eu/about-us) (ABE), "una autoridad independiente que trabaja para garantizar una regulación y supervisión prudencial eficaz y coherente en todo el sector bancario europeo". Para este fin, la EBA ha descrito un enfoque global para el uso de la computación en la nube por parte de las instituciones financieras de la UE: [Recomendaciones sobre la externalización de servicios a proveedores de servicios
+La KNF actúa de acuerdo con la [Autoridad Bancaria Europea](https://eba.europa.eu/about-us) (ABE), "una autoridad europea independiente que trabaja para garantizar una regulación y supervisión prudencial eficaz y coherente en todo el sector bancario europeo". Para este fin, la EBA ha descrito un enfoque global para el uso de la computación en la nube por parte de las instituciones financieras de la UE: [Recomendaciones sobre la externalización de servicios a proveedores de servicios
 en la nube](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362).
 
 Existen varios requisitos y directrices que las instituciones financieras de Polonia deben tener en cuenta al trasladar los datos y las funciones empresariales a la nube:
@@ -68,7 +68,7 @@ La lista de comprobación de Microsoft ayuda a las empresas financieras polacas 
 
 **¿Se necesita la aprobación de normativas?**
 
-No. No obstante, de conformidad con la Ley bancaria de 1997, si el prestador de servicios no tiene sede en el Espacio Económico Europeo (EEE) o si se van a llevar a cabo operaciones subcontratadas fuera del EEE, las entidades bancarias deberán obtener la autorización de la KNF antes de formalizar contrato alguno.
+No. Sin embargo, de conformidad con la Ley bancaria de 1997, si el prestador de servicios no tiene sede en el Espacio Económico Europeo (EEE) o si se van a llevar a cabo operaciones subcontratadas fuera del EEE, las entidades bancarias deberán obtener la autorización de la KNF antes de formalizar contrato alguno.
 
 **¿Hay términos obligatorios que se deban incluir en el contrato con el proveedor de servicios en la nube?**
 

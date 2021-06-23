@@ -1,6 +1,6 @@
 ---
 title: Información general sobre privacidad
-description: Información sobre privacidad en Microsoft 365
+description: Obtenga información sobre privacidad en Microsoft 365
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,12 +19,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b94a8e610a782559a322eb9db812202f7f8698ed
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 42cc3db2ce0e072cb42ee4694757896958cd5e5c
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496908"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53087669"
 ---
 # <a name="privacy-overview"></a>Información general sobre privacidad
 
@@ -40,7 +40,7 @@ Microsoft mantiene la Directiva de privacidad corporativa de Microsoft y Microso
 
 El ciclo de vida de los datos describe cómo Microsoft procesa los datos en función de la guía del cliente y del cumplimiento de la legislación de seguridad y privacidad aplicable. Las fases del ciclo de vida de los datos incluyen la recopilación, el procesamiento, el uso compartido de terceros (cuando corresponda), la retención y la destrucción. El enfoque de Privacidad de Microsoft informa a cada fase del ciclo de vida de los datos para proteger la privacidad de nuestros clientes.
 
-Microsoft limita la recopilación de datos de clientes a cuatro categorías de datos [específicas:](https://www.microsoft.com/trust-center/privacy/customer-data-definitions?rtc=1)datos de clientes, datos generados por el servicio, datos de diagnóstico y datos de servicios profesionales. Microsoft usa datos de estas categorías para realizar un conjunto limitado de operaciones empresariales legítimas (LBO) necesarias para proporcionar servicios a nuestros clientes. Cuando los datos se recopilan y procesan para realizar LPO, Microsoft protege a clientes y usuarios individuales mediante el seudónimo de datos de diagnóstico y la agregación de datos antes de su uso. No accedemos al contenido de los datos de los clientes para determinar qué partes específicas de datos pueden considerarse personales. En su lugar, se supone que todos los datos de clientes y todos los datos de servicios profesionales contienen datos personales y protegen los datos en consecuencia.
+Microsoft limita la recopilación de datos de clientes a cuatro categorías de datos [específicas:](https://www.microsoft.com/trust-center/privacy/customer-data-definitions?rtc=1)datos de clientes, datos generados por el servicio, datos de diagnóstico y Professional de servicios. Microsoft usa datos de estas categorías para realizar un conjunto limitado de operaciones empresariales legítimas (LBO) necesarias para proporcionar servicios a nuestros clientes. Cuando los datos se recopilan y procesan para realizar LPO, Microsoft protege a clientes y usuarios individuales mediante el seudónimo de datos de diagnóstico y la agregación de datos antes de su uso. No accedemos al contenido de los datos de los clientes para determinar qué partes específicas de datos pueden considerarse personales. En su lugar, se supone que todos los datos de clientes y todos los datos de servicios profesionales contienen datos personales y protegen los datos en consecuencia.
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>¿Cómo administra Microsoft el uso compartido de terceros?
 
@@ -58,7 +58,7 @@ Los servicios en línea de Microsoft se auditan periódicamente para cumplir con
 
 | **Auditorías externas** | **Section** | **Fecha de informe más reciente** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Declaración de aplicabilidad](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certificación](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Propósito del procesador PII de nube pública | 22 de febrero de 2020 |
+| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Declaración de aplicabilidad](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificación](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Propósito del procesador PII de nube pública | 20 de abril de 2021 |
 | [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: Acuerdos de nivel de servicio (SLA) <br> CA-17: directiva de seguridad de Microsoft <br> CA-25: Actualizaciones del marco de control | 24 de diciembre de 2020 |
 
 ## <a name="resources"></a>Recursos

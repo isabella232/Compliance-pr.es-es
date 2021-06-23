@@ -1,217 +1,211 @@
 ### YamlMime:Hub
-title: Documentación de cumplimiento
+title: Cumplimiento de Microsoft
 summary: Documentación y recursos de Microsoft que necesita para empezar a cumplir con su empresa u organización.
 brand: m365
 metadata:
-  title: Documentación de cumplimiento
+  title: Cumplimiento de Microsoft
   description: Documentación y recursos de Microsoft que necesita para empezar a cumplir con su empresa u organización.
   services: service
   ms.service: service
   ms.subservice: subservice
   ms.topic: hub-page
   ms.collection:
-  - M365-security-compliance
-  - MS-Compliance
+    - M365-security-compliance
+    - MS-Compliance
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  ms.openlocfilehash: 67c37d1bc68017f0ecf66d1d446ab885400d2293
-  ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
-  ms.translationtype: MT
-  ms.contentlocale: es-ES
-  ms.lasthandoff: 03/23/2021
-  ms.locfileid: "51002190"
 highlightedContent:
   items:
-  - title: Tareas rápidas para empezar a usar el Centro de cumplimiento de Microsoft 365
-    itemType: get-started
-    url: /microsoft-365/compliance/compliance-quick-tasks
-  - title: Implementación de protección de la información para las normativas de privacidad de los datos
-    itemType: get-started
-    url: /microsoft-365/solutions/information-protection-deploy
-  - title: Obtenga información sobre la responsabilidad compartida en la nube
-    itemType: overview
-    url: /azure/security/fundamentals/shared-responsibility
-  - title: Obtenga información sobre cómo Microsoft protege los datos de los clientes
-    itemType: learn
-    url: /learn/paths/audit-safeguard-customer-data/
-  - title: Información sobre el Administrador de cumplimiento de Microsoft
-    itemType: learn
-    url: /learn/paths/compmgmt/
-  - title: Administrar el riesgo interno en Microsoft 365
-    itemType: learn
-    url: /learn/paths/m365-compliance-insider/
-  - title: Administrar la protección y el gobierno de la información
-    itemType: learn
-    url: /learn/paths/m365-compliance-information/
-  - title: Obtenga información sobre la exhibición de documentos electrónicos avanzada y la auditoría avanzada
-    itemType: learn
-    url: /learn/paths/compliance-discover/
+    - title: Tareas rápidas para empezar a usar el Centro de cumplimiento de Microsoft 365
+      itemType: get-started
+      url: /microsoft-365/compliance/compliance-quick-tasks
+    - title: Implementación de protección de la información para las normativas de privacidad de los datos
+      itemType: get-started
+      url: /microsoft-365/solutions/information-protection-deploy
+    - title: Obtenga información sobre la responsabilidad compartida en la nube
+      itemType: overview
+      url: /azure/security/fundamentals/shared-responsibility
+    - title: Información sobre cómo protege Microsoft los datos de los clientes
+      itemType: learn
+      url: /learn/paths/audit-safeguard-customer-data/
+    - title: Información sobre el Administrador de cumplimiento de Microsoft
+      itemType: learn
+      url: /learn/paths/compmgmt/
+    - title: Administrar el riesgo interno en Microsoft 365
+      itemType: learn
+      url: /learn/paths/m365-compliance-insider/
+    - title: Administrar el gobierno y la protección de la información
+      itemType: learn
+      url: /learn/paths/m365-compliance-information/
+    - title: Obtenga información sobre Advanced eDiscovery auditoría avanzada
+      itemType: learn
+      url: /learn/paths/compliance-discover/
 productDirectory:
   title: Cumplimiento normativo
   summary: Instrucciones de Microsoft sobre el cumplimiento de los estándares y normativas nacionales e internacionales.
   items:
-  - title: Reglamento general de protección de datos (RGPD)
-    imageSrc: /office/media/icons/compliance-blue.svg
-    summary: Instrucciones para ayudarle a respetar los derechos y cumplir las obligaciones del RGPD al usar productos y servicios de Microsoft.
-    url: /compliance/regulatory/gdpr
-  - title: Ofertas de cumplimiento de Microsoft
-    imageSrc: /office/media/icons/globe-internet.svg
-    summary: Microsoft ofrece un conjunto completo de ofertas de cumplimiento para ayudar a su organización a cumplir con los requisitos nacionales, regionales y específicos del sector que rigen la recopilación y el uso de datos.
-    url: /compliance/regulatory/offering-home
-  - title: Cumplimiento normativo y Microsoft Azure
-    imageSrc: /media/logos/logo_azure.svg
-    summary: Obtenga información sobre el cumplimiento normativo y Microsoft Azure.
-    url: /azure/compliance/
+    - title: Reglamento general de protección de datos (RGPD)
+      imageSrc: /office/media/icons/compliance-blue.svg
+      summary: Instrucciones para ayudarle a respetar los derechos y cumplir las obligaciones del RGPD al usar productos y servicios de Microsoft.
+      url: /compliance/regulatory/gdpr
+    - title: Ofertas de cumplimiento de Microsoft
+      imageSrc: /office/media/icons/globe-internet.svg
+      summary: 'Microsoft ofrece un conjunto completo de ofertas de cumplimiento para ayudar a su organización a cumplir con los requisitos nacionales, regionales y específicos del sector que rigen la recopilación y el uso de datos.'
+      url: /compliance/regulatory/offering-home
+    - title: Cumplimiento normativo y Microsoft Azure
+      imageSrc: /media/logos/logo_azure.svg
+      summary: Obtenga información sobre el cumplimiento normativo y Microsoft Azure.
+      url: /azure/compliance/
 conceptualContent:
   title: Garantía de servicio
   summary: Comience sus evaluaciones de seguridad y riesgos con una comprensión de cómo Microsoft protege los datos de los clientes.
   items:
-  - title: Arquitectura
-    links:
-    - url: /learn/modules/audit-architecture/
-      itemType: learn
-      text: Más información sobre la arquitectura
-    - url: /compliance/assurance/assurance-architecture
-      itemType: concept
-      text: Introducción a la arquitectura
-  - title: Registro de auditoría
-    links:
-    - url: /learn/modules/audit-logging-monitoring/
-      itemType: learn
-      text: Información sobre el registro de auditoría
-    - url: /compliance/assurance/assurance-audit-logging
-      itemType: concept
-      text: Información general sobre el registro de auditoría
-  - title: Seguridad del centro de datos
-    links:
-    - url: /learn/modules/audit-physical-security/
-      itemType: learn
-      text: Información sobre la seguridad del centro de datos
-    - url: /compliance/assurance/assurance-datacenter-security
-      itemType: concept
-      text: Información general sobre seguridad del centros de datos
-  - title: Cifrado y administración de claves
-    links:
-    - url: /learn/modules/audit-encryption/
-      itemType: learn
-      text: Información sobre el cifrado y la administración de claves
-    - url: /compliance/assurance/assurance-encryption
-      itemType: concept
-      text: Información general sobre el cifrado y la administración de claves
-  - title: Gobierno
-    links:
-    - url: /learn/modules/audit-governance/
-      itemType: learn
-      text: Información sobre el gobierno
-    - url: /compliance/assurance/assurance-governance
-      itemType: concept
-      text: Información general sobre el gobierno
-  - title: Recursos humanos
-    links:
-    - url: /learn/modules/audit-governance/personnel-security-governance
-      itemType: learn
-      text: Información sobre recursos humanos
-    - url: /compliance/assurance/assurance-human-resources
-      itemType: concept
-      text: Información general sobre los recursos humanos
-  - title: Administración de identidad y acceso
-    links:
-    - url: /learn/modules/audit-identity-access-management/
-      itemType: learn
-      text: Información sobre la identidad y la administración de acceso
-    - url: /compliance/assurance/assurance-identity-and-access-management
-      itemType: concept
-      text: Información general sobre la administración de acceso e identidad
-  - title: Administración de incidencias
-    links:
-    - url: /learn/modules/audit-incident-management/
-      itemType: learn
-      text: Información sobre la administración de incidentes
-    - url: /compliance/assurance/assurance-incident-management
-      itemType: concept
-      text: Información general sobre la administración de incidencias
-  - title: Seguridad de red
-    links:
-    - url: /compliance/assurance/assurance-network-security
-      itemType: concept
-      text: Información general sobre seguridad de red
-  - title: Privacidad
-    links:
-    - url: /learn/modules/audit-privacy/
-      itemType: learn
-      text: Información sobre privacidad
-    - url: /compliance/assurance/assurance-privacy
-      itemType: concept
-      text: Información general sobre privacidad
-  - title: Resiliencia y continuidad
-    links:
-    - url: /learn/modules/audit-resiliency-continuity/
-      itemType: learn
-      text: Obtenga información sobre la resistencia y la continuidad
-    - url: /compliance/assurance/assurance-resiliency-and-continuity
-      itemType: concept
-      text: Información general sobre la resiliencia y la continuidad
-  - title: Administración de riesgos
-    links:
-    - url: /learn/modules/audit-risk-management/
-      itemType: learn
-      text: Información sobre la administración de riesgos
-    - url: /compliance/assurance/assurance-risk-management
-      itemType: concept
-      text: Información general sobre administración de riesgos
-  - title: Operación y desarrollo de seguridad
-    links:
-    - url: /learn/modules/audit-security-development-operation/
-      itemType: learn
-      text: Información sobre la operación de desarrollo de seguridad
-    - url: /compliance/assurance/assurance-security-development-and-operation
-      itemType: concept
-      text: Introducción a la operación de desarrollo de seguridad
-  - title: Supervisión de seguridad
-    links:
-    - url: /learn/modules/audit-vulnerability-management/security-monitoring
-      itemType: learn
-      text: Información sobre la supervisión de seguridad
-    - url: /compliance/assurance/assurance-security-monitoring
-      itemType: concept
-      text: Información general sobre la supervisión de seguridad
-  - title: Administración de suministros
-    links:
-    - url: /learn/modules/audit-subprocessor-management/
-      itemType: learn
-      text: Información sobre la administración de proveedores
-    - url: /compliance/assurance/assurance-supplier-management
-      itemType: concept
-      text: Información general sobre administración de suministros
-  - title: Administración de amenazas y vulnerabilidades
-    links:
-    - url: /learn/modules/audit-vulnerability-management/
-      itemType: learn
-      text: Información sobre la administración de vulnerabilidades
-    - url: /compliance/assurance/assurance-vulnerability-management
-      itemType: concept
-      text: Información general sobre la administración de amenazas y vulnerabilidades
+    - title: Arquitectura
+      links:
+        - url: /learn/modules/audit-architecture/
+          itemType: learn
+          text: Más información sobre la arquitectura
+        - url: /compliance/assurance/assurance-architecture
+          itemType: concept
+          text: Introducción a la arquitectura
+    - title: Registro de auditoría
+      links:
+        - url: /learn/modules/audit-logging-monitoring/
+          itemType: learn
+          text: Información sobre el registro de auditoría
+        - url: /compliance/assurance/assurance-audit-logging
+          itemType: concept
+          text: Información general sobre el registro de auditoría
+    - title: Seguridad del centro de datos
+      links:
+        - url: /learn/modules/audit-physical-security/
+          itemType: learn
+          text: Información sobre la seguridad del centro de datos
+        - url: /compliance/assurance/assurance-datacenter-security
+          itemType: concept
+          text: Información general sobre seguridad del centros de datos
+    - title: Cifrado y administración de claves
+      links:
+        - url: /learn/modules/audit-encryption/
+          itemType: learn
+          text: Información sobre el cifrado y la administración de claves
+        - url: /compliance/assurance/assurance-encryption
+          itemType: concept
+          text: Información general sobre el cifrado y la administración de claves
+    - title: Gobierno
+      links:
+        - url: /learn/modules/audit-governance/
+          itemType: learn
+          text: Información sobre el gobierno
+        - url: /compliance/assurance/assurance-governance
+          itemType: concept
+          text: Información general sobre el gobierno
+    - title: Recursos humanos
+      links:
+        - url: /learn/modules/audit-governance/personnel-security-governance
+          itemType: learn
+          text: Información sobre recursos humanos
+        - url: /compliance/assurance/assurance-human-resources
+          itemType: concept
+          text: Información general sobre los recursos humanos
+    - title: Administración de identidad y acceso
+      links:
+        - url: /learn/modules/audit-identity-access-management/
+          itemType: learn
+          text: Información sobre la identidad y la administración de acceso
+        - url: /compliance/assurance/assurance-identity-and-access-management
+          itemType: concept
+          text: Información general sobre la administración de acceso e identidad
+    - title: Administración de incidencias
+      links:
+        - url: /learn/modules/audit-incident-management/
+          itemType: learn
+          text: Información sobre la administración de incidentes
+        - url: /compliance/assurance/assurance-incident-management
+          itemType: concept
+          text: Información general sobre la administración de incidencias
+    - title: Seguridad de red
+      links:
+        - url: /compliance/assurance/assurance-network-security
+          itemType: concept
+          text: Información general sobre seguridad de red
+    - title: Privacidad
+      links:
+        - url: /learn/modules/audit-privacy/
+          itemType: learn
+          text: Información sobre privacidad
+        - url: /compliance/assurance/assurance-privacy
+          itemType: concept
+          text: Información general sobre privacidad
+    - title: Resiliencia y continuidad
+      links:
+        - url: /learn/modules/audit-resiliency-continuity/
+          itemType: learn
+          text: Obtenga información sobre la resistencia y la continuidad
+        - url: /compliance/assurance/assurance-resiliency-and-continuity
+          itemType: concept
+          text: Información general sobre la resiliencia y la continuidad
+    - title: Administración de riesgos
+      links:
+        - url: /learn/modules/audit-risk-management/
+          itemType: learn
+          text: Información sobre la administración de riesgos
+        - url: /compliance/assurance/assurance-risk-management
+          itemType: concept
+          text: Información general sobre administración de riesgos
+    - title: Operación y desarrollo de seguridad
+      links:
+        - url: /learn/modules/audit-security-development-operation/
+          itemType: learn
+          text: Información sobre la operación de desarrollo de seguridad
+        - url: /compliance/assurance/assurance-security-development-and-operation
+          itemType: concept
+          text: Introducción a la operación de desarrollo de seguridad
+    - title: Supervisión de seguridad
+      links:
+        - url: /learn/modules/audit-vulnerability-management/security-monitoring
+          itemType: learn
+          text: Información sobre la supervisión de seguridad
+        - url: /compliance/assurance/assurance-security-monitoring
+          itemType: concept
+          text: Información general sobre la supervisión de seguridad
+    - title: Administración de suministros
+      links:
+        - url: /learn/modules/audit-subprocessor-management/
+          itemType: learn
+          text: Información sobre la administración de proveedores
+        - url: /compliance/assurance/assurance-supplier-management
+          itemType: concept
+          text: Información general sobre administración de suministros
+    - title: Administración de amenazas y vulnerabilidades
+      links:
+        - url: /learn/modules/audit-vulnerability-management/
+          itemType: learn
+          text: Obtenga información sobre administración de vulnerabilidades
+        - url: /compliance/assurance/assurance-vulnerability-management
+          itemType: concept
+          text: Información general sobre la administración de amenazas y vulnerabilidades
 additionalContent:
   sections:
-  - title: Introducción al cumplimiento en Microsoft 365
-    summary: Si es nuevo en el cumplimiento de Microsoft 365 y se pregunta dónde empezar, esta sección proporciona vínculos a soluciones clave y prioriza áreas de cumplimiento importantes.
-    items:
-    - title: Obtenga más información sobre el Administrador de cumplimiento
-      summary: Obtenga información sobre lo que es el Administrador de cumplimiento, cómo ayuda a simplificar el cumplimiento y reducir los riesgos, y sus componentes clave.
-      url: /microsoft-365/compliance/compliance-manager
-    - title: Administrar riesgos internos
-      summary: Minimice los riesgos internos detectando, investigando y actuando en actividades malintencionadas e involuntarias de su organización.
-      url: /microsoft-365/compliance/insider-risk-solution-overview
-    - title: Administrar la protección de la información
-      summary: Use Microsoft Information Protection (MIP) para ayudarle a descubrir, clasificar y proteger información confidencial dondequiera que viva o viaje.
-      url: /microsoft-365/compliance/protect-information
-    - title: Administrar el gobierno de información
-      summary: Use las capacidades de Gobierno de información de Microsoft (MIG) para regular los datos de cumplimiento o requisitos normativos.
-      url: /microsoft-365/compliance/manage-information-governance
-    - title: Administrar eDiscovery
-      summary: Use la exhibición de documentos electrónicos para identificar y analizar el contenido como evidencia en casos legales.
-      url: /microsoft-365/compliance/ediscovery
-    - title: Implementación de protección de la información para las normativas de privacidad de los datos
-      summary: Identificar, localizar, proteger, gobernar y responder a incidentes de privacidad de datos de datos almacenados en servicios de Microsoft 365 que están sujetos a las normativas de privacidad de datos.
-      url: /microsoft-365/solutions/information-protection-deploy
+    - title: Introducción al cumplimiento en Microsoft 365
+      summary: 'Si no es nuevo en Microsoft 365 cumplimiento normativo y se pregunta dónde empezar, en esta sección se proporcionan vínculos a soluciones clave y se priorizan áreas de cumplimiento importantes.'
+      items:
+        - title: Obtenga más información sobre el Administrador de cumplimiento
+          summary: 'Obtenga información sobre lo que es el Administrador de cumplimiento, cómo ayuda a simplificar el cumplimiento y reducir los riesgos, y sus componentes clave.'
+          url: /microsoft-365/compliance/compliance-manager
+        - title: Administrar riesgos internos
+          summary: 'Minimice los riesgos internos detectando, investigando y actuando en actividades malintencionadas e involuntarias de su organización.'
+          url: /microsoft-365/compliance/insider-risk-solution-overview
+        - title: Administrar la protección de la información
+          summary: 'Use Microsoft Information Protection (MIP) para ayudarle a descubrir, clasificar y proteger información confidencial dondequiera que viva o viaje.'
+          url: /microsoft-365/compliance/protect-information
+        - title: Administrar el gobierno de información
+          summary: Use las capacidades de Gobierno de información de Microsoft (MIG) para regular los datos de cumplimiento o requisitos normativos.
+          url: /microsoft-365/compliance/manage-information-governance
+        - title: Administrar eDiscovery
+          summary: Use la exhibición de documentos electrónicos para identificar y analizar el contenido como evidencia en casos legales.
+          url: /microsoft-365/compliance/ediscovery
+        - title: Implementación de protección de la información para las normativas de privacidad de los datos
+          summary: 'Identifique, localice, proteja, gobierne y responda a incidentes de privacidad de datos para los datos personales almacenados en Microsoft 365 servicios que están sujetos a las normativas de privacidad de datos.'
+          url: /microsoft-365/solutions/information-protection-deploy

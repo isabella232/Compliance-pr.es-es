@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 36a04d2669548d837409280d6bf615bebe7f15d9
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a665e6be33d42901597de23f39b6e71ae9c2fe70
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508362"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089804"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999"></a>Real Decreto Español 1720/2007, Ley Orgánica Española 15/1999
 
@@ -74,4 +74,4 @@ Sí. Si su organización requiere o está buscando una acreditación conforme a 
 - Agencia de protección de datos en Español ([Español](https://www.agpd.es/portalwebAGPD/index-ides-idphp.php))
 - Ley Orgánica 15/1999 de 13 de diciembre para la Protección de Datos de Carácter Personal - [en Español](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750)
 - [Términos de Microsoft Online Services](https://aka.ms/Online-Services-Terms)
-- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)

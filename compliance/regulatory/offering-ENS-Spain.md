@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bf4ea5afbcc44a7e59e66d5d74c9b87123b6ded8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 7079147a9ee952f97a4ad5b9d8df0cfcf9d494a2
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508003"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089824"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Medidas de seguridad de alto nivel: el Esquema Nacional de Seguridad de España (ENS)
 
@@ -53,14 +53,14 @@ La certificación es válida durante dos años, con una auditoría de vigilancia
 ### <a name="azure"></a>Azure
 
 - [Certificado del Esquema Nacional de Seguridad (ENS) de Azure](https://aka.ms/AzureNationalSecurityFrameworkENSCertificate)
-- [Informe de auditoría del Marco de Seguridad Nacional (ENS) español de Azure](https://aka.ms/AzureNationalSecurityFrameworkAuditReport)  
+- [Informe de auditoría del Esquema Nacional de Seguridad (ENS) español de Azure](https://aka.ms/AzureNationalSecurityFrameworkAuditReport)
 - [Informe de auditoría de Azure ENS (español)](https://aka.ms/AzureInformeAuditoriaENS)
 - [Certificado del Marco de Seguridad Nacional (ENS) de Azure (español)](https://aka.ms/AzureNationalSecurityFrameworkCertificadoENS)
 
 ### <a name="office-365"></a>Office 365
 
 - [Certificado del Esquema Nacional de Seguridad (ENS) de Office 365](https://aka.ms/Office365NationalSecurityFrameworkENSCertificate)
-- [Informe de auditoría del Marco de Seguridad Nacional (ENS) español de Office 365](https://aka.ms/Office365NationalSecurityFrameworkAuditReport)  
+- [Informe de auditoría del Esquema Nacional de Seguridad (ENS) español de Office 365](https://aka.ms/Office365NationalSecurityFrameworkAuditReport)
 - [Informe de auditoría ENS de Office 365 (español)](https://aka.ms/Office365InformeAuditoriaENS)
 - [Certificado del Marco de Seguridad Nacional (ENS) de Office 365 (español)](https://aka.ms/Office365NationalSecurityFrameworkCertificadoENS)
 

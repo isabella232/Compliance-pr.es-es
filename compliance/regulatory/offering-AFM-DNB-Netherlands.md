@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a7f6f07a2dd58d4a99559488c3f9d3b92d4fe195
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 13a628ee832079bd0402e5aec9969ec6e1f14cb4
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121809"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089844"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Autoridad neerlandesa para los mercados financieros y el Banco Central de países bajos
 
@@ -29,11 +29,11 @@ ms.locfileid: "50121809"
 
 Los principales responsables financieros de los Países Bajos son la [Autoridad holandesa para los mercados financieros](https://afm.nl/en) ([Autoriteit Financiële Markten, AFM](https://afm.nl/)) y el [Banco Central de los Países Bajos](https://www.dnb.nl/en/home/index.jsp) ([De Nederlandsche Bank, DNB](https://www.dnb.nl/home/)). La AFM, cuyo rol es comparable al de la SEC en los Estados Unidos, es la autoridad supervisora independiente para los mercados de ahorros, préstamos, inversiones y seguros.” El DNB, dentro del Sistema europeo de bancos centrales, determina y aplica una política monetaria y ejerce la supervisión prudencial de las organizaciones financieras de los Países Bajos.  
   
-Ambas instituciones actúan de acuerdo con la Autoridad Bancaria Europea (ABE), «una autoridad independiente que trabaja para garantizar una regulación y supervisión prudencial eficaz y coherente en todo el sector bancario europeo». Para este fin, la EBA ha descrito un enfoque global para el uso de la informática en la nube por parte de instituciones financieras en la UE: [Recomendaciones para subcontratar a proveedores de servicios en la nube](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf ).  
+Ambas instituciones actúan de acuerdo con la Autoridad Bancaria Europea (ABE), “una autoridad independiente de la UE que trabaja para garantizar un nivel efectivo y coherente de regulación y supervisión prudencial en todo el sector bancario europeo”. Para este fin, la EBA ha descrito un enfoque global para el uso de la informática en la nube por parte de instituciones financieras en la UE: [Recomendaciones para subcontratar a proveedores de servicios en la nube](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf ).  
   
-Por lo general, estas leyes y directrices son compatibles con el punto de vista de que la informática en la nube, que implique servicios de terceros, califica como una forma de subcontratación, y las instituciones financieras de los Países Bajos deben responder a los riesgos asociados antes de trasladar sus actividades comerciales a la nube. Entre ellos se incluyen:
+Por lo general, estas leyes y directrices son compatibles con el punto de vista de que la informática en la nube, que implique servicios de terceros, califica como una forma de subcontratación, y las instituciones financieras de los Países Bajos deben responder a los riesgos asociados antes de trasladar sus actividades comerciales a la nube. Estas incluyen las siguientes:
 
-- La Ley de supervisión financiera (FSA) ([ neerlandés](https://wetten.overheid.nl/BWBR0020368/2018-02-09) e [inglés](https://www.toezicht.dnb.nl/en/binaries/51-217291.pdf)), emitida por la legislatura neerlandesa en 2018, adjunta condiciones para que las instituciones financieras puedan controlar los riesgos asociados a la subcontratación y asegurar que no impida la supervisión reglamentaria.
+- La Ley de supervisión financiera (FSA) ([ neerlandés](https://wetten.overheid.nl/BWBR0020368/2018-02-09) e [inglés](https://www.toezicht.dnb.nl/en/binaries/51-217291.pdf)), emitida por la legislatura neerlandesa en 2018, incluye condiciones para que las instituciones financieras puedan controlar los riesgos asociados a la subcontratación y garantizar que no se impida la supervisión normativa.
 - El Comunicado sobre informática en la nube ([neerlandés](https://www.toezicht.dnb.nl/binaries/50-224828.pdf) e [inglés](https://www.toezicht.dnb.nl/en/binaries/51-224828.pdf)), emitido por el DNB, requiere que, antes de que las instituciones neerlandesas supervisadas participen en la informática en la nube, deban informar al DNB de sus acuerdos de subcontratación para asegurar que los procesos y riesgos operacionales estén controlados.
 
 Haciendo uso de una plantilla proporcionada por el DNB, deben presentar un análisis de riesgos obligatorio que incluya lo siguiente:
@@ -70,7 +70,7 @@ La lista de comprobación de Microsoft ayuda a las empresas financieras de los P
 
 **¿Se necesita la aprobación de normativas?**
 
-No. Sin embargo, en el Comunicado sobre informática en la nube se especifica que el DNB espera que las instituciones supervisadas de los Países Bajos envíen un análisis de riesgo sobre acuerdos de subcontratación potencial antes de participar en informática en la nube.
+No. Sin embargo, en el Comunicado sobre informática en la nube se especifica que el DNB espera que las instituciones supervisadas de los Países Bajos envíen un análisis de riesgo sobre potenciales acuerdos de subcontratación antes de participar en informática en la nube.
 
 **¿Hay términos obligatorios que se deban incluir en el contrato con el proveedor de servicios en la nube?**
 

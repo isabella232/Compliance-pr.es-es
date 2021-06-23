@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 74bdf63fcf704aa285a2803e5b7af7455a0291c6
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 1133c5467553eb5d158230c2d6e599187e507822
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497652"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088669"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>Responsabilidades de clientes y partners de la nube de administración de continuidad empresarial de Enterprise
 
@@ -73,7 +73,7 @@ Considere eventos que podrían afectar a sus empleados como un desastre natural 
 ### <a name="location"></a>Ubicación
 
 Muchas organizaciones necesitan que los empleados estén en ubicaciones de red o físicas específicas para conectarse a los servicios empresariales y en la nube.  
-Microsoft publica los[principios de conectividad de red](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles) que guían a las empresas a través de procedimientos recomendados para configurar la conectividad de red a los recursos de la nube. Algunos ejemplos de optimización son la implementación de VPN de túnel dividido para permitir conexiones directamente desde la red de un usuario, en lugar de hacerlo por un túnel VPN.  Mientras que estos principios de conectividad son importantes para el mantenimiento de las conexiones de baja latencia, la resiliencia del servicio requiere métodos alternativos para conectarse a los recursos corporativos para una colaboración general.
+Microsoft publica los[principios de conectividad de red](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles) que guían a las empresas a través de procedimientos recomendados para configurar la conectividad de red a los recursos de la nube. Algunos ejemplos de optimización son la implementación de VPN de túnel dividido para permitir conexiones directamente desde la red de un usuario en lugar de a través de un túnel VPN.  Mientras que estos principios de conectividad son importantes para el mantenimiento de las conexiones de baja latencia, la resiliencia del servicio requiere métodos alternativos para conectarse a los recursos corporativos para una colaboración general.
 
 ### <a name="systems"></a>Sistemas
 

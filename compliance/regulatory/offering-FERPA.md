@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f027f0ef83272c1102433f4c7534035f27f8a483
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 3f87b4d376c43db9d8524c200cd1fd86d2791b49
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496507"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089744"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Ley de derechos educativos y privacidad de la familia (FERPA)
 
@@ -37,13 +37,13 @@ La seguridad es fundamental para el cumplimiento de FERPA, que requiere la prote
 
 FERPA no requiere ni reconoce auditorías u otras certificaciones, por lo que cualquier institución académica que esté sujeta a FERPA debe evaluar por sí misma si su uso de un servicio en la nube afecta a su capacidad de cumplir con los requisitos de FERPA. Sin embargo, Microsoft ha asumido los siguientes compromisos contractuales que atestiguan su cumplimiento:
 
-- En sus [Términos de servicios](https://aka.ms/Online-Services-Terms)en línea, Microsoft acepta ser designado como "funcionario de escuela" con "intereses educativos legítimos" en los datos de los clientes, tal como se define en FERPA. (Los datos del cliente incluirían los registros de alumnos proporcionados a través del uso de los servicios en la nube de Microsoft por parte de una escuela). Al administrar los registros educativos de los alumnos, Microsoft acepta cumplir con las limitaciones y requisitos impuestos por 34 CFR 99.33(a) tal como lo hacen los funcionarios de la escuela.
+- En sus [Términos de servicios](https://aka.ms/Online-Services-Terms)en línea, Microsoft acepta ser designado como "oficial de escuela" con "intereses educativos legítimos" en los datos del cliente, tal como se define en FERPA. (Los datos del cliente incluirían los registros de alumnos proporcionados a través del uso de los servicios en la nube de Microsoft por parte de una escuela). Al administrar los registros educativos de los alumnos, Microsoft acepta cumplir con las limitaciones y requisitos impuestos por 34 CFR 99.33(a) tal como lo hacen los funcionarios de la escuela.
 - Además, Microsoft se compromete a usar datos de clientes solo para proporcionar a las organizaciones sus servicios en la nube y propósitos compatibles (como mejorar la detección de malware) y no minar datos de clientes para publicidad.
 - Microsoft también se compromete contractualmente a no revelar datos de clientes excepto cuando la institución educativa lo dirija, como se describe en el contrato, o según lo requiera la ley. Por lo tanto, los centros educativos que proporcionan registros educativos a Microsoft mediante el uso de un servicio en la nube de Microsoft pueden estar seguros de que dichos registros están sujetos a restricciones contractuales estrictas en relación con su uso y divulgación.
 
 Como resultado de estos compromisos contractuales, los clientes que están sujetos a FERPA , tanto instituciones educativas como terceros a los que dan acceso a datos confidenciales de alumnos, pueden usar con confianza los servicios en la nube empresarial de Microsoft en el ámbito para procesar, almacenar y transmitir esos datos.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Servicios en la nube de Microsoft en el ámbito
 
 Los servicios para los que Microsoft acepta ser designado como "oficial de escuela" con "intereses educativos legítimos" en los datos del cliente incluyen:
 
@@ -51,7 +51,7 @@ Los servicios para los que Microsoft acepta ser designado como "oficial de escue
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365, Office 365 Administración Pública para Estados Unidos y Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI, PowerApps y Power Automate (anteriormente Microsoft Flow) como un servicio independiente o como se incluye en un plan o conjunto de aplicaciones con marca de Office 365
+- Power BI, PowerApps y Power Automate (anteriormente Microsoft Flow) como un servicio independiente o como se incluye en un plan o conjunto de Office 365 de marca
 - Azure DevOps Services
 - Microsoft Defender para punto de conexión
 
@@ -59,7 +59,7 @@ Los servicios para los que Microsoft acepta ser designado como "oficial de escue
 
 FERPA no requiere ni reconoce auditorías ni certificaciones.
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Por qué es importante FERPA?**
 

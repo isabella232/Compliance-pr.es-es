@@ -20,12 +20,12 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: c27890900be85d951fb3a9dbfd11e4140ef955ff
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 5511888b34cd9e3eb7f4e76d86c91cea4f4924c6
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496211"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088529"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes del interesado de Azure DevOps Services para el RGPD y CCPA
 
@@ -43,11 +43,11 @@ Los artículos de la [Declaración de privacidad de Microsoft](https://privacy.m
 
 ## <a name="personal-data-we-collect"></a>Los datos personales que recopilamos
 
-Microsoft recopila datos para que los usuarios puedan operar y ayudar a mejorar los servicios de Azure DevOps. Azure DevOps Services recopila dos categorías de datos: los datos de clientes y los registros generados por el sistema. Los datos de los clientes incluyen datos de transacciones e interacciones que pueden identificar al usuario y que Azure DevOps necesita para su funcionamiento. Los registros generados por el sistema incluyen datos de uso del servicio que se agregan para cada área de producto y característica.
+Microsoft recopila datos de los usuarios para operar y mejorar Azure DevOps Services. Azure DevOps Services recopila dos categorías de datos: datos de clientes y registros generados por el sistema. En los datos de clientes, se incluyen datos de transacciones y de interacciones de usuario identificables que Azure DevOps Services necesita para ofrecer el servicio. En los registros generados por el sistema, se incluyen datos de uso del servicio que se agregan a cada área de producto y característica.
 
 ## <a name="delete-azure-devops-data"></a>Eliminar datos de Azure DevOps
 
-El primer paso para eliminar los datos de cliente de Azure DevOps Services y hacer anónimos los datos personales que puedan identificarle en los registros generados por el sistema es cerrar su cuenta de identidad de Azure Active Directory (AAD) o su cuenta de Microsoft (MSA). Azure DevOps Services se basa en un sistema de registro con estrictos requisitos de integridad, trazabilidad y auditoría. Las obligaciones existentes afectan a nuestras obligaciones de eliminación y conservación relativas al RGPD. El cierre de la cuenta de identidad no altera, quita ni cambia los artefactos y registros asociados a la identidad individual en la organización de Azure DevOps. Le garantizamos que cuando se elimina toda una organización de Azure DevOps, todos los datos asociados que puedan identificar a una persona y los registros generados por el sistema que se encuentren en la organización se eliminan de nuestro sistema (después del período de 30 días obligatorio de eliminación temporal de Azure DevOps).
+El primer paso para eliminar los datos de clientes de Azure DevOps Services asociados y anonimizar la información de identificación personal en registros generados por el sistema es cerrar su cuenta de identidad de Azure Active Directory (AAD) o su cuenta Microsoft (MSA). Azure DevOps Services se usa como un sistema de registro con integridad estricta, rastreabilidad y reglas de auditoría. Estas obligaciones existentes afectan a nuestras obligaciones de eliminación y retención de RGPD. Cerrar la cuenta de identidad no modifica, quita ni cambia los artefactos y registros asociados a la identidad individual de la organización de Azure DevOps. Nos aseguramos de que, cuando se elimine una organización de Azure DevOps completa, se borre del sistema toda la información de identificación personal asociada, así como los registros generados por el sistema que se encuentren en esa organización (después del período necesario de eliminación temporal de 30 días de la organización de Azure DevOps).
 
 ## <a name="export-azure-devops-data"></a>Exportar datos de Azure DevOps
 
@@ -59,7 +59,7 @@ Los responsables pueden usar dos métodos para exportar los datos de clientes y 
 
 ## <a name="export-or-delete-issues"></a>Exportar o eliminar problemas
 
-Para identidades de AAD, si tiene problemas al exportar o eliminar datos desde Azure Portal, vaya a la hoja **Ayuda + soporte** de Azure Portal y envíe un nuevo vale en **Administración de suscripción** > **Otras solicitudes de seguridad y cumplimiento** > **Solicitudes de RGPD y la hoja de privacidad**.
+Para identidades de AAD, si tiene problemas al exportar o eliminar datos desde Azure Portal, vaya a la hoja **Ayuda + soporte** de Azure Portal y envíe un nuevo vale en **Administración de suscripción** > **Solicitudes de privacidad y cumplimiento para suscripciones** > **Solicitudes de RGPD y la hoja de privacidad**.
 
 Para las identidades de MSA, si tiene problemas al exportar datos desde el sitio de Solicitud de privacidad, inicie sesión en el [sitio de Privacy Request](https://www.microsoft.com/concern/privacyrequest-msa) y envíe una solicitud para obtener ayuda del equipo de Microsoft Privacy mediante el formulario de solicitud web.
 

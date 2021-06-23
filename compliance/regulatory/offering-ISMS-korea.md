@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d542698eff82fa8f24a32d9f831553a9807609ce
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 43d95a4bedeca768dd6e9bf8bb4e38655382bd05
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507932"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089704"
 ---
 # <a name="korea-information-security-management-system-k-isms"></a>Corea del Sur: Sistema de Administración de Seguridad de la Información (K-ISMS)
 
 ## <a name="about-k-isms"></a>Acerca del K-ISMS
 
-El Gobierno Coreano presentó el Sistema de Administración de Seguridad de la Información (K-ISMS), en virtud del artículo 47 de la "Ley de Promoción del Uso de Redes de Comunicaciones e Información y Protección de Datos" (en [coreano](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) y en [inglés](https://law.go.kr/engLsSc.do?tabMenuId=tab45)). Un marco ISMS específico para cada país define un conjunto de requisitos de control estricto diseñado para ayudar a garantizar que las organizaciones coreanas protejan de forma coherente sus activos de información.
+El Gobierno Coreano presentó el [Sistema de Administración de Seguridad de la Información](https://isms.kisa.or.kr/main/isms/intro/) (K-ISMS), en virtud del artículo 47 de la "Ley de Promoción del Uso de Redes de Comunicaciones e Información y Protección de Datos" (en [coreano](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) y en [inglés](https://law.go.kr/engLsSc.do?tabMenuId=tab45)). Un marco ISMS específico para cada país define un conjunto de requisitos de control estricto diseñado para ayudar a garantizar que las organizaciones coreanas protejan de forma coherente sus activos de información.
 
 Para obtener la certificación, las empresas deben ser evaluadas por un auditor independiente que analice tanto la administración de seguridad de la información como las contramedidas de seguridad. Abarca 104 criterios, entre los que se incluyen 12 elementos de control en 5 sectores para la administración de seguridad de la información y 92 elementos de control en 13 sectores para contramedidas de seguridad de la información. Algunas de ellas son el examen de las responsabilidades de administración de seguridad de la organización, las directivas de seguridad, la formación en seguridad, la respuesta a incidentes, la administración de riesgos y mucho más. Un comité especial examina los resultados de la auditoría y concede la certificación.
 
@@ -70,7 +70,7 @@ Se puede obtener de forma voluntaria u obligatoria. Microsoft, entre otros, soli
 
 - Cualquier organización que cumpla estas condiciones:
 
-    - Hospitales categorizadas como "Hospital general más alto" en el Artículo 3, Sección 4 del servicio médico cuyas ventas anuales o ingresos fiscales sean, como mínimo, de 150 millones de USD.
+    - Hospitales categorizados como "Hospital general más alto" en el Artículo 3, Sección 4 del servicio médico cuyas ventas anuales o ingresos fiscales sean, como mínimo, de 150 millones de USD.
     - Escuelas, por lo que se contempla en el Artículo 2 de la Ley de Educación Superior, donde el número de estudiantes inscritos sea al menos 10 000 el 31 de diciembre del año precedente.
     - Proveedores de servicios de red de información cuyas ventas de servicios de información y comunicación sean de, al menos, 10 millones de USD o tuvieran un promedio de al menos 1 millón de usuarios al día en los tres meses anteriores. Sin embargo, quedan excluidas las sociedades financieras descritas en el párrafo 3 del Artículo 2 de la Ley de Transacciones Financieras Electrónicas.
 

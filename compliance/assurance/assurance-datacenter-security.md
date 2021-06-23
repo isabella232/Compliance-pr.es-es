@@ -1,6 +1,6 @@
 ---
 title: Información general sobre seguridad del centros de datos
-description: Información sobre la seguridad del centro de datos en Microsoft 365
+description: Obtenga información sobre la seguridad del centro de datos en Microsoft 365
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: acf244f5a8e9ab10e2fea02e2dc1c115156c0297
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 0ac1cdfb315c872e78872d144fa24d28500be096
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497598"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088659"
 ---
 # <a name="datacenter-security-overview"></a>Información general sobre seguridad del centros de datos
 
@@ -39,7 +39,7 @@ Los centros de datos que potencian nuestras ofertas en la nube se centran en la 
 
 ## <a name="how-does-microsoft-protect-its-datacenters-from-unauthorized-access"></a>¿Cómo protege Microsoft sus centros de datos del acceso no autorizado?
 
-El acceso a las instalaciones de centros de datos físicos está estrechamente controlado por perímetros externos e internos, lo que aumenta la seguridad en cada nivel, incluidos los cercados perimetrales, los agentes de seguridad, los bastidores de servidores bloqueados, los sistemas de alarma integrados, la videovigilancia de vídeo durante todo el día por parte del centro de operaciones y el control de acceso multifactor. Solo el personal necesario está autorizado para acceder a los centros de datos de Microsoft. El acceso lógico a la infraestructura de Microsoft 365, incluidos los datos de los clientes, está prohibido desde los centros de datos de Microsoft.
+El acceso a las instalaciones de centros de datos físicos está estrechamente controlado por perímetros externos e internos, lo que aumenta la seguridad en cada nivel, incluidos los cercados perimetrales, los agentes de seguridad, los bastidores de servidores bloqueados, los sistemas de alarma integrados, la videovigilancia de vídeo durante todo el día por parte del centro de operaciones y el control de acceso multifactor. Solo el personal necesario está autorizado para acceder a los centros de datos de Microsoft. El acceso lógico a Microsoft 365 infraestructura, incluidos los datos de clientes, está prohibido en los centros de datos de Microsoft.
 
 Nuestros Centros de operaciones de seguridad usan la videovigilancia junto con sistemas de control de acceso electrónico integrados para supervisar los sitios e instalaciones del centro de datos. Las cámaras están ubicadas estratégicamente para una cobertura eficaz del perímetro de la instalación, las entradas, las bahías de envío, las celdas del servidor, los pasillos interiores y otros puntos de seguridad confidenciales de interés. Como parte de nuestra postura de seguridad multicapa, los intentos de entrada no autorizados detectados por los sistemas de seguridad integrados generan alertas al personal de seguridad para obtener respuesta y corrección inmediatas.
 
@@ -64,3 +64,7 @@ Los servicios en línea de Microsoft se auditan periódicamente para cumplir con
 | [ISO 27001/27002 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Declaración de aplicabilidad](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificación](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7af5304-3a31-40e6-9abb-e26352305d41&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.11: Seguridad física y ambiental | 2 de diciembre de 2020 |
 | [SOC 1 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=66043614-5628-4e26-83be-057eb3bb026c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1: aprovisionamiento de acceso físico del centro de datos <br> PE-2: Comprobación de seguridad del centro de datos <br> PE-3: Revisión de acceso de usuario del centro de datos <br> PE-4: Mecanismos de acceso físico del centro de datos <br> PE-5: Supervisión de la supervisión física del centro de datos <br> PE-6: Mantenimiento del entorno crítico del centro de datos <br> PE-7: Controles del entorno del centro de datos <br> PE-8: Respuesta a incidentes del centro de datos | 30 de octubre de 2020 |
 | [SOC 2 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=ce5bfbea-3514-40ae-a8a6-3617106a0b56&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1: aprovisionamiento de acceso físico del centro de datos <br> PE-2: Comprobación de seguridad del centro de datos <br> PE-3: Revisión de acceso de usuario del centro de datos <br> PE-4: Mecanismos de acceso físico del centro de datos <br> PE-5: Supervisión de la supervisión física del centro de datos <br> PE-6: Mantenimiento del entorno crítico del centro de datos <br> PE-7: Controles del entorno del centro de datos <br> PE-8: Respuesta a incidentes del centro de datos | 30 de octubre de 2020 |
+
+## <a name="resources"></a>Recursos
+
+- [Microsoft Story Labs: We Live in the Cloud](https://news.microsoft.com/stories/microsoft-datacenter-tour/)
