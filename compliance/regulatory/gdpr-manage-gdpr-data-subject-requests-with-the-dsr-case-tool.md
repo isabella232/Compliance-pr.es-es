@@ -9,7 +9,7 @@ manager: laurawi
 audience: Admin
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ ms.collection:
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: f89faf915e31e375674020fda1fe56fe7cd78410
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 8448d9a77352491ce0066dbf74ed5aea0e8f7a29
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496058"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089583"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-security--compliance-center"></a>Administrar solicitudes del interesado de GDPR con la herramienta de casos de DSR en el Centro de seguridad y cumplimiento
 
@@ -126,7 +126,7 @@ El siguiente paso consiste en crear un caso de DSR. Al crear un caso, puede eleg
     
 ## <a name="step-3-run-the-search-query"></a>Paso 3: Ejecutar la consulta de búsqueda
 
-Después de crear un caso de DSR y agregar miembros, el siguiente paso es ejecutar la búsqueda integrada que está asociada al caso. Esta consulta de búsqueda predeterminada realiza las siguientes acciones:
+Una vez creado un caso DSR y agregados los miembros, el siguiente paso es ejecutar la búsqueda incorporada que está asociada al caso. Esta consulta de búsqueda predeterminada permite hacer lo siguiente:
   
 - Busca en todos los buzones de su organización todos los elementos de correo electrónico que el interesado ha enviado o recibido. Esto se consigue con la propiedad de correo  *Participantes*, que busca al interesado en todos los campos personas de un mensaje de correo. Esta propiedad devuelve los elementos en los que el interesado está en los campos **De**, **Para**, **CC** y **CCO**. En las carpetas públicas en Exchange Online también se buscan los mensajes enviados o recibidos por el interesado. 
     
@@ -340,7 +340,7 @@ Al exportar datos desde el Servicio de roaming de Office, los datos se guardan e
     
     b. En **Exportar contenido de Exchange como**, seleccione la segunda opción: **Un archivo PST que contenga todos los mensajes**.
     
-    c. Deje las opciones de exportación restantes no seleccionadas.
+    c. Deje las opciones de exportación restantes sin seleccionar.
     
 4. Después de elegir la configuración de exportación, haga clic en **Exportar**.
     
@@ -373,13 +373,13 @@ Al exportar datos desde el Servicio de roaming de Office, los datos se guardan e
 
 Le recomendamos que no exporte elementos indizados parcialmente (también denominados elementos no indizados) de la búsqueda integrada que se crea al crear un caso de DSR. Esto se debe a que los resultados de búsqueda probablemente incluirán elementos parcialmente indizados para otros usuarios de la organización y no solo elementos parcialmente indizados para el interesado). En su lugar, le recomendamos que cree una Búsqueda de contenido independiente que esté asociada al caso de DSR que esté diseñada para exportar solo los elementos indexados parcialmente relacionados con el interesado. 
   
-Aquí tiene un proceso de alto nivel para exportar elementos indizados parcialmente. Después de que se exporten, puede revisarlos para determinar si un elemento responde a una solicitud de exportación o acceso de DSR.
+Este es un proceso de alto nivel para exportar elementos parcialmente indexados. Después de exportarlos, puede revisarlos para determinar si un elemento responde a una solicitud de acceso o exportación de DSR.
   
 1. Abra el caso de DSR y cree una búsqueda en la página **Búsqueda**. 
     
 2. Use los siguientes criterios para configurar la consulta de búsqueda y las ubicaciones de contenido para buscar:
     
-    - Use una consulta de palabra clave vacía o en blanco. Esto devuelve todos los elementos en las ubicaciones de contenido en las que se buscan.
+    - Use una consulta de palabra clave vacía o en blanco. Esto devuelve todos los elementos en las ubicaciones de contenido que se buscan.
     
     - Busque solo en el buzón de Exchange Online del asunto de los datos y en su cuenta de OneDrive.
     
