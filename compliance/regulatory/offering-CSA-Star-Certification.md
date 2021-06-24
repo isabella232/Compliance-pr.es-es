@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a33f9e6d19caa5a3b26f011b985481224123ea38
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 2918cc1d046719435b8661754b1d869f62505c7f
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496565"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088839"
 ---
 # <a name="cloud-security-alliance-csa-star-certification"></a>Certificación Cloud Security Alliance (CSA) STAR
 
@@ -51,7 +51,7 @@ Infórmese sobre cómo acelerar la implementación de la certificación de CSA S
 - [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Microsoft Defender para punto de conexión
 - OMS Service Map
-- Power Automate (anteriormente conocido como Microsoft Flow): el servicio en la nube como servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
+- Power Automate (anteriormente conocido como Microsoft Flow): el servicio en la nube como servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
 - El servicio en la nube de PowerApps: como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365
 - Power BI: la parte del servicio en la nube de Power BI ofrecida como servicio independiente o incluida en un plan de marca o conjunto de aplicaciones de Office 365
 - Power BI incrustado

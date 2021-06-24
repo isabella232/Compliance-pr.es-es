@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 37a561845b4eaa4568ed71a4873bb5927a42f761
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: c0b7a9583b8b6d2420837156e836b75326870f1d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497275"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089694"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>Estándares de los sistemas de gestión de la calidad ISO 9001:2015
 
@@ -43,9 +43,9 @@ Una empresa de auditoría de terceros independiente realizó una rigurosa revisi
 - Microsoft Defender para punto de conexión
 - Bot de Microsoft Healthcare
 - [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
-- El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
+- El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
 - El servicio de nube de PowerApps como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365
-- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
 - Power BI incrustado
 - Microsoft Stream
 

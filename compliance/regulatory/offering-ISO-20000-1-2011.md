@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a04e5b7b0a292cfe419118085d387051e0c56e48
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 9995a237a82d41bfbb6740dbbe448f1ef3ae750a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497773"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088999"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>ISO/IEC 20000-1:2011 administración del servicio de tecnologías de la información
 
@@ -70,11 +70,11 @@ El portal de confianza del servicio ofrece informes de cumplimiento auditados in
 
 Sí. La evaluación anual ISO 20000-1:2011 incluye el centro de datos de infraestructura física subyacente. Revise el certificado para ver los detalles de la cobertura.
 
-**¿Dónde puedo ver la información de cumplimiento normativo de Microsoft para la norma ISO/IEC 20000-1:2011?**
+**¿Dónde puedo ver la información de cumplimiento normativo de Microsoft para la norma ISO 20000-1:2011?**
 
 Puede descargar el certificado ISO 20000-1:2011 para Azure y otros servicios que se encuentren en el ámbito de esta evaluación.
 
-**¿Puedo usar el cumplimiento de los servicios de Microsoft para ISO 20000-1:2011 en el proceso de certificación de mi organización?**
+**¿Puedo usar el cumplimiento de los servicios Microsoft para la norma ISO 20000-1:2011 en el proceso de certificación de mi organización?**
 
 Sí. Si su empresa desea obtener una certificación para las implementaciones desarrolladas en los servicios incluidos en el alcance, podrá utilizar las certificaciones de Microsoft pertinentes en su evaluación de conformidad. Sin embargo, usted tiene la responsabilidad de contratar un asesor para evaluar la implementación para el cumplimiento normativo y los controles y procesos de su propia organización.
 

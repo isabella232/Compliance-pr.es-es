@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: afe6f7f5d5758442b6a016834456459ff9d40e7c
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d87d143479cab3dffb881c58dc19d11a81b1c7a9
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497761"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088939"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>Norma ISO 22301:2012 de Administración de Continuidad Empresarial 
 
@@ -45,10 +45,10 @@ Microsoft es el primer proveedor de servicios en la nube a hiperescala que recib
 - Bot de Microsoft Healthcare
 - Intune
 - [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
-- El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
+- El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
 - [Office 365 Comercial, Administración Pública y Educación](https://go.microsoft.com/fwlink/p/?linkid=2077751)
 - El servicio en la nube de PowerApps como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365
-- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
 - Power BI incrustado
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados

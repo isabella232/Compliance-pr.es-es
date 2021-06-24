@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c8bc078a84501b329f80a10cf218fbebfee53fbf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6330ee298949353c24a4b95ff65696807b78b09b
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508302"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088799"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Directrices de accesibilidad al contenido en la web
 
@@ -48,7 +48,7 @@ Microsoft publica informes WCAG que reflejan el producto o servicio completo. Po
 - Dynamics 365 y Dynamics 365 para la Administración Pública de Estados Unidos
 - Intune
 - Office 365 y Office 365 para las Administraciones públicas de EE. UU.
-- Office 365 U.S. Government Defense
+- Office 365 U.S. Government Defense
 - Windows Server 2016
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Informes de conformidad de la accesibilidad de Microsoft
