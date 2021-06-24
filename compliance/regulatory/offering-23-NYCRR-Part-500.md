@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75103889b93957fa8d88a6d9fe8bbbaaf539608b
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: f48ba2f7bd10167d5e4cb384a7740df5e48b7617
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121419"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088719"
 ---
 # <a name="title-23-nycrr-part-500"></a>Título 23 NYCRR parte 500
 
@@ -51,12 +51,12 @@ Las normativas de Nueva York requieren que cada entidad financiera:
 - **Supervise la actividad de usuarios autorizados, detecte el acceso no autorizado y ofrezca un entrenamiento en ciberseguridad periódico a los empleados**: Azure, Office 365 y Power BI incluyen la supervisión de interacción indirecta para emitir alertas sobre incidencias y diagnósticos extensivos para el registro y la auditoría. [Microsoft Virtual Academy](https://mva.microsoft.com/) ofrece formación en línea que cubre la ciberseguridad de los servicios en la nube de Microsoft.
 - **Desarrolle planes para responder a incidentes de ciberseguridad y recuperarse de ellos**: Microsoft le ayuda a prepararse para los incidentes de ciberseguridad mediante una estrategia defensiva para detectar, predecir y evitar las infracciones de seguridad antes de que se produzcan. Cuando desarrolle sus propios planes, puede recurrir a nuestro plan de administración de incidentes para reaccionar ante infracciones de ciberseguridad.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios en la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
 - [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- El servicio en la nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- El servicio en la nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
