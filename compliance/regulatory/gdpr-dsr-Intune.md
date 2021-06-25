@@ -1,6 +1,6 @@
 ---
 title: Solicitudes de Intune Data Subject para GDPR y CCPA
-description: Obtenga información acerca de cómo encontrar datos personales, realizar acciones con ellos y responder a las solicitudes relacionadas con DSR y CCPA de los clientes que utilizan Microsoft Intune.
+description: Obtenga información acerca de cómo encontrar datos personales, realizar acciones con ellos y responder a las solicitudes relacionadas con DSR y CCPA de los clientes que utilizan Microsoft Intune.
 keywords: Microsoft 365, Educación de Microsoft 365, documentación de Microsoft 365, RGPD, CCPA
 localization_priority: Priority
 ms.prod: microsoft-365-enterprise
@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: fabaa7487da2dae72cc2aa8aa050b43713154fbe
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 36e91e0f4e1f802da84c0b4a6ff5d82ced8ab029
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120939"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088859"
 ---
 # <a name="intune-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de Intune Data Subject para GDPR y CCPA
 
@@ -32,7 +32,7 @@ El [Reglamento de protección de datos (RGPD)](https://ec.europa.eu/justice/data
 
 De manera similar, la Ley de privacidad del consumidor de California (CCPA), establece derechos y obligaciones de privacidad para los consumidores de California, incluyendo derechos similares a los Derechos de los sujetos de datos de la GDPR, como el derecho a borrar, acceder y recibir (portabilidad) su información personal.  La CCPA también prevé casos de divulgación de información, protecciones contra la discriminación en el ejercicio de derechos y requisitos de "cancelación/suscripción" para ciertas transferencias de datos clasificadas como "ventas". Las ventas se definen de forma amplia para incluir el uso compartido de datos con ánimo de lucro. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](offering-ccpa.md) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](ccpa-faq.md).
 
-Guía sobre cómo usar los productos, servicios y herramientas administrativas de Microsoft para ayudar a nuestros clientes poseedores de datos a encontrar y actuar en datos personales con el fin de responder a las solicitudes de derechos del titular de los datos. En concreto, esta guía incluye cómo encontrar datos personales o información personal que residen en la nube de Microsoft, obtener acceso a los mismos y actuar sobre ellos. Este es un breve resumen de los procesos descritos en esta guía:
+La guía trata sobre cómo utilizar los productos, servicios y herramientas administrativas de Microsoft para ayudar a nuestros clientes a encontrar y actuar sobre los datos personales para responder a los DSR. Específicamente, estas instrucciones incluyen cómo encontrar, acceder y actuar sobre los datos personales o la información personal que residen en la nube de Microsoft. Aquí hay una descripción rápida de los procesos descritos en esta guía:
 
 - **Búsqueda**: use herramientas de búsqueda y detección para encontrar más fácilmente los datos personales que pueden ser objeto de una solicitud de DSR. Una vez recopilados los documentos de respuesta, puede realizar una o varias de las acciones de DSR siguientes para responder a la solicitud. También puede determinar que la solicitud no cumple con las directrices de la organización para responder a las solicitudes de sujeto de datos.
 - **Acceso:** recupere datos personales que residan en la nube de Microsoft y, si se le pide, realice una copia para proporcionársela al titular de los datos.
@@ -100,7 +100,7 @@ A continuación se explica cómo obtener una copia de los datos en respuesta a u
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft ofrece tanto un portal como experiencias de productos que proporcionan al administrador del arrendatario de la empresa la capacidad de gestionar las solicitudes de acceso al DSR. Las peticiones de acceso de interesado permiten acceder a los datos personales del usuario, incluidos (a) información de identificación sobre un usuario final y (b) registros generados por el servicio.
+Microsoft ofrece tanto un portal como experiencias de producto que proporcionan al administrador inquilino del cliente empresarial la capacidad de gestionar solicitudes de acceso del interesado. Las solicitudes de acceso del interesado permiten acceder a los datos personales del usuario, incluyendo (a) información de identificación sobre un usuario final y (b) registros generados por el sistema.
 
 #### <a name="service-specific-interfaces"></a>Interfaces específicas del servicio
 
@@ -114,7 +114,7 @@ Como encargado de los datos, Microsoft no ofrece la posibilidad de corregir los 
 
 ### <a name="step-4-restrict"></a>Paso 4: Restricción
 
-Los interesados pueden pedir que restrinja el procesamiento de sus datos personales. Proporcionamos tanto Azure Portal como interfaces de programación de aplicaciones (API) o interfaces de usuario (IU) ya existentes. Estas experiencias proporcionan al administrador del arrendatario de la empresa la capacidad de gestionar esos DSR mediante una combinación de exportación y eliminación de datos. Para obtener más información vea[, procesamiento de datos personales](/intune/privacy-data-store-process#processing-personal-data).
+Los interesados pueden solicitar restringir el procesamiento de los datos personales. Proporcionamos tanto Microsoft Azure Portal como interfaces de programación de aplicaciones (API) o interfaces de usuario (IU) ya existentes. Estas experiencias proporcionan al administrador del cliente empresarial la capacidad de administrar solicitudes de interesado a través de una combinación de exportación y eliminación de datos. Para obtener detalles, consulte[Procesamiento de datos personales](/intune/privacy-data-store-process#processing-personal-data).
 
 ### <a name="step-5-delete"></a>Paso 5: Eliminar
 
@@ -126,7 +126,7 @@ Los registros de auditoría proporcionan a los administradores de inquilinos un 
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>Notificar sobre los problemas de exportación o eliminación
 
-Si tiene problemas al exportar o eliminar datos desde Azure Portal, vaya a la hoja **Ayuda + soporte** de Azure Portal y envíe un nuevo vale en **Administración de suscripción > Otras solicitudes de seguridad y cumplimiento > Solicitudes de RGPD y la hoja de privacidad**.
+Si tiene problemas al exportar o eliminar datos desde Microsoft Azure Portal, diríjase a la hoja de Azure portal **Ayuda + soporte** y envíe un nuevo vale en **Administración de suscripción > Solicitudes de privacidad y cumplimiento para suscripciones > Hoja de privacidad y solicitudes RGPD**.
 
 ## <a name="learn-more"></a>Más información
 

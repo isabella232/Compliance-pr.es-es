@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 134bf099671830856f97bf4dd770123d7efaf41a
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d3429d3fb35317146e32fddc71bae2f12c40269d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496112"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089513"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Conjunto de herramientas de migración de FastTrack para cursar solicitudes de eliminación
 
@@ -35,11 +35,11 @@ Si es un cliente que actualmente está realizando una migración de FastTrack, e
 
 Microsoft admite la versión inicial de este conjunto de herramientas en la plataforma de Windows y en la consola de PowerShell. Este conjunto de herramientas admite las siguientes plataformas conocidas:
 
-***Tabla 1: plataformas admitidas por este conjunto de herramientas***
+***Tabla 1: plataformas admitidas por este conjunto de herramientas** _
 
-****
+_***
 
-|Versión de PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
+|Versión de PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |5.0|No compatible|Compatible|Compatible|Compatible|Compatible|
 |5.1|No compatible|Compatible|Compatible|Compatible|Compatible.|
@@ -53,7 +53,7 @@ Este conjunto de herramientas está disponible en la Galería de PowerShell de l
 
 ![PowerShell: permitir que la aplicación haga cambios](../media/fasttrack-run-powershell_image.png)
 
-Ahora que la consola está abierta, debe establecer permisos para ejecutar la secuencia de comandos. Escriba el siguiente comando para permitir que se ejecuten los scripts:
+Con la consola ya abierta, es necesario configurar los permisos que permitan ejecutar scripts. Para ello, escriba el siguiente comando:
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
@@ -61,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 Se le pedirá que confirme esta acción, dado que el administrador puede cambiar el ámbito a su conveniencia.
 
-***Definir la directiva de ejecución***
+**_Definir la directiva de ejecución_* _
 
 ![Cambio de establecimiento de la directiva de ejecución en PowerShell](../media/powershell-set-execution-policy_image.png)
 
@@ -75,7 +75,7 @@ Install-Module -Name Microsoft.FastTrack -Repository PSGallery -WarningAction Si
 
 Para ejecutar correctamente este módulo, puede que sea necesario instalar módulos dependientes para usarlos si aún no están instalados. Posiblemente deba reiniciar PowerShell.
 
-Para poder enviar una DSR, primero debe iniciar sesión con sus credenciales de Office 365. Al escribir las credenciales correctas, se validará el estado de administrador global y se recopilará la información de espacio empresarial.
+Para enviar una solicitud de interesado, antes tiene que iniciar sesión con sus credenciales de Office 365. Cuando especifique las credenciales apropiadas, se validará el estado de su cuenta de administrador global y se recopilará información del espacio empresarial.
 
 ```powershell
 Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
@@ -83,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 Tras haber iniciado sesión correctamente, la clave y las credenciales se almacenarán para su uso con módulos FastTrack durante lo que quede de la sesión actual de PowerShell.
 
-Si necesita conectarse a un entorno de nube que no sea comercial, deberá agregar *-Environment* al comando *Login* con uno de los siguientes entornos válidos:
+Si necesita conectarse a un entorno de nube que no sea comercial, deberá agregar _-Environment* al comando de *Inicio de sesión* con uno de los siguientes entornos válidos:
 
 - AzureCloud
 - AzureChinaCloud
@@ -100,7 +100,7 @@ Para enviar una solicitud DSR, ejecute el siguiente comando:
 Submit-FastTrackGdprDsrRequest -DsrRequestUserEmail SubjectUserEmail@mycompany.com
 ```
 
-Si se ejecuta correctamente, el cmdlet devolverá un objeto de Id. de la transacción. Guarde el Id. de la transacción.
+Si el cmdlet se ejecuta correctamente, devolverá un objeto de Id. de transacción. Guárdelo.
 
 #### <a name="checking-the-status-of-a-request-transaction"></a>Comprobar el estado de una transacción de solicitud
 

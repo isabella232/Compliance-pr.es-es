@@ -1,5 +1,5 @@
 ---
-title: Marcos de los Escudos de la privacidad UE-EE. UU. y Suiza-EE. UU.
+title: Marcos de los Escudos de Privacidad entre la UE y EE. UU., y Suiza y EE. UU.
 description: Microsoft está certificado en los marcos de los Escudos de la privacidad UE-EE. UU. y Suiza-EE. UU.
 keywords: Microsoft 365, cumplimiento, ofertas
 localization_priority: Priority
@@ -16,26 +16,26 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ae241dcff38ac764c2b57f559e95c079d6e59cd7
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: afe763500a4c8f3af261870af53216c6f6f95d39
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121239"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088959"
 ---
 # <a name="eu-us-and-swiss-us-privacy-shield-frameworks"></a>Marcos de los Escudos de Privacidad entre la UE y EE. UU., y Suiza y EE. UU.
 
 ## <a name="about-the-eu-us-and-swiss-us-privacy-shield-frameworks"></a>Acerca de marcos de los Escudos de Privacidad entre la UE y EE. UU., y Suiza y EE. UU.
 
-Según el programa Escudo de la privacidad, “los [marcos de los Escudos de la privacidad UE-EE. UU. y Suiza-EE. UU.](https://www.privacyshield.gov/welcome) fueron diseñados por el Departamento de Comercio de EE. UU., la Comisión Europea y la Administración Suiza, respectivamente, para proporcionar a las empresas de ambos lados del Atlántico un mecanismo mediante el cual cumplir con los requisitos de protección de datos al transferir datos personales de la Unión Europea y Suiza a Estados Unidos”. La Administración de Comercio Internacional del Departamento de Comercio administra el programa Escudo de la privacidad en los Estados Unidos.
+Según el programa Escudo de la privacidad, “los [marcos de los Escudos de la privacidad UE-EE.UU. y Suiza-EE. UU.](https://www.privacyshield.gov/welcome) fueron diseñados por el Departamento de Comercio de EE.UU., la Comisión Europea y la Administración Suiza, respectivamente, para proporcionar a las empresas de ambos lados del Atlántico un mecanismo mediante el cual cumplir con los requisitos de protección de datos al transferir datos personales desde la Unión Europea y Suiza hacia Estados Unidos”. La Administración de Comercio Internacional del Departamento de Comercio administra el programa Escudo de la privacidad en los Estados Unidos.
 
-La transferencia de datos personales fuera de la UE y Suiza se rige por la legislación de la UE y Suiza, que, por lo general, prohíbe la transferencia de datos personales a países externos al área EEE, a menos que se garanticen los niveles de protección “adecuados”. Los marcos de los Escudos de la privacidad y las Cláusulas contractuales estándar (o [Cláusulas modelo de la UE](offering-EU-Model-Clauses.md)) son dos mecanismos diseñados para proporcionar este nivel de protección de datos.
+La transferencia de datos personales fuera de la UE y Suiza se rige por la legislación de la UE y Suiza, que, por lo general, prohíbe la transferencia de datos personales a países o regiones externas al área de Estados Unidos, a menos que se garanticen los niveles de protección “adecuados”. Los marcos de los Escudos de la privacidad y las Cláusulas contractuales estándar (o [Cláusulas modelo de la UE](offering-EU-Model-Clauses.md)) son dos mecanismos diseñados para proporcionar este nivel de protección de datos.
 
 Los veintitrés [principios del Escudo de la privacidad](https://www.privacyshield.gov/article?id=Requirements-of-Participation) definen un conjunto de requisitos que rigen el uso y el tratamiento de datos personales transmitidos desde la UE, así como el acceso y los mecanismos para la resolución de litigios que las empresas participantes deben proporcionar a los ciudadanos de la UE. Las empresas deben informar a los usuarios sobre cómo se procesan los datos, limitar los propósitos para los que se usan, protegerlos durante todo el tiempo que se conserven y asegurar la responsabilidad sobre los datos que se transfieren a terceros. Los requisitos también incluyen proporcionar resolución de litigios gratis y accesible, además de transparencia relacionada con las solicitudes de la administración pública con respecto a datos personales.
 
 ## <a name="microsoft-and-the-eu-us-and-swiss-us-privacy-shield-frameworks"></a>Microsoft y los marcos de los Escudos de la privacidad UE-EE. UU. y Suiza-EE. UU.
 
-Para unirse a los marcos de los Escudos de la privacidad UE-EE. UU. y Suiza-EE. UU., lo que es una acción voluntaria, las empresas estadounidenses deben comprometerse públicamente a cumplir con los requisitos del marco y certificar este cumplimiento ante el Departamento de Comercio de EE. UU., por sí mismas. Una vez que se comprometan públicamente y realicen la certificación por sí mismas, este compromiso es aplicable en virtud de la legislación estadounidense.
+Para unirse a los marcos de los Escudos de la privacidad de la UE-EE.UU. y Suiza-EE.UU., —lo que es una acción voluntaria— las empresas estadounidenses deben comprometerse públicamente a cumplir con los requisitos del marco y certificar este cumplimiento ante el Departamento de Comercio de EE.UU., por sí mismas. Una vez que se comprometen públicamente y se certifican por sí solos, ese compromiso se puede aplicar en virtud de la legislación de EE.UU.
 
 Microsoft se ha comprometido públicamente a cumplir los [principios del Escudo de la privacidad](https://www.privacyshield.gov/article?id=Requirements-of-Participation) y ha certificado su propio cumplimiento con los requisitos. Nuestra participación se aplica a todos los datos personales procesados por Microsoft que se transfieren a Estados Unidos desde la Unión Europea, el Espacio Económico Europeo (EEE) y Suiza. Además, los clientes de servicios empresariales en la nube de Microsoft se benefician del cumplimiento de las Cláusulas contractuales estándares (también conocidas como [Cláusulas modelo de la UE](offering-eu-model-clauses.md)) según los [Términos de los Servicios en Línea de Microsoft](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31), a no ser que el cliente haya optado por no participar en ellas.
 
@@ -47,7 +47,7 @@ Microsoft colabora con las Autoridades nacionales de protección de datos (DPA) 
 - [Dynamics 365 MT & GCC](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
 - Intune
 - [Microsoft 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- El servicio de la nube de Power BI como servicio independiente, incluido en un plan personalizado con la marca o un conjunto de aplicaciones de Office 365
+- El servicio de la nube de Power BI como servicio independiente, incluido en un plan personalizado con la marca o un conjunto de aplicaciones de Office 365
 - Servicios profesionales
 - Windows 10 y Windows Server
 
@@ -67,7 +67,7 @@ Protección de datos en Azure: Azure proporciona a los clientes una seguridad de
 
 **¿Qué datos se transfieren desde la UE o Suiza a Estados Unidos según el acuerdo de Microsoft con el Escudo de la privacidad?**
 
-Como se especifica en nuestros Términos de servicios en línea, los datos personales que Microsoft procesa en nombre del cliente podrán transferirse, almacenarse y procesarse en los Estados Unidos o en cualquier otro país en el cual Microsoft, sus filiales o subcontratistas mantengan instalaciones. Sin embargo, todas las transferencias desde la UE deben cumplir con los requisitos de la legislación de la UE.
+Como se especifica en nuestros términos de servicios en línea, los datos personales que Microsoft procesa en nombre del cliente podrán transferirse, almacenarse y procesarse en los Estados Unidos o en cualquier otro país o región en la cual Microsoft, sus filiales o subcontratistas mantengan instalaciones. Sin embargo, cualquier transferencia de este tipo desde la UE debe cumplir con los requisitos de la legislación de la UE.
 
 Cuando los datos personales se transfieran de la UE a los Estados Unidos mediante:
 

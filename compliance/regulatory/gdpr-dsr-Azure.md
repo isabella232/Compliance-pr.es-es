@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 8d4dc89e8733db718491fcaa7c69b51e7b6d74f2
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121009"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089854"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de titulares de los datos de Azure para el RGPD y la CCPA
 
@@ -31,9 +31,9 @@ ms.locfileid: "50121009"
 
 El [Reglamento de protección de datos (RGPD)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) de la Unión Europea ofrece derechos a las personas (que se denominan *interesados* en el reglamento) para administrar los datos personales recopilados por una empresa u otro tipo de agencia u organización (es decir, el *responsable de los datos* o simplemente *responsable*). Los datos personales se definen de forma muy amplia según el RGPD como cualquier dato relacionado con una persona física, ya sea identificada o identificable. El RGPD ofrece a los interesados derechos específicos sobre sus datos personales, como la obtención de copias de sus datos, la solicitud de correcciones, impedir su procesamiento o eliminación, o el envío en formato electrónico para transferirlos a otro responsable. Las solicitudes formales realizadas por un interesado a un responsable para realizar una acción con sus datos personales se denominan *solicitudes de interesado* DSR, por sus siglas en inglés.
 
-De forma similar, la Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés), ofrece derechos y obligaciones de privacidad a los consumidores de California, incluyendo derechos similares a los Derechos del Interesado de GDPR, como el derecho de eliminar, acceder y recibir (portabilidad) su información personal. La CCPA también prevé casos de divulgación de información, protecciones contra la discriminación en el ejercicio de derechos y requisitos de "cancelación/suscripción" para ciertas transferencias de datos clasificadas como "ventas". Las ventas se definen de forma amplia para incluir el uso compartido de datos con ánimo de lucro. Para obtener más información sobre la CCPA, consulte la [Ley de privacidad de los consumidores California](offering-ccpa.md) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](ccpa-faq.md).
+De forma similar, la Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés), ofrece derechos y obligaciones de privacidad a los consumidores de California, incluyendo derechos similares a los Derechos del Interesado de GDPR, como el derecho de eliminar, acceder y recibir (portabilidad) su información personal. La CCPA también prevé casos de divulgación de información, protecciones contra la discriminación en el ejercicio de derechos y requisitos de "cancelación/suscripción" para ciertas transferencias de datos clasificadas como "ventas". Las ventas se definen de forma amplia para incluir el uso compartido de datos con ánimo de lucro. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](offering-ccpa.md) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](ccpa-faq.md).
 
-La guía trata sobre cómo utilizar los productos, servicios y herramientas administrativas de Microsoft para ayudar a nuestros clientes controladores a encontrar y actuar sobre los datos personales para responder a los DSR. Específicamente, esto incluye cómo encontrar, acceder y actuar sobre los datos personales que residen en la nube de Microsoft. Este es un breve resumen de los procesos descritos en esta guía:
+En esta guía se explica cómo usar los productos, servicios y herramientas administrativas de Microsoft para ayudar a nuestros clientes responsables a encontrar datos personales y actuar sobre ellos, para así responder a solicitudes de interesados. Específicamente, esto incluye cómo encontrar, acceder y actuar sobre los datos personales que residen en la nube de Microsoft. Este es un breve resumen de los procesos descritos en esta guía:
 
 - **Búsqueda**: use herramientas de búsqueda y detección para encontrar más fácilmente los datos personales que pueden ser objeto de una solicitud de DSR. Una vez recopilados los documentos de respuesta, puede realizar una o varias de las acciones de DSR siguientes para responder a la solicitud. También puede determinar que la solicitud no cumple con las directrices de la organización para responder a las solicitudes de sujeto de datos.
 - **Acceso:** recupere datos personales que residan en la nube de Microsoft y, si se le pide, realice una copia para proporcionársela al titular de los datos.
@@ -83,13 +83,13 @@ Microsoft ofrece la posibilidad de acceder a determinados datos de cliente, elim
 
 ### <a name="step-1-discover"></a>Paso 1: Detección
 
-El primer paso para responder a una solicitud de derechos del interesado es buscar los datos de cliente que sean el objeto de la solicitud. Este primer paso (buscar y revisar los datos personales que sean objeto de la solicitud) le permitirá determinar si la solicitud del titular de los datos cumple con los requisitos de la organización para aceptarla o rechazarla. Por ejemplo, después de encontrar y revisar los datos personales en cuestión, puede determinar que la solicitud no cumple los requisitos de su organización porque al hacerlo puede afectar negativamente a los derechos y libertades de los demás.
+El primer paso para responder a una solicitud de interesado consiste en encontrar los datos personales que son objeto de la solicitud. Este primer paso, (encontrar y revisar los datos personales en cuestión), le ayudará a determinar si una solicitud de interesado cumple los requisitos de su organización para respetarla o rechazarla. Por ejemplo, después de encontrar y revisar los datos personales en cuestión, puede determinar que la solicitud no cumple los requisitos de su organización porque al llevarse a cabo puede afectar negativamente los derechos y libertades de terceros.
 
 Después de encontrar los datos, puede realizar la acción específica para satisfacer la solicitud del interesado.
 
-[Azure Active Directory](https://azure.microsoft.com/services/active-directory/) es el directorio de Microsoft y el servicio de administración de identidades basado en la nube. Puede localizar información identificable de los usuarios finales, como perfiles de usuario de clientes y empleados e información de trabajo de los usuarios que contengan datos personales en su entorno de [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD) utilizando el[ Azure Portal](https://portal.azure.com/).
+[Azure Active Directory](https://azure.microsoft.com/services/active-directory/) es el servicio de administración de identidad y directorio multiinquilino basado en la nube de Microsoft. Puede encontrar información de identificación personal de los usuarios finales, como perfiles de usuario de clientes y empleados e información de trabajo de usuarios que contenga datos personales en su entorno de [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD) mediante el [Azure Portal](https://portal.azure.com/).
 
-Esto es particularmente útil si se desea encontrar o modificar los datos personales de un usuario específico. También puede agregar o cambiar el perfil del usuario y la información de su trabajo. Debe iniciar sesión con una cuenta que sea un administrador global del directorio.
+Esto es útil si desea buscar o cambiar datos personales de un usuario específico. También puede agregar o cambiar perfiles de usuario e información de trabajo. Debe iniciar sesión con una cuenta que sea de administrador global del directorio.
 
 #### <a name="how-do-i-locate-or-view-user-profile-and-work-information"></a>¿Cómo buscar o ver perfiles de usuario e información de trabajo?
 
@@ -121,7 +121,7 @@ Al proporcionar una copia al interesado, deberá quitar o censurar información 
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft ofrece tanto un portal como experiencias de productos que proporcionan al administrador del arrendatario de la empresa la capacidad de gestionar las solicitudes de acceso al DSR. Las peticiones de acceso de interesado permiten acceder a los datos personales del usuario, incluyendo (a) información de identificación sobre un usuario final y (b) registros generados por el servicio.
+Microsoft ofrece tanto un portal como experiencias de producto que proporcionan al administrador inquilino del cliente empresarial la capacidad de gestionar solicitudes de acceso del interesado. Las solicitudes de acceso del interesado permiten acceder a los datos personales del usuario, incluyendo: (a) información de identificación sobre un usuario final y (b) registros generados por el sistema.
 
 #### <a name="service-specific-interfaces"></a>Interfaces específicas del servicio
 
@@ -129,7 +129,7 @@ Microsoft proporciona la capacidad de detectar datos de clientes directamente a 
 
 ### <a name="step-3-rectify"></a>Paso 3: Rectificar
 
-Si un interesado le ha pedido que rectifique los datos personales que residen en los datos de su organización, usted y su organización tendrán que determinar si es apropiado aceptar la petición. La rectificación de los datos puede incluir la adopción de medidas como la edición, la redacción o la eliminación de datos personales de un documento u otro tipo o elemento. La forma más expeditiva de hacerlo para los datos de Soporte técnico de Microsoft y FastTrack se proporciona a continuación.
+Si un interesado le ha solicitado rectificar los datos personales que se encuentran en los datos de su organización, su organización y usted deberán determinar si es adecuado atender dicha petición. Rectificar los datos puede implicar tomar acciones como editar, redactar o eliminar datos personales de un documento u otro tipo de elemento. La forma más conveniente de hacerlo para el Soporte técnico de Microsoft y FastTrack se proporciona a continuación.
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
@@ -137,7 +137,7 @@ Los clientes empresariales tienen la capacidad de administrar solicitudes de int
 
 ##### <a name="azure-active-directory-rectifycorrect-inaccurate-or-incomplete-personal-data"></a>Azure Active Directory: rectificar y corregir datos personales inexactos o incompletos
 
-Usted puede corregir, actualizar o eliminar información identificable sobre los usuarios finales, como los perfiles de usuario de clientes y empleados y la información de trabajo de los usuarios que contienen datos personales, como el nombre, el cargo, la dirección o el número de teléfono del usuario, en su entorno del [Azure Active Directory](https://azure.microsoft.com/services/active-directory/)(AAD) utilizando el [Azure Portal](https://portal.azure.com/). Debe iniciar sesión con una cuenta que sea un administrador global del directorio.
+Puede corregir, actualizar o eliminar información de identificación personal sobre los usuarios finales, como los perfiles de usuario de cliente y empleado y la información de trabajo de los usuarios que contiene datos personales, como nombre de usuario, puesto de trabajo, dirección o número de teléfono, en el entorno de [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD) mediante el [Azure Portal](https://portal.azure.com/). Debe iniciar sesión con una cuenta que sea de administrador global para el directorio.
 
 ###### <a name="how-do-i-correct-or-update-user-profile-and-work-information-in-azure-active-directory"></a>¿Cómo corregir o actualizar el perfil de usuario y la información de trabajo en Azure Active Directory?
 
@@ -165,7 +165,7 @@ Microsoft proporciona la capacidad de detectar datos de clientes directamente a 
 
 ### <a name="step-4-restrict"></a>Paso 4: Restricción
 
-Los interesados pueden pedir que restrinja el procesamiento de sus datos personales. Proporcionamos tanto Azure Portal como interfaces de programación de aplicaciones (API) o interfaces de usuario (IU) ya existentes. Estas experiencias proporcionan al administrador del arrendatario de la empresa la capacidad de gestionar esos DSR mediante una combinación de exportación y eliminación de datos. Un cliente puede (1) exportar una copia electrónica de los datos personales del usuario, incluyendo (a) cuentas, (b) registros generados por el sistema y (c) registros asociados, seguido de (2) la eliminación de la cuenta y datos asociados que residen en los sistemas de Microsoft.
+Los interesados pueden solicitar que restrinja el procesamiento de sus datos personales. Proporcionamos tanto el Azure Portal como interfaces de programación de aplicaciones (API) o interfaces de usuario (UI) ya existentes. Estas experiencias proporcionan al administrador del cliente empresarial la capacidad de administrar solicitudes de interesado a través de una combinación de exportación y eliminación de datos. Un cliente puede (1) exportar una copia electrónica de los datos personales del usuario, incluyendo (a) cuentas, (b) registros generados por el sistema y (c) registros asociados, seguido de (2) la eliminación de la cuenta y datos asociados que residen en los sistemas de Microsoft.
 
 ### <a name="step-5-delete"></a>Paso 5: Eliminar
 
@@ -184,7 +184,7 @@ Este el proceso de alto nivel para borrar usuarios de su inquilino.
 
 1. Vaya a Azure Portal y encuentre el usuario.
 
-2. Eliminar este usuario Cuando se elimina inicialmente el usuario, la cuenta del usuario se envía a la Papelera de reciclaje. **En este punto, el usuario es eliminado temporalmente, lo que significa que la cuenta está deshabilitada, pero no eliminada de Azure Active Directory.**
+2. Eliminar el usuario. Al eliminar inicialmente el usuario, la cuenta se envía a la Papelera de reciclaje. **En este momento, el usuario se encuentra eliminado temporalmente, lo que significa que se deshabilita la cuenta, pero no se elimina de Azure Active Directory.**
 
 3. Vaya a la lista de usuarios eliminados recientemente y elimine al usuario de forma permanente. **En este momento el usuario se elimina permanentemente, lo que significa que la cuenta se ha depuración de Azure Active Directory**
 
@@ -211,7 +211,7 @@ Este el proceso de alto nivel para borrar usuarios de su inquilino.
 4. Vuelva a seleccionar el mismo usuario, seleccione  **Eliminar permanentemente** en la barra de comandos y luego seleccione **Sí**  en el cuadro que le pregunta si está seguro.
 
 >[!IMPORTANT]  
->Tenga en cuenta que al hacer clic en **S** í está eliminando de forma permanente e irrevocable al usuario y todos los datos asociados y los registros generados por el sistema. Si lo hace por error, tendrá que volver a agregar manualmente el usuario al inquilino. Los datos asociados y los registros generados por el sistema no son recuperables.
+>Tenga en cuenta que al hacer clic en **Sí** eliminará el usuario y todos los datos y registros generados por el sistema asociados de forma permanente e irrevocable. Si hace esto por error, tendrá que volver a agregar al usuario al inquilino de forma manual. Los datos asociados y los registros generados por el sistema no se pueden recuperar.
 
    ![Ver información de trabajo del usuario](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
 
@@ -221,7 +221,7 @@ Microsoft proporciona la capacidad de detectar datos de clientes directamente a 
 
 ## <a name="step-6-export"></a>Paso 6: Exportar
 
-El "derecho de portabilidad de datos" permite a un interesado solicitar una copia de sus datos personales en formato electrónico (es decir, un “formato estructurado, de uso común, compatible con dispositivos electrónicos e interoperable”) que pueda transmitirse a otro responsable de los datos. Azure soporta esto al permitir que su organización exporte los datos en formato nativo JSON a su contenedor de almacenamiento de Azure especificado.
+El "derecho de portabilidad de datos" permite a un interesado solicitar una copia de sus datos personales en formato electrónico (es decir, un "formato estructurado, de uso común, compatible con dispositivos electrónicos e interoperable") que pueda transmitirse a otro responsable de los datos. Azure soporta esto al permitir que su organización exporte los datos en el formato nativo JSON a su Contenedor de almacenamiento de Azure especificado.
 
 >[!IMPORTANT]
 >Debe ser un administrador de espacios empresariales para exportar datos de usuario del espacio empresarial.
@@ -243,18 +243,18 @@ Microsoft también le ofrece la posibilidad de acceder, borrar y exportar cierto
 
 ### <a name="executing-dsrs-against-system-generated-logs"></a>Ejecutar solicitudes de interesado en registros generados por el sistema.
 
-Microsoft ofrece la posibilidad de acceder, borrar y exportar ciertos registros generados por el sistema a través del Azure Portal y también directamente a través de interfaces programáticas o interfaces de usuario para servicios específicos. Los detalles se describen en la documentación de referencia de los servicios respectivos.
+Microsoft proporciona la capacidad de acceso, eliminación y exportación de determinados registros generados por el sistema a través del Azure Portal y también directamente a través de interfaces de programación o interfaces de usuario para servicios específicos. Los detalles se describen en la documentación de referencia de los servicios correspondientes.
 
 >[!IMPORTANT]  
-> Los servicios de apoyo a los DSR en producto requieren el uso directo de la interfaz de programación de aplicaciones (API) o la interfaz de usuario (UI) del servicio. Por consiguiente, la ejecución de un DSR en producto **debe hacerse además de la ejecución de un DSR dentro del Azure Portal para completar una solicitud de un sujeto de datos determinado. Por favor, consulte la documentación de referencia de los servicios específicos para obtener más detalles.**
+> Los servicios compatibles con solicitudes de interesados en el producto requieren el uso directo de una interfaz de programación de aplicaciones (API) o de una interfaz de usuario (UI). Por lo tanto, la ejecución de la solicitud de interesado en un producto **debe realizarse además de la ejecución de una solicitud de interesado en el Azure Portal para completar toda la solicitud de un interesado. Consulte la documentación de referencia de los servicios específicos para obtener más detalles.**
 
-### <a name="step-1-access"></a>Paso 1: Acceso
+### <a name="step-1-access"></a>Paso 1: acceso
 
-El administrador del arrendatario es la única persona de su organización que puede acceder a los registros generados por el sistema asociados con el uso de Azure por parte de un usuario en particular. Los datos recuperados para una solicitud de acceso se proporcionarán en un formato legible por máquina y se facilitarán en archivos que permitirán al usuario conocer los servicios a los que se asocian los datos. Como se ha señalado anteriormente, los datos recuperados no incluirán datos que puedan comprometer la seguridad del servicio.
+El administrador de inquilinos es la única persona de su organización con acceso a los registros generados por el sistema asociados con el uso de un usuario determinado de Azure. Los datos que se recuperan de una solicitud de acceso se ofrecen en un formato legible por máquinas y se incluirán en los archivos que permiten al usuario saber qué servicios están asociados a los datos. Como se indicó anteriormente, los datos recuperados no incluirán datos que puedan poner en peligro la seguridad del servicio.
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft ofrece tanto un portal como experiencias de productos que proporcionan al administrador del arrendatario de la empresa la capacidad de gestionar las solicitudes de acceso. Las peticiones de acceso de interesado permiten acceder a los datos personales del usuario, incluyendo (a) información de identificación sobre un usuario final y (b) registros generados por el servicio. El proceso es idéntico al descrito en la sección de Azure Active Directory de la Parte 1, Paso 2: Acceso.
+Microsoft ofrece tanto un portal como experiencias de producto que proporcionan al administrador del inquilino del cliente empresarial la capacidad de gestionar solicitudes de acceso. Las solicitudes de acceso permiten acceder a los datos personales del usuario, incluyendo (a) información identificación sobre un usuario final y (b) registros generados por el servicio. El proceso es idéntico al descrito en la sección de Azure Active Directory de la Parte 1, Paso 2: Acceso.
 
 #### <a name="service-specific-interfaces"></a>Interfaces específicas del servicio
 
@@ -266,7 +266,7 @@ El Administrador de inquilinos es la única persona de su organización que pued
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft ofrece tanto un portal como experiencias de productos que proporcionan al administrador del arrendatario de la empresa la capacidad de gestionar las solicitudes de eliminación de DSR. Las solicitudes de eliminación del DSR siguen el mismo procedimiento que se describe en la sección Eliminar un usuario y los datos asociados a través del Azure Portal de la Parte 1, Paso 5: Eliminar.
+Microsoft ofrece tanto un portal como experiencias de producto para proporcionar al administrador del inquilino del cliente empresarial la capacidad de administrar solicitudes de eliminación de DSR. Las solicitudes de eliminación de DSR siguen el mismo proceso descrito en la sección Eliminar un usuario y sus datos asociados a través del Azure Portal, Parte 1, Paso 5: Eliminar.
 
 #### <a name="service-specific-interfaces"></a>Interfaces específicas del servicio
 
@@ -274,7 +274,7 @@ Microsoft proporciona la capacidad de detectar datos de clientes directamente a 
 
 ### <a name="step-3-export"></a>Paso 3: Exportar
 
-El administrador del arrendatario es la única persona de su organización que puede acceder a los registros generados por el sistema asociados con el uso de Azure por parte de un usuario en particular. Los datos recuperados para una solicitud de exportación se proporcionarán en un formato legible por máquina y se facilitarán en archivos que permitirán al usuario conocer los servicios a los que se asocian los datos. Como se ha señalado anteriormente, los datos recuperados no incluirán datos que puedan comprometer la seguridad o la estabilidad del servicio.
+El administrador de inquilinos es la única persona de su organización con acceso a los registros generados por el sistema asociados con el uso de Azure por un usuario determinado. Los datos que se recuperan de una solicitud de exportación se ofrecen en un formato legible por máquinas y se incluirán en los archivos que permiten al usuario saber qué servicios están asociados a los datos. Como se indicó anteriormente, los datos recuperados no incluirán datos que puedan poner en peligro la seguridad o estabilidad del servicio.
 
 #### <a name="export-system-generated-logs-using-the-azure-portal"></a>Exportar registros generados por el sistema mediante Azure Portal
 
@@ -301,12 +301,12 @@ Aquí está el proceso de alto nivel para exportar los datos de su inquilino.
 
 - **Usuario.** Escriba la dirección de correo electrónico del usuario de Azure Active Directory que solicita la exportación.
 - **Suscripción.** Seleccione la cuenta que usa para informar del uso de recursos y para facturar por servicios. Esta también es la ubicación de la cuenta de almacenamiento de Azure.
-- **Cuenta de almacenamiento.** Seleccione la ubicación de su Azure Storage (Blob). Para obtener más información, consulte el artículo [Introducción a Microsoft Azure Storage, almacenamiento de blobs](/azure/storage/common/storage-introduction#blob-storage).
-- **Contenedor.** Crear un nuevo contenedor (o seleccionar uno existente) como lugar de almacenamiento de los datos de privacidad exportados por el usuario.
+- **Cuenta de almacenamiento.** Seleccione la ubicación de Azure Storage (Blob). Para obtener más información, consulte el artículo [Introducción a Microsoft Azure Storage: almacenamiento de blobs](/azure/storage/common/storage-introduction#blob-storage).
+- **Contenedor.** Cree un nuevo contenedor (o seleccione uno existente) como la ubicación de almacenamiento para los datos de privacidad exportados del usuario.
 
 4. Seleccione **Crear**.
 
-La solicitud de exportación pasa al estado **Pendiente**. Puede ver el informe de estado en la hoja **Privacidad del usuario: Información general**.
+La solicitud de exportación pasa al estado **Pendiente**. Puede ver el informe de estado en la hoja **Privacidad del usuario - Información general**.
 
 >[!IMPORTANT]  
 >Debido a que los datos personales pueden provenir de múltiples sistemas, es posible que el proceso de exportación pueda tardar hasta un mes en completarse.
@@ -317,7 +317,7 @@ Microsoft proporciona la capacidad de detectar datos de clientes directamente a 
 
 ### <a name="notify-about-exporting-or-deleting-issues"></a>Notificar sobre los problemas de exportación o eliminación
 
-Si tiene problemas al exportar o eliminar datos desde Azure Portal, vaya a la hoja **Ayuda + soporte** de Azure Portal y envíe un nuevo vale en **Administración de suscripción > Otras solicitudes de seguridad y cumplimiento > Solicitudes de RGPD y la hoja de privacidad**.
+Si tiene problemas al exportar o eliminar datos desde el Azure Portal, diríjase a la hoja del Azure portal **Ayuda + soporte** y envíe un nuevo vale en **Administración de suscripción > Solicitudes de privacidad y cumplimiento para suscripciones > Hoja de privacidad y solicitudes RGPD**.
 
 ## <a name="learn-more"></a>Más información
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c079230e1fca6ea19248218a6ecd01eeb896fd87
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 36347cd4df74a87db2dba5977b5ed1270c29086e
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509981"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089814"
 ---
 # <a name="it-grundschutz-compliance-workbook"></a>Libro de cumplimiento de la norma IT-Grundschutz alemana
 
@@ -55,13 +55,13 @@ Este libro puede ayudar a los clientes de Microsoft Cloud Alemania a implementar
 
 Sí. El propósito de este libro es ayudar a los clientes de Microsoft Cloud Alemania a usar los servicios de Microsoft Cloud Alemania para implementar la metodología de IT-Grundschutz dentro del ámbito de su certificación ISO 27001, ya existente o planeada, según la norma IT-Grundschutz.
 
-**¿Cuál es la diferencia entre los Catálogos IT-Grundschutz y C5?**
+**¿Cuál es la diferencia entre los catálogos IT-Grundschutz y C5?**
 
 El Catálogo Cloud Computing Compliance Controls (o C5) es una norma auditada de BSI que establece una base mínima obligatoria para la seguridad en la nube y la adopción de soluciones de nube pública por organismos gubernamentales alemanes y organizaciones que trabajan con el gobierno. El IT-Grundschutz ofrece la metodología específica para ayudar a las organizaciones a identificar e implementar las medidas de seguridad de los sistemas informáticos y es uno de los elementos en los que se basan los estándares de C5.
 
 **¿Qué es Microsoft Cloud Alemania?**
 
-Microsoft Cloud Alemania se basa físicamente en Alemania y cumple con el requisito de la legislación de privacidad alemana, que limita estrictamente la transferencia de datos personales a otros países, incluida la protección contra el acceso de las autoridades de otras jurisdicciones que podrían violar la legislación nacional. Ofrece Azure Germany, nuestra plataforma pública de informática en la nube y todos sus servicios.
+Microsoft Cloud Alemania se basa físicamente en Alemania y cumple con el requisito de la legislación de privacidad alemana, que limita estrictamente la transferencia de datos personales a otros países o regiones, incluida la protección contra el acceso de las autoridades de otras jurisdicciones que podrían violar la legislación nacional. Ofrece Azure Alemania, nuestra plataforma pública de informática en la nube y todos sus servicios.
 
 ## <a name="resources"></a>Recursos
 
@@ -70,4 +70,4 @@ Microsoft Cloud Alemania se basa físicamente en Alemania y cumple con el requis
 - [Estándares de BSI](https://www.bsi.bund.de/EN/Publications/BSIStandards/BSIStandards_node.html)
 - [Azure Alemania y el libro de cumplimiento de la norma IT-Grundschutz alemana](https://aka.ms/grundschutzworkbook)
 - [Documento de información general de ISO/IEC 27001:2013 (Estándares de administración de sistemas de la información)](offering-iso-27001.md)
-- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)

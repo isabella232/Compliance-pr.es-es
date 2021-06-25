@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a076f51bbbefe60b1bdb41e656398da9e6d41825
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 379720a1769048fea6abc22f850a6ef54f601351
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509970"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089059"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>Entidad monetaria de Singapur (MAS) y Asociación de bancos en Singapur (ABS)
 
@@ -71,7 +71,7 @@ Obtenga asistencia práctica para mover datos y cargas de trabajo a la nube de M
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
 - [Office 365](https://aka.ms/o365-compliance-framework)
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
@@ -82,7 +82,7 @@ No, no hay ninguna obligación para notificar, consultar ni aprobar de forma pre
 
 **¿Qué es una disposición de subcontratación de "material" y por qué es importante la definición?**
 
-Una disposición de subcontratación es "material" si el fallo o la violación de un servicio tiene el potencial para influir de forma importante en las operaciones de una empresa financiera o en la capacidad de administración de riesgos y cumplir con las leyes y normativas aplicables; o si incluye la información de los clientes, y en caso de que se produzcan accesos no autorizados o divulgación, pérdida o robo de información de los clientes, afecta a los clientes de la empresa. La definición de "información de clientes" excluye de forma explícita la información cifrada de forma segura.
+Una disposición de subcontratación es "material" si el fallo o la violación de un servicio tiene el potencial para influir de forma importante en las operaciones de una empresa financiera o en la capacidad de administración de riesgos y cumplir con las leyes y normativas aplicables; o si incluye la información de los clientes, y en caso de que se produzcan accesos no autorizados o divulgación, pérdida o robo de información de los clientes, afecta a los clientes de la empresa. La definición de "información del cliente" excluye de manera explícita la información cifrada de manera segura.
 
 Esta definición es importante, ya que algunas de las disposiciones de las directrices de subcontratación del MAS se aplican únicamente a los "acuerdos de subcontratación de materiales". Entre estas se incluye la obligación de llevar a cabo revisiones anuales, cláusulas contractuales obligatorias que tratan los derechos de auditoría, y asegurar que la subcontratación fuera de Singapur no afecte a los esfuerzos de supervisión del MAS.
 

@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: b047b4ccf7fa9745a7237de79bbaa198e079865e
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 298f0efe74539c8a8bd10330cfeb80894ef9edb1
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496018"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089019"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>RGPD para Office Web Apps Server y Office Online Server
 
@@ -72,7 +72,7 @@ Para recopilar todos los registros asociados con el UserID 1, por ejemplo, el pr
 
 ## <a name="types-of-data"></a>Tipos de datos
 
-Los registros de Office contienen una gran variedad de diferentes tipos de datos. Estos son algunos ejemplos de los datos que pueden contener los registros ULS:
+Los registros de Office contienen varios tipos diferentes de datos. Estos son algunos ejemplos de los datos que pueden contener los registros ULS:
 
 - Códigos de error para problemas detectados durante el uso del producto
 
@@ -82,7 +82,7 @@ Los registros de Office contienen una gran variedad de diferentes tipos de datos
 
 - Información de ubicación general sobre dónde está el equipo del usuario (por ejemplo, país o región, provincia, y ciudad, derivados de la dirección IP), pero no la ubicación geográfica precisa.
 
-- Metadatos básicos sobre el explorador, por ejemplo, el nombre del explorador y la versión, y el equipo, por ejemplo, el tipo de sistema operativo y la versión
+- Metadatos básicos sobre el explorador, por ejemplo, el nombre del explorador y la versión; y el equipo, por ejemplo, el tipo de sistema operativo y la versión
 
 - Mensajes de error del host del documento (por ejemplo, OneDrive, SharePoint, Exchange)
 

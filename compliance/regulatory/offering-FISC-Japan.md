@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 27f0072091520317a6780e00331e0997022941a0
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509996"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088949"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Centro de Sistemas de Información de la Industria Financiera (FISC)
 
@@ -37,7 +37,7 @@ La conformidad con este marco de trabajo no es necesaria por regulación, y no e
 
 ## <a name="microsoft-and-fisc"></a>Microsoft y el FISC
 
-Microsoft contrató evaluadores externos para que validaran que Microsoft Azure, Dynamics 365 y Microsoft Office 365 cumplan los requisitos de las directrices de seguridad de FISC, en la novena edición revisada, sobre sistemas informáticos para las instituciones financieras. Microsoft proporcionó evidencia de cumplimiento en cada una de las siguientes áreas:
+Microsoft contrató evaluadores externos para que validaran que Microsoft Azure, Dynamics 365 y Microsoft Office 365 cumplen los requisitos de las directrices de seguridad de FISC sobre sistemas informáticos para las instituciones financieras (novena edición revisada). Microsoft proporcionó evidencia del cumplimiento en cada una de las siguientes áreas:
 
 - Directrices sobre centros de datos para edificios y salas de ordenadores, energía, aire acondicionado, centros de datos y supervisión de instalaciones.
 - Directrices operativas para organizaciones, formación, control de acceso, desarrollo de sistemas y auditoría.
@@ -45,15 +45,15 @@ Microsoft contrató evaluadores externos para que validaran que Microsoft Azure,
 
 Las instituciones financieras pueden confiar en esta evaluación del cumplimiento en estas tres áreas para los servicios de infraestructura y plataforma de Azure, Dynamics 365, Office 365 y Microsoft Cloud App Security, dentro del ámbito.
 
-[Obtenga más información sobre la validación de evaluadores externos y los enlaces a los sitios de los evaluadores (Sólo en japonés).](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)
+[Obtenga más información sobre la validación de evaluadores externos y los enlaces a los sitios de los evaluadores (solo en japonés).](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de nube de Microsoft dentro de ámbito
+## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
 - Intune
 - [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- El servicio en la nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- El servicio en la nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
@@ -74,7 +74,7 @@ También puede ver las referencias de seguridad ([en japonés](https://aka.ms/mi
 
 **¿Puedo usar las respuestas de Microsoft a este marco de trabajo en el proceso de calificación de mi organización?**
 
-Sí. Sin embargo, aunque las respuestas de Microsoft a este marco de trabajo están confirmadas dentro del cumplimiento por parte de terceros, los clientes son responsables de validar el cumplimiento de las soluciones que han implementado en Azure u Office 365.
+Sí. Sin embargo, aunque terceros han confirmado las respuestas de Microsoft a este marco de trabajo como conformes al cumplimiento, los clientes son responsables de validar el cumplimiento de las soluciones que han implementado en Azure u Office 365.
 
 ## <a name="resources"></a>Recursos
 
