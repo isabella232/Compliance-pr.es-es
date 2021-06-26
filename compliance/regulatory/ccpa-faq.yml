@@ -1,0 +1,230 @@
+### YamlMime:FAQ
+metadata:
+  title: 'Preguntas y Respuestas: Ley de Privacidad del Consumidor de California (CCPA)'
+  description: Preguntas más frecuentes acerca de la Ley de Privacidad del Consumidor de California (CCPA).
+  keywords: Microsoft 365, compliance, CCPA, GDPR
+  localization_priority: Priority
+  ms.prod: microsoft-365-enterprise
+  ms.topic: article
+  f1.keywords:
+  - NOCSH
+  ms.author: robmazz
+  author: robmazz
+  manager: laurawi
+  audience: itpro
+  ms.collection:
+  - M365-security-compliance
+  - MS-Compliance
+  ms.openlocfilehash: 2c0cbda2280ee8fad77dd5d879341b291bbe3aa2
+  ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "53142289"
+title: 'Preguntas más frecuentes: Ley de Privacidad del Consumidor de California (CCPA)'
+summary: >
+  > [!Note]
+
+  > Este tema se proporciona "tal cual". La información y las opiniones expresadas en este tema, incluyendo referencias a direcciones URL y a otros sitios web de Internet, pueden cambiar sin aviso previo. El uso que haga de ese contenido es su responsabilidad. Este tema se ha creado como guía y no debe interpretarse como asesoría legal. Debe consultar a sus propios profesionales jurídicos. Este tema no le aporta ningún derecho legal a ninguna propiedad intelectual de ningún producto de Microsoft. Puede copiar y utilizar este tema con finalidades de referencia interna y propia.
+sections:
+- name: Versión rápida de las Preguntas más frecuentes
+  questions:
+  - question: >
+      ¿Qué es la CCPA?
+    answer: >
+      Ley de Privacidad del Consumidor de California (CCPA) es la primera norma global de privacidad de Estados Unidos. Se sancionó a finales de junio de 2018 y establece una variedad de derechos de privacidad para los consumidores de California. Las empresas reguladas por el CCPA tendrán una serie de obligaciones para esos consumidores, incluidas las divulgaciones, los derechos del Reglamento general de protección de datos (RGPD) para los consumidores, una "exclusión" para determinadas transferencias de datos y un requisito de "no participar" para los menores.
+  - question: >
+      ¿Quién necesita conocer la CCPA?
+    answer: >
+      La CCPA solo se aplica a los negocios que operan en California y que satisfacen una o varias de las siguientes condiciones: (1) tienen un beneficio bruto superior a 25 millones de USD (2) el 50 % o más de sus ingresos se originan en la venta de información personal de los consumidores, o (3) compran, venden o comparten la información personal de más de 50 000 consumidores.
+  - question: >
+      ¿Cuándo entra en vigor la CCPA?
+    answer: >
+      La CCPA entra en vigor el 1 de enero de 2020. Sin embargo, el Fiscal General no comenzará a aplicarla hasta el 1 de julio de 2020.
+  - question: >
+      ¿Cómo afectará la CCPA a mi empresa?
+    answer: >
+      Muchos de los derechos del CCPA que se proporcionan a los californianos son similares a los derechos que proporciona el RGPD, incluidas las solicitudes de divulgación y de consumidor similares a las solicitudes de derechos del interesado (DSR), como acceso, eliminación y portabilidad. Por lo tanto, los clientes pueden buscar nuestras soluciones de RGPD existentes para ayudarles con el cumplimiento normativo de la CCPA.
+
+
+      Para comenzar con la CCPA, debe centrarse en cinco pasos clave:
+
+
+      - **Descubrimiento**: identifique qué información personal tiene y dónde reside.
+
+      - **Asignación**: determine cómo comparte información personal con terceros e identifique si el tercero está sujeto a una excepción de los requisitos de no participación de la CCPA.
+
+      - **Administración**: controle cómo se usan los datos y cómo se obtiene acceso a ellos.
+
+      - **Protección**: establezca controles de seguridad para evitar, detectar y responder a vulnerabilidades y filtraciones de datos.
+
+      - **Documentación**: elabore un programa de respuesta a una filtración de datos y asegúrese de que sus contratos con terceros aplicables puedan hacer uso de las excepciones de no participación.
+
+
+      Debe comprender cuáles son las obligaciones específicas de su organización en el CCPA y cómo las cumple, aunque Microsoft está aquí para ayudarle en su viaje.
+- name: Versión amplia de las Preguntas más frecuentes
+  questions:
+  - question: >
+      ¿Qué derechos deben habilitar las empresas conforme a la CCPA?
+    answer: >
+      La CCPA establece para los negocios regulados que recopilen, usen, transfieran y vendan información personal, entre otras, las siguientes obligaciones:
+
+
+      - Informar a los consumidores, antes de la recogida de datos, de las categorías y propósitos de la recogida.
+
+      - Dar información detallada en la política de privacidad de las fuentes de datos, los fines empresariales y las categorías de información personal recopilada, incluido cómo se venden estas categorías o se transfieren a otras entidades.
+
+      - Permitir el acceso, la eliminación y la transferencia de los elementos específicos de información personal que usted ha recopilado.
+
+      - Habilite un control que permita a los consumidores no participar en la "venta" de los datos del consumidor. Sin embargo, se siguen aceptando determinadas transferencias, como las transferencias a proveedores de servicios.
+
+      - Para los menores de 16 años, habilite un proceso de participación para que no se pueda producir ninguna venta de la información personal del menor sin participar activamente en la venta.
+
+      - Asegurarse de que no se discrimina a los consumidores que ejerciten cualquiera de sus derechos otorgados por la CCPA.
+  - question: >
+      ¿Qué divulgaciones de información requiere la CCPA?
+    answer: >
+      La CCPA obliga a estas divulgaciones de información:
+
+
+      - Categorías de la información personal del consumidor recopilada.
+
+      - Categorías de las fuentes usadas en la recopilación.
+
+      - Fines empresariales o comerciales para la recopilación.
+
+      - Categorías de terceros con los que se 'comparte' la información personal.
+
+      - Categorías de información personal que se han "vendido" y las categorías de "terceros" a los que se ha vendido cada categoría de información personal.
+
+      - Categorías de información personal que se han "divulgado con fines empresariales" (es decir, transferidas pero no una "venta") y las categorías de "terceros" a los que se transfirió cada categoría de información personal.
+
+      - Las partes específicas de la información personal que se han recopilado sobre el consumidor.
+  - question: >
+      ¿Cómo se "venden" los datos en el CCPA?
+    answer: >
+      La definición de "vender" en el CCPA es increíblemente amplia, incluida "hacer que la información personal esté disponible para" un tercero para una consideración monetaria u otra consideración valiosa. Cuando un consumidor haya elegido "no participar", la empresa tendrá que desactivar el flujo de información personal a terceros.
+
+
+      El CCPA proporciona una serie de salidas de carro a este control de exclusión de "venta". Las tres salidas principales son transferencias (i) a un proveedor de servicios, (ii) a una "entidad exenta" o "contratista" y (iii) a la dirección del consumidor. Incluso si un consumidor ha elegido "no participar", la información personal puede seguir transfiriendo a terceros que encajan en esas salidas.
+
+
+      Para poder beneficiarse de las dos primeras exenciones, los negocios tendrán que asegurarse de que las transferencias se rijan por contratos escritos que contengan los términos específicos necesarios para la CCPA.
+  - question: >
+      ¿Qué significan "Empresas" y "Proveedores de servicios" en el contexto de CCPA?
+    answer: >
+      En el contexto de CCPA, las empresas son personas o entidades que determinan los fines y los medios del procesamiento de los datos personales del consumidor, y los proveedores de servicios son personas o entidades que procesan información en nombre de una empresa. Por lo general, son sinónimos de los términos *Controladores* y *Procesadores* utilizados en el GRPD.
+  - question: >
+      ¿A cuánto pueden ascender las multas a las empresas por incumplimiento?
+    answer: >
+      El derecho privado de acción de la CCPA se limita a filtraciones de datos. Bajo el derecho privado de acción, los daños oscilan entre 100 y 750 dólares por incidente y consumidor. El Fiscal General de California también puede aplicar la CCPA en su totalidad para imponer una sanción civil que no supere los 2500 USD por infracción o los 7500 USD por infracción intencional.
+  - question: >
+      ¿Qué hace Microsoft para cumplir la CCPA?
+    answer: >
+      Como Microsoft ya ha implementado a escala global solicitudes de interesados relacionadas con el RGPD, nos encontramos en una posición excelente para cumplir los requisitos de la CCPA. También hemos revisado nuestros acuerdos de uso compartido de datos de terceros y hemos tomado medidas para establecer que se han establecido los términos contractuales necesarios para garantizar que no "vendemos" información personal.
+  - question: >
+      ¿Qué herramientas pueden ayudar a mi organización a empezar a prepararse para la CCPA?
+    answer: >
+      - Empiece por aprovechar la evaluación del RGPD en el Administrador de cumplimiento como parte de su programa de privacidad de la CCPA.
+
+      - Establezca un proceso de respuesta eficaz a las solicitudes de los clientes.
+
+      - Configure etiquetas y directivas para detectar, clasificar, etiquetar y proteger los datos confidenciales con Microsoft Information Protection.
+
+      - Use las capacidades de cifrado de correo electrónico para controlar aún más la información confidencial.
+
+      - En esta [entrada de blog](https://aka.ms/M365ComplianceBlog_RSA) se ofrece más información al respecto.
+  - question: >
+      ¿Cuáles son las diferencias entre el RGPD y la CCPA?
+    answer: >
+      Hay muchas diferencias. Es más fácil centrarse en las similitudes, como:
+
+
+      - Obligaciones de divulgación/transparencia.
+
+      - Derechos de consumidor para tener acceso, eliminar y recibir una copia de los datos.
+
+      - Definición de "proveedores de servicios" que es similar a la forma en que el RGPD define los "procesadores" con una obligación contractual similar.
+
+      - Definición de "empresas" que abarca la definición RGPD de "controladores".
+
+
+      La mayor diferencia en CCPA es el requisito principal para permitir la exclusión de las ventas de datos a terceros (con la "venta" definida ampliamente para incluir el uso compartido de datos para una consideración valiosa). Se trata de una obligación más limitada y específica que el amplio derecho RGPD a oponerse al procesamiento, que abarca este tipo de "venta", pero no se limita específicamente a cubrir este tipo de uso compartido.
+  - question: >
+      ¿Qué son los procesadores y los controladores?
+    answer: >
+      Un controlador es una persona física o jurídica, una autoridad pública, una agencia u otro organismo que, solo o junto con otros, determina los medios de procesamiento de los datos personales y sus fines. Un procesador es una persona física o jurídica, una autoridad pública, una agencia u otro organismo que procesa datos personales en nombre del responsable.
+  - question: >
+      ¿Qué se considera específicamente información personal?
+    answer: >
+      La información personal es cualquier información relacionada con una persona identificada o identificable. No hay distinción entre los roles privados, públicos o laborales de una persona. El término definido "información personal" se forma aproximadamente con "datos personales" en el RGPD. Sin embargo, la CCPA también incluye datos domésticos y familiares.
+
+
+      Algunos ejemplos de datos personales incluyen:
+
+
+      *Identidad*
+
+
+      - Nombre
+
+      - Dirección del domicilio
+
+      - Dirección del trabajo
+
+      - Número de teléfono
+
+      - Número de celular
+
+      - Dirección de correo
+
+      - Número de pasaporte
+
+      - Documento de identificación nacional
+
+      - Número de la Seguridad Social (o equivalente)
+
+      - Licencia de conducir
+
+      - Información física, psicológica o genética
+
+      - Información médica
+
+      - Identidad cultural
+
+
+      *Finanzas*
+
+
+      - Información bancaria y números de cuentas
+
+      - Número de identificación fiscal
+
+      - Números de tarjetas de crédito y débito
+
+      - Publicaciones de las redes sociales
+
+
+      *Artefactos en línea*
+
+
+      - Publicaciones de las redes sociales
+
+      - Dirección IP (región de la UE)
+
+      - Datos de ubicación y GPS
+
+      - Cookies
+  - question: >
+      ¿Cómo se aplica la CCPA a los niños?
+    answer: >
+      - La CCPA introduce obligaciones del consentimiento paterno compatibles con la Ley de Protección de la Privacidad en Línea de los Niños (COPPA) para menores de 13 años.
+
+      - Para los niños de entre 13 y 16 años, CCPA impone una nueva obligación de obtener el consentimiento de participación del niño para cualquier "venta" de su información personal.
+  - question: >
+      ¿Qué ocurre con los datos personales de mis empleados?
+    answer: >
+      En octubre de 2019, se realizaron algunas enmiendas a la CCPA. Una de las enmiendas estableció que las obligaciones de la CCPA no se aplican a la información personal de los empleados de la empresa. Sin embargo, los legisladores han puesto una moratoria de un año a esta exención. Creemos que California elaborará una nueva legislación de protección de datos para empleados en el 2020.  
+  - question: >
+      Como cliente de Microsoft, ¿necesito implementar el control de no participación para las transferencias a Microsoft?
+    answer: No. Como proveedor de servicios en línea, estamos tomando medidas para garantizar que califiquemos como "Proveedor de servicios" en CCPA. Como se indicó anteriormente, se permiten transferencias de información personal a los Proveedores de Servicios, incluso cuando un consumidor ha optado por no participar.
