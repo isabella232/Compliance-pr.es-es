@@ -20,24 +20,24 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: eccc07b5f40182c3dad8652f0e4c1671b5eb9843
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
+ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496220"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53141471"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de interesados de la familia de Visual Studio para el RGPD y CCPA
 
 El [Reglamento General de Protección de Datos (RGPD)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) de la Unión Europea ofrece derechos a los individuos (que se denominan _interesados_ en el reglamento) para administrar sus datos personales. Los datos personales se definen de forma muy amplia según el RGPD como cualquier dato relacionado con una persona física, ya sea identificada o identificable. El RGPD ofrece a los interesados derechos específicos sobre sus datos personales, como la obtención de copias de sus datos, la solicitud de correcciones, impedir su tratamiento o eliminación o el envío en formato electrónico. Una solicitud formal realizada por un interesado a un responsable de los datos (que es un empleado o cualquier otro tipo de agencia u organización que tiene control sobre los datos personales) para realizar una acción en sus datos personales se denomina _solicitud de interesado_.
 
-De forma similar, la Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés), ofrece derechos y obligaciones de privacidad a los consumidores de California, incluyendo derechos similares a los Derechos del Interesado de GDPR, como el derecho de eliminar, acceder y recibir (portabilidad) su información personal.  La CCPA también prevé casos de divulgación de información, protecciones contra la discriminación en el ejercicio de derechos y requisitos de "cancelación/suscripción" para ciertas transferencias de datos clasificadas como "ventas". Las ventas se definen de forma amplia para incluir el uso compartido de datos con ánimo de lucro. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](offering-ccpa.md) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](ccpa-faq.md).
+De forma similar, la Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés), ofrece derechos y obligaciones de privacidad a los consumidores de California, incluyendo derechos similares a los Derechos del Interesado de GDPR, como el derecho de eliminar, acceder y recibir (portabilidad) su información personal.  La CCPA también prevé casos de divulgación de información, protecciones contra la discriminación en el ejercicio de derechos y requisitos de "cancelación/suscripción" para ciertas transferencias de datos clasificadas como "ventas". Las ventas se definen de forma amplia para incluir el uso compartido de datos con ánimo de lucro. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](offering-ccpa.md) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](ccpa-faq.yml).
 
 Para obtener información general sobre el RGPD, consulte la [sección RGPD del Portal de confianza de servicios](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted).
 
 ## <a name="products-covered-by-this-guide"></a>Productos cubiertos en esta guía
 
-Esta guía describe cómo usar las herramientas de Microsoft para exportar o eliminar datos personales recopilados durante una sesión autenticada (en la que se haya iniciado sesión) de Visual Studio y Visual Studio para Mac y sus extensiones de Microsoft y Visual Studio Code. Asimismo, en esta guía se explica cómo crear solicitudes de interesados para los datos personales que se recopilan al usar Visual Studio Developer Community, NuGet.org y el ASP.NET Web. Es posible que estos productos habiliten el uso de herramientas y extensiones que no sean de Microsoft y que Microsoft no sea procesador ni controlador de datos de estas herramientas y extensiones. Los usuarios deben ponerse en contacto con el proveedor de estas extensiones y herramientas para conocer sus directivas de recopilación de datos personales.
+En esta guía, se describe cómo usar las herramientas de Microsoft para exportar o eliminar los datos personales recopilados durante el uso de Visual Studio y Visual Studio para Mac en sesiones autenticadas (o en las que se ha iniciado sesión), y cómo usar extensiones de Microsoft en ellos y en Visual Studio Code. También se explica cómo crear solicitudes de interesados relativas a los datos personales recopilados mientras se usaba la comunidad de desarrolladores de Visual Studio, NuGet.org y el sitio web ASP.NET. Estos productos pueden permitir el uso de herramientas y extensiones ajenas a Microsoft, donde Microsoft no es un procesador o poseedor de datos. Por tanto, los usuarios deberán ponerse en contacto con el proveedor de la herramienta o la extensión en cuestión para conocer las directivas de recopilación y datos personales que rigen tales herramientas y extensiones.
 
 ## <a name="additional-privacy-information"></a>Información de privacidad adicional
 
