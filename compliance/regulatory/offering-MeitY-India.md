@@ -1,6 +1,6 @@
 ---
-title: Ministerio de electrónica y tecnología de la información (MeitY)
-description: El Ministerio de electrónica y tecnología de la información de Microsoft ha ofrecido plena acreditación en la India.
+title: Ministerio de Electrónica y Tecnología de la Información (MeitY)
+description: Microsoft recibió una acreditación completa por parte del Ministerio de Electrónica y Tecnología de la Información en india.
 keywords: Microsoft 365, cumplimiento, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,52 +16,52 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: db3764419ae036eb578b7c09b5ee5dfeb7a07e29
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f9b5924ce8f8424479bd4320f6e33e6fec7e636d
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508353"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384510"
 ---
-# <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministerio de electrónica y tecnología de la información (MeitY)
+# <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministerio de Electrónica y Tecnología de la Información (MeitY)
 
-## <a name="meity-overview"></a>Información general sobre MeitY
+## <a name="meity-overview"></a>Introducción a MeitY
 
-El Ministerio de electrónica y de tecnología de la información (MeitY), una agencia del gobierno de India, ofrece directrices de directivas a todas las organizaciones gubernamentales y estatales del sector público. Las directrices también son adoptadas frecuentemente por organizaciones del sector privado en industrias reguladas, como servicios financieros y telecomunicaciones.
+El Ministerio de Electrónica y Tecnología de la Información (MeitY), una agencia del gobierno de india, proporciona directrices de directiva a todas las organizaciones gubernamentales y estatales del sector público. Sus directrices también son adoptadas con frecuencia por organizaciones del sector privado en industrias reguladas, como los servicios financieros y las telecomunicaciones.
 
-MeitY proporciona acreditación (a la que hace referencia MeitY "empanelment") de proveedores de servicios en la nube, lo que requiere que los servicios en la nube estén certificados como compatibles con un conjunto predefinido de estándares y directrices sobre seguridad, interoperabilidad, portabilidad de datos, contrato de nivel de servicio y términos y condiciones contractuales. Los auditores acreditados por MeitY verifican el cumplimiento mediante la realización de auditorías de proveedores de servicios en la nube.
+MeitY proporciona la acreditación (denominada por MeitY como "empanelment") de proveedores de servicios en la nube, lo que requiere que los servicios en la nube se certificen como compatibles con un conjunto predefinido de estándares y directrices sobre seguridad, interoperabilidad, portabilidad de datos, contrato de nivel de servicio y términos y condiciones contractuales. Los auditores acreditados por MeitY comprueban el cumplimiento realizando auditorías de proveedores de servicios en la nube.
 
-Una vez acreditado, los proveedores de servicios de nube se enumeran en un directorio de servicios de nube gubernamental donde las organizaciones del sector público pueden comparar y adquirir servicios en la nube acreditada. El directorio es un servicio de la [MeghRaj Cloud Initiative](https://meity.gov.in/content/gi-cloud-meghraj) (o GI \[ Government Government of India \] Cloud), que promueve el uso de la informática en la nube en el gobierno y rige la implementación de los servicios de TI del sector público.
+Una vez acreditados, los proveedores de servicios en la nube aparecen en un directorio de servicios en la nube del gobierno donde las organizaciones del sector público pueden comparar y adquirir servicios en la nube acreditados. El directorio es un servicio de la Iniciativa en la nube [de MeghRaj](https://meity.gov.in/content/gi-cloud-meghraj) (o GI Government of India Cloud), que promueve el uso de informática en la nube en el gobierno y rige la implementación de servicios de IT del \[ \] sector público.
 
-## <a name="microsoft-and-ministry-of-electronics-and-information-technology-meity"></a>Microsoft y el Ministerio de la electrónica y la tecnología de la información (MeitY)
+## <a name="microsoft-and-ministry-of-electronics-and-information-technology-meity"></a>Microsoft y el Ministerio de Electrónica y Tecnología de la Información (MeitY)
 
-En noviembre de 2017, Microsoft se convirtió en uno de los primeros proveedores de servicios en la nube global para obtener una acreditación completa por MeitY para sus tres modelos de nube:
+En noviembre de 2017, Microsoft se convirtió en uno de los primeros proveedores globales de servicios en la nube en lograr la acreditación completa de MeitY para sus tres modelos en la nube:
 
-- Nube pública, para servicios compartidos en la nube pública de varios inquilinos
-- Nube privada virtual de gobierno, que debe estar separada lógicamente del público y de otras ofertas del proveedor de servicios en la nube
-- Nube de la comunidad de administración pública, para los servicios en la nube dedicados a los departamentos gubernamentales y separados físicamente del público y otras ofertas del proveedor de servicios en la nube
+- Nube pública, para servicios compartidos de nube pública multiinquilino
+- Nube privada virtual gubernamental, que debe ser lógicamente independiente de la oferta pública y otras ofertas del proveedor de servicios en la nube
+- Government Community Cloud, para servicios en la nube dedicados a departamentos gubernamentales y físicamente independientes del público y otras ofertas del proveedor de servicios en la nube
 
-La acreditación MeitY de Microsoft fue el resultado de una auditoría rigurosa realizada por la dirección de prueba de estandarización y de certificación de calidad (STQC), una organización gubernamental que proporciona servicios de control de calidad mediante un marco de evaluación basado en el trabajo de la iniciativa de nube de MeghRaj. Con Microsoft Azure, las organizaciones del sector público ahora pueden dibujar en una amplia variedad de modelos de implementación y ofertas de servicios, como la infraestructura como servicio (IaaS), la plataforma como servicio (PaaS), la recuperación ante desastres, DevOps y la copia de seguridad administrada.
+La acreditación MeitY de Microsoft fue el resultado de una rigurosa auditoría realizada por la Dirección de certificación de calidad y pruebas de normalización (STQC), una organización gubernamental que proporciona servicios de control de calidad, mediante un marco de evaluación basado en el trabajo de la Iniciativa en la nube de MeghRaj. A través de Microsoft Azure, las organizaciones del sector público ahora pueden usar una amplia variedad de modelos de implementación y ofertas de servicios, incluida la infraestructura como servicio (IaaS), la plataforma como servicio (PaaS), la recuperación ante desastres, DevOps y la copia de seguridad administrada.
 
-## <a name="microsoft-in-scope-cloud-services"></a>En el ámbito de los Servicios en la nube de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
 
 - [Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
-- Acreditación de la nube [de Microsoft en estado de auditoría de proveedores de servicios de nube](https://meity.gov.in/content/gi-cloud-meghraj)
+- Acreditación de Microsoft Cloud en [estado de auditoría de proveedores de servicios en la nube](https://meity.gov.in/content/gi-cloud-meghraj)
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Por qué es importante MeitY?**
 
-El hecho de que los servicios de administración pública estén disponibles para los ciudadanos en línea es una parte fundamental del programa digital India, que tiene como objetivo ' transformar India en una sociedad y economía de la información habilitadas digitalmente. MeitY enumera los proveedores de servicios en la nube acreditados en el directorio Government Cloud Services, lo que permite a las organizaciones del sector público comparar y adquirir dichos servicios.
+Poner los servicios gubernamentales a disposición de los ciudadanos en línea es una parte clave del programa Digital India, cuyo objetivo es "transformar India en una sociedad y una economía del conocimiento con capacidad digital". MeitY enumera proveedores de servicios en la nube acreditados en el directorio de servicios en la nube del gobierno, lo que permite a las organizaciones del sector público comparar y adquirir esos servicios.
 
 ## <a name="resources"></a>Recursos
 
-- [Ministerio de electrónica y tecnología de la información](https://meity.gov.in/)
-- [Iniciativa de nube de MeghRaj](https://meity.gov.in/content/gi-cloud-meghraj)
+- [Ministerio de Electrónica y Tecnología de la Información](https://meity.gov.in/)
+- [Iniciativa en la nube de MeghRaj](https://meity.gov.in/content/gi-cloud-meghraj)
 - [Proveedores de servicios en la nube acreditados](https://meity.gov.in/content/gi-cloud-meghraj)
-- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

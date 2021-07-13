@@ -1,6 +1,6 @@
 ---
-title: 'Administración de incidentes de seguridad de Microsoft 365: actividad posterior al incidente'
-description: En este artículo, se proporciona información general sobre el proceso de actividad posterior a la incidencia de administración de incidentes de seguridad en Microsoft 365.
+title: 'Administración de incidentes de seguridad de Microsoft: actividad posterior al incidente'
+description: En este artículo, se proporciona información general sobre el proceso de actividad posterior a la incidencia de administración de incidentes de seguridad en los servicios en línea de Microsoft.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,36 +19,38 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4ebd31c16f8abb3eddd6ed924a045d88597aba40
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 965c7d6d0d469b9eea981252805bda598c92a4c8
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496711"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377537"
 ---
-# <a name="microsoft-365-security-incident-management-post-incident-activity"></a>Administración de incidentes de seguridad de Microsoft 365: actividad posterior al incidente
+# <a name="microsoft-security-incident-management-post-incident-activity"></a>Administración de incidentes de seguridad de Microsoft: actividad posterior al incidente
 
 ## <a name="postmortem"></a>Postmortem
 
-Algunos incidentes de seguridad, especialmente los incidentes que afectan al cliente o resultan en una vulneración de datos, están sujetos a un postmortem completo de incidentes. El equipo de respuesta de seguridad de Microsoft 365 lleva a cabo un postmortem detallado con todas las partes implicadas en la respuesta a incidentes de seguridad a:
+Algunos incidentes de seguridad, especialmente los incidentes que afectan al cliente o resultan en una vulneración de datos, están sujetos a un postmortem completo de incidentes. El equipo de respuesta de seguridad lleva a cabo un postmortem detallado con todas las partes implicadas en la respuesta a incidentes de seguridad para:
 
-- Documentar la secuencia de eventos que provocaron el incidente
+- Documente la secuencia de eventos que provocaron el incidente.
 - Cree un resumen técnico del incidente tal como lo admiten las pruebas que incluyen los actores implicados en la infracción (si se conoce). Este resumen incluirá cómo se ejecutó la respuesta y otras claves.
 - Identifique lapsos técnicos, errores de procedimiento, errores manuales, defectos de proceso y problemas de comunicación, o cualquier vector de ataque desconocido anteriormente que se identificara durante la respuesta a incidentes de seguridad.
 
-The postmortem will directly influence Microsoft 365 service improvement, operational processes, and documentation by setting new priorities in the Microsoft 365 engineering development cycle.
+The postmortem will directly influence Microsoft online service improvement, operational processes, and documentation by setting new priorities in the Microsoft online services engineering development cycle.
 
 ## <a name="documentation"></a>Documentación
 
-Todas las conclusiones técnicas clave del proceso postmortem se capturan en un informe y las inversiones de servicio o correcciones en forma de errores o solicitudes de cambio de desarrollo. Estos resultados se siguen con los equipos de ingeniería adecuados. Para los errores de proceso y problemas entre organizaciones, los problemas se documentan en la base de datos del equipo de respuesta de seguridad de Microsoft 365 y se siguen con los grupos adecuados para solucionarlos.
+Todas las conclusiones técnicas clave del proceso postmortem se capturan en un informe y las inversiones de servicio o correcciones en forma de errores o solicitudes de cambio de desarrollo. Estos resultados se siguen con los equipos de ingeniería adecuados. Para los errores de proceso y problemas entre organizaciones, los problemas se documentan en la base de datos del equipo de respuesta de seguridad y se siguen con los grupos adecuados para solucionarlos.
 
 ## <a name="process-improvement"></a>Mejora de procesos
 
-Responder a un incidente de seguridad en Microsoft 365 implica la coordinación con varios grupos repartidos entre diferentes organizaciones dentro de Microsoft, e incluso organizaciones externas potencialmente apropiadas, como las fuerzas del orden. Sabemos que es fundamental evaluar nuestras respuestas después de cada incidente de seguridad para la suficiencia y la integridad. Para las mejoras o cambios identificados, el equipo de respuesta de seguridad de Microsoft 365 evalúa las sugerencias en consulta con los equipos y partes interesadas adecuados y, en su caso, las incorpora en los procedimientos operativos estándar. Todos los cambios, errores o mejoras de servicio necesarios identificados durante la respuesta a incidentes de seguridad o la actividad postmortem se registran y se realiza un seguimiento en una base de datos de ingeniería interna de Microsoft 365. Todos los posibles errores o características se asignan al propietario adecuado. El equipo de respuesta de seguridad de Microsoft 365 revisa todas las entradas hasta que se resuelva el problema.
+Responder a un incidente de seguridad en los servicios en línea de Microsoft implica la coordinación con varios grupos repartidos entre distintas organizaciones dentro de Microsoft, e incluso organizaciones externas potencialmente adecuadas, como las fuerzas del orden. Sabemos que es fundamental evaluar nuestras respuestas después de cada incidente de seguridad para la suficiencia y la integridad. Para las mejoras o cambios identificados, el equipo de respuesta de seguridad evalúa las sugerencias en consulta con los equipos y partes interesadas adecuados, y, si procede, las incorpora en los procedimientos operativos estándar. Todos los cambios, errores o mejoras de servicio necesarios identificados durante la respuesta a incidentes de seguridad o la actividad postmortem se registran y se realiza un seguimiento en una base de datos de ingeniería interna de Microsoft. Todos los posibles errores o características se asignan al propietario adecuado. El equipo de respuesta de seguridad de Microsoft revisa todas las entradas hasta que se resuelve el problema.
 
 ## <a name="related-articles"></a>Artículos relacionados
 
-- [Administración de incidentes de seguridad de Microsoft 365](assurance-security-incident-management.md)
-- [Preparación de la administración de incidentes de seguridad de Microsoft 365](assurance-sim-preparation.md)
-- [Análisis y detección de incidentes de seguridad de Microsoft 365](assurance-sim-detection-analysis.md)
-- [Contención, eliminación y recuperación de la administración de incidentes de seguridad de Microsoft 365](assurance-sim-containment-eradication-recovery.md)
+- [Administración de incidentes de seguridad de Microsoft](assurance-security-incident-management.md)
+- [Administración de incidentes de seguridad de Microsoft: Preparación](assurance-sim-preparation.md)
+- [Administración de incidentes de seguridad de Microsoft: detección y análisis](assurance-sim-detection-analysis.md)
+- [Administración de incidentes de seguridad de Microsoft: contención, eliminación y recuperación](assurance-sim-containment-eradication-recovery.md)
+- [Cómo registrar un vale de soporte de eventos de seguridad](/azure/security/fundamentals/event-support-ticket)
+- [Azure y Dynamics 365 notificación de infracciones bajo el GDPR](/compliance/regulatory/gdpr-breach-azure-dynamics)

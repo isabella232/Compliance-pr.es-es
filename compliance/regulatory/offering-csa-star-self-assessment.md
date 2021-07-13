@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d9bf4c3cf6615b966b4bfb4e70293415deaeeac6
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: c2736c5ddb9c29a65d37f95c271bfb56e97fee88
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508283"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384220"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>Autoevaluación de la nube Security Alliance (CSA)
 
@@ -44,20 +44,31 @@ La STAR ofrece tres niveles de seguridad; CSA – STAR evaluación automática e
 
 Como parte de la autoevaluación en estrella, los CSP pueden enviar dos tipos diferentes de documentos para indicar su cumplimiento con las prácticas recomendadas de CSA: una CAIQ completada, o un informe que documenta el cumplimiento normativo de CCM. En el caso de la autoevaluación de CSA STAR, Microsoft publica un informe basado en CAIQ y CCM para Microsoft Azure, y informes basados en CCM para Microsoft Dynamics 365 y Microsoft Office 365.  
 
-Obtenga más información sobre cómo acelerar la implementación de la certificación de CSA STAR en el Plano técnico de seguridad y cumplimiento de Azure: [Descargue las respuestas de Microsoft Azure al Cuestionario de Iniciativa de Evaluaciones de Consenso de CSA](https://gallery.technet.microsoft.com/Azure-Responses-to-CSA-46034a11)
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de nube de Microsoft dentro de ámbito
+- Azure y Azure Government
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Office 365
 
-- [Azure y Azure Government](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365 CSA STAR autoevaluación](https://cloudsecurityalliance.org/star/registry/microsoft/)
+## <a name="azure-dynamics-365-and-csa-star-self-assessment"></a>Azure, Dynamics 365 y autoevaluación de CSA STAR
 
-## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
+Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y otros servicios en línea, consulte la [oferta de autoevaluación de Azure CSA STAR de Azure](/azure/compliance/offerings/offering-csa-star-self-assessment).
 
-- [Respuesta estándar de Azure a la solicitud de información](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=f7ca8423-1bc5-4be0-bff8-b6056f87c134&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ%20and%20White%20Papers)
-- [Azure Cloud Security All-*/iance CAIQ](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a966a424-ecfd-4de2-9739-b08aee2d3ca0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides)
-- [Respuestas de Azure a la CSA CAIQ v 3.0.1](https://gallery.technet.microsoft.com/Azure-Responses-to-CSA-46034a11)
+## <a name="office-365-and-csa-star-self-assessment"></a>Autoevaluación de Office 365 y CSA STAR
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad de Office 365 y servicios dentro del ámbito
+
+Use la tabla siguiente para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+
+| **Aplicabilidad** | **Servicios del ámbito** |
+|:------------------|:----------------------|
+| **Office 365** |Exchange Online, Exchange Online Protection, Portal del cliente de Office 365, Office Online, Infraestructura de Servicios de Office, OneDrive para la Empresa, SharePoint Online, Skype Empresarial |
+
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Con qué estándares del sector de la industria se alinea CSA CCM?**
 
@@ -67,21 +78,14 @@ El CCM corresponde a los estándares de seguridad, regulaciones y marcos de cont
 
 Permita que los CSP documenten el cumplimiento de CSA, la publicación de procedimientos recomendados de forma transparente. Los informes de autoevaluación se encuentran disponibles públicamente y, por lo tanto, ayudan a los clientes de la nube a mejorar la visibilidad de las prácticas de seguridad de los CSP y comparan varios CSP con la misma línea base.
 
-**¿Qué niveles de garantía de CSA STAR obtuvieron los servicios empresariales en la nube de Microsoft?**
+**¿Qué niveles de garantía de CSA STAR ha obtenido Office 365?**
 
-- **Nivel 1**: **Autoevaluación para CSA STAR**: Azure, Dynamics 365 y Office 365. El análisis automático es una oferta complementaria de los proveedores de servicios en la nube para documentar sus controles de seguridad y así ayudar a los clientes a evaluar la seguridad del servicio.
-- **Nivel 2**: **Certificación CSA STAR**: Azure, Microsoft Cloud App Security, Intune y Power BI. La certificación STAR exige lograr la certificación ISO/IEC 27001 y cumplir los criterios especificados en la CCM. Se otorga después de una evaluación rigurosa hecha por terceros de los controles y prácticas de seguridad de un proveedor de servicios en la nube.
-- **Nivel 2**: **Atestación de CSA STAR**: Azure e Intune. CSA y AICPA han colaborado para proporcionar directrices para CPA a utilizar en la realización de SOC 2, con criterios de AICPA (Principios de Servicio de Confianza, AT 101) y CCM CSA. La atestación de STAR se basa en estas directrices y se otorga después de las evaluaciones independientes de estrictos de los proveedores en la nube.
+- **Nivel 1**: **Autoevaluación de CSA STAR**: El análisis automático es una oferta complementaria de los proveedores de servicios en la nube para documentar sus controles de seguridad y así ayudar a los clientes a evaluar la seguridad del servicio.
 
-## <a name="resources"></a>Recursos
+### <a name="office-365-resources"></a>Recursos de Office 365
 
 - [Cloud Security Alliance](https://cloudsecurityalliance.org/)
 - [Matriz de Controles en la Nube (CCM)](https://cloudsecurityalliance.org/group/cloud-controls-matrix/)
 - [Cuestionario sobre la iniciativa evaluaciones de consenso (CAIQ)](https://cloudsecurityalliance.org/group/consensus-assessments/)
 - [Registro de Seguridad, Confianza y Garantía (STAR) de CSA](https://cloudsecurityalliance.org/star/)
 - [Cumplimiento normativo en el Centro de confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
-
-## <a name="microsoft-csa-star-self-assessments"></a>Evaluaciones automáticas de Microsoft CSA STAR
-
-- [Azure](https://aka.ms/Azure_STAR)
-- [Dynamics 365](https://aka.ms/DynamicsCRM_Online_STAR)

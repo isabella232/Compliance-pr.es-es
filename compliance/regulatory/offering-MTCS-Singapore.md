@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 07620a613cefd4ebac5acd0626ee855f8d077089
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 111a13f2b9d3e3988f8ae673d5ae9f0c053e2ec9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120099"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384520"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>Estándar de Seguridad en la Nube Multinivel (MTCS) para Singapur
 
@@ -44,21 +44,33 @@ Tras las evaluaciones rigurosas realizadas por el cuerpo de certificación MTCS,
 
 Se concedieron certificaciones en el Nivel 3 para servicios de Microsoft Azure (IaaS y PaaS), Microsoft Dynamics 365 (SaaS) y Microsoft Office 365 (SaaS). Una certificación de Nivel 3 significa que los servicios en ámbito en la nube de Microsoft pueden hospedar datos de alto impacto de organizaciones reguladas con los requisitos de seguridad más estrictos. El Gobierno de Singapur requiere ciertas implementaciones para algunas soluciones en la nube.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
-- [Azure](https://go.microsoft.com/fwlink/p/?linkid=2092718)
-- [Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2051700)
-- Microsoft Cloud App Security
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Genomics
+- Intune
+- Microsoft Cloud App Security
 - Microsoft Graph
 - Bot de Microsoft Healthcare
-- Intune
-- Flow
+- Office 365
 - OMS Service Map
 - PowerApps
 - Power BI
-- Microsoft Stream
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+
+## <a name="office-365-and-mtcs"></a>Office 365 y MTCS
+
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad de Office 365 y servicios dentro del ámbito
+
+Use la tabla siguiente para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+
+| **Aplicabilidad** | **Servicios del ámbito** |
+|:------------------|:----------------------|
+| **Office 365** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Portal del cliente de Office 365, Office Online, Infraestructura de Servicios de Office, SharePoint Online, Skype Empresarial |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 

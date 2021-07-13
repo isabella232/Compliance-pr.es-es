@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e57959e6463704b1a6821ace10b9eadad1b570c1
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: de14ca813334e575709b0c4546de95dcf3ef21be
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088849"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385500"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>Autoridad australiana de regulación prudencial (APRA)
 
@@ -72,13 +72,27 @@ Al confiar en nuestro enfoque completo para la garantía de riesgos en la nube, 
 
 Obtenga soporte práctico para mover datos y cargas de trabajo a Azure de acuerdo con las normativas de APRA: Descargar los servicios en la nube de [Microsoft:](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)una lista de comprobación de cumplimiento para las instituciones financieras en Australia .
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
 
-- [Azure](https://aka.ms/AzureCompliance)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Dynamics 365
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Office 365
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="office-365-and-apra"></a>Office 365 y APRA
+
+### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+
+Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+
+| **Aplicabilidad** | **Servicios en el ámbito** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online Protection, Exchange Online, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive para la Empresa, SharePoint Online, Skype Empresarial |
+
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Necesitan las instituciones financieras la aprobación de APRA antes de subcontratar actividades empresariales de material?**
 
@@ -107,4 +121,4 @@ Sí. La legislación general de privacidad (que se aplica en todos los sectores,
 - [Programa de cumplimiento de servicios financieros de Microsoft](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Programa de cumplimiento de servicios financieros en Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Servicios en la nube de Microsoft para empresas y servicios financieros](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
-- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

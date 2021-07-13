@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fe96da8b7a8ef89f9dd8ce14573e3489c75f93e7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 896202ea1f51d88d1871a2c7ff81f4ee1e620d17
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087619"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385370"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Directiva de seguridad de Criminal Justice Information Services (CJIS)
 
@@ -43,20 +43,38 @@ Microsoft ha evaluado las directivas operativas y los procedimientos de Microsof
 
 Obtenga información sobre las ventajas de la directiva de seguridad de CJIS en Microsoft Cloud: [lea cómo Genetec borró las investigaciones penales](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios en la nube de Microsoft en el ámbito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
 
-- [Azure Government](/azure/azure-government/documentation-government-welcome)
-- [Dynamics 365 U.S. Government](/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
-- [Office 365 Gobierno de EE. UU.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
-- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- Azure Government
+- Dynamics 365 U.S. Government
+- Office 365 Gobierno de EE. UU.
+- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
 
-## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
+## <a name="azure-dynamics-365-and-cjis"></a>Azure, Dynamics 365 y CJIS
+
+Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y otros servicios en línea, vea la oferta [de Azure CJIS](/azure/compliance/offerings/offering-cjis).
+
+## <a name="office-365-and-cjis"></a>Office 365 y CJIS
+
+### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+
+Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+
+| **Aplicabilidad** | **Servicios en el ámbito** |
+|:------------------|:----------------------|
+| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Formularios, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de cumplimiento de Office 365 Seguridad &, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 auditorías, informes y certificados
 
 El FBI no ofrece la certificación del cumplimiento de Microsoft con los requisitos de CJIS. En su lugar, una certificación de Microsoft se incluye en los acuerdos entre Microsoft y la autoridad CJIS de un estado, y entre Microsoft y sus clientes.
 
 [Requisitos de nube de Microsoft CJIS](https://aka.ms/MicrosoftCJISCloudRequirements)
 
-## <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>Estado de CJIS en Estados Unidos (actual a partir del 11/5/2020)
+### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>Estado de CJIS en Estados Unidos (actual a partir del 11/5/2020)
 
 45 estados y el Distrito de Columbia con acuerdos de administración, resaltados en el mapa en verde incluyen:
 
@@ -64,7 +82,7 @@ Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Florida, 
 
 El compromiso de Microsoft de cumplir con los controles normativos CJIS aplicables permite a las organizaciones de justicia penal implementar soluciones basadas en la nube y cumplir con la directiva de seguridad CJIS V5.9.
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Dónde puedo solicitar información de cumplimiento?**
 
@@ -78,15 +96,14 @@ Microsoft firma un acuerdo de información con una agencia estatal de sistemas C
 
 [La directiva de seguridad de CJIS](https://aka.ms/cjis-security-policy) cubre las precauciones que debe tomar su agencia para proteger CJI. Además, el representante de la cuenta microsoft puede ponerse en contacto con aquellos que están familiarizados con los requisitos de su jurisdicción
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
 [El Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Recursos
+### <a name="resources"></a>Recursos
 
 - [Servicios de información de justicia penal](https://aka.ms/cjis)
 - [Directiva de seguridad de CJIS](https://aka.ms/cjis-security-policy)
-- [Directrices de implementación de CJIS para Azure Government](https://aka.ms/cjisimplementationguidelines)
-- [Marco de cumplimiento del centro de controles comunes de Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
+- [Marco de Cumplimiento del Centro de Controles Comunes de Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Nube de Microsoft para la Administración Pública](https://go.microsoft.com/fwlink/?linkid=2087246)
 - [Cumplimiento normativo en el Centro de confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

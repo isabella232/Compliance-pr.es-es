@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 887d6a2be0ef4b1d9f1d22eefc53e3fc23e75e22
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b39c658a768dc106008dcd73a064b05706f734c6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088819"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384970"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Reino Unido Government-Cloud (G-Cloud)
 
@@ -41,16 +41,30 @@ La designación de servicios Microsoft en el Mercado digital significa que las a
 
  [14 Cloud Security Controls for UK cloud using Microsoft Azure](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) proporciona estrategias de cliente para mover sus servicios a Azure y ayudar a cumplir las obligaciones del Reino Unido que exige el CESG/NCSC. La whitepaper proporciona información sobre cómo se puede usar Azure para ayudar a abordar los 14 controles descritos en las entidades de seguridad de la nube y describe cómo los clientes pueden moverse más rápido y lograr más a la vez que ahorran dinero a medida que adoptan Microsoft Azure servicios.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Microsoft Cloud App Security
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
-- Office 365: Exchange Online, SharePoint Online y Skype Empresarial Online
-- El servicio de nube de PowerApps como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365
-- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- Office 365
+- Power Automate (anteriormente Microsoft Flow) en la nube (ya sea como un servicio independiente o como se incluye en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365)
+- Servicio en la nube de PowerApps (ya sea como un servicio independiente o como se incluye en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365)
+- Power BI servicio en la nube (ya sea como un servicio independiente o como se incluye en un plan o conjunto de aplicaciones de Office 365 de marca)
+
+## <a name="office-365-and-uk-g-cloud"></a>Office 365 y UK G-Cloud
+
+### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+
+Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+
+| **Aplicabilidad** | **Servicios en el ámbito** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online, SharePoint Online, Skype Empresarial |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
@@ -82,7 +96,7 @@ Mover los servicios gubernamentales a la nube es ahora más fácil que nunca con
 
 [Empezar a usar el blueprint G-Cloud de Azure UK](https://aka.ms/ukofficialblueprint)
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **Quién puede usar el Marketplace digital?**
 
@@ -114,4 +128,4 @@ El [Portal del Centro de confianza](/microsoft-365/compliance/get-started-with-s
 - [Principios de seguridad de G-Cloud](https://aka.ms/UK-G-Cloud)
 - [Mercado digital](https://www.digitalmarketplace.service.gov.uk/)
 - [Microsoft Online Services](https://aka.ms/Online-Services-Terms)
-- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

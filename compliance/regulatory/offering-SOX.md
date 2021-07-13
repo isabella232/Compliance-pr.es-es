@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3720eb98ee6f903d59316500ffe008398f388bf0
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089794"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384350"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002 (SOX) (Ley Sarbanes-Oxley de 2002, SOX)
 
@@ -39,21 +39,35 @@ Aunque no hay ninguna certificación o validación SOX para los proveedores de s
 
 El informe de auditoría, producido por una firma de auditoría de terceros, atestigua que los controles de Microsoft se diseñaron correctamente, en funcionamiento en una fecha especificada y funcionando eficazmente durante un período de tiempo especificado. Los clientes pueden revisar los informes para obtener información sobre los objetivos de control de Microsoft y la eficacia de sus controles y obtener acceso a controles complementarios.
 
-Para ayudar a los clientes de Azure a cumplir con sus obligaciones SOX, Microsoft ha publicado [Azure Guidance for Sarbanes-Oxley](https://aka.ms/Azure-SOX-Guide). En este documento se proporcionan procedimientos recomendados de migración, incluidas las implicaciones del cumplimiento de SOX, y se basa en la experiencia interna para migrar aplicaciones relevantes para SOX (Microsoft Treasury y Microsoft Finance) a Azure.
-
 En Microsoft, compartimos la responsabilidad del cumplimiento con nuestros clientes. Proporcionamos los detalles sobre nuestros programas de cumplimiento, que puede comprobar solicitando resultados de auditoría detallados de terceros certificadores. Sin embargo, en última instancia, le corresponde determinar si nuestros servicios cumplen con las leyes y normativas específicas aplicables a su empresa. Por ejemplo, hay controles de seguridad relacionados con SOX, como el acceso de usuarios a recursos en la nube, que son su responsabilidad: su organización debe desarrollar la auditoría adecuada de estos controles como parte del cumplimiento de sox.
 
-Obtenga más información sobre cómo usar los Microsoft Azure de cumplimiento normativo al abordar sus obligaciones de cumplimiento SOX: Descargue las instrucciones de [Azure para Sarbanes-Oxley](https://aka.ms/Azure-SOX-Guide)
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
-
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- Office 365
+- Power BI servicio en la nube (ya sea como un servicio independiente o como se incluye en un plan o conjunto de aplicaciones de Office 365 de marca)
 
-## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
+## <a name="azure-dynamics-365-and-sox"></a>Azure, Dynamics 365 y SOX
+
+Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y otros servicios en línea, vea [la oferta sox de Azure](/azure/compliance/offerings/offering-sox-us).
+
+## <a name="office-365-and-sox"></a>Office 365 y SOX
+
+### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+
+Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+
+| **Aplicabilidad** | **Servicios en el ámbito** |
+|:------------------|:----------------------|
+| **Office 365** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Ideas, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive para la Empresa, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype Empresarial, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
+
+### <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
 [Soc 1 Informes de tipo 2](offering-SOC.md) para:
 
@@ -61,17 +75,15 @@ Obtenga más información sobre cómo usar los Microsoft Azure de cumplimiento n
 - Dynamics 365
 - Office 365
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Cómo puedo usar el cumplimiento de Microsoft SOX para facilitar el proceso de cumplimiento de mi organización?**
 
 Al migrar las aplicaciones y los datos a los servicios en la nube de Microsoft cubiertos, puede basarse en las atestaciones y certificaciones que Microsoft tiene. Los informes de auditores independientes dan fe de la eficacia de los controles que Microsoft ha implementado para ayudar a mantener la seguridad y privacidad de los datos. Sin embargo, usted es totalmente responsable de garantizar el cumplimiento de la organización con todas las leyes y reglamentos aplicables.
 
-## <a name="resources"></a>Recursos
+### <a name="resources"></a>Recursos
 
-- [Guía de Azure para Sarbanes-Oxley](https://aka.ms/Azure-SOX-Guide)
 - [Programa de cumplimiento de servicios financieros de Microsoft](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Programa de cumplimiento de servicios financieros en Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Servicios en la nube de Microsoft para empresas y servicios financieros](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Responsabilidades compartidas para la informática en la nube](https://aka.ms/sharedresponsibility)
 - [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

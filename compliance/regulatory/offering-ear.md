@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0c05010d43ea345024b63e2653e37eb0f42443f4
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b3867c9d8c165c451813929d49dc5936e643e95c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089774"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384230"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Us Export Administration Regulations (EAR)
 
@@ -51,7 +51,7 @@ El Departamento de Comercio de Estados Unidos, que aplica el EAR, ha tomado la p
 - **Cifrado de extremo a extremo**. Al aprovechar el puerto seguro de cifrado de extremo a extremo para las ubicaciones de almacenamiento físico especificadas en el EAR, los servicios en la nube de Microsoft en el ámbito ofrecen características de cifrado que pueden ayudar a proteger contra riesgos de control de exportación. También ofrecen a los clientes una [amplia](https://aka.ms/Azure-Encryption-Overview) variedad de opciones para cifrar datos en tránsito y en reposo, y la flexibilidad para elegir entre las opciones de cifrado.
 - **Herramientas y protocolos para evitar la exportación no autorizada.** El uso del cifrado también ayuda a proteger contra una posible exportación (o se considera una reex exportación) en el EAR, ya que incluso si una persona que no es estadounidense tiene acceso a datos cifrados, no se revela nada si no puede leer o comprender los datos mientras está cifrado; por lo tanto, no hay "liberación" de datos controlados.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios en la nube de Microsoft en el ámbito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
 
 - [Azure y Azure Government](https://aka.ms/AzureCompliance)
 - [Office 365 Administración Pública (GCC-High y DoD)](https://aka.ms/Office-365-Export-Controls)
@@ -93,4 +93,4 @@ Los Estados Unidos también tienen reglamentos de control de exportación indepe
 - [Restricciones de exportación en criptografía](/windows/uwp/security/export-restrictions-on-cryptography)
 - [Microsoft y FIPS 140-2](offering-fips-140-2.md)
 - [Microsoft y ITAR](offering-itar.md)
-- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0838ce11e732f5c6e8c79c40af0e85bff9d22caf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2c51979122aaedda90bac74740e95c9d1265de74
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089734"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385010"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Publicación 140-2 del Estándar federal de procesamiento de información (FIPS)
 
@@ -37,19 +37,37 @@ Microsoft mantiene un compromiso activo de cumplir los 140-2 requisitos, despué
 
 Para obtener información técnica sobre los módulos criptográficos de Microsoft Windows, la directiva de seguridad de cada módulo y el catálogo de detalles del certificado CMVP, vea el contenido de Windows y [Windows Server FIPS 140-2](https://aka.ms/AA6ehud).
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios en la nube de Microsoft en el ámbito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
 
 Aunque la guía de implementación actual de CMVP FIPS 140-2 impide una validación fips 140-2 para un servicio en la nube en sí; Los proveedores de servicios en la nube pueden elegir obtener y operar módulos criptográficos validados por FIPS 140 para los elementos informáticos que componen su servicio en la nube. Los servicios en línea de Microsoft que incluyen componentes, que han sido validados por FIPS 140-2, incluyen, entre otros:
 
-- [Azure y Azure Government](/azure/azure-government/documentation-government-plan-security)
-- [Dynamics 365 y Dynamics 365 Government](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
-- [Office 365, Office 365 Administración Pública para Estados Unidos y Office 365 U.S. Government Defense](/microsoft-365/compliance/office-365-encryption-risks-and-protections)
+- Azure y Azure Government
+- Dynamics 365 y Dynamics 365 Government
+- Office 365, Office 365 Administración Pública para Estados Unidos y Office 365 U.S. Government Defense
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="azure-dynamics-365-and-fips-140-2"></a>Azure, Dynamics 365 y FIPS 140-2
+
+Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y otros servicios en línea, vea la oferta de [Azure FIPS 140-2](/azure/compliance/offerings/offering-fips-140-2).
+
+## <a name="office-365-and-fips-140-2"></a>Office 365 y FIPS 140-2
+
+### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+
+Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+
+| **Aplicabilidad** | **Servicios en el ámbito** |
+|:------------------|:----------------------|
+| Office 365, GCC, GCC High, DoD | Consulta [Validación de FIPS 140-2](/windows/security/threat-protection/fips-140-validation) |
+
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Cuál es la diferencia entre "FIPS 140 Validated" y "FIPS 140 compliant"?**
 
-"FIPS 140 Validated" significa que el CMVP ha validado el módulo criptográfico o un producto que inserta el módulo ('certificado") como que cumple los requisitos fips 140-2. "Compatible con FIPS 140" es un término del sector para productos de TI que se basan en productos validados fips 140 para la funcionalidad criptográfica.
+"FIPS 140 Validated" significa que el CMVP ha validado el módulo criptográfico o un producto que inserta el módulo ('certificado') como que cumple los requisitos fips 140-2. "Compatible con FIPS 140" es un término del sector para productos de TI que dependen de los productos validados fips 140 para la funcionalidad criptográfica.
 
 **¿Cuándo realiza Microsoft una validación fips 140?**
 
@@ -71,10 +89,6 @@ Esta advertencia informa al lector de que se deben seguir las reglas de configur
 
 Sí, el Programa federal de administración de riesgos y autorización (FedRAMP) se basa en las líneas base de control definidas por la revisión 4 de [NIST SP 800-53,](https://nvd.nist.gov/800-53/Rev4/)incluida la protección criptográfica [SC-13](https://nvd.nist.gov/800-53/Rev4/control/SC-13) que exige el uso de criptografía validada por FIPS o criptografía aprobada por la NSA.
 
-**¿Cómo Microsoft Azure fips 140-2?**
-
-Azure se ha creado con una combinación de hardware, sistemas operativos disponibles comercialmente (Linux y Windows) y una versión específica de Azure de Windows. A través del Ciclo de vida de desarrollo de seguridad [de](https://www.microsoft.com/securityengineering/sdl/) Microsoft (SDL), todos los servicios de Azure usan algoritmos aprobados por FIPS 140-2 para la seguridad de datos, ya que el sistema operativo usa algoritmos aprobados por FIPS 140-2 mientras funciona en una nube de hiperespacio.
-
 **¿Puedo usar la adherencia de Microsoft a FIPS 140-2 en el proceso de certificación de mi agencia?**
 
 Para cumplir con FIPS 140-2, el sistema debe configurarse para que se ejecute en un modo de operación aprobado por FIPS, lo que incluye garantizar que un módulo criptográfico use solo algoritmos aprobados por FIPS. Para obtener más información sobre cómo configurar los sistemas para que sean compatibles, vea el Windows y [Windows contenido fips 140-2 del servidor](https://aka.ms/AA6ehud).
@@ -83,9 +97,9 @@ Para cumplir con FIPS 140-2, el sistema debe configurarse para que se ejecute en
 
 Se trata de dos estándares de seguridad independientes con fines diferentes, pero complementarios. FIPS 140-2 está diseñado específicamente para validar módulos criptográficos de software y hardware, mientras que common criteria está diseñado para evaluar las funciones de seguridad en productos de hardware y software de TI. Las evaluaciones de criterios comunes suelen basarse en validaciones fips 140-2 para garantizar que la funcionalidad criptográfica básica se implementa correctamente.
 
-## <a name="resources"></a>Recursos
+### <a name="resources"></a>Recursos
 
 - [Requisitos de seguridad de FIPS Pub 140-2 para módulos criptográficos](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [Programa de validación de módulo criptográfico NIST](https://csrc.nist.gov/groups/STM/cmvp/index.html)
 - [Windows, Windows Server y FIPS 140-2](/windows/security/threat-protection/fips-140-validation)
-- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
