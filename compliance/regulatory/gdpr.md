@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 69c81b78e5107055c7760a99842468210eec70da
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 5543a8077ae0f5ff344a3f8f7cafbb2c778e7a5d
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51495800"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377937"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Resumen del reglamento general de protección de datos 
 
@@ -103,7 +103,7 @@ Hemos de implementar las medidas técnicas y organizativas adecuadas para ayudar
 
 **¿Dónde puedo encontrar información relacionada con RGPD para servidores locales?**
 
-Puede encontrar una serie de artículos relacionados con el RGPD aquí. Elaborados por Microsoft, proporcionan métodos recomendados para cargas de trabajo local de SharePoint Server, Exchange Server, Project Server, Office Web Apps Server, Office Online Server y archivos compartidos locales.
+Aquí puede encontrar una serie de artículos relacionados con el RGPD. Estos artículos han sido elaborados por Microsoft y proporcionan métodos recomendados para cargas de trabajo local de SharePoint Server, Exchange Server, Project Server, Office Web Apps Server, Office Online Server y archivos compartidos locales.
 
 **¿Cómo le permite Microsoft responder a las solicitudes de los interesados?**
 
@@ -129,7 +129,7 @@ El reglamento general de protección de datos (RGPD) ordena que una evaluación 
 
 **¿Cuáles son mis obligaciones como responsable del tratamiento?**
 
-En el RGPD, como responsable del tratamiento está obligado a realizar las EIPA antes del procesamiento de datos que pueda derivarse en un alto riesgo para los derechos y las libertades de las personas, en particular, el procesamiento con nuevas tecnologías. El RGPD proporciona la siguiente lista no exhaustiva de los casos en que deben realizarse evaluaciones EIPA:
+En virtud del RGPD, como responsable del tratamiento está obligado a realizar las EIPA antes del procesamiento de datos que pueda derivarse en un alto riesgo para los derechos y las libertades de las personas, en particular, el procesamiento con nuevas tecnologías. El RGPD proporciona la siguiente lista no exhaustiva de casos en los que se deben realizar EIPD:
 
 - Procesamiento automatizado con el fin de crear perfiles y realizar actividades similares que tengan efectos legales o afecten significativamente a los interesados;  
 - Procesamiento a gran escala de categorías especiales de datos personales (datos que revelan el origen étnico o racial, las opiniones políticas y otros similares) o de datos relativos a delitos y condenas penales;  
@@ -195,7 +195,7 @@ Sí. La GDPR requiere que los controladores (como las organizaciones que utiliza
 
 **¿Cómo me ayuda Microsoft a cumplir?**
 
-Microsoft proporciona herramientas y documentación para darle soporte en su responsabilidad respecto del RGPD. Esto incluye soporte técnico a los derechos de los interesados de los datos, realización propia de evaluaciones de impacto en la protección de datos y trabajo conjunto para resolver infracciones de datos personales.
+Microsoft proporciona herramientas y documentación para darle soporte en su responsabilidad respecto del RGPD. Esto incluye soporte técnico a los derechos del titular de los datos, realización propia de evaluaciones del impacto sobre la protección de datos y trabajo conjunto para resolver infracciones de datos personales.
 
 **¿Qué compromisos hay en los Términos de RGPD?**
 
@@ -234,7 +234,7 @@ Tendrá que entender cuáles son las obligaciones específicas de su organizaci�
 
 **¿Qué derechos deben habilitar las empresas en relación con el RGPD?**
 
-El RGPD ofrece a los residentes de la UE control sobre sus datos personales a través de un conjunto de derechos de los «interesados». Aquí se incluyen los derechos siguientes:
+El RGPD ofrece a los residentes de la UE control sobre sus datos personales a través de un conjunto de derechos de los «interesados». Esto incluye el derecho a:
 
 - Acceso a información acerca de cómo se usan los datos personales.
 - Acceso a los datos personales conservados por una organización.
@@ -270,7 +270,7 @@ La conformidad con el RGPD supondrá costes en términos de dinero y tiempo para
 
 **¿Cómo puedo saber si los datos que procesa mi organización están cubiertos por el RGPD?**
 
-El RGPD regula la recopilación, el almacenamiento, el uso y la forma en que se comparten los «datos personales». Los datos personales se definen ampliamente en el RGPD como cualquier dato que guarde relación con una persona física identificada o identificable.
+El RGPD regula la recopilación, el almacenamiento, el uso y el uso compartido de "datos personales". Los datos personales se definen a grandes rasgos en el RGPD como los datos que se refieren a una persona física identificada o identificable.
 
 Entre los datos personales se pueden incluir, entre otros, identificadores en línea (por ejemplo, direcciones IP), información de empleados, bases de datos de ventas, datos de servicios de clientes, formularios de comentarios de los clientes, datos de ubicación, datos biométricos, grabaciones de CCTV, registros de programas de fidelización, información sanitaria y financiera, entre otros muchos más. Incluso pueden incluir información que no parezca personal, como una fotografía de un paisaje sin personas, cuando esta información esté vinculada a un número de cuenta o un código único para una persona identificable. Incluso los datos personales registrados bajo seudónimo pueden constituir datos personales si el seudónimo se puede vincular a una persona concreta.
 
@@ -297,13 +297,13 @@ Los datos personales son cualquier información relacionada con una persona iden
 - Información física, psicológica o genética
 - Información médica
 - Identidad cultural
-- Información bancaria y números de cuentas
+- Información bancaria o números de cuenta
 - Número de identificación fiscal
 - Dirección de lugar de trabajo
 - Números de tarjetas de crédito y débito
 - Publicaciones de redes sociales
 - Dirección IP (región de la UE)
-- Datos de ubicación y GPS
+- Datos de ubicación o GPS
 - Cookies
 
 **¿Puedo transferir datos fuera de la UE?**

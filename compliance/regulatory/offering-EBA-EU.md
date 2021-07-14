@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 18abcba03796d7f6563c65cebcbbafd63759dc7c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120929"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385230"
 ---
 # <a name="european-banking-authority-eba"></a>Autoridad bancaria europea (ABE)
 
@@ -38,15 +38,15 @@ Para ayudar a las instituciones financieras de la UE a seguir las recomendacione
 La guía de Microsoft aborda, punto por punto, cada una de las recomendaciones de la ABE:
 
 - Derechos de auditoría. Microsoft proporciona derechos de auditoría contractual para los clientes y derechos de examen para los reguladores en su Enmienda de servicios financieros líder en la industria.
-- Notificación sobre la sub contratación. Microsoft puede ayudar a los clientes a notificar a los reguladores de las actividades materiales que se van a sub contratar.
+- Notificación con respecto a la subcontratación. Microsoft puede ayudar a los clientes a notificar a los reguladores de las actividades materiales que se van a subcontratar.
 - Residencia de datos Con 36 regiones, seis de ellas en Europa, Microsoft ofrece el mayor número de centros de datos de todo el mundo de todos los proveedores de servicios en la nube. Las organizaciones pueden desplegar cargas de trabajo en una región sin necesidad de alojar datos en Europa.
-- Notificación de sub contratistas. Microsoft lidera la industria con el compromiso contractual de proporcionar a los clientes un pre aviso de 180 días de los nuevos sub contratistas, y el derecho a rescindir el contrato si el cliente no aprueba el nombramiento de un nuevo sub contratista.
-- Continuidad del negocio. Microsoft proporciona continuidad de negocios y resolución de provisiones en nuestra Enmienda de servicios financieros, incluyendo la voluntad de proporcionar asistencia de transición a través de los Servicios de consultoría de Microsoft.
-- Evaluación de riesgos y monitoreo de seguridad. Microsoft permite a los clientes realizar sus propias evaluaciones de riesgos y proporciona herramientas y cuadros de mando para que puedan supervisar y monitorear nuestros servicios de la nube.
+- Notificación con respecto a los subcontratistas.Microsoft lidera la industria con el compromiso contractual de proporcionar a los clientes un preaviso de 180 días de los nuevos subcontratistas y el derecho a rescindir el contrato si el cliente no aprueba el nombramiento de un nuevo subcontratista.
+- Continuidad de negocios. Microsoft proporciona continuidad de negocios y resolución de provisiones en nuestra Enmienda de servicios financieros, que incluye la voluntad de proporcionar asistencia de transición a través de los Servicios de consultoría de Microsoft.
+- Evaluación de riesgos y monitoreo de seguridad. Microsoft permite que los clientes realicen sus propias evaluaciones de riesgos y les proporciona herramientas y paneles para que puedan supervisar y monitorear nuestros servicios en la nube.
 
 Para las instituciones financieras de la UE, Microsoft también ha publicado una [guía de cumplimiento y evaluación de riesgos para las instituciones financieras en la nube de Microsoft](https://aka.ms/RiskGovernanceGuide), una lista de control basada en las directrices de la ABE. Explica cómo establecer un modelo de gobierno optimizado para cumplir con los requisitos normativos y evaluar de forma eficiente los riesgos de utilizar los servicios de la nube de Microsoft, seguido de su presentación para su aprobación reglamentaria. Nuestra guía incluye una lista de preguntas para ser contestadas en una presentación regulatoria que son extraídas de, y que responden a, la guía de ABE sobre la sub contratación a proveedores de servicios de la nube.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Microsoft 365](https://aka.ms/o365-compliance-framework)

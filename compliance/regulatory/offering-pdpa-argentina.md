@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e5b04f64d2dc0b31c8357a02930fa582b2fbae07
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119919"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385650"
 ---
-# <a name="personal-data-protection-act-pdpa-argentina"></a>Ley de Protección de Datos Personales (PDPA) de Argentina
+# <a name="argentina-personal-data-protection-act-pdpa"></a>Ley de Protección de Datos Personales (PDPA) de Argentina
 
 ## <a name="about-the-pdpa"></a>Acerca de la PDPA
 
@@ -39,13 +39,27 @@ Microsoft se compromete por contrato (mediante los [Términos de Microsoft Onlin
 
 Las medidas de seguridad técnicas y organizativas implementadas en los servicios en la nube para empresas también podrían ser compatibles con otras reglas de la PDPA, como, por ejemplo, la prohibición de cualquier uso secundario de datos personales del interesado y la prohibición de la transferencia de datos personales a países que no proporcionen un nivel de protección adecuado.
 
-El acuerdo de transferencia de datos de Microsoft es una enmienda (Enmienda ID M314) a los términos de procesamiento de datos de nuestros Términos de Servicios en Línea. Agrega compromisos importantes, incluido que Microsoft notificará al cliente cualquier solicitud legalmente vinculante para revelar datos personales. Además, solicitará a sus instalaciones de procesamiento de datos que auditen la solicitud del cliente, ya sea por parte del cliente o un tercero independiente, y obtendrá el consentimiento por escrito para el uso de subcontratistas.
+El contrato de transferencia de datos de Microsoft es una modificación (ID de la modificación: M314) a los términos de procesamiento de datos de nuestros Términos de Servicios en Línea. Agrega compromisos importantes, incluso que Microsoft notificará al cliente cualquier solicitud legalmente vinculante para revelar datos personales. Además, solicitará a sus instalaciones de procesamiento de datos que auditen la solicitud del cliente, ya sea por parte del cliente o de un tercero independiente, y obtendrá el consentimiento por escrito para el uso de subcontratistas.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure y Azure DevOps](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
-- [Microsoft 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-pdpa"></a>Office 365 y la PDPA
+
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
+
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+
+| **Aplicabilidad** | **Servicios incluidos** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, Office Delve, OneDrive para empresas, Planner, Power Apps, Power BI para Office 365, PowerApps, Power Automate, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>Cómo implementar
 
@@ -56,7 +70,7 @@ El acuerdo de transferencia de datos de Microsoft es una enmienda (Enmienda ID M
 
 **¿Cómo ha cambiado el RGPD la Ley de Protección de Datos Personales?**
 
-A finales de 2018, Argentina aún no ha promulgado normativas relacionadas con el RGPD, pero ha elaborado el borrador de un proyecto de ley sobre la protección de datos, que el Poder Ejecutivo ya ha enviado al Congreso y que la Cámara de Representantes está revisando, para armonizar su legislación de protección de datos con el RGPD. Trata discrepancias tales como la definición de interesados de los datos y cuestiones sobre la transferencia de información personal entre fronteras.
+A finales del 2018, Argentina aún no ha promulgado normativas relacionadas con el RGPD, pero ha elaborado el borrador de un proyecto de ley sobre la protección de datos, que el Poder Ejecutivo ya ha enviado al Congreso y que la Cámara de Representantes está revisando, para armonizar su legislación de protección de datos con el RGPD. Trata discrepancias tales como la definición de interesados de los datos y cuestiones sobre la transferencia de información personal entre frontera.
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 

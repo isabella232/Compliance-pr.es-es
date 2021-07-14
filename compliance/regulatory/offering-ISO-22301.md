@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d87d143479cab3dffb881c58dc19d11a81b1c7a9
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1c4cf624eb6f658bcdddde1acbef7bc43323f257
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088939"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384720"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>Norma ISO 22301:2012 de Administración de Continuidad Empresarial 
 
@@ -35,7 +35,7 @@ La norma ISO 22301:2012 fue publicada en 2012 por el comité técnico y es la pr
 
 Microsoft es el primer proveedor de servicios en la nube a hiperescala que recibe la certificación ISO 22301 para la administración de continuidad empresarial. Un organismo de certificación independiente ha concedido esta certificación a Microsoft Azure, Microsoft Azure Government, Microsoft Office 365 (incluidas las ofertas: Comercial, Administración Pública y Educación), Microsoft Cloud App Security, Microsoft Intune y Microsoft Power BI después de una rigurosa auditoría que cubrió todos los aspectos de sus procesos de continuidad empresarial. La auditoría abarcó los servicios en el ámbito que se enumeran a continuación, y las características de administración de Azure, el portal de Azure y los sistemas utilizados para supervisar, operar y actualizar los servicios en el ámbito.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - [Azure, Azure Government y Azure Alemania](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
@@ -46,7 +46,7 @@ Microsoft es el primer proveedor de servicios en la nube a hiperescala que recib
 - Intune
 - [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
-- [Office 365 Comercial, Administración Pública y Educación](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- Office 365 Comercial, Administración Pública y Educación
 - El servicio en la nube de PowerApps como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365
 - El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
 - Power BI incrustado
