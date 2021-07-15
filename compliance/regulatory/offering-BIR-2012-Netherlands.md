@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 285b2d041b5ca1d7c3366cb98274a5aa8a812638
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: ca869ce3fe1bc6111cf975296993c655040be4d1
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089834"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385480"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Estándar base Informatiebeveiliging Rijksdienst (BIR 2012)
 
@@ -37,11 +37,25 @@ Aunque Microsoft no está sujeto al cumplimiento de BIR 2012, los clientes del s
 
 [Descargue la guía de usuario de la nube de Microsoft: Azure y Office 365 BIR-2012](https://go.microsoft.com/fwlink/p/?linkid=2099461)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-bir-2012"></a>Office 365 y BIR 2012
+
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
+
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+
+| **Aplicabilidad** | **Servicios incluidos** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Information Protection, Bookings, Exchange Online Protection, Exchange Online, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Office 365 Cloud App Security, Grupos de Office 365, Office 365 Video, Office Delve, OneDrive para la Empresa, Planner, Power Apps, Power Automate, Power BI para Office 365, PowerApps, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 

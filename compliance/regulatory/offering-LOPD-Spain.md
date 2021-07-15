@@ -1,5 +1,5 @@
 ---
-title: Real Decreto Español 1720/2007, Ley Orgánica Española 15/1999
+title: Real Decreto Español 1720/2007, Ley Orgánica Española 15/1999 (LOPD)
 description: Los clientes de la nube de Microsoft están autorizados por la Agencia Española de Protección de Datos (AEPD) para realizar transferencias internacionales de datos.
 keywords: Microsoft 365, cumplimiento, ofertas
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a665e6be33d42901597de23f39b6e71ae9c2fe70
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 29b4c3bf83d2fea147e2e7ce5294136040fa58ba
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089804"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384570"
 ---
-# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999"></a>Real Decreto Español 1720/2007, Ley Orgánica Española 15/1999
+# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>Real Decreto Español 1720/2007, Ley Orgánica Española 15/1999 (LOPD)
 
 ## <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-overview"></a>Información general sobre el Real Decreto 1720/2007, y la Ley Orgánica Española 15/1999
 
@@ -35,12 +35,26 @@ El Título VIII del Real Decreto 1720/2007 establece requisitos estrictos para e
 
 Microsoft fue el primer proveedor de Servicios en la Nube a gran escala en recibir, para beneficio de sus clientes, una autorización de la Agencia Española de Protección de Datos (AEPD) por el cumplimiento de los altos estándares que rigen la transferencia internacional de datos de acuerdo con la Ley Orgánica 15/1999 de Protección de Datos (LOPD). Microsoft es, además, el primer proveedor de Servicios en la Nube a gran escala en obtener una certificación de auditoría de terceros por el cumplimiento de sus servicios en línea con las medidas de seguridad establecidas en el Título VIII del Real Decreto 1720/2007. Esta autorización permite a los clientes realizar transferencias de datos personales en los servicios de Microsoft Azure, Dynamics 365 y Office 365 cubiertos por las cláusulas de contrato modelo de la Unión Europea.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
-- [Microsoft Azure](https://aka.ms/AzureCompliance)
-- [Microsoft Dynamics 365](https://aka.ms/d365-compliance-list)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Microsoft Office 365](https://aka.ms/o365-compliance-framework)
+- Office 365
+
+## <a name="office-365-and-lopd"></a>Office 365 y LOPD
+
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
+
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+
+| **Aplicabilidad** | **Servicios incluidos** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Administrador de cumplimiento, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Bookings, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Office 365 Cloud App Security, Grupos de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
@@ -74,4 +88,4 @@ Sí. Si su organización requiere o está buscando una acreditación conforme a 
 - Agencia de protección de datos en Español ([Español](https://www.agpd.es/portalwebAGPD/index-ides-idphp.php))
 - Ley Orgánica 15/1999 de 13 de diciembre para la Protección de Datos de Carácter Personal - [en Español](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750)
 - [Términos de Microsoft Online Services](https://aka.ms/Online-Services-Terms)
-- [Cumplimiento en el centro de confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

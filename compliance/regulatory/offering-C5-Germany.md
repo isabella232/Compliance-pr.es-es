@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7154e239956c624d621977b8c9167ec5e58c5001
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7a530d78107af4f37607f90c6a93008ec695f765
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121779"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385470"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>El Catálogo de controles de cumplimiento de informática en la nube (C5)
 
@@ -39,7 +39,7 @@ El BSI también se enfoca en la transparencia. Como parte de una auditoría, el 
 
 Los servicios en la nube de Microsoft son auditados al menos una vez al año según los estándares de SOC 2 (AT Sección 101). Según la BSI, una auditoría C5 puede combinarse con una auditoría SOC 2 para reutilizar partes de la descripción del sistema y resultados de auditoría para controles superpuestos. Microsoft Azure, Azure Government y Azure Alemania mantienen un informe combinado (C5, SOC 2 Type 2, CSA Atestación STAR) basado en la evaluación de auditoria realizada por un auditor independiente, que demuestre que se ha cumplido con el estándar C5.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure, Azure Government y Azure Alemania](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Office 365 Alemania

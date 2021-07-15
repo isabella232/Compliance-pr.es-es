@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 84af03217d697f6f54db1a7d87230ae08c2b02b4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 65739fcf3b787ea50523c3195ffaf7e31d315d3f
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509857"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384910"
 ---
 # <a name="health-data-hosting-hds-france"></a>Hospedaje de Datos de Salud (HDS) de Francia
 
@@ -46,13 +46,13 @@ Esta rigurosa auditoria cubre las medidas que Microsoft ha tomado para proteger 
 - Certificación [ISO/IEC 27001:2013 de Administración de seguridad de la información](offering-iso-27001.md) para los servicios en la nube de Microsoft, que se auditan anualmente para certificar su cumplimiento normativo.
 - Nivel alto de privacidad basado en el cumplimiento del RGPD y el [Código de Prácticas para la Protección de la Información de Identificación Personal ISO/IEC 27018](offering-iso-27018.md).
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de nube de Microsoft dentro de ámbito
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance). El certificado del HDS se aplica a los servicios de Azure que cumplen con el estándar ISO/IEC 27001 en las ofertas de Cumplimiento de Azure y ofrecidos desde las regiones de Azure del centro de Francia, el sur de Francia, el este de Europa y el norte de Europa.
 - Dynamics 365. El certificado del HDS se aplica a Dynamics 365 [Core Online Services](https://aka.ms/Online-Services-Terms) ofrecido desde Francia y territorios de la Unión Europea.
 - Intune
 - Microsoft 365. El certificado del HDS se aplica a Office 365 [Core Online Services](https://aka.ms/Online-Services-Terms) ofrecido desde Francia y territorios de la Unión Europea.
-- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
 
 El certificado del HDS no se aplica a los servicios en línea de Microsoft en versión preliminar.
 

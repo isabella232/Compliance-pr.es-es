@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 55f600c7b1fa5f4573c389ca2c5fc5f3b827bb10
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2896f3dea06181ef11393a40a4822b3b6fd345a5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089533"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384940"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>Autoridad de supervisión financiera (FSA) de Dinamarca
 
@@ -48,10 +48,10 @@ La lista de comprobación de Microsoft ayuda a las empresas financieras danesas 
 - Información general sobre el panorama normativo para dar contexto.
 - Una lista de comprobación que describe las cuestiones que deben tratarse y asigna los servicios de Microsoft Azure, Microsoft Dynamics 365 y Microsoft 365 frente a dichas obligaciones reglamentarias. La lista de comprobación puede usarse como una herramienta para medir el cumplimiento con un marco normativo y proporcionar una estructura interna para documentar el cumplimiento, así como para ayudar a los clientes a llevar a cabo sus propias evaluaciones de riesgo de los servicios empresariales en la nube de Microsoft.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft en el ámbito de los servicios en la nube
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Microsoft 365](https://aka.ms/RiskGovernanceGuide)
 
 ## <a name="how-to-implement"></a>Cómo implementar

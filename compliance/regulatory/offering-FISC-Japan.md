@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 977c4805617e71d065b5f8c7a97b91d277a2ef34
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088949"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384960"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Centro de Sistemas de Información de la Industria Financiera (FISC)
 
@@ -45,15 +45,29 @@ Microsoft contrató evaluadores externos para que validaran que Microsoft Azure,
 
 Las instituciones financieras pueden confiar en esta evaluación del cumplimiento en estas tres áreas para los servicios de infraestructura y plataforma de Azure, Dynamics 365, Office 365 y Microsoft Cloud App Security, dentro del ámbito.
 
-[Obtenga más información sobre la validación de evaluadores externos y los enlaces a los sitios de los evaluadores (solo en japonés).](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)
+[Obtenga más información sobre la validación de evaluadores externos y los enlaces a los sitios de los evaluadores (solo en japonés](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)).
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
-- [Azure](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- El servicio en la nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- Microsoft Cloud App Security
+- Office 365
+- El servicio de nube de Power BI (como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365)
+
+## <a name="office-365-and-fisc"></a>Office 365 y FISC
+
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
+
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+
+| **Aplicabilidad** | **Servicios incluidos** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive para la Empresa, Power BI para Office 365, Project Online, SharePoint Online, Skype Empresarial |
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 

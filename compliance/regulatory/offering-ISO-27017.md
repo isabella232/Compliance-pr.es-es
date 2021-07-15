@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 09473dc7b27b34bd4b0394739cd303fa613780bf
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 6c431d856fc03f328148722c14dfc558082aacb5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497739"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384730"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>Código de prácticas para los controles de la seguridad de la información ISO/IEC 27017:2015
 
@@ -43,35 +43,52 @@ Este estándar internacional proporciona instrucciones adicionales para las impl
 
 La ISO/IEC 27017 es única en cuanto a que proporciona instrucciones tanto para los proveedores de servicios en la nube como para los clientes de servicios en la nube. También proporciona a los clientes de servicios en la nube información práctica sobre lo que deben esperar de los proveedores de servicios en la nube. Los clientes pueden beneficiarse directamente de la ISO/IEC 27017, ya que les permitirá comprender las responsabilidades compartidas en la nube.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - [Azure, Azure Government y Azure Alemania](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
 - [Dynamics 365, Dynamics 365 y Dynamics 365 Germany](https://aka.ms/d365-compliance-list)
+- Intune
 - Microsoft Defender para punto de conexión
 - Microsoft Graph
 - Bot de Microsoft Healthcare
-- Intune
 - [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
-- El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
-- Office 365, Office 365 Administración Pública para Estados Unidos, Office 365 U.S. Government Defense y Office 365 Germany
+- Office 365, Office 365 Administración Pública para Estados Unidos, Office 365 Departamento de Defensa de la Administración Pública para Estados Unidos y Office 365 Alemania
+- El servicio de nube de Power Automate (anteriormente conocido como Microsoft Flow) como un servicio independiente o incluido en un plan o un conjunto de aplicaciones de Office 365 o Dynamics 365
 - El servicio de nube de PowerApps como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365 o Dynamics 365
-- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
+- El servicio de nube de Power BI como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365
 - Power BI incrustado
-- Microsoft Stream
-- Vea una [lista detallada](https://go.microsoft.com/fwlink/p/?linkid=2077751) de los servicios cubiertos en Office 365
 
-## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
+## <a name="azure-dynamics-365-and-iso-270172015"></a>Azure, Dynamics 365 y SOC 27017:2015
+
+Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y otros servicios en línea, consulte la [oferta ISO 27017 de Azure](/azure/compliance/offerings/offering-iso-27017).
+
+## <a name="office-365-and-iso-270172015"></a>Office 365 e ISO 27017:2015
+
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad de Office 365 y servicios dentro del ámbito
+
+Use la tabla siguiente para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+
+| **Aplicabilidad** | **Servicios dentro del ámbito** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Servicio de comunicaciones de Azure, Administrador de cumplimiento, Caja de seguridad del cliente, Delve, Exchange Online, Exchange Online Protection, Forms, Griffin, Identity Manager, Caja de seguridad (Torus), Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Portal de clientes de Office 365, Microservicios de Office 365 (incluidos, entre otros, Kaizala, ObjectStore, Sway, servicio de documentos de PowerPoint Online, Servicio de anotación de consultas, School Data Sync, Siphon, Speech, StaffHub, programa de la aplicación eXtensible), Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, Infraestructura de servicios de Office, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, Project Online, Cifrado de servicio con clave de cliente, SharePoint Online, Skype Empresarial, Stream |
+| **GCC** | Azure Active Directory, Servicio de comunicaciones de Azure, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
+| **GCC High** | Azure Active Directory, Servicio de comunicaciones de Azure, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial |
+| **DoD** | Azure Active Directory, Servicio de comunicaciones de Azure, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, Power BI, SharePoint Online, Skype Empresarial |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorías, informes y certificados de Office 365
 
 Los servicios en la nube de Microsoft se auditan una vez al año para certificar que cumplen el código de prácticas de la norma ISO/IEC 27017:2015 como parte del proceso de certificación de la ISO/IEC 27001:2013.
 
-- [Certificado de Azure ISO 27017](https://aka.ms/azureiso27017cert)
-- [Informe de evaluación de Azure ISO 27017](https://aka.ms/azureiso27017report)
 - [Office 365: Informe de evaluación de auditoría de las ISO 27001, 27018 y 27017](https://aka.ms/o365isoreport)
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
-¿A quién se aplica la norma?
+**¿A quién se aplica la norma?**
 
 Este código de prácticas proporciona controles e instrucciones de implementación tanto para los clientes de servicios en la nube como para los proveedores de servicios en la nube. Está estructurado en un formato similar al de la norma ISO 27002:2013.
 
@@ -87,11 +104,11 @@ Sí. Si su empresa desea obtener una certificación para las implementaciones de
 
 En el [Portal de confianza de servicios](https://aka.ms/stphelp) encontrará informes de auditoría independientes de terceros y otros documentos relacionados. Puede usar el portal para descargar y revisar esa documentación para obtener ayuda con sus propios requisitos normativos.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar el Administrador de cumplimiento de Microsoft para evaluar el riesgo
 
 [El Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear evaluaciones en el Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Recursos
+### <a name="resources"></a>Recursos
 
 - [Código de prácticas de la norma ISO/IEC 27017:2015](https://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=43757)
 - [Términos de Microsoft Online Services](https://aka.ms/Online-Services-Terms)

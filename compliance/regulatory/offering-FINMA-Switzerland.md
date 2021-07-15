@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1b391d3f3cd748047e24bf9e82d3c267ca7425a7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1fe73fa10549c0126dc0b38b93cf1edd5b132855
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089553"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385050"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>Autoridad de Supervisión del Mercado Financiero (FINMA) de Suiza
 
@@ -42,7 +42,7 @@ La lista de comprobación de Microsoft ayuda a las empresas financieras suizas a
 - Información general sobre el panorama normativo para dar contexto.
 - Una lista de comprobación que describe las cuestiones que deben tratarse y asigna los servicios de Microsoft Azure, Microsoft Dynamics 365 y Microsoft 365 frente a dichas obligaciones reglamentarias. La lista de comprobación puede usarse como una herramienta para medir el cumplimiento con un marco normativo y proporcionar una estructura interna para documentar el cumplimiento, así como para ayudar a los clientes a llevar a cabo sus propias evaluaciones de riesgo de los servicios empresariales en la nube de Microsoft.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft en el ámbito de los servicios en la nube
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

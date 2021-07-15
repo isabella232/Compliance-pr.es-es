@@ -20,18 +20,18 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 4a4ec723a046b65ade51b2e7aaa08fcda3a1908d
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141471"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377947"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de interesados de la familia de Visual Studio para el RGPD y CCPA
 
-El [Reglamento General de Protección de Datos (RGPD)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) de la Unión Europea ofrece derechos a los individuos (que se denominan _interesados_ en el reglamento) para administrar sus datos personales. Los datos personales se definen de forma muy amplia según el RGPD como cualquier dato relacionado con una persona física, ya sea identificada o identificable. El RGPD ofrece a los interesados derechos específicos sobre sus datos personales, como la obtención de copias de sus datos, la solicitud de correcciones, impedir su tratamiento o eliminación o el envío en formato electrónico. Una solicitud formal realizada por un interesado a un responsable de los datos (que es un empleado o cualquier otro tipo de agencia u organización que tiene control sobre los datos personales) para realizar una acción en sus datos personales se denomina _solicitud de interesado_.
+El [Reglamento general de protección de datos (RGPD)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) de la Unión Europea concede derechos a las personas (conocidas en el reglamento como _interesados_) para administrar sus datos personales. Los datos personales se definen ampliamente en el RGPD como cualquier dato que guarde relación con una persona física identificada o identificable. El RGPD ofrece a los interesados derechos específicos sobre sus datos personales, como la obtención de copias de ellos, la solicitud de modificaciones, la restricción de tratamiento, la eliminación o la recepción en un formato electrónico. Se denomina _solicitud del interesado_ o DSR a una solicitud formal de un interesado a un responsable de los datos (es decir, su empresa u otro tipo de agencia u organización que tenga control sobre los datos personales del interesado en cuestión) para realizar una acción sobre los datos personales del interesado.
 
-De forma similar, la Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés), ofrece derechos y obligaciones de privacidad a los consumidores de California, incluyendo derechos similares a los Derechos del Interesado de GDPR, como el derecho de eliminar, acceder y recibir (portabilidad) su información personal.  La CCPA también prevé casos de divulgación de información, protecciones contra la discriminación en el ejercicio de derechos y requisitos de "cancelación/suscripción" para ciertas transferencias de datos clasificadas como "ventas". Las ventas se definen de forma amplia para incluir el uso compartido de datos con ánimo de lucro. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](offering-ccpa.md) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](ccpa-faq.yml).
+De manera similar, la Ley de privacidad del consumidor de California (CCPA por sus siglas en inglés), establece derechos y obligaciones de privacidad para los consumidores de California, incluyendo derechos similares a los derechos de las solicitudes del interesado del RGPD, como el derecho a borrar, acceder y recibir (portabilidad) su información personal.  La CCPA también prevé casos de divulgación de información, protecciones contra la discriminación en el ejercicio de derechos y requisitos de "cancelación/suscripción" para ciertas transferencias de datos clasificadas como "ventas". Las ventas se definen de forma amplia para incluir el uso compartido de datos con ánimo de lucro. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](offering-ccpa.md) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](ccpa-faq.yml).
 
 Para obtener información general sobre el RGPD, consulte la [sección RGPD del Portal de confianza de servicios](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted).
 
@@ -84,7 +84,7 @@ Los usuarios pueden controlar la configuración de privacidad de estos productos
 Los poseedores de datos pueden recurrir a uno de dos métodos posibles para administrar los datos de cliente y los registros generados por el sistema recopilados de los titulares de los datos, según cómo se haya registrado el producto de la familia de Visual Studio o las extensiones de Microsoft. En algunos casos, se deben usar ambos métodos. Por medio de estos métodos, los poseedores de datos pueden descargar una copia del historial de actividades administrado por el método en cuestión. El cierre de una cuenta de AAD o MSA elimina los datos de cliente de Visual Studio asociados y anonimiza los datos de identificación personal en los registros generados por el sistema que pertenezcan a estos productos. Los registros generados por el sistema anonimizados se conservan durante un máximo de 18 meses.
 
 - Los usuarios que hayan registrado un producto de la familia de Visual Studio con una cuenta respaldada por un inquilino de Azure (como, por ejemplo, una cuenta de AAD o MSA asociada a una suscripción a Azure) pueden seguir las instrucciones de [Solicitudes de interesados de Azure para el RGPD](gdpr-dsr-azure.md).
-- Los usuarios que hayan registrado un producto de la familia de Visual Studio sin una cuenta respaldada por un espacio empresarial de Azure (por ejemplo muchas cuentas que usan una cuenta Microsoft -MSA-), pueden dirigirse a [Centro de respuesta de privacidad de Microsoft basado en web](https://aka.ms/userprivacysite), disponible a través de la cuenta Microsoft, para ver, controlar y eliminar datos de actividades vinculados a su cuenta Microsoft en varios servicios Microsoft. En este escenario, el usuario es el poseedor de sus propios datos personales.
+- Los usuarios que hayan registrado un producto de la familia de Visual Studio sin una cuenta respaldada por un espacio empresarial de Azure (por ejemplo, muchas cuentas que usan una cuenta Microsoft o MSA), pueden dirigirse al [Centro de respuesta de privacidad de Microsoft basado en web](https://aka.ms/userprivacysite), disponible a través de la cuenta Microsoft, para ver, controlar y eliminar datos de actividades vinculados a su cuenta Microsoft en varios servicios Microsoft. En este escenario, el usuario es el poseedor de sus propios datos personales.
 
 > [!NOTE]
 > Cuando un titular de la cuenta MSA elimina su cuenta, todos los datos de identificación personal que pertenezcan a estos productos se eliminarán (tanto si la cuenta está respaldada por un inquilino de Azure como si no) y los registros generados por el sistema se anonimizarán.
@@ -212,9 +212,9 @@ Para más información sobre las solicitudes de interesados en el sitio web IIS.
 
 ## <a name="other-visual-studio-family-services"></a>Otros servicios de la familia de Visual Studio
 
-### <a name="surveymonkey"></a>SurveyMonkey
+### <a name="survey-monkey"></a>Survey Monkey
 
-De vez en cuando, invitamos a los clientes a que aporten sus comentarios sobre estos productos a través de SurveyMonkey. Estos datos se eliminan transcurridos 28 días. Al tramitar solicitudes de interesados relativas a estos productos, si ya contamos con respuestas de encuestas autenticadas, las incluimos en la exportación y eliminamos las solicitudes de interesados.
+De vez en cuando, invitamos a los clientes a proporcionar comentarios sobre estos productos a través de Survey Monkey. Estos datos se eliminan de Survey Monkey en un plazo de 28 días. Microsoft puede conservar estos datos internamente durante un máximo de 18 meses. Si se autentican las respuestas de la encuesta, las incluiremos en las solicitudes de exportación y eliminación de los interesados al atender solicitudes de interesados para estos productos.
 
 ## <a name="learn-more"></a>Más información
 

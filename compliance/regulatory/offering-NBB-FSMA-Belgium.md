@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3e0cedef50d4ac52547c785e5a5395b8b67ca1d6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120095"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384450"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>Banco Nacional de Bélgica (NBB) y Autoridad de Mercados y Servicios Financieros (FSMA)
 
@@ -31,7 +31,7 @@ Los principales organismos reguladores de servicios financieros en Bélgica son 
 
 El NBB es responsable de la supervisión prudencial de las entidades de crédito, aseguradoras, corredores de bolsa y otras organizaciones financieras. Como banco central de Bélgica, el NBB dirige la política monetaria para Bélgica y contribuye a la estabilidad del sistema financiero. Junto con el NBB, la FSMA supervisa los mercados financieros belgas, los proveedores de servicios financieros (incluidas las empresas de inversión) y las pensiones complementarias. Algunas de sus tareas son la supervisión de la información financiera que divulgan las empresas, los productos que ofrecen a los consumidores y su 	cumplimiento de las reglas de conducta empresarial.
 
-El NBB y la FSMA actúan de acuerdo con la Autoridad Bancaria Europea (ABE), "una autoridad independiente que trabaja para garantizar una regulación y supervisión prudencial eficaz y coherente en todo el sector bancario europeo". Para este fin, la EBA ha descrito un enfoque global para el uso de la computación en la nube por parte de instituciones financieras en la UE: [Recomendaciones para externalizar a proveedores de servicios en la nube](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362).
+El NBB y la FSMA actúan de acuerdo con la Autoridad Bancaria Europea (ABE), "una autoridad independiente que trabaja para garantizar una regulación y supervisión prudencial eficaz y coherente en todo el sector bancario europeo". Para este fin, la EBA ha descrito un enfoque global para el uso de la informática en la nube por parte de instituciones financieras en la UE: [Recomendaciones para subcontratar a proveedores de servicios en la nube](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362).
 
 Existen varios requisitos y directrices que las instituciones financieras en Bélgica deben tener en cuenta al trasladar funciones de empresa a la nube, entre los que se incluyen:
 
@@ -45,12 +45,12 @@ Para guiar a las instituciones financieras en Bélgica que valoren la externaliz
 
 Cuando las organizaciones financieras de Bélgica externalizan funciones de empresa a la nube, deben cumplir con las reglas y directrices del Banco Nacional de Bélgica (NBB) y la Autoridad de Mercados y Servicios Financieros (FSMA) dentro del marco general de directivas de la Autoridad Bancaria Europea (EBA).
 
-La lista de comprobación de Microsoft ayuda a las empresas financieras en Bélgica que realizan evaluaciones de diligencia debida de los servicios empresariales en la nube de Microsoft. Incluye:
+La lista de comprobación de Microsoft ayuda a las empresas financieras en Bélgica que realizan evaluaciones de diligencia debida de los servicios empresariales en la nube de Microsoft. Incluye lo siguiente:
 
 - Información general sobre el panorama normativo para dar contexto.
 - Una lista de comprobación que describe las cuestiones que deben tratarse y asigna los servicios de Microsoft Azure, Microsoft Dynamics 365 y Microsoft 365 frente a dichas obligaciones reglamentarias. La lista de comprobación puede usarse como una herramienta para medir el cumplimiento con un marco normativo y proporcionar una estructura interna para documentar el cumplimiento, así como para ayudar a los clientes a llevar a cabo sus propias evaluaciones de riesgo de los servicios empresariales en la nube de Microsoft.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft en el ámbito de los servicios en la nube
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

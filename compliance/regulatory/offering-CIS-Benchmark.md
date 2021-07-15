@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7cc2131bf35f4f230ed3d18a22d7da0533dd3be5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121379"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385400"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Indicadores del Centro de seguridad de internet (CSI)
 
@@ -50,12 +50,12 @@ Como todos los indicadores de CSI, los indicadores de Microsoft se crearon media
   
 Además de los puntos de referencia para los productos y servicios de Microsoft, CSI también ha publicado [imágenes protegidas de CSI para su uso en máquinas virtuales Azure](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/)configuradas para cumplir con los indicadores de CSI. Estos incluyen el protector de imágenes CSI de Microsoft Windows Server 2016 certificado para funcionar en Azure. CIS declara que "todas las imágenes protegidas de CIS que están disponibles en el [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?search=center%20for%20internet%20security) están certificadas para funcionar en Azure. Se han sometido a pruebas previas de preparación y compatibilidad con la nube pública de Azure, la plataforma en la nube de Microsoft alojada por proveedores de servicios a través de la red Cloud OS y las implementaciones de Windows Server Hyper-V en nube privada local gestionadas por los clientes".
 
-## <a name="microsoft-in-scope-cloud-services"></a>Servicios de la nube dentro del alcance de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure y Azure Government](https://aka.ms/AzureCompliance)
 - [Office y Microsoft 365](https://aka.ms/o365-compliance-framework)
 - SQL Server
-- Windows 10
+- Windows 10
 - Windows Server 2016
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados

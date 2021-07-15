@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: eb609f081f3f2aeb182bfe7a24327ebc89513a9c
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 711cbafddaa6fbdff4050b138edacbd399666ef3
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496311"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377787"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>Evaluación de impacto de la protección de datos para el RGPD
 
@@ -43,7 +43,7 @@ El Reglamento General de Protección de Datos (RGPD) exige a los controladores d
 
 ## <a name="dpia-in-action"></a>La EIPD en acción
 
-La guía de EIPD se aplica a los servicios profesionales y de soporte técnico de Office 365, Azure, Dynamics 365 y Microsoft. Esta guía presenta incluye consideraciones sobre:
+La guía de EIPD se aplica a Office 365, Azure, Dynamics 365, Soporte técnico de Microsoft y Servicios profesionales. Esta guía incluye las siguientes consideraciones:
 
 **¿Cuándo se necesita una EIPD?**
 
@@ -57,7 +57,7 @@ El RGPD aclara que: "El tratamiento de datos personales no debe considerarse a g
 
 **¿Qué se necesita para elaborar una EIPD?**
 
-Una EIPD debe proporcionar información específica sobre el procesamiento previsto, que se detalla en la segunda parte de las instrucciones. Esta información incluye:
+Una EIPD debe proporcionar información específica sobre el procesamiento previsto, que se detalla en la segunda parte de las instrucciones. Dicha información incluye lo siguiente:
 
 - Una evaluación de la necesidad y proporcionalidad del procesamiento de datos en relación con el propósito de EIPD.  
 - Una evaluación de los riesgos para los derechos y libertades de las personas físicas.
@@ -77,6 +77,7 @@ A continuación, se muestran detalles específicos que pueden ser relevantes par
 - [Office 365](gdpr-dpia-office365.md): este documento se aplica a aplicaciones y servicios de Office 365, entre los que se incluyen, entre otros, Exchange Online, SharePoint Online, Yammer, Skype Empresarial y Power BI. Consulte las tablas [1](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed) y [2](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia) para obtener más información.  
 - [Azure](gdpr-dpia-azure.md): Se recomienda a los clientes que trabajen con sus responsables de privacidad y asesores legales para determinar la necesidad y el contenido de cualquier EIPD relacionada con su uso de Microsoft Azure.  
 - [Dynamics 365](gdpr-dpia-dynamics.md): el contenido de una EIPD puede variar en función de las herramientas de Dynamics 365 que utilice. Para obtener detalles específicos, consulte el [contenido de la segunda parte de una EIPD](/microsoft-365/compliance/gdpr-dpia-dynamics#part-2--contents-of-a-dpia).
+- [Windows](/compliance/regulatory/gdpr-dpia-windows): este documento se aplica a la [configuración del encargado de los datos de diagnóstico de Windows](/windows/privacy/configure-windows-diagnostic-data-in-your-organization). Se anima a los clientes a trabajar con sus oficiales de privacidad y asesores legales para determinar la necesidad y el contenido de cualquier EIPD relacionada con su uso de la configuración del encargado de los datos de diagnóstico de Windows.
 - [Professional Services y Soporte Técnico de Microsoft](gdpr-dpia-prof-services.md): Professional Services no lleva a cabo ciertos procesos de procesamiento de datos y rutinas automatizadas, ni tampoco está diseñado para procesar categorías especiales ni realizar tareas que faciliten o requieran la monitorización de datos de acceso público. Para más detalles, consultar [Parte 1: determinar si se necesita una EIPD](/microsoft-365/compliance/gdpr-dpia-prof-services#part-1--determining-whether-a-dpia-is-needed) Los controladores deben tener en cuenta los elementos de la EIPD descritos arriba, además de cualquier otro factor relevante, en el contexto de las implementaciones específicas del controlador y el uso de Professional Services. Para obtener información sobre Professional Services, consulte [Parte 2: contenido de una EIPD](/microsoft-365/compliance/gdpr-dpia-prof-services#part-2--contents-of-a-dpia).
 
 ## <a name="learn-more"></a>Más información
