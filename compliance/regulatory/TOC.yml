@@ -11,7 +11,7 @@
         - name: Certificación STAR de la CSA
           href: /azure/compliance/offerings/offering-csa-star-certification?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: Autoevaluación STAR de la CSA
-          href: /azure/compliance/offerings/offering-csa-star-self-assessment?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+          href: offering-csa-star-self-assessment.md
         - name: 'ISO: plan de acción recomendado'
           href: iso-action-plan.md
         - name: ISO 20000-1-2011

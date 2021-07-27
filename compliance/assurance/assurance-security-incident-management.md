@@ -16,15 +16,15 @@ f1.keywords:
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
-- MS-Compliance0
+- MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a2c2a472d911034952814da51db133acc5744288
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: d52832d34034966eb9373925be2d3f5b31cfad5a
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377507"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573728"
 ---
 # <a name="microsoft-security-incident-management"></a>Administración de incidentes de seguridad de Microsoft
 

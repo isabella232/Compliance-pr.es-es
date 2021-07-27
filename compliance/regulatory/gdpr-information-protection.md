@@ -14,15 +14,16 @@ audience: itpro
 ms.collection:
 - GDPR
 - M365-security-compliance
+- MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 59f32d9ae9afc5e3682c032168d296dc0eec95f4
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: abdda00cf161c880400babef54989dd8d6935d46
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496041"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573858"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Protección de la información para el RGPD con funciones de Microsoft 365
 
@@ -57,8 +58,8 @@ Microsoft ofrece una configuración recomendada que puede usar como punto de ini
 Protección contra amenazas se basa en los servicios de Microsoft 365. Aquí encontrará algunos recursos para empezar:
 
 - [Plan de desarrollo de seguridad de Office 365: Prioridades más importantes para los primeros 30 días, 90 días y posteriores](/microsoft-365/security/office-365-security/security-roadmap). En este plan de desarrollo, se incluyen recomendaciones para implementar funciones. 
-- [Protect against threats in Office 365](/microsoft-365/security/office-365-security/protect-against-threats) (Protección contra amenazas en Office 365). Obtenga información acerca de acciones de protección que puede realizar en el Centro de seguridad de Microsoft 365.
-- [Protección contra amenazas de Windows](/windows/security/threat-protection/) Obtenga más información sobre Microsoft Defender para punto de conexión y otras funcionalidades de Windows 10.
+- [Protección contra amenazas en Office 365](/microsoft-365/security/office-365-security/protect-against-threats). Información sobre las acciones de protección que puede realizar en el Centro de seguridad de Microsoft 365.
+- [Protección contra amenazas de Windows](/windows/security/threat-protection/). Obtenga más información sobre Microsoft Defender para punto de conexión y otras funcionalidades de Windows 10.
 
 ## <a name="learn-more"></a>Más información
 

@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: b79d856591566aa1e13633377600c605429ee68e
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 8715ef1ee8133fe950e3ff42b0c53b49f916a018
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377967"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573848"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>Configuración del procesador de datos de diagnóstico de Windows Solicitudes del sujeto de datos para el GDPR y la CCPA
 
@@ -104,3 +104,6 @@ Microsoft también ofrece la capacidad de exportar datos de diagnóstico de Wind
 ## <a name="notify-us-about-exporting-or-deleting-issues"></a>Avísenos sobre los problemas de exportación o eliminación
 
 Si tiene problemas al exportar o eliminar datos de diagnóstico de Windows desde Azure Portal, vaya a la hoja **Ayuda + Soporte técnico** de Azure Portal y envíe un nuevo ticket en **Administración de suscripciones> Solicitudes de privacidad y cumplimiento para suscripciones> Hoja de privacidad y Solicitudes de GDPR**.
+
+>[!NOTE]
+>Puede llevar hasta 5 días que se complete una solicitud de exportación de datos de diagnóstico de Windows. Si tiene problemas, espere al menos 7 días antes de abrir una incidencia de soporte técnico.

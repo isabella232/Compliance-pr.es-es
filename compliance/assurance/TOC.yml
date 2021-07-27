@@ -2,16 +2,14 @@
   items:
     - name: Introducción a la arquitectura
       href: assurance-architecture.md
-    - name: Aislamiento de AAD y controles de acceso
-      href: /microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Controles de aislamiento de Azure
       href: /azure/security/fundamentals/isolation-choices?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Controles de aislamiento de Azure AD
+      href: /microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Controles de aislamiento de Microsoft 365
+      href: assurance-microsoft-365-isolation-controls.md
     - name: Seguridad de la infraestructura de Microsoft 365
       href: assurance-securing-microsoft-365-infrastructure.md
-    - name: Controles de aislamiento de Microsoft 365
-      href: /microsoft-365/enterprise/microsoft-365-isolation-controls?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Aislamiento del espacio empresarial de Microsoft 365
-      href: /microsoft-365/enterprise/microsoft-365-tenant-isolation-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Registro de auditoría
   items:
     - name: Información general sobre el registro de auditoría

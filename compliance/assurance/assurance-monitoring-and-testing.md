@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5c94dcab6ac61daa2d1723d84b47a6f360d55b59
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5708ab20d78d1862af5613c64ea492c40bea9da1
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087709"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573838"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Simulación de ataques en Microsoft 365
 
@@ -35,7 +35,7 @@ Microsoft 365 sistemas de supervisión internos que supervisan continuamente cua
 
 Aunque Microsoft 365 tiene acciones de recuperación automatizadas siempre que sea posible, los ingenieros de Microsoft de guardia están disponibles las 24 horas del día para investigar todas las escalas de seguridad de gravedad 1 y las revisiones post mortem de cada incidente de servicio contribuyen al aprendizaje y mejora continuos. Este equipo incluye ingenieros de soporte técnico, desarrolladores de productos, jefes de programa, jefes de producto y altos directivos. Nuestros profesionales de llamadas proporcionan copias de seguridad a tiempo y a menudo pueden automatizar las acciones de recuperación, de modo que la próxima vez que se produzca un evento, se pueda sanar automáticamente.
 
-Microsoft realiza una revisión exhaustiva después del incidente cada vez que se produce Microsoft 365 incidente de seguridad independientemente de la magnitud del impacto. Una revisión posterior al incidente consiste en un análisis de lo que sucedió, cómo respondimos y cómo evitamos incidentes similares en el futuro. En a interés de transparencia y responsabilidad, compartimos revisiones posteriores a los incidentes para cualquier incidente de servicio importante con los clientes afectados. Para obtener información específica, [consulte Office 365 Security Incident Management](https://aka.ms/Office365SIM).
+Microsoft realiza una revisión exhaustiva después del incidente cada vez que se produce Microsoft 365 incidente de seguridad independientemente de la magnitud del impacto. Una revisión posterior al incidente consiste en un análisis de lo que sucedió, cómo respondimos y cómo evitamos incidentes similares en el futuro. En a interés de transparencia y responsabilidad, compartimos revisiones posteriores a los incidentes para cualquier incidente de servicio importante con los clientes afectados. Para obtener detalles específicos, consulte [Administración de incidentes de seguridad de Microsoft](assurance-security-incident-management.md).
 
 ## <a name="assume-breach-methodology"></a>Asumir la metodología de infracción
 

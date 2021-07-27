@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d1cc1473a0478cd516ddfebf37d881174219e0c2
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 7a706cda887c0c2675841648ef8541ffbb872884
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087609"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573698"
 ---
 # <a name="security-development-and-operations-overview"></a>Introducción al desarrollo y las operaciones de seguridad
 
@@ -50,12 +51,12 @@ Además de las herramientas de desarrollo seguras y la revisión manual del cód
 
 Microsoft ha adoptado una estrategia de alto nivel para administrar la seguridad de código abierto, que aprovecha herramientas y flujos de trabajo diseñados para:
 
-- Comprenda qué componentes de código abierto se usan en nuestros productos y servicios.
-- Realice un seguimiento de dónde y cómo se usan esos componentes.
-- Determine si esos componentes tienen vulnerabilidades.
-- Responda correctamente cuando se detectan vulnerabilidades que afectan a esos componentes.
+- Comprender qué componentes de código abierto se usan en nuestros productos y servicios.
+- Realizar un seguimiento de dónde y cómo se usan esos componentes.
+- Determinar si esos componentes tienen vulnerabilidades.
+- Responder correctamente cuando se detecten vulnerabilidades que afecten a esos componentes.
 
-Los equipos de ingeniería de Microsoft mantienen la responsabilidad de la seguridad de todo el software de código abierto incluido en un producto o servicio. Para lograrlo a escala, Microsoft ha integrado capacidades esenciales en sistemas de ingeniería a través de CG, que automatiza la detección de código abierto, los flujos de trabajo de requisitos legales y la alerta de componentes vulnerables. Las herramientas de CG automatizadas analizan las compilaciones de Microsoft en busca de componentes de código abierto y vulnerabilidades de seguridad u obligaciones legales asociadas. Los componentes detectados se registran y se envían a los equipos adecuados para las revisiones de seguridad y empresa. Estas revisiones están diseñadas para evaluar las obligaciones legales o vulnerabilidades de seguridad asociadas con componentes de código abierto y resolverlas antes de aprobar componentes para la implementación.
+Los equipos de ingeniería de Microsoft mantienen la responsabilidad de la seguridad de todo el software de código abierto incluido en un producto o servicio. Para lograr esto a escala, Microsoft ha integrado funcionalidades esenciales en los sistemas de ingeniería a través de CG, que automatiza la detección de código abierto, los flujos de trabajo de requisitos legales y las alertas de componentes vulnerables. Las herramientas de CG automatizadas analizan las compilaciones de Microsoft en busca de componentes de código abierto y vulnerabilidades de seguridad u obligaciones legales asociadas. Los componentes detectados se registran y envían a los equipos adecuados para revisiones empresariales y de seguridad. Estas revisiones están diseñadas para evaluar las obligaciones legales o las vulnerabilidades de seguridad asociadas a los componentes de código abierto y resolverlas antes de aprobar los componentes para la implementación.
 
 ## <a name="related-external-regulations--certifications"></a>Normativas externas relacionadas & certificaciones
 
