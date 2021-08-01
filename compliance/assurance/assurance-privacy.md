@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0af79e7834006940f46643dae678c1a8ca77fad2
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: ee0645b13594585df5d940732fa420f2ccd4473b
+ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573788"
+ms.lasthandoff: 07/31/2021
+ms.locfileid: "53678245"
 ---
 # <a name="privacy-overview"></a>Información general sobre privacidad
 
@@ -45,22 +45,32 @@ Microsoft limita la recopilación de datos de clientes a cuatro categorías de d
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>¿Cómo administra Microsoft el uso compartido de terceros?
 
-El uso compartido de terceros es el uso compartido o la divulgación posterior de datos a terceros. Microsoft solo compartirá datos cuando el cliente lo autorice o lo requiera la legislación aplicable. Microsoft no proporciona a ningún gobierno (incluidas las fuerzas del orden u otras entidades gubernamentales) acceso directo o sin control a los datos de los clientes. Microsoft [cumple con las leyes internacionales de protección de datos relativas](https://www.microsoft.com/trust-center/privacy/data-location) a las transferencias de datos de clientes a través de las fronteras.
+El uso compartido de terceros es el uso compartido o la divulgación posterior de datos a terceros. Microsoft solo compartirá datos cuando el cliente lo autorice o lo requiera la legislación aplicable. Microsoft no concede a ningún gobierno (incluidas las autoridades judiciales u otras entidades gubernamentales) acceso directo o ilimitado a los datos de los clientes. Microsoft [cumple con las leyes internacionales de protección de datos relativas](https://www.microsoft.com/trust-center/privacy/data-location) a las transferencias de datos de clientes a través de las fronteras.
 
 ## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>¿Cómo elimina Microsoft los datos de los clientes cuando un cliente deja el servicio?
 
-Microsoft Data Handling Standard especifica cuánto tiempo se conservan los datos del cliente después de la eliminación. Cuando un cliente finaliza su suscripción, Microsoft retiene los datos de los clientes en una cuenta de función limitada durante 90 días para permitir al cliente extraer los datos. Una vez que finalice el período de retención de 90 días, Microsoft eliminará los datos de los clientes a menos que esté autorizado a conservarlo o esté obligado a conservarlo por ley. No más de 180 días después de la expiración o finalización de una suscripción a Microsoft 365, Microsoft deshabilita la cuenta y elimina todos los datos de clientes de la cuenta. Una vez transcurrido el período máximo de retención de los datos, los datos se representan comercialmente irrecuperables.
+Microsoft Data Handling Standard especifica cuánto tiempo se conservan los datos del cliente después de la eliminación. Cuando un cliente finaliza su suscripción, Microsoft conserva los datos de los clientes en una cuenta de función limitada durante 90 días para permitir que el cliente extraiga los datos. Una vez que finalice el período de retención de 90 días, Microsoft eliminará los datos de los clientes a menos que esté autorizado para retenerlos o que la ley lo requiera. No más de 180 días después de la expiración o finalización de una suscripción a los servicios en línea de Microsoft, Microsoft deshabilita la cuenta y elimina todos los datos de clientes de la cuenta. Una vez transcurrido el período de retención máximo de los datos, los datos se representan comercialmente como irrecuperables.
 
-Microsoft también elimina todos los datos de diagnóstico y generados por el servicio como parte del ciclo de vida de datos estándar de Microsoft, a menos que los datos sean necesarios para mantener la seguridad y estabilidad del servicio. Para cualquier suscripción, un suscriptor puede ponerse en contacto con el Soporte técnico de Microsoft y solicitar el desaprovisionamiento rápido de la suscripción. Cuando un cliente aprovecha este proceso, todos los datos de usuario se eliminan tres días después de que el administrador escriba el código de bloqueo proporcionado por Microsoft. Esta eliminación incluye datos en SharePoint Online y Exchange Online en espera o almacenados en buzones inactivos.
+Microsoft también elimina todos los datos de diagnóstico y generados por el servicio como parte del ciclo de vida de datos estándar de Microsoft, a menos que los datos sean necesarios para mantener la seguridad y estabilidad del servicio. Para cualquier suscripción, un suscriptor puede ponerse en contacto con Soporte técnico de Microsoft y solicitar el desaprovisionamiento rápido de la suscripción. Cuando un cliente usa este proceso, todos los datos de usuario se eliminan tres días después de que el administrador escriba el código de bloqueo proporcionado por Microsoft. Esta eliminación incluye datos en SharePoint Online y Exchange Online en espera o almacenados en buzones inactivos.
 
 ## <a name="related-external-regulations--certifications"></a>Normativas externas relacionadas & certificaciones
 
 Los servicios en línea de Microsoft se auditan periódicamente para cumplir con las normativas y certificaciones externas. Consulte la siguiente tabla para la validación de controles relacionados con la privacidad.
 
+### <a name="azure-and-dynamics-365"></a>Azure y Dynamics 365
+
 | **Auditorías externas** | **Section** | **Fecha de informe más reciente** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Declaración de aplicabilidad](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificación](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Propósito del procesador PII de nube pública | 20 de abril de 2021 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: Acuerdos de nivel de servicio (SLA) <br> CA-17: directiva de seguridad de Microsoft <br> CA-25: Actualizaciones del marco de control | 24 de diciembre de 2020 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Declaración de aplicabilidad](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificación](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=56904fc3-0942-4ff5-9eef-7cabc751a25c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Propósito del procesador PII de nube pública | 2 de diciembre de 2020 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: Terminación/expiración de suscripción de cliente <br> SDL-1: metodología de ciclo de vida de desarrollo de seguridad (SDL) <br> LA-4: Protección de datos confidenciales de clientes | 21 de marzo de 2021 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: Terminación/expiración de suscripción de cliente <br> SDL-1: metodología de ciclo de vida de desarrollo de seguridad (SDL) <br> LA-4: Protección de datos confidenciales de clientes <br> SOC2-1: Clasificación de activos <br> SOC2-7: Obligaciones de confidencialidad y seguridad publicadas | 31 de marzo de 2021 |
+
+### <a name="office-365"></a>Office 365
+
+| **Auditorías externas** | **Section** | **Fecha de informe más reciente** |
+|:--------------------|:------------|:-----------------------|  
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Declaración de aplicabilidad](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Propósito del procesador PII de nube pública | 20 de abril de 2021 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: Acuerdos de nivel de servicio (SLA) <br> CA-17: directiva de seguridad de Microsoft <br> CA-25: Actualizaciones del marco de control | 24 de diciembre de 2020 |
 
 ## <a name="resources"></a>Recursos
 
