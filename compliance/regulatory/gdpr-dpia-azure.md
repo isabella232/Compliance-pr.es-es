@@ -20,7 +20,7 @@ titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
 ms.openlocfilehash: aa768844d5ba329662e0bedd877da6dcbe441712
 ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/12/2021
 ms.locfileid: "53377457"
@@ -32,7 +32,7 @@ El Reglamento general de protección de datos (RGPD) exige a los responsables de
 La finalidad de este documento es proporcionar a los poseedores de los datos información sobre Microsoft Azure que les permitirá determinar si se necesita una EIPD y, en ese caso, qué detalles incluir.
 
 >[!Note]
->Microsoft no proporciona asesoría legal en este artículo. Este artículo tiene fines exclusivamente informativos. Se recomienda a los clientes que trabajen con sus responsables de privacidad (o responsables de protección de datos (DPO) cuando se designen) o asesores legales para determinar la necesidad y el contenido de cualquier EIPD relacionada con el uso de Microsoft Azure o cualquier otro servicio en línea de Microsoft.
+>Microsoft no proporciona asesoría legal en este artículo. Este artículo tiene fines exclusivamente informativos. Se recomienda a los clientes que trabajen con sus responsables de privacidad —o responsables de protección de datos (DPO) cuando se designen— o asesores legales para determinar la necesidad y el contenido de cualquier EIPD relacionada con el uso de Microsoft Azure o cualquier otro servicio en línea de Microsoft.
 
 ## <a name="part-1-determining-whether-a-dpia-is-needed"></a>Parte 1: Determinar si se necesita una EIPD
 

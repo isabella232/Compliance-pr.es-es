@@ -18,7 +18,7 @@ hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 2b98a7ab816f526a5371788df14755b998e14099
 ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/12/2021
 ms.locfileid: "53384370"
