@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92e67729125916b1ec34f7e305468f7e07489d12
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 37b5fbaa0ba98bcf79be65a3eeebb0926339164c08bc720daff714476d0f1e2b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293927"
 ---
 # <a name="my-number-act-japan"></a>Sistema Mi Número Personal (Japón)
 
@@ -60,11 +60,11 @@ Por lo tanto, los servicios en la nube de Microsoft Business son compatibles con
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad de Office 365 y servicios dentro del ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios del ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Administrador de cumplimiento, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Bookings, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Complemento de cumplimiento avanzado de Office 365, Office 365 Cloud App Security, Grupos de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
 
@@ -85,7 +85,7 @@ Use la tabla siguiente para determinar la aplicabilidad de los servicios y la su
 ## <a name="resources"></a>Recursos
 
 - [Cumplimiento de Azure y los requisitos de seguridad y privacidad de Japón](https://gallery.technet.microsoft.com/Azure-Compliance-and-the-53409748)
-- [Privacidad de Microsoft](https://privacy.microsoft.com/es-ES/)
+- [Privacidad de Microsoft](https://privacy.microsoft.com/en-US/)
 - [Declaración de privacidad de Microsoft](https://privacy.microsoft.com/privacystatement)
 - [Consideraciones de privacidad en la nube](https://download.microsoft.com/download/0/9/D/09DE47F6-F9E5-4C14-B9E8-E8119A130ACC/Privacy_considerations_in_the_cloud.pdf)
 - [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

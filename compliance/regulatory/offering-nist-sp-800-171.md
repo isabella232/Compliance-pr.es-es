@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 19b312d1b9f31683d775049010d390710554df01
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4b5f8bfd19193b3a05b5ffa6476271bc6da05c7ec1c669a2f1614535a54942e1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294307"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -44,7 +44,7 @@ Los requisitos de NIST SP 800-171 son un subconjunto de NIST SP 800-53, el está
 
 Cualquier entidad que procese o almacena CUI del gobierno de Estados Unidos: instituciones de investigación, empresas de consultoría, contratistas de fabricación, debe cumplir con los estrictos requisitos de NIST SP 800-171. Esta atestación significa que los servicios en la nube de Microsoft en el ámbito pueden dar cabida a clientes que buscan implementar cargas de trabajo de CUI con la garantía de que Microsoft está en plena conformidad. Por ejemplo, todos los contratistas doD que procesan, almacenan o transmiten "información de defensa cubierta" con servicios en la nube de Microsoft en el ámbito de sus sistemas de información cumplen las cláusulas DFARS del Departamento de Defensa de Estados Unidos que requieren el cumplimiento de los requisitos de seguridad de NIST SP 800-171.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure Commercial, Azure Government
 - Dynamics 365 U.S. Government
@@ -57,22 +57,22 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 
 ## <a name="office-365-and-nist-sp-800-171"></a>Office 365 y NIST SP 800-171
 
-### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios en el ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **GCC** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 | **GCC High** | Servicio de fuente de actividad, servicios de Bing, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, 
 SharePoint Online, Skype Empresarial, Windows Ink |
 | **DoD** | Servicio de fuente de actividades, servicios de Bing, Exchange Online, servicios inteligentes, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, Microsoft Teams, SharePoint Online, Skype Empresarial, Windows Ink |
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Puedo usar el cumplimiento de Microsoft con NIST SP 800-171 para mi organización?**
 

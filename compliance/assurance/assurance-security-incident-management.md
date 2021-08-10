@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d52832d34034966eb9373925be2d3f5b31cfad5a
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 38bb8c8492c3bbff6ed96380ac3a4d284f220a0ec5b2fb7b7c00814033a5c02c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292193"
 ---
 # <a name="microsoft-security-incident-management"></a>Administración de incidentes de seguridad de Microsoft
 
@@ -43,7 +43,7 @@ El enfoque de Microsoft para administrar un incidente de seguridad se ajusta a l
 
 |**Equipo o área**|**Descripción**|
 |:------------|:--------------|
-| Centro de respuesta de seguridad de Microsoft | Identifica, supervisa, resuelve y responde a incidentes de seguridad y vulnerabilidades de seguridad de software de Microsoft. |
+| Centro de respuestas de seguridad de Microsoft | Identifica, supervisa, resuelve y responde a incidentes de seguridad y vulnerabilidades de seguridad de software de Microsoft. |
 | Centro de operaciones de Cyber Defense | El Centro de operaciones de Ciberdefensa es la ubicación física que reúne a equipos de respuesta de seguridad y expertos de toda la compañía para ayudar a proteger, detectar y responder a las amenazas en tiempo real. |
 | Asuntos corporativos, externos y legales | Proporciona consejos legales y normativos para un incidente de seguridad sospechoso. |
 | Equipo de seguridad de Microsoft Datacenter | Equipo que se centra en los distintos servicios en inversiones comunes de ingeniería de seguridad para proteger, detectar y responder a los riesgos y amenazas de la arquitectura de servicio. |

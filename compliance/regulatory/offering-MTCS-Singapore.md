@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 111a13f2b9d3e3988f8ae673d5ae9f0c053e2ec9
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 1754a102b87b68e36feb8bd18b4194c50cfd2622a9adacea75449cb8f624e441
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293487"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>Estándar de Seguridad en la Nube Multinivel (MTCS) para Singapur
 
@@ -64,11 +64,11 @@ Se concedieron certificaciones en el Nivel 3 para servicios de Microsoft Azure (
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad de Office 365 y servicios dentro del ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios del ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **Office 365** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Portal del cliente de Office 365, Office Online, Infraestructura de Servicios de Office, SharePoint Online, Skype Empresarial |
 

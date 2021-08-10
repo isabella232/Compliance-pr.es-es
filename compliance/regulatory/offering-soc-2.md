@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c20ad27b244825e017d7545e669262ca61202b60
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 10e746cb1e948311090437bb85e497bdd81d97021b9dcd5f3a767c3237f5b8b6
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293507"
 ---
 # <a name="system-and-organization-controls-soc-2-type-2"></a>Controles del sistema y de la organización (SOC) 2 tipo 2
 
@@ -57,7 +57,7 @@ Las servicios en línea de Microsoft en el ámbito se muestran en el informe de 
 - Microsoft Stream
 - Expertos en amenazas de Microsoft (no está en el ámbito de Azure Government)
 - Portal de nominación
-- Office 365, Office 365 Gobierno de EE. UU., Office 365 Gobierno de EE. UU. - Alto, Office 365 Gobierno de EE.
+- Office 365, Office 365 Administración Pública para Estados Unidos, Office 365 Administración Pública para Estados Unidos - Alto, Office 365 Administración Pública para Estados Unidos Departamento de Defensa
 - Power Apps
 - Power Automate
 - Power BI
@@ -74,14 +74,14 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad de Office 365 y servicios dentro del ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios del ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Administrador de cumplimiento, Caja de seguridad del cliente, Delve, Protección de Exchange Online, Exchange Online, Formularios, Beatriz, Administrador de identidades, Caja de seguridad (Torus), Microsoft Teams, MyAnalytics, Portal de clientes de Office 365, Microservicios de Office 365 (incluidos, entre otros, Kaizala, ObjectStore, Sway, Servicio de documentos de PowerPoint Online, Servicio de anotación de consultas, School Data Sync, Sirule, Speech, StaffHub, eXtensible Application Program), Office Online, Infraestructura de servicios de Office, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, Project Online, Cifrado de servicio con clave de cliente, SharePoint Online, Skype Empresarial |
-| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
+| **Office 365** | Administrador de cumplimiento, Caja de seguridad del cliente, Delve, Exchange Online Protection, Exchange Online, Forms, Griffin, Administrador de identidades, Caja de seguridad (Torus), Microsoft Teams, MyAnalytics, Portal del cliente de Office 365, Microservicios de Office 365 (incluidos, entre otros, Kaizala, ObjectStore, Sway, Servicio de documentos de PowerPoint Online, Servicio de anotación de consultas, School Data Sync, Siphon, Speech, StaffHub, programa de la aplicación eXtensible), Office Online, Infraestructura de servicios de Office, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, Project Online, Cifrado del servicio con clave de cliente, SharePoint Online, Skype Empresarial |
+| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial |
 | **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, Power BI, SharePoint Online, Skype Empresarial |
 
@@ -95,9 +95,9 @@ Debe tener una suscripción existente o una cuenta de evaluación gratuita en Of
 
 ### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
-**¿Con qué frecuencia se emiten informes SOC de Office 365?**
+**¿Con qué frecuencia se emiten los informes SOC de Office 365?**
 
-Los informes de SOC para Office 365 y otros servicios en línea se basan en un período de ejecución acumulado de 12 meses (período de auditoría) con nuevos informes emitidos semestralmente (el período finaliza el 31 de marzo y el 30 de septiembre). *Las cartas puente* se emiten todos los trimestres y comprenden el período de tres meses anterior. Por ejemplo, la carta de enero abarca del 1 al 31 de octubre, la carta de abril abarca del 1 al 31 de enero, la de julio abarca del 1 al 30 de abril y la de octubre del 1 al 30 de septiembre.
+Los informes de SOC para Office 365 y otros servicios en línea se basan en un período de ejecución acumulado de 12 meses (período de auditoría) con nuevos informes emitidos semestralmente (el período finaliza el 31 de marzo y el 30 de septiembre). Las *cartas puente* se emiten todos los trimestres y comprenden el período anterior de tres meses. Por ejemplo, la carta de enero abarca del 1° de octubre al 31 de diciembre; la carta de abril abarca del 1° de enero al 31 de marzo; la de julio abarca del 1° de abril al 30 de junio y la de octubre abarca del 1° de julio al 30 de septiembre.
 
 **¿Dónde puedo obtener la documentación de auditoría de SOC de Office 365, incluidas las cartas puente?**
 
@@ -122,7 +122,7 @@ Las responsabilidades de las entidades de usuario se encuentran al final del inf
 ### <a name="resources"></a>Recursos
 
 - [Informes de auditoría del Portal de confianza de servicios](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
-- [AICPA SOC de organizaciones de servicios](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/socforserviceorganizations.html)
-- [N.º 18 de SSAE, Estándares de atestación: aclaración y recodificación (estándares profesionales de AICPA)](https://www.aicpa.org/Research/Standards/AuditAttest/DownloadableDocuments/SSAE_No_18.pdf)
-- [SOC 2, Informes sobre un Examen de controles en una Organización de servicios relevante para la seguridad, disponibilidad, integridad de procesamiento, confidencialidad o privacidad (Guía de AICPA)](https://future.aicpa.org/cpe-learning/publication/soc-2-reporting-on-an-examination-of-controls-at-a-service-organization-relevant-to-security-availability-processing-integrity-confidentiality-or-privacy-OPL) (disponible para la compra)
+- [SOC de AICPA para organizaciones del servicio](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/socforserviceorganizations.html)
+- [SSAE N.º 18, Estándares de atestación: Aclaración y recodificación (Estándares profesionales de AICPA)](https://www.aicpa.org/Research/Standards/AuditAttest/DownloadableDocuments/SSAE_No_18.pdf)
+- [Creación de informes SOC 2 en un examen de controles de una organización de servicio relevante para la seguridad, la disponibilidad, la integridad de procesamiento, la confidencialidad o la privacidad (Guía de AICPA)](https://future.aicpa.org/cpe-learning/publication/soc-2-reporting-on-an-examination-of-controls-at-a-service-organization-relevant-to-security-availability-processing-integrity-confidentiality-or-privacy-OPL) (disponible para su compra)
 - [Sección 100 de TSP (Criterios de servicios de confianza de AICPA, 2017)](https://www.aicpa.org/content/dam/aicpa/interestareas/frc/assuranceadvisoryservices/downloadabledocuments/trust-services-criteria.pdf)

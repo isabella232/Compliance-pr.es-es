@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f9189b763824a144a72259643c252563bc6a349b
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: 764b56a0f950d0b933bb86bb86ad505481bce482cbed4d2a0b06a4969b1c6661
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292308"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Filtrado previo al empleo de Microsoft
 
@@ -67,7 +67,7 @@ En la medida permitida por la legislación local, las comprobaciones de filtrado
 - Seguimiento de SSN en Estados Unidos o confirmación de identidad de un documento emitido por el gobierno en Europa, Oriente Medio y Asia.
 - El historial penal comprueba hasta siete años por delitos graves y delitos menores en los niveles estatal, del condado y local, y en el nivel federal si procede en los Estados Unidos. Se aplica una comprobación de historial penal internacional (dependiente de la legislación local) para áreas fuera de los Estados Unidos.
 - Confirmación del nivel más alto de logros académicos
-- Sanciones globales y comprobación de cumplimiento
+- Comprobaciones de demandas y sanciones globales
 
 En los Estados Unidos antes de cada colocación de cada miembro del personal del proveedor que se va a realizar para Microsoft, en la medida permitida por la legislación local, el proveedor realizará una colocación previa y, para determinadas colocaciones, una comprobación periódica de antecedentes utilizando el proveedor de servicios de selección de antecedentes preferido de Microsoft que confirmará a Microsoft que el filtrado cumple con el estándar de Microsoft. 
 

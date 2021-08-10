@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 445d812b33214a3d2287268b587607004ef96ab7
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 9ec3e0456934c178b32a6f5fac987d70c267ef8046ff5c361abce914a2cea90a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291873"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Administración de incidentes de seguridad de Microsoft: detección y análisis
 
@@ -76,10 +76,10 @@ Algunos ejemplos de estas acciones incluirían:
 - Un resumen, que es una breve descripción del incidente y su posible impacto
 - Gravedad y prioridad del incidente, que se derivan al evaluar el impacto potencial
 - Una lista de todos los indicadores identificados que llevaron a la detección del incidente
-- Una lista de incidentes relacionados
+- Una lista de cualquier incidente relacionado
 - Una lista de todas las acciones realizadas por el equipo virtual
 - Cualquier evidencia recopilada, que también se conservará para el análisis post mortem y futuras investigaciones forenses
-- Pasos y acciones recomendados
+- Acciones y pasos siguientes recomendados
 
 Después de la confirmación de incidentes de seguridad, los objetivos principales del equipo de respuesta de seguridad y el equipo de servicio adecuado son contener el ataque, proteger los servicios que se están atacando y evitar un mayor impacto global. Al mismo tiempo, los equipos de ingeniería adecuados trabajan para determinar la causa raíz y preparar el primer plan de recuperación.
 

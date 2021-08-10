@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d8eebfff19667ee96298179843b7b39f071b9f0a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 6406c63d73e30a62d3cbe54bf8cef632cc5564b2cae3d1a9588652644b8f8c96
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293907"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Us Internal Revenue Service Publication 1075
 
@@ -45,7 +45,7 @@ Para ayudar a las agencias gubernamentales en sus esfuerzos de cumplimiento, Mic
 - Proporciona al IRS Azure Government Compliance Considerations y Office 365 U.S. Government Compliance Considerations, que describen cómo una agencia puede usar Microsoft Cloud para los servicios gubernamentales de forma que cumpla con el IRS 1075. Los clientes gubernamentales con NDA pueden solicitar estos documentos.
 - Ofrece a los clientes la oportunidad (a su cargo) de comunicarse con expertos en la materia de Microsoft o auditores externos si es necesario.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 Las autorizaciones de FedRAMP se conceden en tres niveles de impacto según las directrices de NIST: bajo, medio y alto. Estos clasifican el impacto que la pérdida de confidencialidad, integridad o disponibilidad podría tener en una organización: bajo (efecto limitado), medio (efecto adverso grave) y alto (efecto grave o catastrófico).
 
@@ -60,26 +60,26 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 
 ## <a name="office-365-and-irs-1075"></a>Office 365 e IRS 1075
 
-### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios en el ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **Office 365** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, infraestructura de servicio, SharePoint Online, Skype Empresarial, Windows Ink |
 | **GCC** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 auditorías, informes y certificados
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorías, informes y certificados de Office 365
 
 El cumplimiento de los requisitos sustantivos del IRS 1075 está cubierto por la auditoría FedRAMP cada año.
 
 - [Autorizaciones de FedRAMP](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Cómo aborda Microsoft los requisitos del IRS 1075?**
 

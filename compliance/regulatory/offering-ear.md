@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b3867c9d8c165c451813929d49dc5936e643e95c
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293597"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Us Export Administration Regulations (EAR)
 
@@ -51,7 +51,7 @@ El Departamento de Comercio de Estados Unidos, que aplica el EAR, ha tomado la p
 - **Cifrado de extremo a extremo**. Al aprovechar el puerto seguro de cifrado de extremo a extremo para las ubicaciones de almacenamiento físico especificadas en el EAR, los servicios en la nube de Microsoft en el ámbito ofrecen características de cifrado que pueden ayudar a proteger contra riesgos de control de exportación. También ofrecen a los clientes una [amplia](https://aka.ms/Azure-Encryption-Overview) variedad de opciones para cifrar datos en tránsito y en reposo, y la flexibilidad para elegir entre las opciones de cifrado.
 - **Herramientas y protocolos para evitar la exportación no autorizada.** El uso del cifrado también ayuda a proteger contra una posible exportación (o se considera una reex exportación) en el EAR, ya que incluso si una persona que no es estadounidense tiene acceso a datos cifrados, no se revela nada si no puede leer o comprender los datos mientras está cifrado; por lo tanto, no hay "liberación" de datos controlados.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure y Azure Government](https://aka.ms/AzureCompliance)
 - [Office 365 Administración Pública (GCC-High y DoD)](https://aka.ms/Office-365-Export-Controls)

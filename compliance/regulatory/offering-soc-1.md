@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a3431b93e1c8f4b2705a0362114412aa4381143b
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: abe4804585269110d07e00b2e6f7cda75bd88106effd21f4d8060fedc03bbce8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294357"
 ---
 # <a name="system-and-organization-controls-soc-1-type-2"></a>Controles del sistema y de la organización (SOC) 1 tipo 2
 
@@ -54,7 +54,7 @@ Las servicios en línea de Microsoft en el ámbito se muestran en el informe de 
 - Microsoft Stream
 - Expertos en amenazas de Microsoft (no está en el ámbito de Azure Government)
 - Portal de nominación
-- Office 365, Office 365 Gobierno de EE. UU., Office 365 Gobierno de EE. UU. - Alto, Office 365 Gobierno de EE.
+- Office 365, Office 365 Administración Pública para Estados Unidos, Office 365 Administración Pública para Estados Unidos - Alto, Office 365 Administración Pública para Estados Unidos Departamento de Defensa
 - Power Apps
 - Power Automate
 - Power BI
@@ -71,14 +71,14 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad de Office 365 y servicios dentro del ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **En los servicios del ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **Office 365** | Administrador de cumplimiento, Caja de seguridad del cliente, Delve, Protección de Exchange Online, Exchange Online, Formularios, Beatriz, Administrador de identidades, Caja de seguridad (Torus), Microsoft Teams, MyAnalytics, Portal de clientes de Office 365, Microservicios de Office 365 (incluidos, entre otros, Kaizala, ObjectStore, Sway, Servicio de documentos de PowerPoint Online, Servicio de anotación de consultas, School Data Sync, Sirule, Speech, StaffHub, eXtensible Application Program), Office Online, Infraestructura de servicios de Office, OneDrive para la Empresa , Planner, PowerApps, Power BI, Project Online, Cifrado de servicio con clave de cliente, SharePoint Online, Skype Empresarial |
-| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365 , Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
+| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
 | **GCC-High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial |
 | **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, Power BI, SharePoint Online, Skype Empresarial |
 
@@ -91,9 +91,9 @@ Debe tener una suscripción existente o una cuenta de evaluación gratuita en Of
 
 ### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
-**¿Con qué frecuencia se emiten informes SOC de Office 365?**
+**¿Con qué frecuencia se emiten los informes SOC de Office 365?**
 
-Los informes de SOC para Office 365 y otros servicios en línea se basan en un período de ejecución acumulado de 12 meses (período de auditoría) con nuevos informes emitidos semestralmente (el período finaliza el 31 de marzo y el 30 de septiembre). *Las cartas puente* se emiten todos los trimestres y comprenden el período de tres meses anterior. Por ejemplo, la carta de enero abarca del 1 al 31 de octubre, la carta de abril abarca del 1 al 31 de enero, la de julio abarca del 1 al 30 de abril y la de octubre del 1 al 30 de septiembre.
+Los informes de SOC para Office 365 y otros servicios en línea se basan en un período de ejecución acumulado de 12 meses (período de auditoría) con nuevos informes emitidos semestralmente (el período finaliza el 31 de marzo y el 30 de septiembre). Las *cartas puente* se emiten todos los trimestres y comprenden el período anterior de tres meses. Por ejemplo, la carta de enero abarca del 1 al 31 de octubre, la carta de abril abarca del 1 al 31 de enero, la de julio abarca del 1 al 30 de abril y la de octubre del 1 al 30 de septiembre.
 
 **¿Cómo pueden beneficiarse los clientes de la atestación SOC 1 tipo 2 de Office 365?**
 

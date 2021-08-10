@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 79dc7fc209b85048189016a9bed8f5ca45b99bdb
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 68f238785dbe3eb0146c3d95982a7e95eefab74a0b042f49fa66dff066227be0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293897"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -59,7 +59,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 - [Cobertura de la norma NEN 7510:2011 en Azure y Office 365](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=15d5a5fa-fbb6-4ea6-8126-2a2c684ae789&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports)
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Un cliente que usa los servicios de nube de Microsoft cumple con la norma NEN 7510?**
 

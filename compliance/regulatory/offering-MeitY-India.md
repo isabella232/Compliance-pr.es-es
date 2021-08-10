@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9b5924ce8f8424479bd4320f6e33e6fec7e636d
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292457"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministerio de Electrónica y Tecnología de la Información (MeitY)
 
@@ -43,7 +43,7 @@ En noviembre de 2017, Microsoft se convirtió en uno de los primeros proveedores
 
 La acreditación MeitY de Microsoft fue el resultado de una rigurosa auditoría realizada por la Dirección de certificación de calidad y pruebas de normalización (STQC), una organización gubernamental que proporciona servicios de control de calidad, mediante un marco de evaluación basado en el trabajo de la Iniciativa en la nube de MeghRaj. A través de Microsoft Azure, las organizaciones del sector público ahora pueden usar una amplia variedad de modelos de implementación y ofertas de servicios, incluida la infraestructura como servicio (IaaS), la plataforma como servicio (PaaS), la recuperación ante desastres, DevOps y la copia de seguridad administrada.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -53,7 +53,7 @@ La acreditación MeitY de Microsoft fue el resultado de una rigurosa auditoría 
 
 - Acreditación de Microsoft Cloud en [estado de auditoría de proveedores de servicios en la nube](https://meity.gov.in/content/gi-cloud-meghraj)
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Por qué es importante MeitY?**
 

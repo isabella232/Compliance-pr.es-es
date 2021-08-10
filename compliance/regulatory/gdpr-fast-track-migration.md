@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: d3429d3fb35317146e32fddc71bae2f12c40269d
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: a83a39ec6f60dae780d1082f534c094c45ac4d2c6788c851c6c1cf35b1a7d256
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293111"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Conjunto de herramientas de migración de FastTrack para cursar solicitudes de eliminación
 
@@ -35,9 +35,9 @@ Si es un cliente que actualmente está realizando una migración de FastTrack, e
 
 Microsoft admite la versión inicial de este conjunto de herramientas en la plataforma de Windows y en la consola de PowerShell. Este conjunto de herramientas admite las siguientes plataformas conocidas:
 
-***Tabla 1: plataformas admitidas por este conjunto de herramientas** _
+***Tabla 1: plataformas admitidas por este conjunto de herramientas***
 
-_***
+****
 
 |Versión de PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -61,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 Se le pedirá que confirme esta acción, dado que el administrador puede cambiar el ámbito a su conveniencia.
 
-**_Definir la directiva de ejecución_* _
+***Definir la directiva de ejecución***
 
 ![Cambio de establecimiento de la directiva de ejecución en PowerShell](../media/powershell-set-execution-policy_image.png)
 
@@ -83,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 Tras haber iniciado sesión correctamente, la clave y las credenciales se almacenarán para su uso con módulos FastTrack durante lo que quede de la sesión actual de PowerShell.
 
-Si necesita conectarse a un entorno de nube que no sea comercial, deberá agregar _-Environment* al comando de *Inicio de sesión* con uno de los siguientes entornos válidos:
+Si necesita conectarse a un entorno de nube que no sea comercial, deberá agregar *-Environment* al comando *Login* con uno de los siguientes entornos válidos:
 
 - AzureCloud
 - AzureChinaCloud

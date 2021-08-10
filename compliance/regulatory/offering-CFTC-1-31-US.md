@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ac17525d8368b61dfd00bfa765e5ee2d1533b3f6
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 903f4d3db8965fdcd8c96a8d474e5180430b4966e4adc6945315f283ddbc0d3f
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292587"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>Regla 1.31(c-d) de la Comisión de Negociación de Futuros de Materias Primas (CFTC) Estados Unidos
 
@@ -45,7 +45,7 @@ Para evaluar el cumplimiento de Azure con la regla 1.31(c-d) de CFTC, Microsoft 
 
 Para los requisitos [cftc 1.31(c)-(d),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset validó que Microsoft 365 incluye características de archivado que permiten a los clientes regulados, incluidos los agentes de corretaje, almacenar datos de una manera que les ayude a cumplir con los requisitos de sec para la retención de registros. Las características de retención Microsoft 365 ayudan a conservar una amplia variedad de datos, incluidos el correo electrónico, el correo de voz, los documentos compartidos, los mensajes instantáneos y los datos de terceros. En particular, el archivado en Microsoft 365 permite a los clientes establecer directivas de retención de mensajería globales o granulares para almacenar datos durante un período definido y más allá en un formato no reescribible y no eliminable.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Office 365](https://aka.ms/o365-compliance-framework)
@@ -56,11 +56,11 @@ Para los requisitos [cftc 1.31(c)-(d),](/microsoft-365/compliance/retention-regu
 
 [Office 365 & regla 1.31 de CFTC: archivado en Office 365, retención de datos y cumplimiento de la regla 17a-4 de la SEC
 
-## <a name="how-to-implement"></a>Cómo implementarlo
+## <a name="how-to-implement"></a>Cómo se debe implementar
 
 - [Regulación de servicios financieros:](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)mapa de cumplimiento de los principios normativos clave de Estados Unidos para la informática en la nube y los servicios en línea de Microsoft.
 - [Guía de cumplimiento y evaluación de riesgos](https://aka.ms/RiskGovernanceGuide): Cree un modelo de gobierno para la evaluación de riesgos de los servicios en la nube de Microsoft y las notificaciones reglamentarias.
-- [Casos de uso financiero](/azure/industry/financial/): Información general de casos de uso, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros.
+- [Casos de uso de servicios financieros](/azure/industry/financial/): Use visiones generales sobre los casos, tutoriales u otros recursos para compilar soluciones de Azure para servicios financieros.
 
 ## <a name="resources"></a>Recursos
 

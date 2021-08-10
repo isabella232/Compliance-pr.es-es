@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c27c84d2abc2de4866471d652d8b11351bc3168
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: c333fc2d6bdb9889dafefd2571b8381edd15e5158a4783aa7a17cec7ce1bcc7c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293393"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Consideraciones sobre seguridad de la información y privacidad del gobierno de Nueva Zelanda (ISPC)
 
@@ -37,7 +37,7 @@ Para ayudar a las agencias gubernamentales de la NZ a llevar a cabo una diligenc
 
 Para ayudar a las agencias a realizar su análisis y evaluación de los servicios en la nube empresariales de Microsoft, Microsoft Nueva Zelanda ha producido documentos que muestran cómo sus servicios en la nube empresariales abordan las preguntas establecidas en el "CLOUD Computing ISPC" vincándolos a los estándares con los que los servicios en la nube de Microsoft están certificados. Estas certificaciones son fundamentales para cómo Microsoft asegura a los clientes del sector público y privado que sus servicios en la nube están diseñados, creados y operados para mitigar eficazmente los riesgos de privacidad y seguridad y solucionar problemas de soberanía de datos. La [respuesta de Azure a CLOUD Computing ISPC](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) está disponible para que los clientes puedan descargarla.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure y Azure Government
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -47,22 +47,22 @@ Para ayudar a las agencias a realizar su análisis y evaluación de los servicio
 
 ## <a name="office-365-and-ispc"></a>Office 365 e ISPC
 
-### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios en el ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online, SharePoint Online, Skype Empresarial |
 
 >[!Note]
 >Microsoft NZ ha trabajado con el equipo de GCIO para desarrollar una arquitectura de referencia para integrar Exchange Online y SEEMail que se describe en Office 365: SEEMail Integration and Reference Architecture.
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿A quién se aplica el marco?**
 

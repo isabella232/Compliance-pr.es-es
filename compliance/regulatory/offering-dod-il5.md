@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9f92ed19a22b7eff8a7e9988e66c51aea90d42ab
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294237"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>Nivel de impacto del Departamento de Defensa (DoD) 5 (IL5)
 
@@ -51,11 +51,11 @@ Además, de acuerdo con la sección [5.2.2.3 de SRG,](https://dl.dod.cyber.mil/w
 - Se requiere la separación física de los inquilinos que no son doD o que no son del Gobierno federal (es decir, inquilinos públicos, de gobierno local o estatal).
 - El CSP restringe el acceso potencial a los DoD y la información de la comunidad a los empleados de CSP que son ciudadanos estadounidenses.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure
 - Servicio al cliente de Dynamics 365
-- Microsoft Defender para endpoint (anteriormente Protección contra amenazas avanzada de Microsoft Defender)
+- Microsoft Defender para punto de conexión (anteriormente Protección contra amenazas avanzada de Microsoft Defender)
 - Microsoft Graph
 - Microsoft Stream
 - Office 365 U.S. Government Defense
@@ -68,15 +68,15 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 
 ## <a name="office-365-and-dod-il5"></a>Office 365 y DoD IL5
 
-### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios en el ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **DoD** | Servicio de fuentes de actividad, servicios de Bing, Exchange Online, Exchange Online Protection, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 

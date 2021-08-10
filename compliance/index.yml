@@ -20,7 +20,7 @@ highlightedContent:
     - title: Tareas rápidas para empezar a usar el Centro de cumplimiento de Microsoft 365
       itemType: get-started
       url: /microsoft-365/compliance/compliance-quick-tasks
-    - title: Implementación de protección de la información para las normativas de privacidad de los datos
+    - title: Implementación de protección de la información para las normativas de privacidad de datos
       itemType: get-started
       url: /microsoft-365/solutions/information-protection-deploy
     - title: Obtenga información sobre la responsabilidad compartida en la nube
@@ -109,7 +109,7 @@ conceptualContent:
         - url: /compliance/assurance/assurance-human-resources
           itemType: concept
           text: Información general sobre los recursos humanos
-    - title: Administración de identidad y acceso
+    - title: 'Administración de acceso e identidad  '
       links:
         - url: /learn/modules/audit-identity-access-management/
           itemType: learn
@@ -206,6 +206,6 @@ additionalContent:
         - title: Administrar eDiscovery
           summary: Use la exhibición de documentos electrónicos para identificar y analizar el contenido como evidencia en casos legales.
           url: /microsoft-365/compliance/ediscovery
-        - title: Implementación de protección de la información para las normativas de privacidad de los datos
+        - title: Implementación de protección de la información para las normativas de privacidad de datos
           summary: 'Identifique, localice, proteja, gobierne y responda a incidentes de privacidad de datos para los datos personales almacenados en Microsoft 365 servicios que están sujetos a las normativas de privacidad de datos.'
           url: /microsoft-365/solutions/information-protection-deploy

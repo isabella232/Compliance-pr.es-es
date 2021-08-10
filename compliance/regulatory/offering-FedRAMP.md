@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d9b7988b2ab236a26aad0981879f9b49c9ed028a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292777"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>Programa Federal de Administración de Autorizaciones y Riesgo (FedRAMP)
 
@@ -47,7 +47,7 @@ Los servicios en la nube gubernamentales de Microsoft, incluidos Azure Governmen
 
 Los servicios en la nube del gobierno de Microsoft ofrecen a los clientes del sector público una amplia variedad de servicios compatibles con FedRAMP y herramientas sólidas de guía e implementación, incluido el plan [de FedRAMP High,](https://aka.ms/fedrampblueprint)que ayuda a los clientes a implementar un conjunto básico de directivas para cualquier arquitectura implementada en Azure que debe implementar los controles FedRAMP High.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure y Azure Government
 - [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
@@ -65,27 +65,27 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 - Office 365 U.S. Government Defense tiene un P-ATO de la Agencia de sistemas de información de defensa estadounidense (DISA). Cualquier cliente que desee implementar Office 365 U.S. Government Defense puede usar la DISA P-ATO para generar un ATO de agencia para documentar su aceptación.
 - Office 365 (planes empresariales y empresariales) y Office 365 Gobierno de los Estados Unidos tienen un ATO de la agencia FedRAMP en el nivel de impacto moderado de la Office del Inspector General. Office 365 El Gobierno de Estados Unidos fue el primer servicio de colaboración y correo electrónico basado en la nube en obtener esta autorización.
 
-### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios en el ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **GCC** | Servicio de fuentes de actividad, servicios de Bing, Delve, Exchange Online, Exchange Online Protection, infraestructura, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 | **GCC High** | Servicio de fuentes de actividad, servicios de Bing, Exchange Online, Exchange Online Protection, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 | **DoD** | Servicio de fuentes de actividad, servicios de Bing, Exchange Online Protection, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 auditorías, informes y certificados
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorías, informes y certificados de Office 365
 
 Microsoft debe recertificar sus servicios en la nube cada año para mantener sus P-ATOs y ATOs. Para ello, Microsoft debe supervisar y evaluar continuamente sus controles de seguridad y demostrar que la seguridad de sus servicios permanece en cumplimiento.
 
 - [Informes de auditoría de Microsoft FedRAMP](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Los servicios en la nube de Microsoft cumplen con la Ley federal de administración de seguridad de la información (FISMA)?**
 

@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0ac1cdfb315c872e78872d144fa24d28500be096
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: f9cd84fed225764b61049aefc3ec95b2eb75fce845b2b9ef752fc194d949c409
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292447"
 ---
 # <a name="datacenter-security-overview"></a>Información general sobre seguridad del centros de datos
 
@@ -35,25 +35,25 @@ ms.locfileid: "53088659"
 
 Microsoft ofrece más de 200 servicios en la nube, incluidos servicios empresariales como Microsoft Azure, Microsoft 365 y Microsoft Dynamics 365, a clientes 24x7x365. Estos servicios se hospedan en la infraestructura en la nube de Microsoft compuesta de centros de datos distribuidos globalmente, nodos de informática perimetral y centros de operaciones de servicio. Son compatibles y conectados por una de las redes globales más grandes del mundo, con una superficie de fibra extensa.
 
-Los centros de datos que potencian nuestras ofertas en la nube se centran en la alta confiabilidad, la excelencia operativa, la rentabilidad, la sostenibilidad del entorno y una experiencia en línea de confianza para clientes y socios de todo el mundo. Microsoft comprueba regularmente la seguridad de nuestro centro de datos a través de auditorías internas y de terceros. Como resultado, las organizaciones más reguladas del mundo confían en la nube de Microsoft, que cumple con más certificaciones que cualquier otro proveedor de servicios en la nube.
+Los centros de datos que proporcionan energía a nuestra nube se centra en ofrecer alta confiabilidad, excelencia operativa, rentabilidad, sostenibilidad ambiental y una experiencia en línea de confianza para los clientes y socios de todo el mundo. Microsoft prueba, de manera periódica, la seguridad de nuestro centro de datos a través de auditorías internas y de terceros. Como resultado, las organizaciones con mayor grado de reglamentación del mundo confían en la nube de Microsoft, la cual cumple con más certificaciones que cualquier otro proveedor de servicios en la nube.
 
 ## <a name="how-does-microsoft-protect-its-datacenters-from-unauthorized-access"></a>¿Cómo protege Microsoft sus centros de datos del acceso no autorizado?
 
 El acceso a las instalaciones de centros de datos físicos está estrechamente controlado por perímetros externos e internos, lo que aumenta la seguridad en cada nivel, incluidos los cercados perimetrales, los agentes de seguridad, los bastidores de servidores bloqueados, los sistemas de alarma integrados, la videovigilancia de vídeo durante todo el día por parte del centro de operaciones y el control de acceso multifactor. Solo el personal necesario está autorizado para acceder a los centros de datos de Microsoft. El acceso lógico a Microsoft 365 infraestructura, incluidos los datos de clientes, está prohibido en los centros de datos de Microsoft.
 
-Nuestros Centros de operaciones de seguridad usan la videovigilancia junto con sistemas de control de acceso electrónico integrados para supervisar los sitios e instalaciones del centro de datos. Las cámaras están ubicadas estratégicamente para una cobertura eficaz del perímetro de la instalación, las entradas, las bahías de envío, las celdas del servidor, los pasillos interiores y otros puntos de seguridad confidenciales de interés. Como parte de nuestra postura de seguridad multicapa, los intentos de entrada no autorizados detectados por los sistemas de seguridad integrados generan alertas al personal de seguridad para obtener respuesta y corrección inmediatas.
+Nuestros centros de operaciones de seguridad usan la videovigilancia junto con sistemas de control de acceso electrónico integrados para supervisar los sitios y las instalaciones del centro de datos. Las cámaras están colocadas estratégicamente para cubrir eficazmente el perímetro de las instalaciones, las entradas, las zonas de carga, las jaulas de servidores, los pasillos interiores y otros puntos de seguridad confidenciales de interés. Como parte de nuestra posición de seguridad multicapa, los intentos de entrada no autorizados detectados por los sistemas de seguridad integrados generan alertas al personal de seguridad para una respuesta y corrección inmediatas.
 
 ## <a name="how-does-microsoft-protect-its-datacenters-from-environmental-hazards"></a>¿Cómo protege Microsoft sus centros de datos de los riesgos ambientales?
 
 Microsoft emplea una variedad de medidas de seguridad para proteger contra las amenazas del entorno a la disponibilidad del centro de datos. Los sitios de centros de datos se seleccionan estratégicamente para minimizar el riesgo de una variedad de factores, como inundaciones, sismos, huracanes y otros desastres naturales. Nuestros centros de datos usan el control de clima para supervisar y mantener espacios optimizados para el personal, el equipamiento y el hardware. Los sistemas de detección y supresión de incendios y los sensores de agua ayudan a detectar y evitar daños por incendio y agua en los equipos.
 
-Los desastres son impredecibles, pero los centros de datos de Microsoft y el personal de operaciones se preparan para desastres para proporcionar continuidad a las operaciones en caso de que se produzcan eventos inesperados. La arquitectura resistente y los planes de continuidad probados actualizados mitigan los posibles daños y promueven la recuperación rápida de las operaciones del centro de datos. Los planes de administración de crisis proporcionan claridad sobre roles, responsabilidades y actividades de mitigación antes, durante y después de una crisis. Los roles y los contactos definidos en estos planes facilitan una escalación eficaz de la cadena de comandos durante situaciones de crisis.
+Los desastres son imprevisibles, pero los centros de datos de Microsoft y el personal de operaciones se preparan para los desastres con el fin de garantizar la continuidad de las operaciones en caso de que se produzcan eventos inesperados. Una arquitectura resistente y unos planes de continuidad probados y actualizados mitigan los posibles daños y propician una rápida recuperación de las operaciones del centro de datos. Los planes de administración de crisis proporcionan claridad sobre los roles, las responsabilidades y las actividades de mitigación antes, durante y después de una crisis. Los roles y los contactos definidos en estos planes facilitan la remisión eficaz a una instancia superior de la cadena de comandos durante situaciones de crisis.
 
 ## <a name="how-does-microsoft-verify-the-effectiveness-of-datacenter-security"></a>¿Cómo comprueba Microsoft la eficacia de la seguridad del centro de datos?
 
-Entendemos que para que nuestros clientes se den cuenta completamente de las ventajas de la nube, deben poder confiar en su proveedor de servicios en la nube. Nuestra infraestructura y conjunto de servicios en la nube se construyen desde cero para cumplir los rigurosos requisitos de seguridad y privacidad de nuestros clientes. Ayudamos a nuestros clientes a cumplir con los requisitos nacionales, regionales y específicos del sector que rigen la recopilación y el uso de los datos de las personas proporcionando el conjunto más completo de ofertas de cumplimiento de cualquier proveedor de servicios en la nube.
+Somos conscientes de que, para que nuestros clientes se den cuenta de las ventajas de la nube, deben poder confiar en su proveedor de servicios en la nube. Nuestra infraestructura y nuestro conjunto de servicios de la nube se crean desde cero para satisfacer los requerimientos más estrictos de seguridad y privacidad de nuestros clientes. Ayudamos a nuestros clientes a cumplir los requerimientos nacionales, regionales y específicos del sector que rigen la recopilación y el uso de datos de personas, al proporcionar el conjunto más completo de ofertas de cumplimiento que cualquier proveedor de servicios en la nube.
 
-Nuestra infraestructura en la nube y nuestras ofertas cumplen un amplio conjunto de estándares de cumplimiento internacionales y específicos del sector, como ISO, HIPAA, FedRAMP y SOC, así como estándares específicos del país, como IRAP de Australia, G-Cloud del Reino Unido y MTCS de Singapur. Las auditorías rigurosas y de terceros comprueban nuestra adherencia a los estrictos controles de seguridad que estos estándares exigen. Los informes de auditoría de nuestra infraestructura de centros de datos y las ofertas en la nube están disponibles en [el Portal de confianza de servicio de Microsoft.](https://servicetrust.microsoft.com/)
+La infraestructura y las ofertas de la nube cumplen con un amplio conjunto de estándares de cumplimiento internacionales y específicas de la industria, como ISO, HIPAA, FedRAMP y SOC, así como estándares específicos de cada país o región, como IRAP en Australia, G-Cloud en el Reino Unido y MTCS en Singapur. Las rigurosas auditorías de terceros comprueban nuestro cumplimiento de los estrictos controles de seguridad que estos estándares exigen. Los informes de auditoría de nuestra infraestructura de centros de datos y las ofertas en la nube están disponibles en [el Portal de confianza de servicio de Microsoft.](https://servicetrust.microsoft.com/)
 
 ## <a name="related-external-regulations--certifications"></a>Normativas externas relacionadas & certificaciones
 

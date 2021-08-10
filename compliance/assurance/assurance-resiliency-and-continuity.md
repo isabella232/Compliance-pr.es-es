@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 730a694455a3e8bcbd6b6ab3daa7f0f8e0ebf503
-ms.sourcegitcommit: 12cec299197fbc7b05c8d7604e7047b9392e3bc8
+ms.openlocfilehash: 9fb013647bc558856f7005c2d5e1ccdb656db9b9b04ceb5882df35a599e7ebff
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53589679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292168"
 ---
 # <a name="resiliency-and-continuity-overview"></a>Información general sobre la resiliencia y la continuidad
 
@@ -41,15 +41,15 @@ Las estrategias de continuidad empresarial de los servicios en línea de Microso
 
 La directiva Enterprise Administración de continuidad empresarial (EBCM) de Microsoft estipula que todos los planes de continuidad empresarial y recuperación ante desastres de Microsoft deben probarse, actualizarse y revisarse anualmente. Los servicios en línea de Microsoft prueban sus planes de continuidad empresarial al menos anualmente según las directivas de EBCM. Después de crear y revisar los informes de acción para validar, pruebe los resultados e informe a las actualizaciones del plan en respuesta a los problemas detectados durante las pruebas.
 
-Para validar las estrategias de resistencia y recuperación frente a una amplia variedad de posibles incidentes, el Programa EBCM define varias categorías de escenarios de prueba que afectan a personas, ubicaciones y tecnología. El nivel de validación necesario para cada servicio se basa en la crítica del servicio, y los servicios más críticos reciben una validación más rigurosa. Cada equipo de servicio en línea de Microsoft prueba su plan de continuidad empresarial de acuerdo con las directrices de EBCM para medir la eficacia del plan y la preparación del equipo de servicio para ejecutar el plan.
+Para validar las estrategias de resistencia y recuperación frente a una amplia gama de posibles incidentes, el programa EBCM define varias categorías de escenarios de prueba que afectan a las personas, las ubicaciones y la tecnología. El nivel de validación requerido para cada servicio se basa en la importancia del servicio, y los servicios más críticos reciben una validación más rigurosa. Cada equipo de servicio en línea de Microsoft prueba su plan de continuidad empresarial de acuerdo con las directrices de EBCM para medir la eficacia del plan y la preparación del equipo de servicio para ejecutar el plan.
 
 Según las directrices de EBCM, las revisiones anuales de los planes de continuidad empresarial y la validación de capacidades deben tener lugar dentro de los 12 meses siguientes a la última revisión. La validación de capacidad debe incluir la revisión de la documentación de soporte técnico, como BIA, para garantizar que sigue siendo precisa. Microsoft pone a disposición de nuestros clientes los resultados de validación de funcionalidades para algunos servicios en línea de Microsoft a través de informes trimestrales.
 
 ## <a name="how-do-microsoft-online-services-ensure-system-capacity-meets-demand"></a>¿Cómo garantizan los servicios en línea de Microsoft que la capacidad del sistema satisface la demanda?
 
-La planeación de capacidad ayuda a los equipos de servicio a asignar los recursos necesarios para admitir la disponibilidad del servicio en línea de Microsoft. Se requiere una planeación de capacidad regular como parte del programa EBCM de Microsoft. Los equipos de servicio revisan los datos de capacidad durante las revisiones trimestrales y durante situaciones de emergencia que merecen más revisión de capacidad.
+La planeación de capacidad ayuda a los equipos de servicio a asignar los recursos necesarios para admitir la disponibilidad del servicio en línea de Microsoft. El planeamiento normal de la capacidad es necesario como parte del programa EBCM de Microsoft. Los equipos de servicio revisan los datos de capacidad durante las revisiones trimestrales y durante situaciones de emergencia que merecen más revisión de capacidad.
 
-Cada equipo de servicio mantiene los datos sin procesar para la planeación de capacidad e incluye métricas como el procesamiento del sistema, la memoria y la capacidad de hardware. Las revisiones programadas usan un modelo de capacidad actual del sistema y lo prueban con las necesidades previstas en situaciones de emergencia. Si el modelo indica vacíos de capacidad, los cambios propuestos en la capacidad del sistema se envían al liderazgo del equipo de servicio para su revisión. Los cambios aprobados se incorporan a un nuevo modelo antes de su implementación por parte de los ingenieros del equipo de servicio.
+Cada equipo de servicio mantiene los datos sin procesar para la planeación de capacidad e incluye métricas como el procesamiento del sistema, la memoria y la capacidad de hardware. Las revisiones programadas usan un modelo de la capacidad actual del sistema y lo prueban según las necesidades proyectadas en situaciones de emergencia. Si el modelo indica deficiencias en la capacidad, los cambios propuestos en la capacidad del sistema se envían a la dirección del equipo de servicio para su revisión. Los ingenieros del equipo de servicio incorporan los cambios aprobados en un nuevo modelo antes de la implementación.
 
 ## <a name="how-do-microsoft-online-services-maintain-service-availability-during-routine-system-failures"></a>¿Cómo mantienen los servicios en línea de Microsoft la disponibilidad del servicio durante los errores rutinarios del sistema?
 

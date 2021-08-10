@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 95e52107df2f3e745d393c62929f7c169bcf9a33
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 6614f3997310a227320865aa0f0da99b64420084534e47afd25bb15441ddb451
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292058"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Administración de incidentes de seguridad de Microsoft: contención, eliminación y recuperación
 
@@ -34,9 +34,9 @@ En función del análisis realizado por el equipo de respuesta de seguridad, el 
 
 Después de detectar un incidente de seguridad, es importante contener la intrusión antes de que el adversario pueda acceder a más recursos o causar más daños. El objetivo principal de nuestros procedimientos de respuesta a incidentes de seguridad es limitar el impacto en los clientes o sus datos, o en los sistemas, servicios y aplicaciones de Microsoft.
 
-## <a name="eradication"></a>Eliminación
+## <a name="eradication"></a>Erradicación
 
-La eliminación es el proceso de eliminación de la causa raíz del incidente de seguridad con un alto grado de confianza. El objetivo es doble:
+La confidencialidad es el proceso de eliminación de la causa principal del incidente de seguridad con un alto grado de confianza. El objetivo es doble:
 
 - para desalojar completamente al adversario del entorno
 - para mitigar la vulnerabilidad (si se conoce) que habilitaba o podía permitir al adversario volver a entrar en el entorno.

@@ -1,5 +1,5 @@
 ---
-title: Proteger la infraestructura Microsoft 365 de seguridad
+title: Asegurando la infraestructura de Microsoft 365
 description: Obtenga información sobre cómo Microsoft protege la Microsoft 365 de seguridad.
 ms.author: robmazz
 author: robmazz
@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 224900bd60f2fd5637e7264f1aed98d5ff878b20
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d0ef6dc92820089259cd315713c0e7e4a9e11aaec50d731b15cd6e826a721107
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292757"
 ---
-# <a name="securing-the-microsoft-365-infrastructure"></a>Proteger la infraestructura Microsoft 365 de seguridad
+# <a name="securing-the-microsoft-365-infrastructure"></a>Asegurando la infraestructura de Microsoft 365
 
 Microsoft 365 es uno de los servicios en la nube de consumo y empresa más grandes del mundo y sigue creciendo rápidamente, tanto en la base de clientes, productos y características. Los clientes se Microsoft 365 no solo por sus soluciones de productividad de clase mundial, sino para ayudar a proteger su información más confidencial del panorama de amenazas cibernéticas en constante evolución. La prioridad principal de Microsoft es mantener la seguridad de los datos de los clientes y mantener la confianza del cliente.
 
@@ -101,4 +101,4 @@ Para obtener más información acerca de la supervisión de seguridad en Microso
 
 ## <a name="resources"></a>Recursos
 
-[Behind the Scenes: Securing the Infrastructure Powering the Microsoft 365 Service](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)
+[Entre bastidores: protección de la infraestructura que impulsa el servicio Microsoft 365](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)

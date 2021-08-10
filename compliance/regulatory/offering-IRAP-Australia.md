@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8fb98bfab57008cdee3c2fbb049c7f34af361c37
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384830"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293867"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Programa de evaluadores registrados de seguridad de la información del gobierno australiano (IRAP)
 
@@ -58,7 +58,7 @@ Como siempre, las agencias individuales pueden implementar controles de compensa
 
 La evaluación de IRAP de los servicios y las operaciones en la nube de Microsoft ayuda a garantizar a los clientes del sector público en el gobierno y sus socios que Microsoft dispone de controles de seguridad adecuados y eficaces para el procesamiento, almacenamiento y transmisión de datos clasificados hasta el nivel de PROTECTED, incluido el nivel de PROTECTED. Esta evaluación incluye la mayoría de los datos gubernamentales, sanitarios y educativos de Australia.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -71,19 +71,19 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 
 ## <a name="office-365-and-irap"></a>Office 365 e IRAP
 
-### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios en el ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, OneDrive para la Empresa, Planner, SharePoint Online, Skype Empresarial, Whiteboard, Yammer |
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿A quién se aplica el IRAP?**
 
