@@ -20,7 +20,7 @@ highlightedContent:
     - title: Tareas rápidas para empezar a usar el Centro de cumplimiento de Microsoft 365
       itemType: get-started
       url: /microsoft-365/compliance/compliance-quick-tasks
-    - title: Implementación de protección de la información para las normativas de privacidad de datos
+    - title: Implementación de protección de la información para las normativas de privacidad de los datos
       itemType: get-started
       url: /microsoft-365/solutions/information-protection-deploy
     - title: Obtenga información sobre la responsabilidad compartida en la nube
@@ -42,8 +42,8 @@ highlightedContent:
       itemType: learn
       url: /learn/paths/compliance-discover/
 productDirectory:
-  title: Cumplimiento normativo
-  summary: Instrucciones de Microsoft sobre el cumplimiento de los estándares y normativas nacionales e internacionales.
+  title: Cumplimiento normativo & sector
+  summary: Instrucciones de Microsoft sobre el cumplimiento de las áreas del sector y los estándares & estándares y reglamentos nacionales.
   items:
     - title: Reglamento general de protección de datos (RGPD)
       imageSrc: /office/media/icons/compliance-blue.svg
@@ -53,10 +53,10 @@ productDirectory:
       imageSrc: /office/media/icons/globe-internet.svg
       summary: 'Microsoft ofrece un conjunto completo de ofertas de cumplimiento para ayudar a su organización a cumplir con los requisitos nacionales, regionales y específicos del sector que rigen la recopilación y el uso de datos.'
       url: /compliance/regulatory/offering-home
-    - title: Cumplimiento normativo y Microsoft Azure
-      imageSrc: /media/logos/logo_azure.svg
-      summary: Obtenga información sobre el cumplimiento normativo y Microsoft Azure.
-      url: /azure/compliance/
+    - title: Microsoft Cloud para industrias
+      imageSrc: /office/media/icons/on-premises-blue.png
+      summary: 'Obtenga información sobre Microsoft Azure, Dynamics 365, Microsoft 365 y Microsoft Power Platform pueden admitir las necesidades de cumplimiento para su sector.'
+      url: /industry/
 conceptualContent:
   title: Garantía de servicio
   summary: Comience sus evaluaciones de seguridad y riesgos con una comprensión de cómo Microsoft protege los datos de los clientes.
@@ -68,7 +68,7 @@ conceptualContent:
           text: Más información sobre la arquitectura
         - url: /compliance/assurance/assurance-architecture
           itemType: concept
-          text: Introducción a la arquitectura
+          text: Información general sobre la arquitectura
     - title: Registro de auditoría
       links:
         - url: /learn/modules/audit-logging-monitoring/
@@ -188,24 +188,15 @@ conceptualContent:
           text: Información general sobre la administración de amenazas y vulnerabilidades
 additionalContent:
   sections:
-    - title: Introducción al cumplimiento en Microsoft 365
-      summary: 'Si no es nuevo en Microsoft 365 cumplimiento normativo y se pregunta dónde empezar, en esta sección se proporcionan vínculos a soluciones clave y se priorizan áreas de cumplimiento importantes.'
+    - title: Introducción al cumplimiento en los servicios en línea de Microsoft
+      summary: 'Si es nuevo en el cumplimiento y se pregunta dónde empezar con los servicios en línea de Microsoft, en esta sección se proporcionan vínculos a áreas clave de cumplimiento para cada servicio.'
       items:
-        - title: Obtenga más información sobre el Administrador de cumplimiento
-          summary: 'Obtenga información sobre lo que es el Administrador de cumplimiento, cómo ayuda a simplificar el cumplimiento y reducir los riesgos, y sus componentes clave.'
-          url: /microsoft-365/compliance/compliance-manager
-        - title: Administrar riesgos internos
-          summary: 'Minimice los riesgos internos detectando, investigando y actuando en actividades malintencionadas e involuntarias de su organización.'
-          url: /microsoft-365/compliance/insider-risk-solution-overview
-        - title: Administrar la protección de la información
-          summary: 'Use Microsoft Information Protection (MIP) para ayudarle a descubrir, clasificar y proteger información confidencial dondequiera que viva o viaje.'
-          url: /microsoft-365/compliance/protect-information
-        - title: Administrar el gobierno de información
-          summary: Use las capacidades de Gobierno de información de Microsoft (MIG) para regular los datos de cumplimiento o requisitos normativos.
-          url: /microsoft-365/compliance/manage-information-governance
-        - title: Administrar eDiscovery
-          summary: Use la exhibición de documentos electrónicos para identificar y analizar el contenido como evidencia en casos legales.
-          url: /microsoft-365/compliance/ediscovery
-        - title: Implementación de protección de la información para las normativas de privacidad de datos
-          summary: 'Identifique, localice, proteja, gobierne y responda a incidentes de privacidad de datos para los datos personales almacenados en Microsoft 365 servicios que están sujetos a las normativas de privacidad de datos.'
-          url: /microsoft-365/solutions/information-protection-deploy
+        - title: Microsoft Azure
+          summary: 'El cumplimiento de Azure le proporciona ofertas de cumplimiento, planos, guías de cumplimiento y recursos para ayudarle a cumplir sus obligaciones de cumplimiento.'
+          url: /azure/compliance/
+        - title: Dynamics 365
+          summary: Business Central contiene funcionalidad y se basa en una plataforma que facilita a los clientes el cumplimiento de la legislación reglamentaria y de cumplimiento.
+          url: /dynamics365/business-central/compliance/compliance-overview
+        - title: Microsoft 365
+          summary: 'Si su organización necesita cumplir con estándares jurídicos o regulatorios, empiece aquí para obtener información sobre el cumplimiento normativo de Microsoft 365.'
+          url: /microsoft-365/compliance/

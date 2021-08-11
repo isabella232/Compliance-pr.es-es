@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 456ce920d3327926541c78b1153577dcc6bb8e42
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 20dccebdb31eff3e502efe8fe6eba6fbdd4881c4ac864927566fc786dff09a15
+ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385160"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "57833897"
 ---
 # <a name="european-union-model-clauses"></a>Cláusulas modelo de la Unión Europea
 
@@ -33,15 +33,11 @@ En un nivel práctico, el cumplimiento de la legislación de protección de dato
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Microsoft y las cláusulas modelo de la Unión Europea
 
-Microsoft ha invertido en los procesos operativos necesarios para cumplir los exigentes requisitos de las cláusulas modelo para la transferencia de datos personales a los procesadores. Microsoft ofrece a los clientes cláusulas modelo, denominadas cláusulas contractuales estándares, que hacen garantías específicas en torno a las transferencias de datos personales para los servicios de Microsoft en el ámbito. Así se garantiza que los clientes de Microsoft pueden mover libremente datos en la nube de Microsoft del EEE al resto del mundo.
+El [Reglamento general de protección de datos](/compliance/regulatory/gdpr) (RGPD) de la Unión Europea (UE) regulará la transferencia de datos personales de los clientes a países fuera del Espacio Económico Europeo (EEE), que incluye a todos los países de la UE e Islandia, Liechtenstein y Noruega. Microsoft ofrece a los clientes[ las cláusulas contractuales estándar de la UE ](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (SCC) (también conocidas como cláusulas modelo de la UE) que proporcionan garantías específicas en torno a las transferencias de datos personales para servicios dentro del ámbito. Las cláusulas modelo de la UE se usan en contratos entre proveedores de servicios (como Microsoft) y sus clientes para garantizar que los datos personales que salen del EEE se transfieran cumpliendo con la RGPD.
 
-Sin embargo, los clientes empresariales de Microsoft, que son los controladores de los datos personales, tienen la obligación principal de proteger los datos. Esto implica que los clientes empresariales del EEE tienen un gran interés en garantizar que su proveedor de servicios respete la legislación de protección de datos de la UE, o el cliente puede afrontar responsabilidad penal e incluso el bloqueo de su capacidad de usar un servicio.
+En julio de 2020, el Tribunal de Justicia de la Unión Europea (TJUE) invalidó el marco del Escudo de privacidad UE-EE. UU. para las transferencias de datos personales de la UE a los Estados Unidos. Sin embargo, las cláusulas modelo de la UE siguen proporcionando un mecanismo válido para la transferencia de datos personales desde la UE y la EEA, así como desde Suiza y el Reino Unido. Microsoft pone las cláusulas modelo de la UE a disposición de los clientes, tal como se describe en el [Anexo de protección de datos (DPA)](https://aka.ms/DPA)de los Términos de servicios en línea de Microsoft (OST).
 
-Microsoft proporcionó sus cláusulas contractuales estándares al Grupo de trabajo del artículo 29 para su revisión y aprobación. El Grupo de trabajo del artículo 29 incluye representantes del Supervisor Europeo de Protección de Datos, de la Comisión Europea y de cada una de las 28 autoridades de protección de datos de la UE (APD).
-
-El Grupo determinó que la implementación de las disposiciones en los acuerdos de Microsoft estaba en línea con sus requisitos estrictos. (Microsoft fue el primer proveedor de servicios de nube que recibió una carta aval del grupo). La aprobación abarcó las interacciones reflejadas en las cláusulas modelo 2010/87/EU, pero no en los apéndices, que describen las transferencias de datos y las medidas de seguridad implementadas por el importador de datos. La APD puede analizar los apéndices por separado.
-
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure y Azure Government
 - Azure DevOps
@@ -61,13 +57,13 @@ El Grupo determinó que la implementación de las disposiciones en los acuerdos 
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad de Office 365 y servicios dentro del ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios del ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Protección contra amenazas avanzada, Azure Active Directory, Azure Information Protection, Bookings, Administrador de cumplimiento, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Bookings, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Complemento de cumplimiento avanzado de Office 365, Office 365 Cloud App Security, Grupos de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Comercial** | Protección contra amenazas avanzada, Azure Active Directory, Azure Information Protection, Bookings, Administrador de cumplimiento, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Bookings, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Complemento de cumplimiento avanzado de Office 365, Office 365 Cloud App Security, Grupos de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 

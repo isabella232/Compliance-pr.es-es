@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: bee4db3f01fe2add3a031c07e0f97869b08339ed
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 165fd006f8cd5390b057d38e9972cf4ce4edda3d6ffe169fcdeb0508d319bc0b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293177"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de interesados del soporte técnico y los servicios profesionales de Microsoft para el RGPD y la CCPA
 
@@ -47,10 +47,10 @@ Todas las solicitudes deben realizarse con un representante de soporte técnico,
 
 #### <a name="overview-of-the-processes-outlined-in-this-guide"></a>Información general sobre los procesos descritos en esta guía
 
-- **Búsqueda**: use herramientas de búsqueda y detección para encontrar más fácilmente los datos personales que pueden ser objeto de una solicitud de DSR. Una vez recopilados los documentos de respuesta, puede realizar una o varias de las acciones de DSR siguientes para responder a la solicitud. También puede determinar que la solicitud no cumple con las directrices de la organización para responder a las solicitudes de sujeto de datos.
+- **Descubrimiento:** use herramientas de búsqueda y descubrimiento para encontrar con mayor facilidad datos de clientes que puedan estar sujetos a una solicitud de interesado. Después de recopilar los documentos potenciales, puede realizar una o varias de las acciones de solicitud de interesado descritas en los pasos siguientes para responder a la petición. De manera alternativa, puede determinar que la solicitud no cumple las directrices de respuesta a solicitudes de interesado de su organización.
 - **Acceso:** recupere datos personales que residan en la nube de Microsoft y, si se le pide, realice una copia para proporcionársela al titular de los datos.
 - **Rectificación:** realice cambios o implemente otras acciones solicitadas en los datos personales, si corresponde.
-- **Restricción:** restrinja el tratamiento de datos personales, ya sea al quitar las licencias de distintos servicios de Azure o al desactivar los servicios que quiera, siempre que sea posible. También puede quitar datos de la nube de Microsoft y conservarlos de manera local o en otra ubicación.
+- **Restricción**: restrinja el procesamiento de datos personales, ya sea quitando las licencias de varios servicios de Azure o desactivando los servicios deseados siempre que sea posible. También puede quitar los datos de la nube de Microsoft y conservarlos localmente o en otra ubicación.
 - **Eliminación:** elimine de forma permanente los datos personales que residen en la nube de Microsoft.
 - **Exportar o recibir (portabilidad):** envíe una copia electrónica (en un formato legible por máquina) de datos o información personal al titular de los datos. La información personal bajo la CCPA es cualquier información relacionada con una persona identificada o identificable. No hay distinción entre los roles privados, públicos o laborales de una persona. La definición del término "información personal" es, a grandes rasgos, similar a la que el RGPD da al término "datos personales". Sin embargo, la CCPA también incluye datos domésticos y familiares. Para obtener más información sobre la CCPA, consulte la [Ley de Privacidad de los Consumidores California](offering-ccpa.md) y las [Preguntas más frecuentes sobre la privacidad del consumidor de California](ccpa-faq.yml).
 
@@ -65,8 +65,8 @@ Estas son definiciones relevantes de los términos del RGPD para esta guía:
 #### <a name="additional-terms-and-definitions-that-may-be-helpful-in-understanding-this-guide"></a>Otros términos y definiciones que pueden resultar útiles para comprender esta guía
 
 - **Datos de soporte técnico y consultoría:** todos los datos (incluidos todos los archivos de texto, audio, vídeo e imagen, o software) proporcionados a Microsoft por el cliente o en su representación (o que el cliente autoriza a Microsoft a obtener de un servicio en línea) con una interacción con Microsoft para obtener servicios profesionales o de soporte técnico. Para que quede más claro, no se incluyen los datos recopilados donde Microsoft es el poseedor de los datos, incluidos los datos de contacto del cliente.
-- **Contacto del cliente**: datos personales que pueden formar parte de su relación empresarial con Microsoft, como datos personales contenidos en su información de contacto del cliente. Algunos de estos datos pueden ser su nombre, correo electrónico o número de teléfono del Administrador de servicios del contrato Premier, el administrador de TI o global de un servicio en línea, o roles similares.
-- **Datos anonimizados parcialmente:** al usar el soporte técnico de Microsoft en relación con los productos y servicios empresariales de Microsoft, Microsoft genera información vinculada a un identificador numérico de Microsoft para prestar el servicio de soporte técnico. Se suele conocer esta información como "datos anonimizados parcialmente". Si bien estos datos no se pueden atribuir a un interesado específico sin el uso de información adicional, algunos pueden considerarse información personal según la definición amplia del RGPD de datos personales. En los Servicios profesionales, en las solicitudes de derechos del titular de los datos siempre se incluirán automáticamente datos anonimizados parcialmente.
+- **Contacto del cliente:** datos personales que pueden formar parte de su relación empresarial con Microsoft, como datos personales contenidos en su información de contacto del cliente. Algunos de estos datos pueden ser su nombre, correo electrónico o número de teléfono del Administrador de servicios del contrato Premier, el administrador de TI o global de un servicio en línea, o roles similares.
+- **Datos anonimizados parcialmente:** Al usar el soporte técnico de Microsoft en relación con los productos y servicios empresariales de Microsoft, Microsoft genera información vinculada a un identificador numérico de Microsoft para prestar el servicio de soporte técnico. Esta información suele conocerse como "datos anonimizados parcialmente". Aunque estos datos no se pueden atribuir a un titular de los datos específico sin el uso de información adicional, algunos pueden considerarse como información personal según la definición amplia del RGPD de "datos personales". En los Servicios profesionales, en las solicitudes de derechos del titular de los datos siempre se incluirán automáticamente datos anonimizados parcialmente.
 
 ### <a name="how-to-use-this-guide"></a>Uso de esta guía
 
@@ -89,7 +89,7 @@ Cuando los datos personales de los contactos del cliente se recopilan al ofrecer
 
 Los clientes necesitan comprender que la DSR solo abarca los datos personales del contacto del cliente, y no se realizarán cambios ni eliminaciones en los datos enviados del cliente como parte de las interacciones (por ejemplo, transcripciones, descripciones de casos, archivos, productos de trabajo), ya que Microsoft es el encargado de los datos. Además, para mantener un registro histórico de las interacciones, no se realizarán cambios en las interacciones cerradas, incluido el registro de quién inició una interacción.
 
-Después de recibir una consulta de un contacto del cliente sobre una DSR en la que Microsoft es el controlador de datos, el personal de Microsoft guiará al contacto de cliente al [Centro de respuestas de privacidad](https://go.microsoft.com/fwlink/?LinkId=321116). Este es el mecanismo de entrada principal de Microsoft para las consultas y quejas sobre privacidad. Después de recibir una consulta, el Centro de respuestas de privacidad identificará que esto forma parte de una cuenta comercial o de la organización y responderá en consecuencia.
+Al recibir una consulta de un contacto de cliente en relación con una DSR, en la que Microsoft sea el responsable de los datos, el personal de Microsoft remitirá al contacto de cliente al [Centro de respuesta de privacidad](https://go.microsoft.com/fwlink/?LinkId=321116). Este es el mecanismo de entrada principal de Microsoft para las quejas y solicitudes sobre privacidad. Al recibir una solicitud, el centro de respuesta de privacidad identificará que forma parte de una cuenta comercial o de organización, y responderá en consecuencia.
 
 Si Microsoft es el procesador de datos, vaya a <b>DSR para datos proporcionados por el cliente: soporte técnico</b> debajo.
 
@@ -133,7 +133,7 @@ Al detectar datos relevantes y obtener ayuda de Microsoft, los clientes tienen d
 
 *Opción A: Solicitud de derechos del titular de los datos de cliente de varios servicios de soporte técnico de Microsoft.* Se aplica la solicitud de derechos del titular de los datos a todos los datos de soporte técnico del cliente de todo el entorno de Soporte técnico de Microsoft. Para hacerlo, un cliente puede pedir a Microsoft que aplique la solicitud de derechos del titular de los datos a todos los datos de soporte técnico recopilados.
 
-*Opción B: Interacciones con clientes específicas*. Use los sistemas en línea para revisar incidencias, identifique interacciones específicas que contengan datos personales relevantes e informe de estas a Microsoft. Microsoft intentará proporcionar asistencia para realizar una búsqueda si el cliente no puede buscar en distintas interacciones (incidencias).
+*Opción B: Interacciones con clientes específicas.* Use los sistemas en línea para revisar incidencias, identifique interacciones específicas que contengan datos personales relevantes e informe de estas a Microsoft. Microsoft intentará proporcionar asistencia para realizar una búsqueda si el cliente no puede buscar en distintas interacciones (incidencias).
 
 *Después de identificar las interacciones, solicite aplicar la solicitud de derechos del titular de los datos en una parte específica del registro o en todo lo relacionado con esa interacción en Microsoft.*
 
@@ -176,13 +176,13 @@ Cuando un cliente investiga o se prepara para eliminar datos personales en respu
 
 Todos los datos en Microsoft tienen aplicada una directiva de retención y eliminación, que puede variar dependiendo del riesgo y de otros factores.
 
-Los clientes que soliciten la eliminación de los datos personales de un titular de los datos de forma universal en todos los sistemas de soporte pueden hacerlo a través de su responsable técnico de cuenta, mediante la presentación de una solicitud de soporte técnico (SR) en el Centro de servicios. *Debe* indicar que esta es una solicitud para asistir con una DSR cumpliendo el RGPD.
+Los clientes que soliciten la eliminación de los datos personales de un sujeto de datos de forma universal en todos los sistemas de soporte pueden hacerlo a través de su TAM o presentando una solicitud de soporte (SR) en el Centro de servicios o en un sistema equivalente. Usted *debe* indicar que se trata de una solicitud de asistencia para una DSR en el marco del GDPR.
 
-*Opción A: DSR para el cliente de Soporte técnico de Microsoft*. Para las solicitudes de derechos del titular de los datos que abarquen varios sistemas, el cliente tiene que especificar los datos personales que Microsoft necesita para identificar los datos necesarios (por ejemplo, dirección de correo electrónico o número de teléfono). Microsoft no pondrá en correlación ni investigará los registros, y solo buscará directamente según los identificadores proporcionados por el cliente. Cuando se encuentren los datos, Microsoft eliminará todas las interacciones y todos los datos asociados.
+*Opción A: Solicitud de derechos del titular de los datos de cliente de varios servicios de soporte técnico de Microsoft.* Para las solicitudes de derechos del titular de los datos que abarquen varios sistemas, el cliente tiene que especificar los datos personales que Microsoft necesita para identificar los datos necesarios (por ejemplo, dirección de correo electrónico o número de teléfono). Microsoft no pondrá en correlación ni investigará los registros, y solo buscará directamente según los identificadores proporcionados por el cliente. Cuando se encuentren los datos, Microsoft eliminará todas las interacciones y todos los datos asociados.
 
 > Nota importante: esto puede causar la pérdida de registros históricos que sean importantes para la organización del cliente.
 
-*Opción B: Interacciones con clientes específicas*. En el caso de interacciones específicas que el cliente haya identificado y quiera eliminar, no elimine las incidencias del Centro de servicios. Si lo hace, puede que los datos personales en registros y sistemas de bajada no se eliminen en el período de tiempo necesario. En su lugar, identifique la incidencia o los datos personales de la incidencia que es necesario eliminar y, después, póngase en contacto con el Soporte técnico de Microsoft para recibir ayuda para eliminar esos datos.
+*Opción B: Interacciones con clientes específicas*. En el caso de interacciones específicas que el cliente haya identificado y quiera eliminar, no elimine las incidencias del Centro de servicios. Si lo hace, puede que los datos personales en registros y sistemas de bajada no se eliminen en el período de tiempo necesario. En su lugar, identifique la incidencia o los datos personales de la incidencia que es necesario eliminar y, después, póngase en contacto con el soporte técnico de Microsoft para recibir ayuda para eliminar esos datos.
 
 ### <a name="microsoft-support-data-transfer-and-management-tool-dtm-instructions"></a>Instrucciones para la herramienta Administración y transferencia de datos de soporte técnico de Microsoft (DTM)
 

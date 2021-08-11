@@ -18,12 +18,12 @@ titleSuffix: Microsoft GDPR
 description: Aprenda a completar los DSR bajo la Regulación general de protección de datos (GPDR) y la Ley de privacidad del consumidor de California (CCPA) utilizando los productos y servicios de Microsoft.
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: 8e6b862de3e52b171d886613af8529c082bad56d
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 58bea55beae9d5d8d4b018812f68b07b2d356d3db9cdf49d04ef8523e4db0b5b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496262"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289958"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>Solicitudes de los temas de datos del RGPD y Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés)
 
@@ -50,7 +50,7 @@ Definiciones útiles de los términos del RGPD utilizados en este documento:
 
 ## <a name="what-is-a-dsr"></a>¿Qué es un DSR?
 
-El Reglamento General de Protección de Datos (RGPD) otorga derechos a las personas (denominadas "interesados" en el reglamento) para administrar los datos personales recopilados por un empresario u otro tipo de agencia u organización (denominado "responsable del tratamiento de los datos" o simplemente "responsable"). El Reglamento general de protección de datos (RGPD) le da a los sujetos de los datos derechos específicos sobre sus datos personales; entre estos derechos se incluyen la obtención de copias de los datos, la solicitud de cambios en ellos, la restricción de su tratamiento, su eliminación o su recepción en formato electrónico para que pueda ser trasladado a otro responsable.
+El Reglamento de protección de datos (RGPD) general ofrece derechos a las personas (que en el reglamento se denominan responsables de los datos) para administrar los datos personales recopilados por un empleado, u otro tipo de agencia u organización (es decir, el responsable de los datos o solo responsable). El RGPD ofrece a los responsables de los datos derechos específicos sobre sus datos personales, como la obtención de copias de sus datos, la solicitud de correcciones, la restricción de su procesamiento o eliminación, así como la recepción en formato electrónico para su transferencia a otro poseedor de los datos.
 
 La Ley de privacidad del consumidor de California (CCPA) establece derechos y obligaciones de privacidad para los consumidores de California, incluyendo derechos similares a los Derechos de los sujetos de datos de GDPR, como el derecho a eliminar, acceder y recibir (portabilidad) su información personal.  
 
@@ -81,7 +81,7 @@ Los registros y datos relacionados generados por Microsoft pueden considerarse, 
 
 ### <a name="yammer-and-kaizala"></a>Yammer y Kaizala
 
-La eliminación de la cuenta de un usuario no eliminará los registros generados por el sistema para Yammer y Kaizala. Para eliminar los datos de estas aplicaciones, consulte uno de los siguientes recursos:
+La eliminación de una cuenta de usuario no quitará los registros generados por los sistemas de Yammer y Kaizala. Para quitar los datos de estas aplicaciones, consulte uno de los siguientes recursos:
 
 - [Gestión de solicitudes del interesado de RGPD en Yammer Enterprise](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
 - [Exportar o eliminar datos de la organización de un usuario en Kaizala](/office365/kaizala/export-or-delete-a-user-s-data)
