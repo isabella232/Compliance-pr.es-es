@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6c431d856fc03f328148722c14dfc558082aacb5
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: b603457ac3c60b66874b671f6a760f9ded9e0c5c6aa27fbc5a02d4df37b28fea
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288638"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>Código de prácticas para los controles de la seguridad de la información ISO/IEC 27017:2015
 
@@ -69,11 +69,11 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad de Office 365 y servicios dentro del ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios dentro del ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **Office 365** | Access Online, Azure Active Directory, Servicio de comunicaciones de Azure, Administrador de cumplimiento, Caja de seguridad del cliente, Delve, Exchange Online, Exchange Online Protection, Forms, Griffin, Identity Manager, Caja de seguridad (Torus), Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Portal de clientes de Office 365, Microservicios de Office 365 (incluidos, entre otros, Kaizala, ObjectStore, Sway, servicio de documentos de PowerPoint Online, Servicio de anotación de consultas, School Data Sync, Siphon, Speech, StaffHub, programa de la aplicación eXtensible), Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, Infraestructura de servicios de Office, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, Project Online, Cifrado de servicio con clave de cliente, SharePoint Online, Skype Empresarial, Stream |
 | **GCC** | Azure Active Directory, Servicio de comunicaciones de Azure, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |

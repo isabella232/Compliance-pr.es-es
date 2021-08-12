@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5db72902615eef26b45b5d4eeaa52132ee3703b1
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 0b45e9e526ad95030eed1a6b7b1814ad4aee66e8b33651ee466d71795ba97f74
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385030"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287439"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Regla 4511(c) de la Autoridad reguladora de la industria financiera (FINRA) Estados Unidos
 
@@ -51,7 +51,7 @@ Los proveedores de software y los asociados con cargas de trabajo confidenciales
 
 Para los requisitos de la Regla [4511(c) de FINRA,](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset validó que Microsoft 365 incluye características de archivado que permiten a los clientes regulados, incluidos los agentes de corretaje, almacenar datos de una manera que les ayude a cumplir con los requisitos de la SEC para la retención de registros. Las características de retención Microsoft 365 ayudan a conservar una amplia variedad de datos, incluidos el correo electrónico, el correo de voz, los documentos compartidos, los mensajes instantáneos y los datos de terceros. En particular, el archivado en Microsoft 365 permite a los clientes establecer directivas de retención de mensajería globales o granulares para almacenar datos durante un período definido y más allá en un formato no reescribible y no eliminable.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
@@ -66,11 +66,11 @@ Para los requisitos de la Regla [4511(c) de FINRA,](/microsoft-365/compliance/re
 
 [Archivado en Office 365, retención de datos y cumplimiento de la regla 17a-4 de la SEC](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
 
-## <a name="how-to-implement"></a>Cómo implementarlo
+## <a name="how-to-implement"></a>Cómo se debe implementar
 
 - **Regulación de servicios financieros:** mapa de cumplimiento de los principios normativos clave de Estados Unidos para la informática en la nube y los servicios en línea de Microsoft. [Más información](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - **Guía de cumplimiento y evaluación de riesgos**: Cree un modelo de gobierno para la evaluación de riesgos de los servicios en la nube de Microsoft y las notificaciones reglamentarias. [Más información](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
-- **Casos de uso financiero**: Información general de casos de uso, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros. [Más información](/azure/industry/financial/)
+- **Casos de uso de servicios financieros**: Use visiones generales sobre los casos, tutoriales u otros recursos para compilar soluciones de Azure para servicios financieros. [Más información](/azure/industry/financial/)
 
 ## <a name="resources"></a>Recursos
 

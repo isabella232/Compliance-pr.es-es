@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1876ee933b0f94057abb2a6edd8fae9ca66111a4
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 2278a2475887e93733ce32b82a1d7d0b15cce91a1f1e70dbe72a6469bdd3e0b7
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290614"
 ---
 # <a name="microsoft-365-isolation-controls"></a>Controles de aislamiento de Microsoft 365
 
@@ -38,9 +38,9 @@ Microsoft 365 se compone de varios servicios que proporcionan una funcionalidad 
 
 Microsoft 365 entre sí, pero se diseñan e implementan para que se puedan implementar y operar como servicios autónomos, independientemente entre sí. Microsoft segrega las tareas y áreas de responsabilidad de Microsoft 365 para reducir las oportunidades de modificación o mal uso no autorizados o involuntarias de los activos de la organización. Microsoft 365 los equipos han definido roles como parte de un mecanismo de control de acceso completo basado en roles.
 
-## <a name="tenant-isolation"></a>Aislamiento de inquilinos
+## <a name="tenant-isolation"></a>Aislamiento de espacios empresariales
 
-Una de las principales ventajas de la informática en la nube es el concepto de una infraestructura común y compartida entre numerosos clientes simultáneamente, lo que lleva a economías de escala. Microsoft trabaja continuamente para garantizar que las arquitecturas multiinquilino de nuestros servicios en la nube admiten estándares de seguridad, confidencialidad, privacidad, integridad y disponibilidad a nivel empresarial.
+Una de las principales ventajas de la informática en la nube es el concepto de una infraestructura común y compartida entre numerosos clientes simultáneamente, lo que lleva a economías de escala. Microsoft trabaja continuamente para garantizar que las arquitecturas multiinquilino de nuestros servicios en la nube admitan estándares de seguridad, confidencialidad, privacidad, integridad y disponibilidad de nivel empresarial.
 
 Los servicios en la nube de Microsoft se diseñaron con la suposición de que todos los inquilinos son potencialmente hostiles para todos los demás inquilinos y hemos implementado medidas de seguridad para evitar que las acciones de un inquilino afecten a la seguridad o al servicio de otro inquilino o accedan al contenido de otro inquilino.
 

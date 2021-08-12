@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 3f85505832e1eccbbc2f326bb98c36d2c5c483359b9f0175d8ae4e8999ffd2a6
-ms.sourcegitcommit: c9f67f35828eef244961fdc731ce94dd9570cefc
+ms.openlocfilehash: 2105ed6301734e418de30583ae2e265ae2a1b3b2faa557750eeb2856d9d7f4b5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/08/2021
-ms.locfileid: "57800875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291368"
 ---
 # <a name="azure-dynamics-365-and-windows-accountability-readiness-checklist-for-the-gdpr"></a>Lista de comprobación de preparación de responsabilidad de Azure, Dynamics 365 y Windows para el RGPD
 
@@ -34,4 +34,4 @@ Para cumplir el Reglamento general de protección de datos (RGPD) al usar Micros
 
 Los servicios de Dynamics 365 y Microsoft Azure están [certificados](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) para [ISO 27701 (PIMS)](offering-iso-27701.md).
 
-La [configuración del procesador de datos de diagnóstico de Windows](/windows/privacy/configure-windows-diagnostic-data-in-your-organization) aprovecha el servicio Enterprise Data Platform dentro de la infraestructura de servicios en la nube de Azure.  Está sujeto al mismo conjunto de controles de privacidad y seguridad, y a la certificación a la que se hace referencia anteriormente.
+La [configuración del encargado de los datos de diagnóstico de Windows](/windows/privacy/configure-windows-diagnostic-data-in-your-organization) sigue el mismo conjunto de controles de privacidad y seguridad a los que se hace referencia anteriormente.

@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0a178b23182427c0d202be38a9986c9e9069e1af2b71290a248c33aae19e0eaa
-ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
+ms.openlocfilehash: dc2a1a27994c1f3fc69f35b4b764ae80d3df7defd3b4d0dec97520de7760f815
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57833887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288718"
 ---
 # <a name="data-classification--sensitivity-label-taxonomy"></a>Clasificación de datos & taxonomía de etiqueta de confidencialidad
 
@@ -40,9 +40,7 @@ Además del volumen, el contenido puede variar en importancia de alta sensibilid
 ## <a name="what-is-a-data-classification-framework"></a>¿Qué es un marco de clasificación de datos?
 
 A menudo codificada en una directiva formal de toda la empresa, un marco de clasificación de datos (a veces denominado "directiva de clasificación de datos") suele estar compuesto de 3 a 5 niveles de clasificación. Normalmente incluyen tres elementos: un nombre, una descripción y ejemplos reales. Microsoft recomienda no más de cinco etiquetas principales de nivel superior, cada una con cinco subetiquetas (25 en total) para que la interfaz de usuario (UI) sea manejable. Normalmente, los niveles se organizan de menos a más confidenciales, como *Public*, *Internal*, *Confidential* y *Highly* 
- *Confidential*. Otras variaciones de nombre de nivel que puede encontrar *incluyen Restricted*, *Unrestricted* y *Consumer Protected*. Microsoft recomienda nombres de etiquetas que son autodescriptivas y que resaltan claramente su confidencialidad relativa. Por ejemplo, *Confidencial* *y* Restringido puede dejar a los usuarios  adivinar qué etiqueta es adecuada, mientras que *Confidencial* y Extremadamente confidencial son más claros en los que es más confidencial. 
-
-En la tabla siguiente se muestra un ejemplo de un nivel de marco *de* clasificación de datos extremadamente confidencial:
+ *Confidential*. Otras variaciones de nombre de nivel que puede encontrar *incluyen Restricted*, *Unrestricted* y *Consumer Protected*. Microsoft recomienda nombres de etiquetas que son autodescriptivas y que resaltan claramente su confidencialidad relativa. Por ejemplo, *Confidencial* *y* Restringido puede dejar a los usuarios  adivinar qué etiqueta es adecuada, mientras que *Confidencial* y Extremadamente confidencial son más claros en los que es más confidencial. En la tabla siguiente se muestran ejemplos de niveles del marco de clasificación de datos.
 
 |**Nivel de clasificación**|**Descripción**|**Ejemplos**|
 |:-----------------------|:--------------|:-----------|

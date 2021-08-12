@@ -1,54 +1,54 @@
 ---
-ms.openlocfilehash: 61aafc556b30f5de9dabe5e67a5176b02b19ab28
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: 51c917585c8138a476e9aacd349c6dd46c545d2c140696ebfc4d0aee6f0a67cc
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288169"
 ---
 # <a name="overview"></a>Información general
 
-## <a name="learn-how-to-contribute"></a>Obtenga información sobre cómo colaborar
+## <a name="learn-how-to-contribute"></a>Obtenga información sobre cómo contribuir
 
-Cualquiera que esté interesado puede contribuir a los temas. Al colaborar, su trabajo irá directamente al conjunto de contenido después de combinarlo. A continuación, se mostrará en docs.microsoft.com y se mostrará como colaborador en: <https://github.com/MicrosoftDocs/compliance/graphs/contributors> .
+Cualquier persona que esté interesada puede contribuir a los temas. Al contribuir, el trabajo irá directamente al conjunto de contenido después de combinarse. A continuación, se mostrará en docs.microsoft.com y aparecerá como colaborador en: <https://github.com/MicrosoftDocs/compliance/graphs/contributors> .
 
 ### <a name="quickly-update-an-article-using-githubcom"></a>Actualizar rápidamente un artículo con GitHub.com
 
-Los colaboradores que solo realizan actualizaciones poco frecuentes o pequeñas pueden editar el archivo directamente en GitHub.com sin tener que instalar software adicional. En este artículo se muestra cómo hacerlo. [Este vídeo de dos minutos](https://www.microsoft.com/videoplayer/embed/RE1XQTG) también cubre la forma de contribuir.
+Los colaboradores que solo realicen actualizaciones poco frecuentes o pequeñas pueden editar el archivo directamente en GitHub.com sin tener que instalar ningún software adicional. En este artículo se muestra cómo. [En este vídeo de dos](https://www.microsoft.com/videoplayer/embed/RE1XQTG) minutos también se explica cómo contribuir.
 
-1. Asegúrese de que ha iniciado sesión en GitHub.com con su cuenta de GitHub.
+1. Asegúrate de que has iniciado sesión en GitHub.com con tu GitHub cuenta.
 2. Vaya a la página que desea editar en docs.microsoft.com.
-3. En la parte derecha de la página, haga clic en **Editar** (icono de lápiz).
+3. En el lado derecho de la página, haga clic **en Editar** (icono de lápiz).
 
    ![Botón Editar en docs.microsoft.com](compliance/media/quick-update-edit.png)
 
-4. Se abrirá el archivo de tema correspondiente en GitHub, donde debe hacer clic en el icono **Editar este archivo** de lápiz.
+4. Se abre el archivo de tema correspondiente GitHub, donde debe hacer clic en **el icono Editar este lápiz** de archivo.
 
    ![Botón Editar en github.com](compliance/media/quick-update-github.png)
 
-5. El tema se abre en una página de edición con número de línea en la que puede realizar cambios en el archivo. Los archivos de GitHub se escriben y editan con Markdown Language. Para obtener ayuda sobre el uso de Markdown, consulte [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). Seleccione la pestaña **vista previa de cambios** para ver los cambios a medida que avanza.
+5. El tema se abre en una página de edición numerada de línea donde puede realizar cambios en el archivo. Los archivos GitHub se escriben y editan con el lenguaje Markdown. Para obtener ayuda sobre el uso de Markdown, vea [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). Seleccione la **pestaña Vista previa de los** cambios para ver los cambios a medida que vaya.
 
-6. Cuando haya terminado de realizar cambios, vaya a la sección **proponer un cambio de archivo** en la parte inferior de la página:
+6. Cuando termine de realizar cambios, vaya a la sección Proponer **cambio de archivo** en la parte inferior de la página:
 
    - Se requiere un título breve. De forma predeterminada, el título es el nombre del archivo, pero puede cambiarlo.
-   - Opcionalmente, puede especificar más detalles en el cuadro **Agregar una descripción extendida opcional** .
+   - Opcionalmente, puede especificar más detalles en el **cuadro Agregar una descripción extendida** opcional.
 
-   Cuando esté listo, haga clic en el botón **sugerir cambiar archivo** de color verde.
+   Cuando esté listo, haga clic en el botón verde **Proponer cambio de** archivo.
 
-   ![Sección proponer un cambio de archivo](compliance/media/propose-file-change.png)
+   ![Sección Proponer cambio de archivo](compliance/media/propose-file-change.png)
 
-7. En la página **comparar cambios** que aparece, haga clic en el botón verde **crear solicitud de incorporación** de cambios.
+7. En la **página Comparar cambios** que aparece, haga clic en el botón verde Crear solicitud **de** extracción.
 
-   ![Comparación de la página de cambios](compliance/media/comparing-changes-page.png)
+   ![Comparar la página de cambios](compliance/media/comparing-changes-page.png)
 
-8. En la página **abrir una solicitud de incorporación** de objetos que aparece, haga clic en el botón verde **crear solicitud de extracción** .
+8. En la **página Abrir una solicitud de** extracción que aparece, haga clic en el botón verde Crear solicitud **de** extracción.
 
-   ![Abrir una página de solicitud de incorporación deble](compliance/media/open-a-pull-request-page.png)
+   ![Abrir una página de solicitud de extracción](compliance/media/open-a-pull-request-page.png)
 
 > [!NOTE]
-> Sus permisos en el repositorio determinan lo que verá en los últimos pasos. Los usuarios sin privilegios especiales verán la sección **proponer cambios** en el archivo y las páginas de confirmación posteriores, tal como se describe. Los usuarios con permisos para crear y aprobar sus propias solicitudes de incorporación de cambios verán una sección **confirmaciones** similar con opciones adicionales para crear una nueva rama y menos páginas de confirmación.<br/><br/>El punto es: haga clic en los botones verdes que se le muestran hasta que no haya más.
+> Los permisos del repositorio determinan lo que ve en los últimos pasos. Las personas sin privilegios especiales verán la sección **Proponer** cambio de archivo y las páginas de confirmación posteriores como se describe. Las personas con permisos para crear y aprobar sus propias solicitudes de extracción verán una sección **confirmar** cambios similar con opciones adicionales para crear una rama nueva y menos páginas de confirmación.<br/><br/>El punto es: haga clic en los botones verdes que se le presenten hasta que no haya más.
 
-El escritor identificado en los metadatos del tema recibirá una notificación y, finalmente, revisará y aprobará los cambios, de modo que el tema se actualizará en docs.microsoft.com. Si hay preguntas o problemas con las actualizaciones, el escritor se pondrá en contacto con usted.
+Se notificará al escritor identificado en los metadatos del tema y, finalmente, revisará y aprobará los cambios para que el tema se actualice en docs.microsoft.com. Si hay preguntas o problemas con las actualizaciones, el escritor se pondrá en contacto con usted.
 
 ## <a name="microsoft-open-source-code-of-conduct"></a>Código de conducta de código abierto de Microsoft
 
@@ -58,18 +58,18 @@ Para obtener más información, consulte [Code of Conduct FAQ](https://opensourc
 
 ### <a name="contributing"></a>Colaboradores
 
-Este proyecto le agradece las contribuciones y las sugerencias.  Para la mayoría de las contribuciones es necesario aceptar un contrato de licencia de colaborador (CLA) en el que se declara que usted tiene el derecho a y, en realidad, concederle derechos para usar su contribución. Para obtener más información, visite <https://cla.microsoft.com> .
+Este proyecto recibe con satisfacción las contribuciones y sugerencias.  La mayoría de las contribuciones requieren que acepte un Contrato de licencia de colaborador (CLA) que declare que tiene derecho a concedernos los derechos de usar su contribución y, en realidad, a hacerlo. Para obtener más información, visite <https://cla.microsoft.com> .
 
-Cuando se envía una solicitud de incorporación de un elemento, un elemento bot-bot determinará automáticamente si es necesario proporcionar un CLA y se decorará el PR de forma adecuada (por ejemplo, Label, comment). Simplemente siga las instrucciones proporcionadas por el bot. Solo tendrá que hacerlo una vez en todos los repositorios con nuestro CLA.
+Al enviar una solicitud de extracción, un bot CLA determinará automáticamente si necesita proporcionar un CLA y decorar la pr correctamente (por ejemplo, etiqueta, comentario). Simplemente siga las instrucciones proporcionadas por el bot. Solo tendrá que hacerlo una vez en todos los repositorios mediante nuestro CLA.
 
 ### <a name="legal-notices"></a>Avisos legales
 
-Microsoft y todos los colaboradores le conceden una licencia para la documentación de Microsoft y otro contenido de este repositorio en la [licencia pública internacional de Creative Commons atribution 4,0](https://creativecommons.org/licenses/by/4.0/legalcode), vea el archivo de [licencia](LICENSE) y conceda una licencia a cualquier código del repositorio en la [licencia MIT](https://opensource.org/licenses/MIT), vea el archivo de [código de licencia](LICENSE-CODE) .
+Microsoft y los colaboradores le conceden una licencia a la documentación de Microsoft y a otro contenido de este repositorio bajo la Licencia pública internacional creative [commons 4.0](https://creativecommons.org/licenses/by/4.0/legalcode), consulte el archivo [LICENSE](LICENSE) y le conceda una licencia para cualquier código del repositorio bajo la licencia [MIT](https://opensource.org/licenses/MIT), consulte el archivo [LICENSE-CODE.](LICENSE-CODE)
 
-Microsoft, Windows, Microsoft Azure y otros productos y servicios de Microsoft a los que se hace referencia en la documentación pueden ser marcas comerciales o marcas comerciales registradas de Microsoft en Estados Unidos u otros países.
+Microsoft, Windows, Microsoft Azure y/u otros productos y servicios de Microsoft a los que se hace referencia en la documentación pueden ser marcas comerciales o marcas comerciales registradas de Microsoft en los Estados Unidos y/u otros países.
 
-Las licencias de este proyecto no le conceden derechos para usar nombres, logotipos o marcas comerciales de Microsoft. Puede encontrar instrucciones generales de la marca comercial de Microsoft en <https://go.microsoft.com/fwlink/?LinkID=254653> .
+Las licencias de este proyecto no le conceden derechos para usar nombres, logotipos o marcas comerciales de Microsoft. Las directrices generales de marca comercial de Microsoft se pueden encontrar en <https://go.microsoft.com/fwlink/?LinkID=254653> .
 
 La información de privacidad se puede encontrar en <https://privacy.microsoft.com/>
 
-Microsoft y todos los colaboradores reservan todos los demás derechos, ya sea bajo sus respectivos derechos de autor, patentes o marcas comerciales, ya sea por implicación, por exclusión o de otro modo.
+Microsoft y cualquier colaborador se reservan todos los demás derechos, ya sea bajo sus respectivos derechos de autor, patentes o marcas comerciales, ya sea por implicación, impedimento o de otro modo.

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 494acc364123c32d409a64324715bcc27e81e7a8
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 11af1e745978358d401502da853640e8bd707249aa827fe30b62813ef44b99d2
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287699"
 ---
 # <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>Complemento de regulación de adquisición federal de Defensa (DFARS)
 
@@ -35,7 +35,7 @@ La última cláusula DFARS 252.204-7012 (Proteger la información de defensa cub
 
 Los servicios en la nube de Microsoft Government ayudan a los clientes de la base industrial de defensa de Estados Unidos y a los clientes de contratistas de defensa a cumplir los requisitos de DFARS enumerados en las cláusulas DFARS de 252.204-7012 que se aplican a los proveedores de servicios en la nube. Cuando se requiere que los contratistas de defensa cumplan con la cláusula 252.204-7012 de DFARS en los contratos, Microsoft puede admitir los requisitos aplicables a los proveedores de servicios en la nube para los servicios de Azure Government y Office 365 U.S. Government Defense. Ambos servicios muestran compatibilidad con las capacidades necesarias para que los clientes cumplan con las cláusulas DFARS 7012 a través de su acreditación L5 a la Guía de requisitos de seguridad del Departamento de Defensa.  
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 Servicios cubiertos para el nivel de impacto doD 5
 
@@ -48,21 +48,21 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 
 ## <a name="office-365-and-dfars"></a>Office 365 y DFARS
 
-### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios en el ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Formularios, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de cumplimiento de Office 365 Seguridad &, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
-| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de cumplimiento de Office 365 Seguridad &, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial |
-| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365 Office 365, centro de & de seguridad de &, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, Power BI, SharePoint Online, Skype Empresarial |
+| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial |
+| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, Power BI, SharePoint Online, Skype Empresarial |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 Auditorías, informes y certificados
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorías, informes y certificados de Office 365
 
 - [Autorizaciones de Microsoft Cloud Services](https://marketplace.fedramp.gov/index.html#/products?status=Compliant&sort=productName)
 - [Ver informes de auditoría adicionales](https://aka.ms/auditreports)

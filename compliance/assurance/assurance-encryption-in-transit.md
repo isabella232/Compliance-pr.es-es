@@ -1,6 +1,6 @@
 ---
 title: Cifrado para datos en tránsito
-description: En este artículo, busque una breve explicación de cómo Microsoft cifra los datos de cliente de Microsoft 365 en tránsito.
+description: En este artículo, busque una breve explicación de cómo Microsoft cifra Microsoft 365 datos de clientes en tránsito.
 ms.author: krowley
 author: kccross
 manager: laurawi
@@ -21,12 +21,12 @@ ms.collection:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 227f74140ecd9b6283b92e8b0e87bd70912ec8e3
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 6a4707be17c0ef5d992e1f98db9638b9b8337dfd22f012af914ef65891c315ed
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291288"
 ---
 # <a name="encryption-for-data-in-transit"></a>Cifrado para datos en tránsito
 
@@ -34,9 +34,9 @@ Además de proteger los datos de los clientes en reposo, Microsoft usa tecnolog�
 
 - cuando un equipo cliente se comunica con un servidor Microsoft;
 - cuando un servidor Microsoft se comunica con otro servidor de Microsoft; y
-- cuando un servidor de Microsoft se comunica con un servidor que no es de Microsoft (por ejemplo, Exchange Online entrega correo electrónico a un servidor de correo electrónico de terceros).
+- cuando un servidor de Microsoft se comunica con un servidor que no es de Microsoft (por ejemplo, Exchange Online correo electrónico a un servidor de correo electrónico de terceros).
 
-Las comunicaciones entre centros de datos entre servidores de Microsoft tienen lugar a través de TLS o IPsec, y todos los servidores orientados al cliente negocian una sesión segura con TLS con máquinas cliente (por ejemplo, Exchange Online usa TLS 1.2 con una intensidad de cifrado de 256 bits (se valida FIPS 140-2 nivel 2). (Consulte [Technical reference details about encryption](/microsoft-365/compliance/technical-reference-details-about-encryption) para obtener una lista de conjuntos de cifrado TLS admitidos por Office 365). Esto se aplica a los protocolos que usan clientes como Outlook, Skype Empresarial, Microsoft Teams y Outlook en la web (por ejemplo, HTTP, POP3, etc.).
+Las comunicaciones entre centros de datos entre servidores de Microsoft tienen lugar a través de TLS o IPsec, y todos los servidores orientados al cliente negocian una sesión segura con TLS con máquinas cliente (por ejemplo, Exchange Online usa TLS 1.2 con una intensidad de cifrado de 256 bits (se valida FIPS 140-2 de nivel 2). (Consulte [Technical reference details about encryption](/microsoft-365/compliance/technical-reference-details-about-encryption) para obtener una lista de conjuntos de cifrado TLS admitidos por Office 365). Esto se aplica a los protocolos que usan los clientes como Outlook, Skype Empresarial, Microsoft Teams y Outlook en la Web (por ejemplo, HTTP, POP3, etc.).
 
 Microsoft IT SSL emite los certificados públicos mediante SSLAdmin, una herramienta interna de Microsoft para proteger la confidencialidad de la información transmitida. Todos los certificados emitidos por Microsoft IT tienen una longitud mínima de 2048 bits y el cumplimiento de la confianza web requiere SSLAdmin para asegurarse de que los certificados se emiten solo a direcciones IP públicas propiedad de Microsoft. Las direcciones IP que no cumplan este criterio se enrutan a través de un proceso de excepción.
 
@@ -46,7 +46,7 @@ Todos los detalles de implementación, como la versión de TLS que se usa, si el
 - [Exchange Online](https://www.ssllabs.com/ssltest/analyze.html?d=outlook.office365.com&hideResults=on)
 - [SharePoint Online](https://www.ssllabs.com/ssltest/analyze.html?d=microsoft-my.sharepoint.com&hideResults=on)
 - [Skype Empresarial (SIP)](https://www.ssllabs.com/ssltest/analyze.html?d=sipdir.online.lync.com)
-- [Skype Empresarial (Web)](https://www.ssllabs.com/ssltest/analyze.html?d=webdir.online.lync.com&hideResults=on)
+- [Skype Empresarial (web)](https://www.ssllabs.com/ssltest/analyze.html?d=webdir.online.lync.com&hideResults=on)
 - [Exchange Online Protection](https://ssl-tools.net/mailservers/microsoft-com.mail.protection.outlook.com)
 - [Microsoft Teams](https://www.ssllabs.com/ssltest/analyze.html?d=teams.microsoft.com&latest)
 

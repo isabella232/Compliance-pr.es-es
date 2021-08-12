@@ -1,6 +1,6 @@
 ---
 title: Destrucción de datos en Microsoft 365
-description: Información general sobre las directivas de Microsoft sobre el reciclaje, eliminación o destrucción de unidades de disco y servidores del centro de datos de Microsoft 365.
+description: Información general sobre las directivas de Microsoft sobre reciclaje, eliminación o destrucción de Microsoft 365 unidades de disco y servidores del centro de datos.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,22 +19,22 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1b9d410422e22fe67cb27617ba16e2ddbbaec0fd
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: bf7769852a41e8f78724c64e9a189ba7652c8f95a4cb71db1d5a7c3d286892e5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288708"
 ---
 # <a name="data-destruction-in-microsoft-365"></a>Destrucción de datos en Microsoft 365
 
 ## <a name="physical-data-destruction"></a>Destrucción de datos físicos
 
-Microsoft tiene directivas estándar de tratamiento de datos que abordan el reciclaje y eliminación de unidades de disco y servidores con errores o retiradas. Antes de volver a uso de las unidades de disco de Microsoft 365, Microsoft realiza un proceso de desinfección física coherente con la Publicación especial 800-88 del Instituto Nacional de Estándares y Tecnología ([NIST SP 800-88 Guidelines for Media Sanitization](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf)). Dado que todas las unidades de disco de Microsoft 365 se cifran mediante el cifrado de nivel de volumen de BitLocker, la eliminación compatible con NIST SP 800-88 no es técnicamente necesaria. No obstante, Microsoft realiza este proceso.
+Microsoft tiene directivas estándar de tratamiento de datos que abordan el reciclaje y eliminación de unidades de disco y servidores con errores o retiradas. Antes de volver Microsoft 365 uso de las unidades de disco de Microsoft 365, Microsoft realiza un proceso de desinfección física coherente con la Publicación especial del Instituto Nacional de Estándares y Tecnología 800-88 ([Nist SP 800-88 Guidelines for Media Sanitization](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf)). Dado que todas las unidades de disco de Microsoft 365 se cifran mediante el cifrado de nivel de volumen de BitLocker, la eliminación compatible con NIST SP 800-88 no es técnicamente necesaria. No obstante, Microsoft realiza este proceso.
 
-Los discos con errores usados en centros de datos de Microsoft 365 se destruyen físicamente y se auditan a través del proceso ISO. El tipo de activo determina los medios de eliminación adecuados. Para los discos duros que no se pueden borrar, Microsoft usa un proceso de destrucción para destruir los medios y hacer imposible la recuperación de información. Por ejemplo, los discos se destruyen físicamente, se pulverizan o se incineran. Microsoft conserva todos los registros de la destrucción y realiza un proceso de desinfección similar en servidores reutilizados en Microsoft 365. Estas directrices abarcan la desinfección electrónica y física.
+Los discos con errores usados Microsoft 365 centros de datos se destruyen físicamente y se auditan a través del proceso ISO. El tipo de activo determina los medios de eliminación adecuados. Para los discos duros que no se pueden borrar, Microsoft usa un proceso de destrucción para destruir los medios y hacer imposible la recuperación de información. Por ejemplo, los discos se destruyen físicamente, se pulverizan o se incineran. Microsoft conserva todos los registros de la destrucción y realiza un proceso de desinfección similar en servidores reutilizados en Microsoft 365. Estas directrices abarcan la desinfección electrónica y física.
 
-Cada centro de datos usa un proceso de destrucción física en el sitio para eliminar sus discos. Los contenedores seguros para los medios de almacenamiento designados para la eliminación de discos están en cada área del centro de datos. Cada estación de ubicación segura tiene supervisión de vídeo. Una vez que una papelera de eliminación alcanza aproximadamente el 50 % de capacidad, el equipo de Servicios del sitio se pone en contacto con el equipo de seguridad física para coordinar la eliminación. El personal de Servicios de sitio y una oficina de seguridad quitan la papelera de eliminación segura y la colocan en un área de almacenamiento protegida designada. Las directivas y procedimientos que rigen el tratamiento de los dispositivos portadores de datos durante la eliminación se prueban de forma rutinaria, incluidos los procedimientos para garantizar la condición de las máquinas aprobadas para su destrucción.
+Cada centro de datos usa un proceso de destrucción física en el sitio para eliminar sus discos. Los contenedores seguros para los medios de almacenamiento designados para la eliminación de discos están en cada área del centro de datos. Cada estación de ubicación segura tiene supervisión de vídeo. Una vez que una papelera de eliminación alcanza aproximadamente el 50 % de capacidad, el equipo de Servicios del sitio se pone en contacto con el equipo de seguridad física para coordinar la eliminación. El personal de Servicios de sitio y un administrador Office quitar la papelera de eliminación segura y colocarla en un área de almacenamiento protegida designada. Las directivas y procedimientos que rigen el tratamiento de los dispositivos portadores de datos durante la eliminación se prueban de forma rutinaria, incluidos los procedimientos para garantizar la condición de las máquinas aprobadas para su destrucción.
 
 En el proceso de destrucción de datos, los discos se borran de forma compatible con NIST 800-88 (si es posible) y, a continuación, se colocan en una trituradora industrial y se destruyen físicamente. Microsoft mantiene la responsabilidad de los activos que salen del centro de datos con nist SP 800-88 limpieza y depuración coherentes, destrucción de activos, cifrado, inventario preciso, seguimiento y protección de la cadena de custodia durante el transporte. Este proceso se supervisa a través de un circuito cerrado de televisión y se emite un certificado de destrucción una vez completado.
 

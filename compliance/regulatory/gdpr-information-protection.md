@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: abdda00cf161c880400babef54989dd8d6935d46
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 1a612f40ee095ed6bc55bd4db5d3eda164b1a74a41856d53e227dbf938af681b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287959"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Protección de la información para el RGPD con funciones de Microsoft 365
 

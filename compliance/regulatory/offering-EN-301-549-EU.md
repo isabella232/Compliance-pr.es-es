@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2d02e7643ca554e55f4d901a95a39d1a8e5285f9
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9fd5934030e83dc03326c66ea20e93c1c0472e3be1afe496120165f381404827
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287609"
 ---
 # <a name="european-standards-en-301-549"></a>Estándares europeos EN 301 549
 

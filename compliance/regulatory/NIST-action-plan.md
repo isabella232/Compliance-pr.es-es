@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: b0840cf87ede602c1bcc324de9a036126e4e1b2b
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 25e60c25588110852e264fce9716bb9c58b5f71f017f5a25e45d4625095ecacd
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288329"
 ---
 # <a name="microsoft-365-nist-800-53-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Plan de acción NIST 800-53 de Microsoft 365: principales prioridades de los primeros 30 días, 90 días y el periodo posterior
 

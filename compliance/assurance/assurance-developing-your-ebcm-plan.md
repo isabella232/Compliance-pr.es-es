@@ -17,16 +17,16 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: e8c031727c77d1106f8bd255a643fd9794cc856a
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 78c27f10d963dd3653e7ab444143baae7c989e3ff7f3ce62cb2f45db7a55922f
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287275"
 ---
 # <a name="developing-your-business-continuity-plan"></a>Desarrollar su plan de continuidad empresarial
 
-En este tema se proporcionan instrucciones sobre cómo desarrollar un plan de continuidad empresarial que tenga en cuenta las dependencias de Microsoft 365. Aquí le recomendamos métodos para analizar las funciones de su empresa e identificar aquellas que dependen de los servicios de Microsoft 365. Realizará este análisis teniendo en cuenta que habrá errores de servicio y de que tiene que prepararse para las posibilidades.
+En este tema se proporcionan instrucciones sobre cómo desarrollar un plan de continuidad empresarial que tenga Microsoft 365 en cuenta. Aquí le recomendamos métodos para analizar las funciones de su empresa e identificar aquellas que dependen de los servicios de Microsoft 365. Realizará este análisis teniendo en cuenta que habrá errores de servicio y de que tiene que prepararse para las posibilidades.
 
 En general, la planeación de la continuidad empresarial implica cuatro aspectos, la evaluación, la planificación, la validación de la capacidad, la comunicación y la coordinación.
 
@@ -93,9 +93,9 @@ En Microsoft, cada equipo de servicio ha establecido canales de comunicación al
 
 Durante el análisis de impacto empresarial y el análisis de dependencia, estará asignando procesos importantes y las tecnologías o servicios de los que dependen. Preste especial atención a la comunicación durante esta fase de la planificación y piense en alternativas. A continuación se describen algunos ejemplos:
 
-- Si el correo electrónico es el método principal para que los usuarios y las partes interesadas estén informados y el servicio de correo electrónico se cae o no está disponible, puede usar otro servicio como Microsoft Teams, Yammer u otro servicio de terceros como respaldo. La clave es establecerlos con anticipación y capacitar a sus usuarios para que sepan qué hacer. Un subproceso de Yammer no va a ser útil si nadie sabe que existe o si nadie lo tiene marcado.  
+- Si el correo electrónico es el método principal para que los usuarios y las partes interesadas estén informados y el servicio de correo electrónico se cae o no está disponible, puede usar otro servicio como Microsoft Teams, Yammer u otro servicio de terceros como respaldo. La clave es establecerlos con anticipación y capacitar a sus usuarios para que sepan qué hacer. Un Yammer no va a ser útil si nadie sabe que existe o si nadie lo tiene marcado.  
 - Si los procesos internos de la administración de incidentes dependen en las comunicaciones de voz para coordinar sus respuestas, establezca una solución de telefonía alternativa para usarla durante una urgencia. Esta solución no necesita tener la paridad completa con el servicio principal, pero debe proporcionar el nivel mínimo de colaboración para coordinar los equipos de continuidad empresarial y administración de incidentes. Además, preguntar a los usuarios para publicar sus números de teléfono móvil en la lista global de direcciones puede ofrecer un nivel adicional de comunicación auxiliar en casos extremos.
-- Es posible que desee crear un panel personalizado de estado del servicio, u otro tipo de sitio, que pueda proporcionar actualizaciones de estado durante un incidente. Capacitar a los usuarios sobre a dónde acudir para obtener información de antemano ayudará a reducir las llamadas innecesarias al departamento de soporte técnico e infundirá la seguridad en su lista de usuarios de que la situación se está manejando de manera rápida y eficiente. Use la API de comunicaciones de servicio de O365 para vincular esta información a Microsoft 365 para obtener un nivel de visibilidad aún mayor.  
+- Es posible que desee crear un panel personalizado de estado del servicio, u otro tipo de sitio, que pueda proporcionar actualizaciones de estado durante un incidente. Capacitar a los usuarios sobre a dónde acudir para obtener información de antemano ayudará a reducir las llamadas innecesarias al departamento de soporte técnico e infundirá la seguridad en su lista de usuarios de que la situación se está manejando de manera rápida y eficiente. Use la API de comunicaciones de servicio de O365 para vincular esta información a Microsoft 365 para un mayor nivel de visibilidad.  
 - Es fundamental que se conozca la ubicación de los planes de continuidad empresarial y los procedimientos de operación estándar. Recomendamos mantener copias de la documentación importante en línea y fuera de línea, por ejemplo con SharePoint Online o OneDrive empresarial configurado para la sincronización automática con dispositivos locales. Para los Centros de operaciones de servicio/red y otros equipos similares que serán fundamentales para la recuperación, es posible que también desee mantener las copias impresas disponibles para su uso en caso de emergencia.
 
 ## <a name="know-your-external-points-of-integration"></a>Se conocen los puntos de integración externos

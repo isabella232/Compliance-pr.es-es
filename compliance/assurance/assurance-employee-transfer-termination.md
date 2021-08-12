@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4a71ab3ddf6688df5480a8f260e004778aa6212b
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 8ff06dab5367ee8cf734384efd1e2f57b2d6499c4151b75bd335693852dead47
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287219"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Transferencia y terminación de empleados de Microsoft
 
@@ -37,8 +37,8 @@ Los servicios en línea de Microsoft están diseñados para funcionar sin tener 
 
 Las transferencias de empleados se inician a través de una solicitud de transacción de transferencia por parte del administrador del empleado. El administrador crea una solicitud de solicitud y se compromete con La adquisición global de talento para el proceso de carta de oferta. Una vez que el empleado acepta la oferta para el nuevo rol, los servicios de RRHH completan la transferencia en las herramientas principales de RRHH, lo que desencadena que IDM establezca una fecha de expiración para todas las elegibilidades del empleado. El empleado debe enviar una solicitud y recibir la aprobación de su nuevo administrador para conservar sus elegibilidades. Si no se envía una solicitud o se recibe la aprobación del administrador, se revocan los requisitos de los empleados transferidos. Para las transferencias que incluyen implicaciones de seguridad específicas, los accesos al sistema y las pertenencias a grupos de seguridad se reevaluan inmediatamente para reflejar su nuevo rol.
 
-## <a name="termination"></a>Terminación
+## <a name="termination"></a>Rescisión
 
-Microsoft usa directivas y procedimientos claramente definidos para revocar rápidamente el acceso físico y lógico a los sistemas y recursos de Microsoft cuando finaliza un empleado. Cuando un empleado da su aviso, el administrador del empleado escribe la fecha de terminación en el HRIS. Después del último día laborable del empleado, el HRIS marca al empleado como terminado y comparte la información con IDM, que quita automáticamente todas las cuentas y elegibilidad del equipo de servicio.
+Microsoft usa directivas y procedimientos claramente definidos para revocar rápidamente el acceso físico y lógico a los sistemas y recursos de Microsoft cuando se finaliza el contrato de un empleado. Cuando un empleado da su aviso, el administrador del empleado escribe la fecha de terminación en el HRIS. Después del último día laborable del empleado, el HRIS marca al empleado como terminado y comparte la información con IDM, que quita automáticamente todas las cuentas y elegibilidad del equipo de servicio.
 
-Para las terminaciones involuntarias, RRHH trabaja con el administrador del empleado para seguir los pasos adecuados para finalizar y salir del empleado. Al igual que una terminación voluntaria, la información de terminación se introduce en el HRIS junto con los pasos necesarios, como la coordinación de fechas efectivas, la eliminación del acceso. y cualquier otro paso relativo a la transición fuera del rol.
+Para las terminaciones involuntarias, RRHH trabaja con el administrador del empleado para seguir los pasos adecuados para finalizar y salir del empleado. Al igual que una terminación voluntaria, la información de terminación se introduce en el HRIS junto con los pasos necesarios, como la coordinación de fechas efectivas, la eliminación de acceso y cualquier otro paso relativo a la transición fuera de función.

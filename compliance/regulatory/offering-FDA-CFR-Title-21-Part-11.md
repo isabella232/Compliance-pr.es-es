@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f5710d392e1d2293bfee976873e5d7c603918e67
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 39c7e69ab980a7d75fced1d59474478df6f05c9ec9549db6e7fa72ba7f9278a8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287569"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>Cfr de administración de alimentos y medicamentos 21 parte 11
 
@@ -47,7 +47,7 @@ Los clientes pueden solicitar acceso a los informes de cumplimiento, sujeto a lo
 
 Obtenga información sobre cómo acelerar la implementación del Título 21 de cfr de la FDA: descargar la guía de cualificación [de Azure FDA 21](https://go.microsoft.com/fwlink/p/?linkid=2086604)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 Aunque no hay ninguna certificación para cumplir con cfr título 21 parte 11, los siguientes servicios en la nube de microsoft enterprise han sido sometidos a auditorías independientes de terceros, lo que puede ayudar a los clientes en sus esfuerzos de cumplimiento. Estos servicios incluyen:
 

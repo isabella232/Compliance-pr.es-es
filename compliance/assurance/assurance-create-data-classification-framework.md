@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: df2bc373fea046ac120c40c57af2ba061d2b0781
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 88a07e5c6d5e3e84260c5099d957ebf38745819e239f951df62a5d04886f3fa4
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288728"
 ---
 # <a name="create-a-well-designed-data-classification-framework"></a>Crear un marco de clasificación de datos bien diseñado
 
@@ -41,7 +41,7 @@ Al desarrollar, renovar o refinar el marco de clasificación de datos, tenga en 
     - Los usuarios y su capacidad para cumplir con la mayor complejidad y matiz asociados con más niveles de clasificación
     - Experiencia del usuario y accesibilidad al intentar aplicar la clasificación manual en varios tipos de dispositivos
 
-- **Involucrar a las personas correctas:** tener una parte interesada sénior es fundamental para el éxito, ya que muchos proyectos tienen dificultades para iniciarse o tardar más tiempo sin el respaldo de la administración superior. Los marcos de clasificación de datos suelen pertenecer a equipos de tecnología de la información, pero pueden tener implicaciones legales, de cumplimiento, de privacidad y de administración de cambios. Para asegurarse de que está creando un marco que ayude a proteger su empresa, asegúrese de incluir la privacidad y las partes interesadas legales, como su director de privacidad y la Oficina de asesoramiento general en el desarrollo de su directiva. Si su organización tiene una división de cumplimiento, profesionales de gobierno de la información o un equipo de administración de registros, también pueden tener valiosas aportaciones. A medida que el marco se va implantando en la empresa, el departamento de comunicaciones también tiene un rol clave que desempeñar para la mensajería interna y la adopción.
+- **Involucrar a las personas correctas:** tener una parte interesada sénior es fundamental para el éxito, ya que muchos proyectos tienen dificultades para iniciarse o tardar más tiempo sin el respaldo de la administración superior. Los marcos de clasificación de datos suelen pertenecer a equipos de tecnología de la información, pero pueden tener implicaciones legales, de cumplimiento, de privacidad y de administración de cambios. Para asegurarse de que está creando un marco que ayude a proteger su negocio, asegúrese de incluir la privacidad y las partes interesadas legales, como su director de privacidad y el Office de asesor general en el desarrollo de su directiva. Si su organización tiene una división de cumplimiento, profesionales de gobierno de la información o un equipo de administración de registros, también pueden tener valiosas aportaciones. A medida que el marco se va implantando en la empresa, el departamento de comunicaciones también tiene un rol clave que desempeñar para la mensajería interna y la adopción.
 - **Equilibrar la seguridad frente** a la comodidad: un error común es redactar un marco de clasificación de datos seguro pero excesivamente restrictivo. Este marco puede haber sido diseñado pensando en la seguridad, pero a menudo es difícil de implementar en la práctica. Si los usuarios necesitan seguir procedimientos complejos, rígidos y que requieren mucho tiempo para aplicar el marco en su vida diaria, siempre existe el riesgo de que ya no crean en su valor y que, finalmente, dejarán de seguir los procedimientos. Este riesgo existe en todos los niveles de la organización, incluidos los administradores de nivel ejecutivo (conjunto de C) dentro de la organización. Un buen equilibrio entre la seguridad y la comodidad junto con las herramientas fáciles de usar suelen llevar a una adopción y un uso más amplios de los usuarios. Si hay vacíos en el marco, no espere hasta que todo sea perfecto para iniciar la implementación. En su lugar, evalúe el riesgo o la diferencia, cree un plan para mitigar y continúe avanzando. Recuerde que la protección de la información es un viaje, no es algo que se activa durante la noche y luego se realiza. Planee, implemente algunas funcionalidades, confirme el éxito e in iteración hasta el siguiente hito a medida que las herramientas evolucionan y los usuarios adquieren madurez y experiencia.
 
 También tenga en cuenta que un marco de clasificación de datos solo aborda *lo* que su organización debe hacer para proteger los datos confidenciales. Los marcos de clasificación de datos suelen ir acompañados de reglas o directrices de tratamiento de datos que *definen* cómo establecer estas directivas desde una perspectiva técnica y tecnológica. En las secciones siguientes, nos ocupamos de algunas instrucciones prácticas sobre cómo llevar el marco de clasificación de datos de un documento de directiva a una iniciativa totalmente implementada y que se puede llevar a cabo.
@@ -87,7 +87,7 @@ Por ejemplo, es posible que las empresas de servicios financieros deban consider
 
 Las agencias gubernamentales se enfrentan a diversas normativas que rigen sus datos, que varían según el territorio y la naturaleza de su trabajo. En los Estados Unidos, por ejemplo, las agencias gubernamentales y sus agentes que tienen acceso a información fiscal federal (FTI) están sujetos al [IRS 1075](/microsoft-365/compliance/offering-irs-1075), que tiene como objetivo minimizar el riesgo de pérdida, infracción o uso incorrecto de información fiscal federal.
 
-Aunque las empresas de servicios financieros y las agencias gubernamentales se encuentran entre las organizaciones más reguladas del mundo, la mayoría de las empresas tienen consideraciones específicas del sector que deben tenerse en cuenta. Algunos ejemplos son:
+Aunque las empresas de servicios financieros y las agencias gubernamentales se encuentran entre las organizaciones más reguladas del mundo, la mayoría de las empresas tienen consideraciones específicas del sector que deben tenerse en cuenta. Algunos ejemplos incluyen:
 
 - Organizaciones del sector de [la salud que garantizan el cumplimiento de hipaa.](/microsoft-365/compliance/offering-hipaa-hitech)
 - Instituciones educativas, desde escuelas K-12 hasta universidades, administrando el [cumplimiento de FERPA.](/microsoft-365/compliance/offering-ferpa)
@@ -116,4 +116,4 @@ Para obtener más información sobre la implementación, vea [Understand data cl
 
 ## <a name="references"></a>Referencias
 
-- [Oferta de cumplimiento de Microsoft](/microsoft-365/compliance/offering-home)
+- [Ofertas de cumplimiento de Microsoft](/microsoft-365/compliance/offering-home)

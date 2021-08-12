@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 28ffe8113d76d74b9cb5e81034535930f158d4ef
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d4bee24b66b565e1068d5aacd6c6c7833e230fd703186884bc53d5e378ecf44d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287179"
 ---
 # <a name="enterprise-business-continuity-management-legal-disclaimer"></a>Declinación de responsabilidades de la administración de continuidad empresarial de Enterprise
 
@@ -30,7 +30,7 @@ ms.locfileid: "51497571"
 
 LEA ESTO! ESTE ES UN ACUERDO LEGAL ENTRE MICROSOFT CORPORATION ("MICROSOFT") Y EL DESTINATARIO DE ESTE MATERIAL, YA SEA UNA PERSONA FÍSICA, UNA EMPRESA U OTRA ENTIDAD ("USTED"). AL HACER CLIC EN "ACEPTO", DESCARGAR O USAR EL MATERIAL, USTED ACEPTA ESTOS TÉRMINOS. SI ESTE CONTRATO ESTÁ ADJUNTO AL MATERIAL, AL ACCEDER O UTILIZAR EL MATERIAL ADJUNTO, USTED ACEPTA ESTOS TÉRMINOS.
 
-1. Para una consideración buena y valiosa, cuya recepción y suficiencia se reconocen, usted y Microsoft acuerdan lo siguiente: (a) Si es un representante autorizado de una corporación u otra entidad ("Compañía"), y dicha Compañía ha ejecutado un Contrato de no divulgación de Microsoft Corporation que no se limita a un asunto o evento específico ("Microsoft NDA"), usted declara que tiene autoridad para actuar en nombre de la Compañía y acepta que la información confidencial , tal como se define en la NDA de Microsoft, está sujeto a los términos y condiciones de la NDA de Microsoft y esa Compañía tratará la información confidencial en consecuencia; (b) Si es un individuo y ha ejecutado una NDA de Microsoft, acepta que la información confidencial, tal como se define en la NDA de Microsoft, está sujeta a los términos y condiciones de la NDA de Microsoft y que tratará la información confidencial en consecuencia; o (c) Si no se ha ejecutado una NDA de Microsoft, Usted (si es un individuo) o la Compañía (si es un representante autorizado de la Compañía), según corresponda, acepta: 
+1. Para una consideración buena y valiosa, cuya recepción y suficiencia se reconocen, usted y Microsoft acuerdan lo siguiente: (a) Si es un representante autorizado de una corporación u otra entidad ("Compañía"), y dicha Compañía ha ejecutado un Contrato de no divulgación de Microsoft Corporation que no se limita a un asunto o evento específico ("Microsoft NDA"),  usted declara que tiene autoridad para actuar en nombre de la Compañía y acepta que la información confidencial, tal como se define en la NDA de Microsoft, está sujeta a los términos y condiciones de la NDA de Microsoft y que la Compañía tratará la información confidencial en consecuencia; (b) Si es un individuo y ha ejecutado una NDA de Microsoft, acepta que la información confidencial, tal como se define en la NDA de Microsoft, está sujeta a los términos y condiciones de la NDA de Microsoft y que tratará la información confidencial en consecuencia; o (c) Si no se ha ejecutado una NDA de Microsoft, Usted (si es un individuo) o la Compañía (si es un representante autorizado de la Compañía), según corresponda, acepta: 
     - (a) abstenerse de divulgar o distribuir la información confidencial a terceros durante cinco (5) años a partir de la fecha de divulgación de la información confidencial por Parte de Microsoft a la empresa o usted; 
     - (b) abstenerse de reproducir o resumir la información confidencial; y 
     - (c) para tomar precauciones de seguridad razonables, al menos tan grandes como las precauciones que se necesitan para proteger su propia información confidencial, pero no menos que un cuidado razonable, para mantener confidencial la información confidencial. Sin embargo, usted/empresa puede revelar información confidencial de acuerdo con una orden judicial u otra orden gubernamental, siempre que usted o la compañía 

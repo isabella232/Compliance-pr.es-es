@@ -20,24 +20,24 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 04ca3dde35ded2f0f4117d91ccc8ae0fa6a9aa9b
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: cdc3b00123a1bb3fe862260b32ae08bf876dad552827af6878a9c65f4b33b75c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290503"
 ---
 # <a name="risk-management-overview"></a>Información general sobre administración de riesgos
 
 ## <a name="how-does-microsoft-assess-and-manage-risk-across-the-enterprise"></a>¿Cómo evalúa y administra Microsoft los riesgos en toda la empresa?
 
-La administración de riesgos es el proceso de identificación, evaluación y respuesta al riesgo. La administración de riesgos en Microsoft está diseñada para anticiparse a las nuevas amenazas y proporcionar seguridad continua a nuestros sistemas en la nube y a los clientes que las usan.
+La administración de riesgos es el proceso de identificar, evaluar y responder al riesgo. La administración de riesgos de Microsoft está diseñada para prever nuevas amenazas y proporcionar seguridad continua para nuestros sistemas en la nube y los clientes que los usan.
 
-Las actividades de administración de riesgos de Microsoft se rigen por el Enterprise de administración de riesgos (ERM). ERM permite el proceso general de administración de riesgos empresariales y trabaja con la administración en toda la empresa para identificar y garantizar la responsabilidad de los riesgos más importantes de Microsoft. Se centra en anticipar, evaluar e informar sobre los riesgos para informar de la estrategia empresarial de Microsoft e impulsar la mitigación de riesgos y la responsabilidad.
+Las actividades de administración de riesgos de Microsoft se rigen por el programa Administración de riesgos empresariales (ERM). ERM permite el proceso general de administración de riesgos empresariales y trabaja con la administración en toda la empresa para identificar y garantizar la responsabilidad de los riesgos más importantes de Microsoft. Se centra en anticipar, evaluar y notificar riesgos para informar a la estrategia empresarial de Microsoft e impulsar la mitigación de riesgos y la responsabilidad.
 
 ![Estructura de administración de riesgos](../media/assurance-risk-management-structure.png)
 
-Microsoft ERM coordina las actividades de administración de riesgos en toda la empresa para permitir que las unidades de negocio faciliten de forma independiente evaluaciones de riesgos coherentes y comparativas. Esta coordinación ofrece a Microsoft la capacidad de agregar e informar de la información de riesgos de forma consolidada para la administración. ERM proporciona a las unidades de negocio de Microsoft metodologías, herramientas y objetivos comunes para el proceso de administración de riesgos. Microsoft 365 y otros grupos de ingeniería y unidades de negocio usan estas herramientas para realizar evaluaciones de riesgos individuales como parte de sus propios programas de administración de riesgos bajo la guía de ERM.
+Microsoft ERM coordina las actividades de administración de riesgos en toda la empresa para permitir que las unidades de negocio faciliten de forma independiente evaluaciones de riesgos coherentes y comparativas. Esta coordinación ofrece a Microsoft la capacidad de agregar e informar de la información de riesgos de forma consolidada para la administración. ERM proporciona unidades de negocio en Microsoft con metodologías, herramientas y objetivos comunes para el proceso de administración de riesgos. Microsoft 365 y otros grupos de ingeniería y unidades de negocio usan estas herramientas para realizar evaluaciones de riesgos individuales como parte de sus propios programas de administración de riesgos bajo la guía de ERM.
 
 ## <a name="how-does-microsoft-365-work-with-erm"></a>¿Cómo Microsoft 365 funciona con ERM?
 
@@ -47,9 +47,9 @@ Como parte de las actividades de evaluación de riesgos, el programa de administ
 
 ## <a name="how-does-microsoft-365-manage-and-assess-risk-in-its-online-services"></a>¿Cómo Microsoft 365 y evalúa el riesgo en sus servicios en línea?
 
-Como parte de las actividades de evaluación de riesgos en curso, el programa de administración de riesgos de Microsoft 365 realiza entrevistas con los equipos de servicio que diseñan, crean y operan servicios Microsoft 365 para identificar los riesgos y áreas de preocupación actuales. Estas actividades, junto con el análisis de datos de supervisión continua, auditorías y otros orígenes, se usan para desarrollar informes de evaluación de riesgos que identifiquen los riesgos actuales y posibles futuros para los objetivos empresariales a largo plazo. Los informes de evaluación de riesgos proporcionan una visión general de alto nivel de la posición de riesgo de Microsoft 365 basándose en nuestros resultados y comentarios de Microsoft 365 de servicio. Junto con informes similares de otras unidades de negocio, los Microsoft 365 de evaluación de riesgos contribuyen e informan a las evaluaciones de riesgos del programa ERM.
+Como parte de las actividades de evaluación de riesgos en curso, el programa de administración de riesgos de Microsoft 365 realiza entrevistas con los equipos de servicio que diseñan, crean y operan servicios Microsoft 365 para identificar los riesgos y áreas de preocupación actuales. Estas actividades, junto con el análisis de datos de supervisión continua, auditorías y otros orígenes, se usan para desarrollar informes de evaluación de riesgos que identifiquen los riesgos actuales y posibles futuros para los objetivos empresariales a largo plazo. Los informes de evaluación de riesgos proporcionan una visión general de alto nivel de la posición de riesgo de Microsoft 365 basándose en nuestros resultados y comentarios de Microsoft 365 de servicio. Junto con informes similares de otras unidades de negocio, los informes de evaluación de riesgos de Microsoft 365 contribuyen a las evaluaciones de riesgos de los programas de ERM y las fundamentan.
 
-Microsoft 365 Trust es un grupo responsable de admitir operaciones de garantía relacionadas con el cumplimiento de directivas, los requisitos de seguridad y la administración de riesgos. Microsoft 365 La confianza funciona para identificar nuevos riesgos a medida que surgen y supervisar los riesgos conocidos y las respuestas de riesgos. Los comentarios de Microsoft 365 de servicio y los datos de supervisión continua de Microsoft 365 entornos informan de este proceso. Se realiza un seguimiento del éxito y el fracaso de las respuestas de riesgo para desarrollar e informar sobre las probabilidades de riesgo y los impactos. Las reuniones periódicas de revisión de riesgos con propietarios de riesgos permiten a Microsoft 365 Trust actualizar y administrar las respuestas de riesgos.
+Microsoft 365 Trust es un grupo responsable de admitir operaciones de garantía relacionadas con el cumplimiento de directivas, los requisitos de seguridad y la administración de riesgos. Microsoft 365 Trust trabaja para identificar nuevos riesgos a medida que surgen y supervisar los riesgos conocidos y las respuestas a los mismos. Los comentarios de Microsoft 365 de servicio y los datos de supervisión continua de Microsoft 365 entornos informan de este proceso. Se realiza un seguimiento del éxito y el fracaso de las respuestas de riesgo para desarrollar e informar del análisis de las probabilidades e impactos del riesgo. Las reuniones periódicas de revisión de riesgos con propietarios de riesgos permiten a Microsoft 365 Trust actualizar y administrar las respuestas de riesgos.
 
 ## <a name="related-external-regulations--certifications"></a>Normativas externas relacionadas & certificaciones
 

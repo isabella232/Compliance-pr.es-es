@@ -20,26 +20,26 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: bf17ec68648efbc5f149bad0671a4e035d27a307
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 953255f96acbc22349d9f00a83edff7d65106ec6360b42930fe5985fcb4df3f5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291068"
 ---
 # <a name="governance-overview"></a>Información general sobre el gobierno
 
 ## <a name="how-does-microsoft-provide-effective-security-governance-across-the-enterprise"></a>¿Cómo proporciona Microsoft un gobierno de seguridad eficaz en toda la empresa?
 
-Microsoft entiende que las directivas de seguridad eficaces deben implementarse de forma coherente en toda la empresa para proteger los clientes y los sistemas de información de Microsoft. Las directivas de seguridad también deben tener en cuenta las variaciones en las funciones empresariales y los sistemas de información para que sean universalmente aplicables. Para cumplir estos requisitos, Microsoft implementa un programa de gobierno de seguridad integral como parte de Microsoft Policy Framework. El gobierno de seguridad se enmarca en la Directiva de seguridad de Microsoft (MSP).
+Microsoft entiende que las directivas de seguridad eficaces deben implementarse de forma coherente en toda la empresa para proteger los clientes y los sistemas de información de Microsoft. Las directivas de seguridad también deben tener en cuenta las variaciones en las funciones empresariales y los sistemas de información para que sean aplicables universalmente. Para cumplir estos requisitos, Microsoft implementa un programa de gobierno de seguridad integral como parte de Microsoft Policy Framework. La gobernanza de la seguridad forma parte de la Directiva de seguridad de Microsoft (MSP).
 
-El MSP organiza las directivas de seguridad, estándares y requisitos de Microsoft para que se puedan implementar en todos los grupos de ingeniería y unidades de negocio de Microsoft. Las unidades de negocio individuales son responsables de implementaciones específicas de las directivas de seguridad de Microsoft. Por ejemplo, Microsoft 365 documenta sus implementaciones de seguridad en la directiva de seguridad de Microsoft 365 información y en el marco de control Microsoft 365 información relacionada. Azure y Dynamics 365 documentan sus implementaciones de seguridad en los Procedimientos operativos estándar (SOP) y Azure Control Framework. Estas implementaciones de seguridad se alinean con los objetivos y objetivos del MSP.
+La MSP organiza las directivas de seguridad, los estándares y los requisitos de Microsoft para que puedan implementarse en todos los grupos de ingeniería y unidades de negocios de Microsoft. Las unidades de negocios individuales son responsables de las implementaciones específicas de las Directivas de seguridad de Microsoft. Por ejemplo, Microsoft 365 documenta sus implementaciones de seguridad en la directiva de seguridad de Microsoft 365 información y en el marco de control Microsoft 365 información relacionada. Azure y Dynamics 365 documentan sus implementaciones de seguridad en los Procedimientos operativos estándar (SOP) y Azure Control Framework. Estas implementaciones de seguridad se alinean con los objetivos y objetivos del MSP.
 
 El programa de gobierno de seguridad de Microsoft está informado y se alinea con varios marcos normativos y de cumplimiento. Los requisitos de seguridad están en constante evolución para tener en cuenta las nuevas tecnologías, los requisitos normativos y de cumplimiento y las amenazas de seguridad. Debido a estos cambios, Microsoft actualiza periódicamente nuestras directivas de seguridad y documentos de soporte para proteger los sistemas y clientes de Microsoft, cumplir nuestros compromisos y mantener la confianza del cliente.
 
 ## <a name="how-do-microsoft-online-services-implement-the-microsoft-security-policy-msp"></a>¿Cómo implementan los servicios en línea de Microsoft la Directiva de seguridad de Microsoft (MSP)?
 
-Microsoft 365 documenta las implementaciones de seguridad en la Microsoft 365 de seguridad de la información. Esta directiva se alinea con la Directiva de seguridad de Microsoft y rige el sistema de información de Microsoft 365, incluidos todos los entornos de Microsoft 365 y todos los recursos implicados en la recopilación, procesamiento, mantenimiento, uso, uso, uso compartido, difusión y eliminación de datos. Del mismo modo, Azure y Dynamics 365 usan la directiva de seguridad de Microsoft para regular su sistema de información.
+Microsoft 365 documenta las implementaciones de seguridad en la Microsoft 365 de seguridad de la información. Esta directiva se alinea con la directiva de seguridad de Microsoft y rige el sistema de información de Microsoft 365, incluidos todos los entornos de Microsoft 365 y todos los recursos implicados en la recopilación, el procesamiento, el mantenimiento, el uso, el uso compartido, la difusión y la eliminación de datos. Del mismo modo, Azure y Dynamics 365 usan la directiva de seguridad de Microsoft para regular su sistema de información.
 
 Los sistemas de información incluyen los siguientes componentes regido por la directiva de seguridad de la información de Microsoft 365 (para Microsoft 365) y la directiva de seguridad de Microsoft (para Azure y Dynamics 365):
 
@@ -49,11 +49,11 @@ Los sistemas de información incluyen los siguientes componentes regido por la d
 - Procedimientos: los procedimientos programados y manuales implicados en el funcionamiento de azure, Dynamics 365 y Microsoft 365 sistemas
 - Datos: la información generada, recopilada y procesada por los sistemas azure, Dynamics 365 y Microsoft 365 (secuencias de transacciones, archivos, bases de datos y tablas)
 
-La Microsoft 365 de seguridad de la información se complementa con el marco Microsoft 365 control. El Microsoft 365 Control Framework detalla los requisitos mínimos de seguridad para todos los Microsoft 365 y componentes del sistema de información. También hace referencia a los requisitos legales y corporativos detrás de cada control. El marco incluye nombres de actividad de control, descripciones y instrucciones para garantizar implementaciones de control eficaces por parte de los equipos de servicio. Microsoft 365 el marco de control para realizar un seguimiento de las implementaciones de control para los informes internos y externos. Del mismo modo, las implementaciones de control de registros de Azure y Dynamics 365 en Azure Control Framework.
+La directiva de seguridad de la información de Microsoft 365 se complementa con el marco de control de Microsoft 365. El Microsoft 365 Control Framework detalla los requisitos mínimos de seguridad para todos los Microsoft 365 y componentes del sistema de información. También hace referencia a los requisitos legales y corporativos detrás de cada control. El marco incluye nombres de actividades de control, descripciones y orientaciones para garantizar la aplicación eficaz de los controles por parte de los equipos de servicio. Microsoft 365 el marco de control para realizar un seguimiento de las implementaciones de control para los informes internos y externos. Del mismo modo, las implementaciones de control de registros de Azure y Dynamics 365 en Azure Control Framework.
 
 ## <a name="how-do-online-services-limit-and-track-exceptions-to-established-policies-and-procedures"></a>¿Cómo limitan y rastrean los servicios en línea las excepciones a las directivas y procedimientos establecidos?
 
-Todas las excepciones a los marcos de control deben tener una justificación empresarial legítima y ser aprobadas por una entidad de gobierno adecuada dentro de cada equipo de servicios en línea. Según el ámbito de la excepción y el riesgo potencial que representa, es posible que sea necesario obtener la aprobación de excepciones de un vicepresidente corporativo o superior. Las excepciones se administran en una herramienta de seguimiento en la que se revisan y se aprueban para una relevancia continua.
+Todas las excepciones a los marcos de control deben tener una justificación empresarial legítima y ser aprobadas por una entidad de gobierno adecuada dentro de cada equipo de servicios en línea. Dependiendo del alcance de la excepción y del riesgo potencial que represente, puede ser necesario obtener la aprobación de las excepciones por parte de un vicepresidente corporativo o superior. Las excepciones se administran en una herramienta de seguimiento en la que se revisan y se aprueban para una relevancia continua.
 
 ## <a name="how-do-online-services-keep-security-and-compliance-requirements-updated"></a>¿Cómo actualizan los servicios en línea los requisitos de seguridad y cumplimiento?
 

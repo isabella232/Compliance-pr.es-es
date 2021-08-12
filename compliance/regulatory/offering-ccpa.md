@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2d06aefc89312dece2ecbe81aa6c0a9f10500369
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 75f814c49395e5b945d0b9092b1158fad3376ce684ea3a8fb43115d51fe6bba5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288259"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>Ley de privacidad del consumidor de California (CCPA)
 
@@ -41,7 +41,7 @@ Para los clientes comerciales que hacen negocios en California, Microsoft actuar
 
 Como se establece en la OST, Microsoft cumple con todas las leyes y reglamentos aplicables a su provisión de los Servicios en línea, que incluirían el CCPA.  
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Azure DevOps
@@ -60,7 +60,7 @@ Estos son algunos pasos que puede seguir para prepararse para el CCPA:
 - Configure etiquetas y directivas para detectar, clasificar, etiquetar y proteger los datos confidenciales con Microsoft Information Protection.
 - Use las capacidades de cifrado de correo electrónico para controlar aún más la información confidencial.
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Cómo afectará la CCPA a mi empresa?**
 

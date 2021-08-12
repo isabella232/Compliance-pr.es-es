@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ef436314bc6b9d49bea046b66cbfa44905943001e5c91dff2441dcd9fab55768
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290058"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002 (SOX) (Ley Sarbanes-Oxley de 2002, SOX)
 
@@ -41,13 +41,13 @@ El informe de auditoría, producido por una firma de auditoría de terceros, ate
 
 En Microsoft, compartimos la responsabilidad del cumplimiento con nuestros clientes. Proporcionamos los detalles sobre nuestros programas de cumplimiento, que puede comprobar solicitando resultados de auditoría detallados de terceros certificadores. Sin embargo, en última instancia, le corresponde determinar si nuestros servicios cumplen con las leyes y normativas específicas aplicables a su empresa. Por ejemplo, hay controles de seguridad relacionados con SOX, como el acceso de usuarios a recursos en la nube, que son su responsabilidad: su organización debe desarrollar la auditoría adecuada de estos controles como parte del cumplimiento de sox.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
-- Power BI servicio en la nube (ya sea como un servicio independiente o como se incluye en un plan o conjunto de aplicaciones de Office 365 de marca)
+- El servicio de nube de Power BI (como servicio independiente o incluido en un plan o conjunto de aplicaciones de Office 365)
 
 ## <a name="azure-dynamics-365-and-sox"></a>Azure, Dynamics 365 y SOX
 
@@ -55,15 +55,15 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 
 ## <a name="office-365-and-sox"></a>Office 365 y SOX
 
-### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios en el ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **Office 365** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Ideas, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive para la Empresa, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype Empresarial, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
 
@@ -75,7 +75,7 @@ Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 
 - Dynamics 365
 - Office 365
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Cómo puedo usar el cumplimiento de Microsoft SOX para facilitar el proceso de cumplimiento de mi organización?**
 
@@ -84,6 +84,6 @@ Al migrar las aplicaciones y los datos a los servicios en la nube de Microsoft c
 ### <a name="resources"></a>Recursos
 
 - [Programa de cumplimiento de servicios financieros de Microsoft](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Servicios en la nube de Microsoft para empresas y servicios financieros](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
+- [Servicios financieros y servicios empresariales en la nube de Microsoft](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Responsabilidades compartidas para la informática en la nube](https://aka.ms/sharedresponsibility)
 - [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

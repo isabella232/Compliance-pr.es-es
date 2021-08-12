@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 21408643bcdb3effc0a8630d3f4da54a42281f44
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 8909d2c3029050a18f3f37862f7dd342696b1fc0f92c5e8bb03aa190f03f2c25
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290563"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programa de administración de riesgos
 
@@ -59,17 +59,17 @@ Estas métricas se usan para calcular una puntuación de riesgo que representa l
 
 ## <a name="response"></a>Respuesta
 
-Al usar la lista verificada de riesgos para Microsoft 365, el equipo de confianza asigna riesgos al servicio afectado para la respuesta de riesgos. Las directrices definidas ayudan a determinar la estrategia de respuesta de riesgo adecuada en función de la puntuación de riesgo y la eficacia del control. Las estrategias de respuesta a riesgos se encuadrán en cuatro categorías:
+Al usar la lista verificada de riesgos para Microsoft 365, el equipo de confianza asigna riesgos al servicio afectado para la respuesta de riesgos. Las directrices definidas ayudan a determinar la estrategia de respuesta de riesgo adecuada en función de la puntuación de riesgo y la eficacia del control. Las estrategias de respuesta a los riesgos se dividen en cuatro categorías:
 
-- Tolerar: áreas de exposición de bajo riesgo con un bajo nivel de control.
+- Permitir: áreas de exposición de bajo riesgo con un nivel de control bajo.
 - Operar: áreas de exposición de bajo riesgo en las que los controles se consideran adecuados.
-- Monitor: áreas de exposición de alto riesgo en las que los controles se consideran adecuados y deben supervisarse para obtener eficacia.
+- Supervisar: áreas de exposición de alto riesgo en las que los controles se consideran adecuados y deben supervisarse para comprobar su eficacia.
 - Mejorar: áreas de exposición de alto riesgo con un bajo nivel de control que son las prioridades principales en el abordamiento.
 
 El equipo de confianza se coordina con los equipos de servicio para desarrollar planes para abordar cada riesgo. El nivel de gravedad determina el nivel adecuado de revisión y aprobación para cada plan. Para los riesgos que requieren acción, los procesos de error de ingeniería existentes se usan para realizar un seguimiento, administrar y tomar decisiones de excepción. El uso de un proceso familiar para los equipos de ingeniería y operación hace que la respuesta a riesgos sea más eficaz y eficaz.
 
 ## <a name="monitoring-and-reporting"></a>Supervisión e informes
 
-Los riesgos identificados como parte de la evaluación de riesgos se supervisan e notifican a las partes interesadas relevantes. Las estrategias de supervisión incluyen supervisión de seguridad, revisiones periódicas de riesgos, pruebas de penetración y análisis de vulnerabilidades. Estos esfuerzos de supervisión actúan como orígenes de datos para informar sobre indicadores clave de rendimiento, crear paneles y desarrollar informes formales, todos los cuales informan sobre decisiones de riesgo futuras.
+Los riesgos identificados como parte de la evaluación de riesgos se supervisan y se notifican a las partes interesadas pertinentes. Las estrategias de supervisión incluyen supervisión de seguridad, revisiones periódicas de riesgos, pruebas de penetración y análisis de vulnerabilidades. Estos esfuerzos de supervisión actúan como orígenes de datos para informar sobre indicadores clave de rendimiento, crear paneles y desarrollar informes formales, todos los cuales informan sobre decisiones de riesgo futuras.
 
 Varias veces al año, el equipo de confianza se reúne con los propietarios de riesgos de cada servicio para revisar las puntuaciones de riesgo, evaluar la eficacia de sus planes de acción y realizar actualizaciones cuando sea necesario. Además, las actividades de evaluación de riesgos de Microsoft 365 contribuyen a las evaluaciones de riesgos de Enterprise del programa ERM, que proporcionan una visión general de alto nivel de la posición de riesgo de Microsoft para la administración senior de Microsoft y el programa ERM.

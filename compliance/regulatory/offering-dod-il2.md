@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 77e8cb50f815c167e50293d495b4a548a73d022e
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 0c44d77772eef6321d716aa87f34d0472401fb30092dde324120e2d9d82a1a3d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288229"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>Nivel de impacto del Departamento de Defensa (DoD) 2 (IL2)
 
@@ -35,7 +35,7 @@ El 15 de diciembre de [2014,](https://www.esi.mil/contentview.aspx?id=585) el me
 
 La sección [5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) doD de SRG de los controles de seguridad *de FedRAMP* indica que la información de IL2 puede hospedarse en un CSP que tenga como mínimo un PA moderado de FedRAMP y un PA de nivel 2 doD, sujeto al cumplimiento de los requisitos de seguridad del personal descritos en la sección 5.6.2. Sin embargo, este enfoque no ayuda al CSP a cumplir otros requisitos de seguridad e integración según lo requiera el propietario de la misión. De acuerdo con la sección [5.2.2.1 de la sección 5.2.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) de los requisitos de ubicación y separación de SRG, DoD IL2 PA está adecuadamente cubierto por un FedRAMP Moderate PA de modo que los requisitos no se evaluarán adicionalmente para un PA IL2.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas en la nube de ámbito de Microsoft & servicios
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure
 - Dynamics 365
@@ -45,7 +45,7 @@ La sección [5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.
 - Microsoft Intune
 - Microsoft Stream
 - Office 365 U.S. Government, Office 365 U.S. Government - High
-- PowerApps
+- Power Apps
 - Power Automate
 - Power BI
 
@@ -55,15 +55,15 @@ Para obtener más información acerca del cumplimiento de Azure, Dynamics 365 y 
 
 ## <a name="office-365-and-dod-il2"></a>Office 365 y DoD IL2
 
-### <a name="office-365-cloud-environments"></a>Office 365 entornos de nube
+### <a name="office-365-cloud-environments"></a>Entornos en la nube de Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidad y servicios en el ámbito
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidad y servicios dentro Office 365
 
-Use la tabla siguiente para determinar la aplicabilidad de los servicios Office 365 y suscripción:
+Use la siguiente tabla para determinar la aplicabilidad de los servicios y la suscripción de Office 365:
 
-| **Aplicabilidad** | **Servicios en el ámbito** |
+| **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
 | **GCC** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 | **GCC High** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
