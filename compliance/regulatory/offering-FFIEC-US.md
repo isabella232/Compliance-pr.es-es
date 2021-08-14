@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4da808976b7c9afd040417a0fe4025888f07a34bc43c03cb151410244bb437df
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 1830d0d61fe0787d7f8e8034af2e4ca64bdb0bc8
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287579"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261028"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Consejo de examen de instituciones financieras federales (FFIEC)
 
@@ -62,14 +62,14 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Administrador de cumplimiento, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Bookings, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Office 365 Cloud App Security, Grupos de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Comercial** | Azure Active Directory, Azure Information Protection, Bookings, Administrador de cumplimiento, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Bookings, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Office 365 Cloud App Security, Grupos de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
 | **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Auditorías, informes y certificados de Office 365
 
 Vea los Office 365 de atestación SOC.
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Puedo usar el cumplimiento de Microsoft con los estándares SOC para cumplir las obligaciones de cumplimiento de FFIEC para mi institución?**
 

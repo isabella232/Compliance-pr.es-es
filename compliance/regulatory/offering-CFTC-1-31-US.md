@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 903f4d3db8965fdcd8c96a8d474e5180430b4966e4adc6945315f283ddbc0d3f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bc2577e8841798543881b0431c130d1d9cc487af
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292587"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260622"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>Regla 1.31(c-d) de la Comisión de Negociación de Futuros de Materias Primas (CFTC) Estados Unidos
 
@@ -52,9 +52,8 @@ Para los requisitos [cftc 1.31(c)-(d),](/microsoft-365/compliance/retention-regu
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
-[Regla 1.31 de CFTC de Azure &: SEC 17a-4(f) & CFTC 1.31(c-d) Evaluación del cumplimiento de Azure Storage
-
-[Office 365 & regla 1.31 de CFTC: archivado en Office 365, retención de datos y cumplimiento de la regla 17a-4 de la SEC
+- [Regla 1.31 de CFTC de Azure &: SEC 17a-4(f) & CFTC 1.31(c-d) Evaluación del cumplimiento de Azure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
+- Office 365 & cftc regla 1.31: archivado en Office 365, retención de datos y cumplimiento de la regla 17a-4 de la SEC
 
 ## <a name="how-to-implement"></a>Cómo se debe implementar
 

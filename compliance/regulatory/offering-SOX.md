@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ef436314bc6b9d49bea046b66cbfa44905943001e5c91dff2441dcd9fab55768
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 6fb3ec963487169e01c9a69eca3b76f9f21a46cf
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290058"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260438"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002 (SOX) (Ley Sarbanes-Oxley de 2002, SOX)
 
@@ -65,7 +65,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Ideas, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive para la Empresa, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype Empresarial, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
+| **Comercial** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Ideas, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive para la Empresa, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype Empresarial, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
 
 ### <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
@@ -75,7 +75,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 - Dynamics 365
 - Office 365
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Cómo puedo usar el cumplimiento de Microsoft SOX para facilitar el proceso de cumplimiento de mi organización?**
 

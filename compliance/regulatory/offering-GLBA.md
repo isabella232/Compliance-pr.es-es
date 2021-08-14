@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3765100048d7f17afc27781775487574c6f5219d72e246c4670ccbe91f91f307
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 7d4e4066704e15354113709e480455db2c1c48a1
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293503"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259809"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>Ley Gramm-Leach-Bliley (GLBA)
 
@@ -64,10 +64,10 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Administrador de cumplimiento, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Bookings, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Office 365 Cloud App Security, Grupos de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Comercial** | Azure Active Directory, Azure Information Protection, Bookings, Administrador de cumplimiento, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Bookings, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Office 365 Cloud App Security, Grupos de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
 | **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Formularios, Microsoft Defender para Office 365 Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de cumplimiento de & de seguridad de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online ,Skype Empresarial, Stream |
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Cómo sé si mi entidad financiera debe cumplir con la Ley GLB?**
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 405a752b9a6d8e1bdb5d7d5c0ad937aba634806033ea87a36c92629bf458bf3a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ff74580117a3ff1883b35331f2c9bed076d17bb8
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292507"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261011"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>Autoridad de Supervisión del Mercado Financiero (FINMA) de Suiza
 
@@ -33,7 +33,7 @@ Las FINMA publicó la [Circular 2018/3 Subcontratación: bancos y aseguradoras](
 
 ## <a name="microsoft-and-finma"></a>Microsoft y la FINMA
 
-Para guiar a las instituciones financieras en Suiza que consideren la subcontratación de funciones empresariales en la nube, Microsoft ha publicado [Una lista de comprobación de cumplimiento para las instituciones financieras en Suiza](https://aka.ms/FinServ-Guide-Switzerland). Al revisar y completar la lista de comprobación, las organizaciones financieras pueden adoptar los servicios empresariales en la nube de Microsoft con la seguridad de que cumplen los requisitos normativos aplicables.
+Para guiar a las instituciones financieras en Suiza que consideren la subcontratación de funciones empresariales en la nube, Microsoft ha publicado [Una lista de comprobación de cumplimiento para las instituciones financieras en Suiza](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides). Al revisar y completar la lista de comprobación, las organizaciones financieras pueden adoptar los servicios empresariales en la nube de Microsoft con la seguridad de que cumplen los requisitos normativos aplicables.
 
 Cuando las instituciones financieras suizas subcontraten actividades empresariales, deben cumplir los requisitos de la Autoridad Suiza de Supervisión del Mercado Financiero (FINMA) y ser conscientes de los requisitos y directrices adicionales que incluyen la Ley del Banco Suizo, el Reglamento del Banco Suizo y la Ley Suiza de Supervisión de Seguros.
 
@@ -50,7 +50,7 @@ La lista de comprobación de Microsoft ayuda a las empresas financieras suizas a
 
 ## <a name="how-to-implement"></a>Cómo se debe implementar
 
-- [Lista de comprobación de cumplimiento: Suiza](https://aka.ms/FinServ-Guide-Switzerland): Las instituciones financieras pueden obtener ayuda para llevar a cabo evaluaciones de riesgos de servicios en la nube de Microsoft.
+- [Lista de comprobación de cumplimiento: Suiza](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides): Las instituciones financieras pueden obtener ayuda para llevar a cabo evaluaciones de riesgos de servicios en la nube de Microsoft.
 - [Guía de cumplimiento y evaluación de riesgos](https://aka.ms/RiskGovernanceGuide): Cree un modelo de gobierno para la evaluación de riesgos de los servicios en la nube de Microsoft y las notificaciones reglamentarias.
 - [Casos de uso financiero](/azure/industry/financial/): información general de casos de uso, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros.
 

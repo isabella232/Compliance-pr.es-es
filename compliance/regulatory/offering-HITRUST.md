@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 763f2f9d342692ea3cbed237b76fea841bd686487b61b22aad43ade42fec765f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e910593e80c49acf7f1e94c9ade74fb51f225912
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288688"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260704"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Marco común de seguridad (CSF) de Health Information Trust Alliance (HITRUST)
 
@@ -64,7 +64,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
+| **Comercial** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Auditorías, informes y certificados de Office 365
 
@@ -72,7 +72,7 @@ La certificación HITRUST CSF de Office 365 es válida durante dos años.
 
 - [Office 365 Carta de certificación hitrust](https://aka.ms/O365HITRUSTcertification)
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Por qué algunos Office 365 servicios no están en el ámbito de esta certificación?**
 

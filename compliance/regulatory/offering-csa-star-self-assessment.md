@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7550d81794162ace15441360a3175c0efcf03ddaf1fb94ccc27e683b8077a110
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 2e3864912d214e6649425c9434e346a01d20c87e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288219"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260516"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>Autoevaluación de la nube Security Alliance (CSA)
 
@@ -66,7 +66,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** |Exchange Online, Exchange Online Protection, Portal del cliente de Office 365, Office Online, Infraestructura de Servicios de Office, OneDrive para la Empresa, SharePoint Online, Skype Empresarial |
+| **Comercial** |Exchange Online, Exchange Online Protection, Portal del cliente de Office 365, Office Online, Infraestructura de Servicios de Office, OneDrive para la Empresa, SharePoint Online, Skype Empresarial |
 
 ### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 

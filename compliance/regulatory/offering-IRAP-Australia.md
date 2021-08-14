@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293867"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260315"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Programa de evaluadores registrados de seguridad de la información del gobierno australiano (IRAP)
 
@@ -81,9 +81,9 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, OneDrive para la Empresa, Planner, SharePoint Online, Skype Empresarial, Whiteboard, Yammer |
+| **Comercial** | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, OneDrive para la Empresa, Planner, SharePoint Online, Skype Empresarial, Whiteboard, Yammer |
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿A quién se aplica el IRAP?**
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df9b502dcad818199de63de3585c902b0c60d2c0a13c0b582e64aa4fa93ced7b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c809ebd43b66d51939a31b283e212b55d20f833a
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293837"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260325"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Ley de portabilidad y responsabilidad de seguros de salud (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH)
 
@@ -50,11 +50,11 @@ Para obtener información sobre cómo Microsoft Cloud ayuda a los clientes a adm
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure y Azure Government
-- Azure DevOps Services
+- Azure DevOps
 - Dynamics 365 y Dynamics 365 para la Administración Pública de Estados Unidos
 - Intune
 - Microsoft Cloud App Security
-- [Microsoft Cloud para el cuidado de la salud](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
+- [Microsoft Cloud para el sector sanitario](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Servicio de bots de Microsoft Healthcare
 - [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Servicios profesionales de Microsoft: Premier y local para Azure, Dynamics 365, Intune y para empresas medianas y clientes empresariales de Microsoft 365 para empresas
@@ -79,10 +79,10 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, Compliance Manager, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Cumplimiento avanzado de Office 365 add-on, Office 365 Customer Portal, Office 365 Microservices (incluidos, entre otros, Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query, Query Annotation Service, School Data Sync, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive para la Empresa, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype Empresarial, Stream |
+| **Comercial** | Access Online, Azure Active Directory, Azure Communications Service, Compliance Manager, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Cumplimiento avanzado de Office 365 add-on, Office 365 Customer Portal, Office 365 Microservices (incluidos, entre otros, Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query, Query Annotation Service, School Data Sync, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive para la Empresa, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype Empresarial, Stream |
 | **GCC** | Azure Active Directory, Servicio de comunicaciones de Azure, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Puede mi organización entrar en un BAA con Microsoft?**
 

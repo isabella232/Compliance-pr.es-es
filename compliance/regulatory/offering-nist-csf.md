@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 49b18d0e758f0c83b2f56be2cd9bb1447c63349165e9cef868adbcf17adeb7f0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 84a7515c8d23a3e224118bbf56175e6ec79f1ecb
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294297"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259799"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>Marco de ciberseguridad del Instituto Nacional de Estándares y Tecnología (NIST) (CSF)
 
@@ -64,7 +64,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
+| **Comercial** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 
 ### <a name="office-365-audit-cycle-and-certification"></a>Office 365 de auditoría y certificación
 
@@ -72,7 +72,7 @@ La certificación CSF de NIST de Office 365 es válida durante dos años.
 
 - [Office 365 Carta de certificación del CSF de NIST](https://aka.ms/O365NISTCSFcertification)
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Ha validado un evaluador independiente que Office 365 los requisitos del CSF de NIST?**
 

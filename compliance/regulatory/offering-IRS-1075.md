@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6406c63d73e30a62d3cbe54bf8cef632cc5564b2cae3d1a9588652644b8f8c96
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 11fcdc23347500265e8eb46cf33195c66a4708d1
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293907"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260913"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Us Internal Revenue Service Publication 1075
 
@@ -70,7 +70,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, infraestructura de servicio, SharePoint Online, Skype Empresarial, Windows Ink |
+| **Comercial** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, infraestructura de servicio, SharePoint Online, Skype Empresarial, Windows Ink |
 | **GCC** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Auditorías, informes y certificados de Office 365
@@ -79,7 +79,7 @@ El cumplimiento de los requisitos sustantivos del IRS 1075 está cubierto por la
 
 - [Autorizaciones de FedRAMP](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Cómo aborda Microsoft los requisitos del IRS 1075?**
 

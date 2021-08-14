@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3dd35bdfba174f82db40ef783c61c65e475b2ac01a6e2962556f6bef362f8173
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f82dcb1395823fbfe618537a9fc13f6d7106d56f
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292617"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261107"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Estándar base Informatiebeveiliging Rijksdienst (BIR 2012)
 
@@ -55,7 +55,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Information Protection, Bookings, Exchange Online Protection, Exchange Online, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Office 365 Cloud App Security, Grupos de Office 365, Office 365 Video, Office Delve, OneDrive para la Empresa, Planner, Power Apps, Power Automate, Power BI para Office 365, PowerApps, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Comercial** | Azure Information Protection, Bookings, Exchange Online Protection, Exchange Online, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Office 365 Cloud App Security, Grupos de Office 365, Office 365 Video, Office Delve, OneDrive para la Empresa, Planner, Power Apps, Power Automate, Power BI para Office 365, PowerApps, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 

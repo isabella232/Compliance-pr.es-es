@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 96e5fbeac64f0905dfa6cda98eb13d8ebb725aaed471b6adbb4fdadab9363ddd
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 54401015273b24306cae58a2ca78ca1c91322b6e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288209"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260355"
 ---
 # <a name="argentina-personal-data-protection-act-pdpa"></a>Ley de Protección de Datos Personales (PDPA) de Argentina
 
@@ -59,7 +59,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, Office Delve, OneDrive para empresas, Planner, Power Apps, Power BI para Office 365, PowerApps, Power Automate, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Comercial** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, Office Delve, OneDrive para empresas, Planner, Power Apps, Power BI para Office 365, PowerApps, Power Automate, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>Cómo implementar
 

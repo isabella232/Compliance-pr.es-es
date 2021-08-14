@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 68f238785dbe3eb0146c3d95982a7e95eefab74a0b042f49fa66dff066227be0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f3012269f613d5b403882c1718c3fbdc1f745519
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293897"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259789"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -53,13 +53,13 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Information Protection, Bookings, Delve, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Office 365 Cloud App Security, Grupos de Office 365, Office 365 Video, OneDrive para la Empresa, Planner, Power Apps, Power BI para Office 365, PowerApps, Power Automate, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Comercial** | Azure Information Protection, Bookings, Delve, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Office 365 Cloud App Security, Grupos de Office 365, Office 365 Video, OneDrive para la Empresa, Planner, Power Apps, Power BI para Office 365, PowerApps, Power Automate, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
 - [Cobertura de la norma NEN 7510:2011 en Azure y Office 365](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=15d5a5fa-fbb6-4ea6-8126-2a2c684ae789&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports)
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Un cliente que usa los servicios de nube de Microsoft cumple con la norma NEN 7510?**
 

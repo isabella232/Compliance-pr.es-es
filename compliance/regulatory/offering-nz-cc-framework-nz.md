@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c333fc2d6bdb9889dafefd2571b8381edd15e5158a4783aa7a17cec7ce1bcc7c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293393"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259819"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Consideraciones sobre seguridad de la información y privacidad del gobierno de Nueva Zelanda (ISPC)
 
@@ -57,12 +57,12 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint Online, Skype Empresarial |
+| **Comercial** | Exchange Online, SharePoint Online, Skype Empresarial |
 
 >[!Note]
 >Microsoft NZ ha trabajado con el equipo de GCIO para desarrollar una arquitectura de referencia para integrar Exchange Online y SEEMail que se describe en Office 365: SEEMail Integration and Reference Architecture.
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿A quién se aplica el marco?**
 

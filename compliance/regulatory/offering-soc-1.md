@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: abe4804585269110d07e00b2e6f7cda75bd88106effd21f4d8060fedc03bbce8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bfa130999fb2c527f4b3f233958d10b24cba76d4
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294357"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260964"
 ---
 # <a name="system-and-organization-controls-soc-1-type-2"></a>Controles del sistema y de la organización (SOC) 1 tipo 2
 
@@ -77,7 +77,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Administrador de cumplimiento, Caja de seguridad del cliente, Delve, Protección de Exchange Online, Exchange Online, Formularios, Beatriz, Administrador de identidades, Caja de seguridad (Torus), Microsoft Teams, MyAnalytics, Portal de clientes de Office 365, Microservicios de Office 365 (incluidos, entre otros, Kaizala, ObjectStore, Sway, Servicio de documentos de PowerPoint Online, Servicio de anotación de consultas, School Data Sync, Sirule, Speech, StaffHub, eXtensible Application Program), Office Online, Infraestructura de servicios de Office, OneDrive para la Empresa , Planner, PowerApps, Power BI, Project Online, Cifrado de servicio con clave de cliente, SharePoint Online, Skype Empresarial |
+| **Comercial** | Administrador de cumplimiento, Caja de seguridad del cliente, Delve, Protección de Exchange Online, Exchange Online, Formularios, Beatriz, Administrador de identidades, Caja de seguridad (Torus), Microsoft Teams, MyAnalytics, Portal de clientes de Office 365, Microservicios de Office 365 (incluidos, entre otros, Kaizala, ObjectStore, Sway, Servicio de documentos de PowerPoint Online, Servicio de anotación de consultas, School Data Sync, Sirule, Speech, StaffHub, eXtensible Application Program), Office Online, Infraestructura de servicios de Office, OneDrive para la Empresa , Planner, PowerApps, Power BI, Project Online, Cifrado de servicio con clave de cliente, SharePoint Online, Skype Empresarial |
 | **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
 | **GCC-High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial |
 | **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, Power BI, SharePoint Online, Skype Empresarial |

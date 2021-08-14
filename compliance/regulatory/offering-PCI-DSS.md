@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 753d793d9024e766dcfda84c631744112b677229984226332517b911186b2679
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 78078698bbe5b69c02cb7a53d4affc4e58e8a0d3
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294007"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260305"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>Estándar de seguridad de los datos (DSS) de la industria de tarjetas de pago (PCI)
 
@@ -68,7 +68,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | OneDrive para la Empresa (Estados Unidos), SharePoint Online |
+| **Comercial** | OneDrive para la Empresa (Estados Unidos), SharePoint Online |
 
 ### <a name="office-365-audit-reports-and-certificates"></a>Auditoría, informes y certificados de Office 365
 

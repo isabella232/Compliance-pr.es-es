@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b603457ac3c60b66874b671f6a760f9ded9e0c5c6aa27fbc5a02d4df37b28fea
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 54ae2345f72e6ea0b9b0e856721acc7ff6590e52
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288638"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260482"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>Código de prácticas para los controles de la seguridad de la información ISO/IEC 27017:2015
 
@@ -75,7 +75,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Servicio de comunicaciones de Azure, Administrador de cumplimiento, Caja de seguridad del cliente, Delve, Exchange Online, Exchange Online Protection, Forms, Griffin, Identity Manager, Caja de seguridad (Torus), Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Portal de clientes de Office 365, Microservicios de Office 365 (incluidos, entre otros, Kaizala, ObjectStore, Sway, servicio de documentos de PowerPoint Online, Servicio de anotación de consultas, School Data Sync, Siphon, Speech, StaffHub, programa de la aplicación eXtensible), Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, Infraestructura de servicios de Office, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, Project Online, Cifrado de servicio con clave de cliente, SharePoint Online, Skype Empresarial, Stream |
+| **Comercial** | Access Online, Azure Active Directory, Servicio de comunicaciones de Azure, Administrador de cumplimiento, Caja de seguridad del cliente, Delve, Exchange Online, Exchange Online Protection, Forms, Griffin, Identity Manager, Caja de seguridad (Torus), Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Portal de clientes de Office 365, Microservicios de Office 365 (incluidos, entre otros, Kaizala, ObjectStore, Sway, servicio de documentos de PowerPoint Online, Servicio de anotación de consultas, School Data Sync, Siphon, Speech, StaffHub, programa de la aplicación eXtensible), Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, Infraestructura de servicios de Office, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, Project Online, Cifrado de servicio con clave de cliente, SharePoint Online, Skype Empresarial, Stream |
 | **GCC** | Azure Active Directory, Servicio de comunicaciones de Azure, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
 | **GCC High** | Azure Active Directory, Servicio de comunicaciones de Azure, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial |
 | **DoD** | Azure Active Directory, Servicio de comunicaciones de Azure, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, Power BI, SharePoint Online, Skype Empresarial |

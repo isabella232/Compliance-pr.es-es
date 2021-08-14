@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9e441e8e1c5419eab741ceec370afe61815332e51115509dd5974e9ea2984c22
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 2ed9ba3e08dd75bd0d3209826497de80fc3781c4
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292497"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260944"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Reino Unido Government-Cloud (G-Cloud)
 
@@ -64,7 +64,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint Online, Skype Empresarial |
+| **Comercial** | Exchange Online, SharePoint Online, Skype Empresarial |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
@@ -96,7 +96,7 @@ Mover los servicios gubernamentales a la nube es ahora más fácil que nunca con
 
 [Empezar a usar el blueprint G-Cloud de Azure UK](https://aka.ms/ukofficialblueprint)
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **Quién puede usar el Marketplace digital?**
 
