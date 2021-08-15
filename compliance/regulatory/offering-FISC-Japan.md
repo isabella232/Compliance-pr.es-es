@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88a5e554fc2307dfa427ccb0023e7a00e006d536fc8cca276d550aa9510dbc29
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c6f9a01ff954465240b74f9526c93b926fb08006
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287304"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260492"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Centro de Sistemas de Información de la Industria Financiera (FISC)
 
@@ -67,7 +67,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive para la Empresa, Power BI para Office 365, Project Online, SharePoint Online, Skype Empresarial |
+| **Comercial** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive para la Empresa, Power BI para Office 365, Project Online, SharePoint Online, Skype Empresarial |
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
@@ -84,7 +84,7 @@ FISC ha publicado dos informes de su Consejo de Expertos:
 
 **¿Dónde puedo obtener más detalles sobre las respuestas de Microsoft al marco de trabajo del FISC?**
 
-También puede ver las referencias de seguridad ([en japonés](https://aka.ms/microsoftresponsetofiscguidancejapanese)) de terceros que han evaluado el cumplimiento de los servicios en la nube de Microsoft con el FISC.
+Para conocer las referencias de seguridad de terceros que han evaluado el cumplimiento FISC de los servicios en la nube de Microsoft, póngase en contacto con su representante de cuenta Microsoft.
 
 **¿Puedo usar las respuestas de Microsoft a este marco de trabajo en el proceso de calificación de mi organización?**
 

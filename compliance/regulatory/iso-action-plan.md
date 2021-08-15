@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 0453e148c38de9cc6e7171becd21576646dd4be50796ecb674a02fc8fef4ff43
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 525870883b67ef37b45af2aa690ce849acd9217d
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287919"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261127"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Plan de acción de Microsoft 365 ISO 27001: principales prioridades de los primeros 30 días, 90 días y el periodo posterior
 
@@ -29,7 +29,7 @@ La Organización Internacional de Normalización (ISO) es un desarrollador no gu
 
 ISO/IEC 27001 es el estándar internacional para implementar un sistema de administración de seguridad de información (ISMS). Un ISMS describe los métodos necesarios utilizados y las evidencias asociadas con los requisitos que son esenciales para la administración de confianza de la seguridad de activos de información en cualquier tipo de organización.  
 
-En este artículo se incluye un plan de acción prioritario que puede seguir mientras trabaja para cumplir los requisitos de la norma ISO/IEC 27001. Este plan de acción se desarrolló en asociación con Protiviti, un partner de Microsoft especializado en cumplimiento normativo. Puede obtener más información sobre cómo usar este plan de acción en Microsoft Ignite asistiendo a esta sesión: [Chart your Microsoft 365 compliance path and information protection strategy](https://myignite.techcommunity.microsoft.com/videos/65720) (Establezca su estrategia de protección de información y su ruta de cumplimiento de Microsoft 365), presentada por Maithili Dandige (Microsoft) y Antonio Maio (Protiviti).
+Este artículo comprende un plan de acción prioritaria que se puede aplicar mientras se trabaja para cumplir con los requisitos de ISO/IEC 27001. Este plan de acción fue desarrollado en colaboración con Protiviti, un partner de Microsoft especializado en el cumplimiento de las normativas.
 
 ## <a name="action-plan-outcomes"></a>Resultados del plan de acción
 
