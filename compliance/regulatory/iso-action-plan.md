@@ -29,7 +29,7 @@ La Organización Internacional de Normalización (ISO) es un desarrollador no gu
 
 ISO/IEC 27001 es el estándar internacional para implementar un sistema de administración de seguridad de información (ISMS). Un ISMS describe los métodos necesarios utilizados y las evidencias asociadas con los requisitos que son esenciales para la administración de confianza de la seguridad de activos de información en cualquier tipo de organización.  
 
-Este artículo comprende un plan de acción prioritaria que se puede aplicar mientras se trabaja para cumplir con los requisitos de ISO/IEC 27001. Este plan de acción fue desarrollado en colaboración con Protiviti, un partner de Microsoft especializado en el cumplimiento de las normativas.
+Este artículo comprende un plan de acción prioritaria que se puede aplicar mientras se trabaja para cumplir con los requisitos de ISO/IEC 27001. Este plan de acción se desarrolló en colaboración con Protiviti, un partner de Microsoft especializado en el cumplimiento de las normativas.
 
 ## <a name="action-plan-outcomes"></a>Resultados del plan de acción
 
