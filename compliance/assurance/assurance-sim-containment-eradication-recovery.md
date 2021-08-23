@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6614f3997310a227320865aa0f0da99b64420084534e47afd25bb15441ddb451
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 37de1f6a1b2735b444dc06228a411c0ef0c15f8b
+ms.sourcegitcommit: 35ca898d621a3e158b361c7dea3a33c4b1f9fe3a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292058"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361265"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Administración de incidentes de seguridad de Microsoft: contención, eliminación y recuperación
 
@@ -52,6 +52,8 @@ Un aspecto clave de la recuperación es tener una mayor vigilancia y controles p
 ## <a name="customer-notification-of-security-incident"></a>Notificación de cliente de incidentes de seguridad
 
 Si Microsoft determina que se ha producido un incidente de seguridad, le notificaremos con retraso indebido y dentro de los requisitos contractuales y de cumplimiento que hemos aceptado. Después de identificar todos los inquilinos afectados, el equipo de comunicaciones correspondiente trabaja para identificar cualquier normativa relevante que se pueda aplicar a los inquilinos afectados. El equipo de comunicaciones usa el canal de comunicación adecuado definido en las normativas aplicables para notificar al contacto de inquilino correspondiente.
+
+![Proceso de respuesta a incidentes](../media/assurance-incident-response-process.png)
 
 La notificación incluirá información detallada sobre el incidente, como una descripción del incidente, el efecto en los datos de los clientes, si los hay, las acciones realizadas por Microsoft o las acciones sugeridas para que los clientes tomen medidas para resolver el problema y evitar la periodicidad. La notificación se entregará a los administradores designados del inquilino de servicios en línea de Microsoft. Para asegurarse de que se reciben notificaciones, debe asegurarse de que los administradores proporcionan y mantienen información de contacto precisa en sus perfiles de inquilino. Además, en función de la naturaleza del incidente, Microsoft 365 los clientes también pueden recibir una notificación a través del Panel de mantenimiento Microsoft 365 [servicio.](http://status.yammer.com/)
 
