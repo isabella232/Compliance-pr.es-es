@@ -2,7 +2,7 @@
 title: Marco de ciberseguridad del Instituto Nacional de Estándares y Tecnología (NIST) (CSF)
 description: Microsoft Cloud Services cumple con el Marco de ciberseguridad (CSF) del Instituto Nacional de Estándares y Tecnología (NIST).
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 84a7515c8d23a3e224118bbf56175e6ec79f1ecb
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: aef50dc21274c863708c5b5d774b401e91407114
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259799"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480522"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>Marco de ciberseguridad del Instituto Nacional de Estándares y Tecnología (NIST) (CSF)
 
@@ -42,7 +42,7 @@ Obtenga información sobre cómo acelerar la implementación de NIST Cybersecuri
 - [Información general sobre el ejemplo de blueprint de NIST SP 800-53 R4](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
 - [Obtenga más información sobre la evaluación del NIST CSF para Office 365 puntuación de cumplimiento](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure Government
 - Dynamics 365 for Government

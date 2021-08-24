@@ -2,7 +2,7 @@
 title: Reserve Bank of India (RBI) y Insurance Regulatory and Development Authority of India (IRDAI)
 description: Microsoft ha publicado instrucciones para ayudar a las instituciones financieras de India con la adopción en la nube.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: eb0e6498a516af763c36163733c6480c9531a584c3820e01701fdcf31089b8e3
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 200319178a714383feeca3d58cf608e9a3baa304
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294227"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481022"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>Reserve Bank of India (RBI) y Insurance Regulatory and Development Authority of India (IRDAI)
 
@@ -60,7 +60,7 @@ La lista de comprobación de Microsoft ayuda a las empresas financieras de india
 - [Guía de cumplimiento y evaluación de riesgos](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Cree un modelo de gobierno para la evaluación de riesgos de los servicios en la nube de Microsoft y las notificaciones reglamentarias.
 - [Casos de uso financiero para Azure:](/azure/industry/financial/)use información general sobre casos, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros.
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Hay términos obligatorios que se deban incluir en el contrato con el proveedor de servicios en la nube?**
 

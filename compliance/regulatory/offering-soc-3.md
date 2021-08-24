@@ -2,7 +2,7 @@
 title: Controles del sistema y de la organización (SOC) 3
 description: Descubra cómo los Servicios en la nube de Microsoft cumplen con los estándares de Control de sistemas y organización (SOC) 3 para la seguridad operativa.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d8f27fd3454515bf84c9d42fa0f1d7dc536feafa
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: b3690ba79ba8adca1d01e4eda03831c431747d01
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260954"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481082"
 ---
 # <a name="system-and-organization-controls-soc-3"></a>Controles del sistema y de la organización (SOC) 3
 

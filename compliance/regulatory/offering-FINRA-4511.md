@@ -2,7 +2,7 @@
 title: Regla 4511(c) de la Autoridad reguladora de la industria financiera (FINRA) Estados Unidos
 description: Una firma de evaluación independiente validó que Azure y Office 365 pueden ayudar a las empresas financieras a cumplir los requisitos de retención de registros y almacenamiento inmutable de la Regla 4511 de FINRA.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 481b5e5890d404dc48d1354b83dc44b53cc6362e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261001"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479772"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Regla 4511(c) de la Autoridad reguladora de la industria financiera (FINRA) Estados Unidos
 

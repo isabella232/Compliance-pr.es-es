@@ -3,7 +3,7 @@ title: Microsoft 365 NIST 800-53 plan de acción, prioridades para los primeros 
 description: Un plan de acción prioritario que puede seguir mientras trabaja para cumplir los requisitos del National Institute of Standards and Technology (NIST)
 keywords: Microsoft 365, Microsoft 365 Educación, documentación de Microsoft 365, NIST, NIST 800-53
 author: BrendaCarter
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 25e60c25588110852e264fce9716bb9c58b5f71f017f5a25e45d4625095ecacd
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 71f2dcaaafc8dd4452ab8a556aafcb50a7da87d3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288329"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481602"
 ---
 # <a name="microsoft-365-nist-800-53-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Plan de acción NIST 800-53 de Microsoft 365: principales prioridades de los primeros 30 días, 90 días y el periodo posterior
 

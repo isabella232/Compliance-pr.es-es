@@ -2,7 +2,7 @@
 title: Consideraciones sobre seguridad informática en la nube y privacidad del Gobierno de Nueva Zelanda
 description: Microsoft NZ aborda las preguntas publicadas en el marco de informática en la nube de Nueva Zelanda.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 2e6dc7b7dcd59e3d82d6787b59f698c621f119bb
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259819"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480492"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Consideraciones sobre seguridad de la información y privacidad del gobierno de Nueva Zelanda (ISPC)
 
@@ -37,7 +37,7 @@ Para ayudar a las agencias gubernamentales de la NZ a llevar a cabo una diligenc
 
 Para ayudar a las agencias a realizar su análisis y evaluación de los servicios en la nube empresariales de Microsoft, Microsoft Nueva Zelanda ha producido documentos que muestran cómo sus servicios en la nube empresariales abordan las preguntas establecidas en el "CLOUD Computing ISPC" vincándolos a los estándares con los que los servicios en la nube de Microsoft están certificados. Estas certificaciones son fundamentales para cómo Microsoft asegura a los clientes del sector público y privado que sus servicios en la nube están diseñados, creados y operados para mitigar eficazmente los riesgos de privacidad y seguridad y solucionar problemas de soberanía de datos. La [respuesta de Azure a CLOUD Computing ISPC](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) está disponible para que los clientes puedan descargarla.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure y Azure Government
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

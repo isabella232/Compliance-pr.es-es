@@ -2,7 +2,7 @@
 title: Us Internal Revenue Service Publication 1075
 description: Microsoft tiene controles que cumplen los requisitos de la Publicación 1075 del Servicio de ingresos internos de Estados Unidos.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 11fcdc23347500265e8eb46cf33195c66a4708d1
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 3212e28e055629b3f2894e7887ffac03e94b9e3a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260913"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481042"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Us Internal Revenue Service Publication 1075
 
@@ -45,7 +45,7 @@ Para ayudar a las agencias gubernamentales en sus esfuerzos de cumplimiento, Mic
 - Proporciona al IRS Azure Government Compliance Considerations y Office 365 U.S. Government Compliance Considerations, que describen cómo una agencia puede usar Microsoft Cloud para los servicios gubernamentales de forma que cumpla con el IRS 1075. Los clientes gubernamentales con NDA pueden solicitar estos documentos.
 - Ofrece a los clientes la oportunidad (a su cargo) de comunicarse con expertos en la materia de Microsoft o auditores externos si es necesario.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 Las autorizaciones de FedRAMP se conceden en tres niveles de impacto según las directrices de NIST: bajo, medio y alto. Estos clasifican el impacto que la pérdida de confidencialidad, integridad o disponibilidad podría tener en una organización: bajo (efecto limitado), medio (efecto adverso grave) y alto (efecto grave o catastrófico).
 
@@ -103,6 +103,6 @@ No. Los únicos entornos donde FTI se puede almacenar y procesar son Azure Gover
 
 - [Publicación 1075 del IRS](https://www.irs.gov/pub/irs-pdf/p1075.pdf)
 - [Programa de protección del IRS](https://www.irs.gov/uac/Safeguards-Program)
-- [Marco de Cumplimiento del Centro de Controles Comunes de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Marco de cumplimiento del centro de controles comunes de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 - [Microsoft Cloud para la Administración Pública](https://azure.microsoft.com/global-infrastructure/government/)
 - [Cumplimiento normativo en el Centro de confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

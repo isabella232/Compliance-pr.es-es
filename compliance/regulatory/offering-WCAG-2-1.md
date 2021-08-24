@@ -2,7 +2,7 @@
 title: Directrices de accesibilidad al contenido en la web
 description: Microsoft publica informes WCAG AA que reflejan el producto o el servicio completo, o partes del producto que pueden ser instalados por separado.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a8441c6ea20f5429a5e760cef307a132fab9559b
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260903"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481172"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Directrices de accesibilidad al contenido en la web
 

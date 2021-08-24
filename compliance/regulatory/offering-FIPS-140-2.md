@@ -2,7 +2,7 @@
 title: Publicación 140-2 del Estándar federal de procesamiento de información (FIPS)
 description: Microsoft certifica que sus módulos criptográficos cumplen con el Estándar federal de procesamiento de información de Estados Unidos.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dc0ab3e03128e0c9f7feddd36305805c7d8108e4ea12fa5feb5095bdc183e7f1
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 0e087393901b76a798c4a4ea3bef25fad8dcda84
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292517"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481232"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Publicación 140-2 del Estándar federal de procesamiento de información (FIPS)
 
@@ -37,7 +37,7 @@ Microsoft mantiene un compromiso activo de cumplir los 140-2 requisitos, despué
 
 Para obtener información técnica sobre los módulos criptográficos de Microsoft Windows, la directiva de seguridad de cada módulo y el catálogo de detalles del certificado CMVP, vea el contenido de Windows y [Windows Server FIPS 140-2](https://aka.ms/AA6ehud).
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 Aunque la guía de implementación actual de CMVP FIPS 140-2 impide una validación fips 140-2 para un servicio en la nube en sí; Los proveedores de servicios en la nube pueden elegir obtener y operar módulos criptográficos validados por FIPS 140 para los elementos informáticos que componen su servicio en la nube. Los servicios en línea de Microsoft que incluyen componentes, que han sido validados por FIPS 140-2, incluyen, entre otros:
 
@@ -63,7 +63,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 |:------------------|:----------------------|
 | Office 365, GCC, GCC High, DoD | Consulta [Validación de FIPS 140-2](/windows/security/threat-protection/fips-140-validation) |
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Cuál es la diferencia entre "FIPS 140 Validated" y "FIPS 140 compliant"?**
 

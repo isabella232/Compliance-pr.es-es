@@ -2,7 +2,7 @@
 title: Reino Unido Government-Cloud (G-Cloud)
 description: El Servicio comercial de Corona renovó la clasificación de servicios en la nube de Microsoft a Government Cloud v.6.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2ed9ba3e08dd75bd0d3209826497de80fc3781c4
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260944"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481052"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Reino Unido Government-Cloud (G-Cloud)
 
@@ -41,7 +41,7 @@ La designación de servicios Microsoft en el Mercado digital significa que las a
 
  [14 Cloud Security Controls for UK cloud using Microsoft Azure](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) proporciona estrategias de cliente para mover sus servicios a Azure y ayudar a cumplir las obligaciones del Reino Unido que exige el CESG/NCSC. La whitepaper proporciona información sobre cómo se puede usar Azure para ayudar a abordar los 14 controles descritos en las entidades de seguridad de la nube y describe cómo los clientes pueden moverse más rápido y lograr más a la vez que ahorran dinero a medida que adoptan Microsoft Azure servicios.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure
 - Microsoft Cloud App Security
