@@ -78,10 +78,10 @@
   items:
     - name: Información general sobre la administración de acceso e identidad
       href: assurance-identity-and-access-management.md
-    - name: Administrar la Caja de seguridad del cliente
+    - name: Caja de seguridad del cliente de Azure
       href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Controles de acceso administrativo de Microsoft 365
-      href: assurance-administrative-access-controls-overview.md
+    - name: Administración de cuentas de Microsoft 365
+      href: assurance-microsoft-365-account-management.md
     - name: Controles de tecnología de Microsoft 365
       href: assurance-technology-controls.md
     - name: Caja de seguridad del cliente de Office 365

@@ -2,7 +2,7 @@
 title: Evaluaciones de impacto en la protección de datos
 description: Estos documentos proporcionan a los poseedores de los datos información que les permitirá determinar si se necesita un EIPD y, en ese caso, qué detalles incluir.
 keywords: Evaluación de impacto en la protección de datos, EIPD, Dynamics 365, Servicios profesionales de Microsoft, Microsoft 365, documentación de Microsoft 365, RGPD
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: f1aa67817553c1ca7c8f9535965409ffb83a55117914254c4d58eec50eb38eba
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c634e1c63a123232f600cbe085964cf9d2e366a9
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289978"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479802"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>Evaluación de impacto de la protección de datos para el RGPD
 
@@ -53,7 +53,7 @@ Al considerar si se realiza una EIPD, se deben tratar los factores de riesgo que
 - Procesamiento a gran escala de categorías especiales de datos (datos que revelan información unívoca para la identificación de una persona física) o de datos personales relativos a delitos y condenas penales.
 - Supervisión sistemática a gran escala de un área de acceso público.
 
-El RGPD aclara que: "El tratamiento de datos personales no debe considerarse a gran escala si lo realiza, respecto de datos personales de pacientes o clientes, un solo médico, otro profesional de la salud o abogado. En estos casos, la evaluación de impacto de la protección de datos no debe ser obligatoria".
+El RGPD aclara que: "El tratamiento de datos personales no debe considerarse a gran escala si lo realiza, respecto de datos personales de pacientes o clientes, un médico, otro profesional de la salud o abogado. En estos casos, la evaluación de impacto de la protección de datos no debe ser obligatoria".
 
 **¿Qué se necesita para elaborar una EIPD?**
 

@@ -2,7 +2,7 @@
 title: Solicitudes de interesados del soporte técnico y los servicios profesionales de Microsoft para el RGPD y la CCPA
 description: Obtenga información sobre cómo el Soporte técnico de Microsoft y los servicios profesionales tratan la solicitudes de interesados para el RGPD y la CCPA.
 keywords: Servicios profesionales, Microsoft 365, Microsoft 365 Educación, documentación de Microsoft 365, RGPD y la CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 165fd006f8cd5390b057d38e9972cf4ce4edda3d6ffe169fcdeb0508d319bc0b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 06dbe8eeeddc32fb98b7b4bf0351834fb6a34944
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293177"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482635"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de interesados del soporte técnico y los servicios profesionales de Microsoft para el RGPD y la CCPA
 
@@ -31,7 +31,7 @@ ms.locfileid: "54293177"
 
 El equipo de Servicios profesionales de Microsoft está formado por un grupo diverso de arquitectos técnicos, ingenieros, consultores y profesionales de soporte técnico dedicados a alcanzar la misión de Microsoft de proporcionar recursos a los clientes para mejorar su productividad. Nuestro equipo de Servicios profesionales está formado por un total de más de 21 000 consultores, asesores digitales, representantes de soporte técnico Premier, ingenieros y profesionales de ventas que trabajan en 191 países o regiones, ofrecen asistencia en 46 idiomas, administran varios millones de interacciones al mes, e interactúan con clientes y partners con herramientas automatizadas, locales, telefónicas, web y de la comunidad. La organización ofrece amplia experiencia en toda la cartera de Microsoft, con una extensa red de partners, comunidades técnicas, herramientas, diagnósticos y canales que nos conectan con nuestros clientes empresariales.
 
-Para obtener más información sobre los Servicios Profesionales de Microsoft visite la [página web de documentación de seguridad sobre los Servicios Profesionales de Microsoft](https://www.microsoft.com/professionalservices/overview). En los Servicios profesionales de Microsoft nos tomamos muy en serio nuestras obligaciones relativas al Reglamento general de protección de datos (RGPD). La información de este documento está diseñada para responder a preguntas de clientes sobre cómo el servicio de atención al cliente de Microsoft y las ofertas de consultoría asistirán y responderán a los clientes a solicitudes del interesado relativas al RGPD.
+Obtenga más información sobre los Servicios profesionales de Microsoft en la [página web de Documentación de seguridad de los Servicios profesionales de Microsoft](https://www.microsoft.com/professionalservices/overview). Los Servicios profesionales de Microsoft se toman muy en serio sus obligaciones según el Reglamento general de protección de datos (RGPD). La información que contiene este documento se diseñó para responder a preguntas de clientes sobre cómo las ofertas de soporte técnico y consultoría de Microsoft responderán y asistirán a los clientes en relación con sus obligaciones de solicitudes de derechos del titular de los datos según el RGPD.
 
 ### <a name="introduction-to-dsrs"></a>Introducción a las solicitudes del interesado 
 
