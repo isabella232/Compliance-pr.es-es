@@ -2,7 +2,7 @@
 title: RGPD
 description: 'Guía técnica de Microsoft: CONJUNTO DE HERRAMIENTAS DE MIGRACIONES DE FASTTRACK PARA ENVIAR SOLICITUDES DE ELIMINACIÓN'
 keywords: Migración de FastTrack, Microsoft 365 Educación, documentación de Microsoft 365, RGPD
-localization_priority: Priority
+ms.localizationpriority: high
 Robots: NOFOLLOW,NOINDEX
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: a83a39ec6f60dae780d1082f534c094c45ac4d2c6788c851c6c1cf35b1a7d256
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e7434613707cec900506e85c5e61b6cd45c98d3c
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293111"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482373"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Conjunto de herramientas de migración de FastTrack para cursar solicitudes de eliminación
 

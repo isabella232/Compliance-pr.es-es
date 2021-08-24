@@ -2,7 +2,7 @@
 title: Sarbanes-Oxley Act of 2002 (SOX) (Ley Sarbanes-Oxley de 2002, SOX)
 description: Las empresas de servicios financieros pueden usar informes de cumplimiento de Microsoft para abordar su cumplimiento con la Sarbanes-Oxley de cumplimiento.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6fb3ec963487169e01c9a69eca3b76f9f21a46cf
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 9b5b9b3a1e398c804aad7f7a42a0b2770de20525
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260438"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482855"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002 (SOX) (Ley Sarbanes-Oxley de 2002, SOX)
 
@@ -41,7 +41,7 @@ El informe de auditoría, producido por una firma de auditoría de terceros, ate
 
 En Microsoft, compartimos la responsabilidad del cumplimiento con nuestros clientes. Proporcionamos los detalles sobre nuestros programas de cumplimiento, que puede comprobar solicitando resultados de auditoría detallados de terceros certificadores. Sin embargo, en última instancia, le corresponde determinar si nuestros servicios cumplen con las leyes y normativas específicas aplicables a su empresa. Por ejemplo, hay controles de seguridad relacionados con SOX, como el acceso de usuarios a recursos en la nube, que son su responsabilidad: su organización debe desarrollar la auditoría adecuada de estos controles como parte del cumplimiento de sox.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

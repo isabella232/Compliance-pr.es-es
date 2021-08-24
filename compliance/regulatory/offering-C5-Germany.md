@@ -2,7 +2,7 @@
 title: El Catálogo de controles de cumplimiento de informática en la nube (C5)
 description: Descubra cómo Azure, Azure Government y Azure Alemania han demostrado que cumplen con el Catálogo de controles de cumplimiento de informática en la nube (C5).
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b2d66bd7a085b52d92e4a92c741d14e8a9fd3569164ca88d7cfcbcccf116a7b9
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 0399a959bce2d15bc856bad25aca29f831193efc
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287899"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482283"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>El Catálogo de controles de cumplimiento de informática en la nube (C5)
 

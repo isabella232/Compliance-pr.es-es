@@ -2,7 +2,7 @@
 title: 'Reglamento general de protección de datos '
 description: Conozca la orientación técnica de Microsoft y encuentre información útil para el Reglamento general de protección de datos (GDPR).
 keywords: Microsoft 365, Microsoft 365 Educación, documentación de Microsoft 365, RGPD
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 1951b902549d0ab214e0a0c284349c30dfc714e4af54e442b8ef8a61b26e6c51
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: d0016ed24cec4797ff515efa5614d8016fe7f1c1
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287948"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482775"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Resumen del reglamento general de protección de datos 
 

@@ -2,7 +2,7 @@
 title: ISO/IEC 27018 Código de prácticas para proteger los datos personales en la nube
 description: Microsoft fue el primer proveedor de nube que se adhirió a este código de prácticas para la privacidad en la nube.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92d5d00c473f2da92380478e7559ca18ef6f8937
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: af81575c0f33e0266efee32792eed85fd9f39cd3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260472"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58483005"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>ISO/IEC 27018 Código de prácticas para proteger los datos personales en la nube
 

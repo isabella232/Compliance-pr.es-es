@@ -2,7 +2,7 @@
 title: Ley de derechos educativos y privacidad de la familia (FERPA)
 description: Microsoft se alinea con los requisitos de la Ley de privacidad y derechos educativos de la familia de Estados Unidos.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d41c5fea8e0f6f45703bfe25cae9dbaa491dcd2c
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 6957f3e1c93dd73821456bc45ef1d8e2e12681a0
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261052"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482243"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Ley de derechos educativos y privacidad de la familia (FERPA)
 
@@ -43,12 +43,12 @@ FERPA no requiere ni reconoce auditorías u otras certificaciones, por lo que cu
 
 Como resultado de estos compromisos contractuales, los clientes que están sujetos a FERPA , tanto instituciones educativas como terceros a los que dan acceso a datos confidenciales de alumnos, pueden usar con confianza los servicios en la nube empresarial de Microsoft en el ámbito para procesar, almacenar y transmitir esos datos.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 Los servicios para los que Microsoft acepta ser designado como "oficial de escuela" con "intereses educativos legítimos" en los datos del cliente incluyen:
 
 - Azure
-- Azure DevOps
+- Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365, Office 365 administración pública de los Estados Unidos, Office 365 administración pública de estados unidos: alta y Office 365 defensa pública de estados unidos

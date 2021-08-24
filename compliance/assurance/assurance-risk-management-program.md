@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 8909d2c3029050a18f3f37862f7dd342696b1fc0f92c5e8bb03aa190f03f2c25
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ed400fabf50cfcd7f02d9246bb4d552f62f26eef
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290563"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481782"
 ---
-# <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programa de administración de riesgos
+# <a name="microsoft-365-risk-management-program"></a>Programa de administración de riesgos de Microsoft 365
 
 El propósito del programa Microsoft 365 administración de riesgos es identificar, evaluar y administrar los riesgos para Microsoft 365. Microsoft 365 prioridad es cumplir con las obligaciones contractuales y las acreditaciones, aumentar la confianza del cliente y mantener nuestra ventaja competitiva. Aunque el programa Microsoft 365 administración de riesgos de Enterprise funciona de forma independiente, se alinea con las directivas, prioridades y metodologías del programa de administración de riesgos de Enterprise (ERM). Trabajar con el programa ERM permite una comparación coherente entre unidades de negocio y grupos de ingeniería, lo que contribuye a un enfoque más coherente para la administración de riesgos en toda la empresa.
 

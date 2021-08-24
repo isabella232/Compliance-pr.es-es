@@ -2,7 +2,7 @@
 title: Nivel de impacto del Departamento de Defensa (DoD) 5 (IL5)
 description: Obtenga información sobre cómo Microsoft cumple los estándares de Nivel de impacto 5 (IL5) del Departamento de Defensa (DoD).
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c0c987dc5fbe2bee60508f0fab7dbdb8dce97857
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294237"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482845"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>Nivel de impacto del Departamento de Defensa (DoD) 5 (IL5)
 
@@ -51,7 +51,7 @@ Además, de acuerdo con la sección [5.2.2.3 de SRG,](https://dl.dod.cyber.mil/w
 - Se requiere la separación física de los inquilinos que no son doD o que no son del Gobierno federal (es decir, inquilinos públicos, de gobierno local o estatal).
 - El CSP restringe el acceso potencial a los DoD y la información de la comunidad a los empleados de CSP que son ciudadanos estadounidenses.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure
 - Servicio al cliente de Dynamics 365

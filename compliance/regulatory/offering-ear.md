@@ -2,7 +2,7 @@
 title: Us Export Administration Regulations (EAR)
 description: Los servicios en la nube de Microsoft ayudan a los clientes sujetos a los Reglamentos de administración de exportación (EAR) estadounidenses a cumplir sus requisitos de cumplimiento y a administrar el riesgo de control de exportación.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 859067495b6811b2264ab3a379f305d428771bce
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293597"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482985"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Us Export Administration Regulations (EAR)
 

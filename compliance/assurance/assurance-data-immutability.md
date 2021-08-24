@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a35af35fcd17e12cbee7643e99ccda7c0b0608463602dc1e44c38ac5d1d4f28d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e17685c7d927ab8188abe1ef4dae4d2cdf0f3764
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291378"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482123"
 ---
 # <a name="data-immutability-in-microsoft-365"></a>Inmutabilidad de datos en Microsoft 365
 
@@ -56,7 +56,7 @@ Por ejemplo, cuando un buzón se coloca en retención por juicio, se conservan l
 
 El archivado en Microsoft 365 proporciona almacenamiento conforme a la regla 17a-4 de la Comisión de valores y Exchange (SEC). Microsoft 365 conserva los archivos permanentes de todos los datos recopilados en un formato no reescribible y no eliminable mediante directivas de retención locales y directivas de conservación, incluido el bloqueo de conservación.
 
-En particular:
+En concreto:
 
 - Todos los registros almacenados mediante las directivas de retención mencionadas anteriormente se conservan en un área de almacenamiento dedicada fuera de la vista del usuario normal. Solo los usuarios autorizados pueden tener acceso a estos registros y buscarlos, pero no pueden modificarlos ni borrarlos.
 - Los metadatos de cada elemento incluyen una marca de tiempo usada en el cálculo de la duración de retención. Las marcas de tiempo se aplican cuando se recibe o crea un nuevo elemento y no se pueden modificar ni quitar de los metadatos.

@@ -2,7 +2,7 @@
 title: Ministerio de Electrónica y Tecnología de la Información (MeitY)
 description: Microsoft recibió una acreditación completa por parte del Ministerio de Electrónica y Tecnología de la Información en india.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292457"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482955"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministerio de Electrónica y Tecnología de la Información (MeitY)
 
@@ -53,7 +53,7 @@ La acreditación MeitY de Microsoft fue el resultado de una rigurosa auditoría 
 
 - Acreditación de Microsoft Cloud en [estado de auditoría de proveedores de servicios en la nube](https://meity.gov.in/content/gi-cloud-meghraj)
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Por qué es importante MeitY?**
 

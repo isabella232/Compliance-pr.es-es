@@ -2,7 +2,7 @@
 title: Ley de privacidad del consumidor de California (CCPA)
 description: servicios Microsoft y la Ley de privacidad del consumidor de California (CCPA).
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75f814c49395e5b945d0b9092b1158fad3376ce684ea3a8fb43115d51fe6bba5
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 61b15a095dec310aac74bac10b2d062eb1011750
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288259"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482665"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>Ley de privacidad del consumidor de California (CCPA)
 
@@ -60,7 +60,7 @@ Estos son algunos pasos que puede seguir para prepararse para el CCPA:
 - Configure etiquetas y directivas para detectar, clasificar, etiquetar y proteger los datos confidenciales con Microsoft Information Protection.
 - Use las capacidades de cifrado de correo electrónico para controlar aún más la información confidencial.
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Cómo afectará la CCPA a mi empresa?**
 

@@ -15,7 +15,7 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  localization_priority: Normal
+  ms.localizationpriority: medium
 conceptualContent:
   title: 'Azure, Dynamics 365 y Microsoft 365 de cumplimiento normativo'
   summary: 'Información para Azure, Dynamics 365, Microsoft 365 y Power Platform, y otros servicios para ayudar con las normativas nacionales, regionales y específicas del sector para la recopilación y el uso de datos.'
@@ -163,7 +163,7 @@ conceptualContent:
           text: FINMA (Suiza)
         - url: offering-finra-4511.md
           itemType: reference
-          text: FINRA 4511 (US)
+          text: FINRA 4511 (Estados Unidos)
         - url: offering-fisc-japan.md
           itemType: reference
           text: FISC (Japón)
@@ -172,7 +172,7 @@ conceptualContent:
           text: FSA (Dinamarca)
         - url: offering-glba.md
           itemType: reference
-          text: GLBA (ESTADOS UNIDOS)
+          text: GLBA (Estados Unidos)
         - url: /azure/compliance/offerings/offering-gsma
           itemType: reference
           text: GSMA

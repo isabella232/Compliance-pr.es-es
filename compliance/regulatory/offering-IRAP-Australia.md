@@ -2,7 +2,7 @@
 title: Programa de evaluadores registrados de seguridad de la información del gobierno australiano (IRAP)
 description: Microsoft se incluye en la lista de servicios en la nube certificados de Australia para marcadores de limitación de difusión no clasificados (DLM) y datos PROTEGIDOS basados en una evaluación y certificación de IRAP por parte del Centro de Seguridad Cibernética de Australia (ACSC).
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: cd7ad9a68f69f134689262ad7e379eec89284035
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260315"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58483015"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Programa de evaluadores registrados de seguridad de la información del gobierno australiano (IRAP)
 
@@ -58,7 +58,7 @@ Como siempre, las agencias individuales pueden implementar controles de compensa
 
 La evaluación de IRAP de los servicios y las operaciones en la nube de Microsoft ayuda a garantizar a los clientes del sector público en el gobierno y sus socios que Microsoft dispone de controles de seguridad adecuados y eficaces para el procesamiento, almacenamiento y transmisión de datos clasificados hasta el nivel de PROTECTED, incluido el nivel de PROTECTED. Esta evaluación incluye la mayoría de los datos gubernamentales, sanitarios y educativos de Australia.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

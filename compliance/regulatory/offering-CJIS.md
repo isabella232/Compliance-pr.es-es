@@ -2,7 +2,7 @@
 title: Directiva de seguridad de Criminal Justice Information Services (CJIS)
 description: Los servicios en la nube del gobierno de Microsoft se adhieren a la Directiva de seguridad de servicios de información de justicia penal de Estados Unidos.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cdcf6bb91e7bd6b01a7a4372f33e2f52089d1f0c4fed3c327b85a3a13eafeac2
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292537"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482735"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Directiva de seguridad de Criminal Justice Information Services (CJIS)
 
@@ -43,7 +43,7 @@ Microsoft ha evaluado las directivas operativas y los procedimientos de Microsof
 
 Obtenga información sobre las ventajas de la directiva de seguridad de CJIS en Microsoft Cloud: [lea cómo Genetec borró las investigaciones penales](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure Government
 - Dynamics 365 U.S. Government
@@ -82,7 +82,7 @@ Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Florida, 
 
 El compromiso de Microsoft de cumplir con los controles normativos CJIS aplicables permite a las organizaciones de justicia penal implementar soluciones basadas en la nube y cumplir con la directiva de seguridad CJIS V5.9.
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Dónde puedo solicitar información de cumplimiento?**
 
@@ -104,6 +104,6 @@ Microsoft firma un acuerdo de información con una agencia estatal de sistemas C
 
 - [Servicios de información de justicia penal](https://aka.ms/cjis)
 - [Directiva de seguridad de CJIS](https://aka.ms/cjis-security-policy)
-- [Marco de Cumplimiento del Centro de Controles Comunes de Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
+- [Marco de cumplimiento del centro de controles comunes de Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Nube de Microsoft para la Administración Pública](https://go.microsoft.com/fwlink/?linkid=2087246)
 - [Cumplimiento normativo en el Centro de confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

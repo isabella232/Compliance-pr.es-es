@@ -2,7 +2,7 @@
 title: Nivel de impacto del Departamento de Defensa (DoD) 2 (IL2)
 description: Obtenga información sobre cómo Microsoft cumple los estándares de Nivel de impacto 2 (IL2) del Departamento de Defensa (DoD).
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0c44d77772eef6321d716aa87f34d0472401fb30092dde324120e2d9d82a1a3d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c57183a53c563fffa2bb3eb1cedb2fca23db26f4
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288229"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482453"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>Nivel de impacto del Departamento de Defensa (DoD) 2 (IL2)
 
@@ -35,7 +35,7 @@ El 15 de diciembre de [2014,](https://www.esi.mil/contentview.aspx?id=585) el me
 
 La sección [5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) doD de SRG de los controles de seguridad *de FedRAMP* indica que la información de IL2 puede hospedarse en un CSP que tenga como mínimo un PA moderado de FedRAMP y un PA de nivel 2 doD, sujeto al cumplimiento de los requisitos de seguridad del personal descritos en la sección 5.6.2. Sin embargo, este enfoque no ayuda al CSP a cumplir otros requisitos de seguridad e integración según lo requiera el propietario de la misión. De acuerdo con la sección [5.2.2.1 de la sección 5.2.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) de los requisitos de ubicación y separación de SRG, DoD IL2 PA está adecuadamente cubierto por un FedRAMP Moderate PA de modo que los requisitos no se evaluarán adicionalmente para un PA IL2.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure
 - Dynamics 365

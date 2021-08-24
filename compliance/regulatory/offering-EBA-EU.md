@@ -2,7 +2,7 @@
 title: Autoridad bancaria europea (ABE)
 description: Guía de Microsoft para ayudar a las instituciones financieras de la UE a seguir las recomendaciones de la EBA para la adopción de la nube.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cd3839419839fa12e7f570540a69c3de42c98f8a87e944629d01a2a084ce13e1
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 2ed2ce303b0db91162915fbb894faa7d806582a0
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287649"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482725"
 ---
 # <a name="european-banking-authority-eba"></a>Autoridad bancaria europea (ABE)
 

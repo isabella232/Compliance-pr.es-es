@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 287611c897a14b87fdfcd280e1457291863cdba339b6281fe0755eda3f2a859a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 9b152aedd872c43d58b248f846d5550117566442
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290933"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481932"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>Aislamiento y control de acceso en Microsoft 365
 
@@ -37,7 +37,7 @@ Dentro de este modelo, no hay un solo origen de datos de directorio. Los sistema
 
 Microsoft 365 el almacenamiento físico y el almacenamiento en la nube de Azure. Exchange Online (incluidos Exchange Online Protection) y Skype Empresarial su propio almacenamiento para los datos del cliente. SharePoint Online usa tanto SQL Server almacenamiento como Azure Storage, de ahí la necesidad de aislamiento adicional de los datos de los clientes en el nivel de almacenamiento.
 
-## <a name="exchange-online"></a>Exchange Online
+## <a name="exchange-online"></a>Exchange en línea
 
 Exchange Online los datos de cliente en los buzones. Los buzones se hospedan en bases de datos extensibles Storage motor de correo (ESE) denominadas bases de datos de buzones de correo. Esto incluye buzones de usuario, buzones vinculados, buzones compartidos y buzones de carpetas públicas. Los buzones de usuario incluyen Skype Empresarial contenido guardado, como historiales de conversaciones.
 

@@ -2,7 +2,7 @@
 title: 'Medidas de seguridad de alto nivel: el Esquema Nacional de Seguridad de España (ENS)'
 description: Microsoft ha recibido el certificado del Esquema Nacional de Seguridad de España.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8b201231ba8e605e2afe7bf2e8aba5a4cb21d88f
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: bfdaaab4cc119460b5dc44124b8f92ab9ea070cd
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260526"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482715"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Medidas de seguridad de alto nivel: el Esquema Nacional de Seguridad de España (ENS)
 
@@ -41,7 +41,7 @@ El esquema prescribe un proceso de acreditación voluntario para los sistemas qu
 
 Microsoft Azure y Microsoft Office 365 han superado un proceso de rigurosa evaluación por BDO, un auditor independiente, que les ha proporcionado un informe oficial de cumplimiento. BDO informa de que las medidas de seguridad de los servicios, así como sus sistemas de información y recursos de procesamiento de datos, cumplen en el nivel alto con RD 3/2010 sin necesidad de medidas correctivas. Microsoft fue el primer proveedor de servicios de nube ampliados en recibir esta certificación en España.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure
 - Office 365

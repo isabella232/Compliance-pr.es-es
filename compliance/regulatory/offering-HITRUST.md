@@ -2,7 +2,7 @@
 title: Marco común de seguridad (CSF) de Health Information Trust Alliance (HITRUST)
 description: Azure y Office 365 certificado del Marco común de seguridad (CSF) de Health Information Trust Alliance (HITRUST).
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e910593e80c49acf7f1e94c9ade74fb51f225912
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260704"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482975"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Marco común de seguridad (CSF) de Health Information Trust Alliance (HITRUST)
 
@@ -41,7 +41,7 @@ Obtenga información sobre cómo acelerar la implementación de HITRUST con nues
 
 [Descargue el Microsoft Azure de matriz de responsabilidad del cliente (CRM) de HITRUST v9.0d](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=3ccde498-4761-4be0-be8b-cd8d379a3a4f&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_Healthcare_Blueprint)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure y Azure Government
 - Intune

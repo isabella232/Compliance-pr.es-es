@@ -2,7 +2,7 @@
 title: Programa Federal de Administración de Autorizaciones y Riesgo (FedRAMP)
 description: A Microsoft se le concedió el Programa federal de administración de riesgos y autorización de Estados Unidos P-ATOs y ATOs.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292777"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482945"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>Programa Federal de Administración de Autorizaciones y Riesgo (FedRAMP)
 
@@ -47,7 +47,7 @@ Los servicios en la nube gubernamentales de Microsoft, incluidos Azure Governmen
 
 Los servicios en la nube del gobierno de Microsoft ofrecen a los clientes del sector público una amplia variedad de servicios compatibles con FedRAMP y herramientas sólidas de guía e implementación, incluido el plan [de FedRAMP High,](https://aka.ms/fedrampblueprint)que ayuda a los clientes a implementar un conjunto básico de directivas para cualquier arquitectura implementada en Azure que debe implementar los controles FedRAMP High.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure y Azure Government
 - [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
@@ -85,7 +85,7 @@ Microsoft debe recertificar sus servicios en la nube cada año para mantener sus
 
 - [Informes de auditoría de Microsoft FedRAMP](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Los servicios en la nube de Microsoft cumplen con la Ley federal de administración de seguridad de la información (FISMA)?**
 

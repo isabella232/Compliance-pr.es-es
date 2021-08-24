@@ -2,7 +2,7 @@
 title: Regla 1.31(c-d) de la Comisión de Negociación de Futuros de Materias Primas (CFTC) Estados Unidos
 description: Una firma de evaluación independiente validó que Azure y Office 365 pueden ayudar a las empresas financieras a cumplir con los requisitos de retención de registros y almacenamiento inmutable de la Regla 1.31 de CFTC.
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bc2577e8841798543881b0431c130d1d9cc487af
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 86e3c24be220da0cf29f66fc87d4642fa5270303
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260622"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482745"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>Regla 1.31(c-d) de la Comisión de Negociación de Futuros de Materias Primas (CFTC) Estados Unidos
 

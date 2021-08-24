@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d0ef6dc92820089259cd315713c0e7e4a9e11aaec50d731b15cd6e826a721107
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 6c20c62feb1ff3ab23eeb97d5ad11abb5ad85a07
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292757"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481762"
 ---
 # <a name="securing-the-microsoft-365-infrastructure"></a>Asegurando la infraestructura de Microsoft 365
 
@@ -45,7 +45,7 @@ Siete principios de seguridad basan nuestro  marco en proteger los servicios de 
 - **Automatizado** y automático: Microsoft se centra en desarrollar arquitecturas y productos duraderos que puedan aplicar de forma inteligente y automática la seguridad del servicio, al tiempo que ofrece a los ingenieros de Microsoft la capacidad de administrar de forma segura las respuestas a las amenazas de seguridad a escala.
 - **Seguridad adaptable:** las capacidades de seguridad de Microsoft se adaptan y se mejoran mediante modelos de aprendizaje automático, pruebas de penetración rutinarias y evaluaciones automatizadas.
 
-## <a name="protection"></a>Protección
+## <a name="protection"></a>Protection
 
 ### <a name="access-control"></a>Control de acceso
 

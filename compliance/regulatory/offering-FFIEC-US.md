@@ -2,7 +2,7 @@
 title: Consejo de examen de instituciones financieras federales (FFIEC)
 description: Microsoft ayuda a los clientes de servicios financieros a cumplir con los requisitos de auditoría del Consejo federal de examen de instituciones financieras (FFIEC).
 keywords: Microsoft 365, cumplimiento, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1830d0d61fe0787d7f8e8034af2e4ca64bdb0bc8
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 1c2d1167a68362be700a7cf39cf2cdd7bf61ca97
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261028"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482695"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Consejo de examen de instituciones financieras federales (FFIEC)
 
@@ -39,7 +39,7 @@ Para ayudar a los clientes de las instituciones financieras a cumplir sus requis
 
 Para ayudarle a cumplir con los requisitos de FFIEC, los servicios en la nube de Microsoft proporcionan informes de atestación [SOC](offering-SOC.md) producidos por una firma independiente de CPA. Por ejemplo, la atestación SOC 1 tipo 2 se basa en el estándar AICPA SSAE 18 (vea la sección 105 de AT-C) que reemplazó a SAS 70 y es adecuada para informar sobre determinados controles para la presentación de informes financieros. Los informes soc incluyen la opinión del auditor sobre la eficacia de los controles de Microsoft para lograr los objetivos de control relacionados durante el período de supervisión especificado. Las instituciones financieras pueden usar esta auditoría formal al cumplir las obligaciones de cumplimiento específicas de FFIEC para los activos implementados en Azure, Power BI y Office 365.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - Azure
 - Intune

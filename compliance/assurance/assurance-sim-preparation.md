@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 f1.keywords:
@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: faa44ccc21ce4252745b7878bf0a280c7ec69f7a5d51e96a236a68359cf8f4ea
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ca194511e000a7d98ddd89ae9ef85a1ee1ee01bd
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291788"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481672"
 ---
 # <a name="microsoft-security-incident-management-preparation"></a>Administración de incidentes de seguridad de Microsoft: Preparación
 
