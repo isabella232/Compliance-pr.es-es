@@ -17,30 +17,18 @@ metadata:
   ms.date: 11/30/2020
 highlightedContent:
   items:
-    - title: Tareas rápidas para empezar a usar el Centro de cumplimiento de Microsoft 365
-      itemType: get-started
-      url: /microsoft-365/compliance/compliance-quick-tasks
-    - title: Implementación de protección de la información para las normativas de privacidad de los datos
-      itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
-    - title: Obtenga información sobre la responsabilidad compartida en la nube
-      itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility
     - title: Información sobre cómo protege Microsoft los datos de los clientes
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
+    - title: Obtenga información sobre la responsabilidad compartida en la nube
+      itemType: overview
+      url: /azure/security/fundamentals/shared-responsibility
     - title: Información sobre el Administrador de cumplimiento de Microsoft
       itemType: learn
       url: /learn/paths/compmgmt/
-    - title: Administrar el riesgo interno en Microsoft 365
-      itemType: learn
-      url: /learn/paths/m365-compliance-insider/
-    - title: Administrar el gobierno y la protección de la información
-      itemType: learn
-      url: /learn/paths/m365-compliance-information/
-    - title: Obtenga información sobre Advanced eDiscovery auditoría avanzada
-      itemType: learn
-      url: /learn/paths/compliance-discover/
+    - title: Introducción a las Microsoft 365 de soluciones de cumplimiento normativo
+      itemType: get-started
+      url: /microsoft-365/solutions/information-protection-deploy
 productDirectory:
   title: Cumplimiento normativo & sector
   summary: Instrucciones de Microsoft sobre el cumplimiento de las áreas del sector y los estándares & estándares y reglamentos nacionales.
@@ -68,7 +56,7 @@ conceptualContent:
           text: Más información sobre la arquitectura
         - url: /compliance/assurance/assurance-architecture
           itemType: concept
-          text: Información general sobre la arquitectura
+          text: Introducción a la arquitectura
     - title: Registro de auditoría
       links:
         - url: /learn/modules/audit-logging-monitoring/

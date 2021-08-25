@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e4fd87384f7be620ab755f29031b52e8877582ce
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 57e5a9140c7a4aaff49bceb798bb6815e675f328
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482463"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505933"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>Regla 17a-4(f) de la Comisión de Valores Exchange (SEC) Estados Unidos
 
@@ -39,21 +39,36 @@ Los clientes de servicios financieros, que representan una de las industrias má
 
 Microsoft Azure Los blobs inmutables Storage bloqueo de directivas y Microsoft Office 365 con bloqueo de conservación pueden ayudar a las instituciones financieras a cumplir los requisitos de almacenamiento inmutables de la regla 17a-4(f) de la SEC.
 
-Para evaluar el cumplimiento de Azure y Office 365 con la regla 17a-4(f) de la SEC, Microsoft conservó una firma de evaluación independiente especializada en administración de registros y gobierno de la información, Cohasset Associates. En el informe resultante para:
-
-- **Azure**: [SEC 17a-4(f) Evaluación](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)del cumplimiento: Microsoft Azure Storage , Cohasset validó que Azure Immutable Blob Storage con la opción Bloqueo de directivas, cuando se usa para retener blobs basados en tiempo en un formato no eliminable y no reescribible (WORM), cumple los requisitos de almacenamiento inmutables de la regla SEC. [](/azure/storage/blobs/storage-blob-immutable-storage) Cada blob (registro) está protegido para que no se modifique, sobrescriba o elimine hasta que haya expirado el período de retención requerido y se hayan liberado las retenciones legales asociadas. Los proveedores de software y asociados con cargas de trabajo confidenciales ahora pueden confiar en Azure Immutable Blob Storage como una solución en la nube de onestop-shop para la retención de registros y el almacenamiento inmutable. Las instituciones financieras ahora pueden crear sus propias aplicaciones aprovechando estas características mientras se mantienen conformes.
-- **Microsoft 365:** Para los requisitos de [sec 17a-4(f),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset validó que Microsoft 365 incluye características de archivado que permiten a los clientes regulados, incluidos los agentes de bolsa, almacenar datos de una manera que les ayude a cumplir con los requisitos de la SEC para la retención de registros. Las características de retención Microsoft 365 ayudan a conservar una amplia variedad de datos, incluidos el correo electrónico, el correo de voz, los documentos compartidos, los mensajes instantáneos y los datos de terceros. En particular, el archivado en Microsoft 365 permite a los clientes establecer directivas de retención de mensajería globales o granulares para almacenar datos durante un período definido y más allá en un formato no reescribible y no eliminable.
-
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
+
+## <a name="independent-assessments"></a>Evaluaciones independientes
+
+Para evaluar el cumplimiento de Azure y Office 365 con la regla 17a-4(f) de la SEC, Microsoft conservó una firma de evaluación independiente especializada en administración de registros y gobierno de la información, Cohasset Associates.
+
+### <a name="azure"></a>Azure
+
+[El almacenamiento inmutable para Azure Blob Storage](/azure/storage/blobs/storage-blob-immutable-storage) permite a los usuarios almacenar registros críticos para la empresa en un estado de escritura una vez leídos muchos (WORM). Este estado hace que los datos no se pueden borrar y no se pueden modifican para un intervalo especificado por el usuario. Durante el intervalo de retención, los blobs se pueden crear y leer, pero no se pueden modificar ni eliminar. Estas características del almacenamiento inmutable de Azure pueden ayudar a los clientes a cumplir sus requisitos de retención de registros.
+
+Microsoft retuvo una firma de evaluación independiente de terceros que se especializa en la administración de registros y el gobierno de la información para evaluar el almacenamiento inmutable para el cumplimiento del almacenamiento de blobs de Azure con los requisitos de la Regla 17a-4(f) de la SEC. El informe *[resultante Cohasset Assessment: Microsoft Azure WORM Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)* está disponible para los clientes.
+
+El evaluador opina que Azure Storage con la característica de almacenamiento inmutable  para *blobs* de Azure y la opción de directiva basada en tiempo bloqueada conserva blobs (registros) basados en tiempo en un formato no modificable y no modificable y cumple los requisitos de almacenamiento pertinentes de la Regla 17a-4(f), la Regla [FINRA 4511(c)](/azure/compliance/offering-finra-4511-us.md)y los requisitos basados en principios de la Regla [1.31(c)-(d)](offering-cftc-1-31-us.md)de CFTC .
+
+A petición, Microsoft también proporcionará una carta de *90* días necesaria para cumplir los requisitos sec 17a-4(f)(2) para que los clientes notifiquen a su autoridad examinadora designada al menos 90 días antes de usar medios de almacenamiento electrónico. Como se indica en el reglamento, "el miembro, agente o distribuidor debe proporcionar su propia representación o una del proveedor de medios de almacenamiento u otro tercero con la experiencia adecuada para que el medio de almacenamiento seleccionado cumpla las condiciones establecidas en este párrafo (f)(2)." Para obtener la Certificación de *Microsoft* de Storage Media Services electrónico para la regla 17a-4 [](https://azure.microsoft.com/support/create-ticket/) de la SEC, los clientes con un plan de soporte técnico de [Azure](https://azure.microsoft.com/support/plans/) pueden crear un vale de soporte técnico en Azure Portal y solicitar la carta de atestación para la regla 17a-4 de la SEC. En este documento, Microsoft proporciona garantías relevantes para los requisitos de la SEC 17a-4(f)(2).
+
+### <a name="office-365"></a>Office 365
+
+Para los requisitos de [sec 17a-4(f),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset validó que Microsoft 365 incluye características de archivado que permiten a los clientes regulados, incluidos los agentes de corretaje, almacenar datos de una manera que les ayude a cumplir con los requisitos de la SEC para la retención de registros. Las características de retención Microsoft 365 ayudan a conservar una amplia variedad de datos, incluidos el correo electrónico, el correo de voz, los documentos compartidos, los mensajes instantáneos y los datos de terceros. En particular, el archivado en Microsoft 365 permite a los clientes establecer directivas de retención de mensajería globales o granulares para almacenar datos durante un período definido y más allá en un formato no reescribible y no eliminable.
 
 ## <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
 ### <a name="azure--sec-rule-17"></a>Regla 17 & SEC de Azure
 
 - [SEC 17a-4(f) & CFTC 1.31 (c-d) Evaluación del cumplimiento de Azure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
+
+Microsoft *Attestation of Electronic Storage Media Services* for SEC Rule 17a-4 can be requested by creating a support [ticket](https://azure.microsoft.com/support/create-ticket/) with [Azure support](https://azure.microsoft.com/support/plans/). En esta carta de atestación, Microsoft proporciona garantías para ayudar a los clientes a cumplir con los requisitos sec 17a-4(f)(2).
 
 ### <a name="office-365--sec-rule-17"></a>Office 365 & regla 17 de la SEC
 
@@ -79,11 +94,12 @@ Use información general sobre casos, tutoriales y otros recursos para crear sol
 
 ## <a name="resources"></a>Recursos
 
+- [Documentación de cumplimiento de Azure](/azure/compliance/)
+- [Azure habilita un mundo de cumplimiento](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Regla](https://www.sec.gov/) [17a-4](https://www.sec.gov/rules/final/34-38245.txt) Exchange de valores y valores (SEC)
+- [Recursos de servicios financieros de Microsoft Cloud](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
+- [Programa de cumplimiento de servicios financieros de Microsoft Cloud](https://aka.ms/FSCP-Print)
+- [Mapa de cumplimiento de los principios normativos de informática en la nube y los servicios en línea de Microsoft](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [Guía de evaluación y cumplimiento de riesgos para instituciones financieras en Microsoft Cloud](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)
+- [Casos de uso del sector de servicios financieros](/azure/industry/financial/)
 - [Archivado en Microsoft Office 365, retención de datos y regla 17a-4](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
-- [Cumplimiento de Microsoft Financial Services](https://download.microsoft.com/download/6/4/7/64707E3E-6D3E-45D0-8207-A0EA3201B4A6/Microsoft%20Cloud%20-%20Financial%20Services%20Compliance%20Program%20\(Print\).pdf)
-- [Programa de cumplimiento Servicios en la nube empresarial de Microsoft y servicios financieros](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
-- [Cumplimiento de los servicios financieros en Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Herramienta de evaluación de riesgos en la nube para servicios financieros de Azure](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Microsoft Office 365 Directivas de retención](/office365/securitycompliance/retention-policies)
-- [Microsoft Financial Services Community](https://techcommunity.microsoft.com/t5/financial-services/ct-p/FinancialServices)
-- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
