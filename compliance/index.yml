@@ -28,7 +28,7 @@ highlightedContent:
       url: /learn/paths/compmgmt/
     - title: Introducción a las Microsoft 365 de soluciones de cumplimiento normativo
       itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
+      url: /microsoft-365/solutions/
 productDirectory:
   title: Cumplimiento normativo & sector
   summary: Instrucciones de Microsoft sobre el cumplimiento de las áreas del sector y los estándares & estándares y reglamentos nacionales.
