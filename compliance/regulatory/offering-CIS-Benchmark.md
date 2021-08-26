@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3084bc6e70bb1c2d9aa1e199a8e1bc4bde8fb2b5
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 18da1f6b422327f42dc517fa0f9c8abe9c91e253
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482503"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505923"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Indicadores del Centro de seguridad de internet (CSI)
 
@@ -42,13 +42,17 @@ Los puntos de referencia CSI proporcionan dos niveles de configuración de segur
 
 ## <a name="microsoft-and-the-cis-benchmarks"></a>Microsoft y los indicadores de CSI
 
-El Centro para la seguridad de internet (CSI) ha publicado indicadores para los productos y servicios de Microsoft, incluyendo Microsoft Azure y Microsoft 365 Foundations Benchmarks, Windows 10 Benchmark y Windows Server 2016 Benchmark.  
+El Centro para la seguridad de internet (CSI) ha publicado indicadores para los productos y servicios de Microsoft, incluyendo Microsoft Azure y Microsoft 365 Foundations Benchmarks, Windows 10 Benchmark y Windows Server 2016 Benchmark. El [CIS Microsoft Azure Foundations Benchmark](https://www.cisecurity.org/benchmark/azure/) está pensado para los clientes que planean desarrollar, implementar, evaluar o proteger soluciones que incorporan Azure. El documento proporciona instrucciones prescriptivas para establecer una configuración de línea base segura para Azure.
   
 Los puntos de referencia CSI son reconocidos internacionalmente como estándares de seguridad para la defensa de sistemas y datos de IT contra ciberataques. Utilizados por miles de empresas, ofrecen una guía prescriptiva para establecer una configuración de línea de base segura. Los administradores de sistemas y aplicaciones, los especialistas en seguridad y otros que desarrollan soluciones utilizando productos y servicios de Microsoft pueden utilizar estas mejores prácticas para evaluar y mejorar la seguridad de sus aplicaciones.  
   
 Como todos los indicadores de CSI, los indicadores de Microsoft se crearon mediante un proceso de revisión por consenso basado en las aportaciones de expertos en la materia con diversos antecedentes que abarcan el desarrollo de software, la auditoría y el cumplimiento, la investigación sobre seguridad, operaciones, gobierno y legislación. Microsoft fue un socio integral en estos esfuerzos de CSI. Por ejemplo, Office 365 fue probado contra los servicios listados, y el resultante Microsoft 365 Foundations Benchmark cubre un amplio rango de recomendaciones para establecer políticas de seguridad apropiadas que cubren cuentas y autenticación, administración de datos, permisos de aplicaciones, almacenamiento y otras áreas de políticas de seguridad.  
   
-Además de los puntos de referencia para los productos y servicios de Microsoft, CSI también ha publicado [imágenes protegidas de CSI para su uso en máquinas virtuales Azure](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/)configuradas para cumplir con los indicadores de CSI. Estos incluyen el protector de imágenes CSI de Microsoft Windows Server 2016 certificado para funcionar en Azure. CIS declara que "todas las imágenes protegidas de CIS que están disponibles en el [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?search=center%20for%20internet%20security) están certificadas para funcionar en Azure. Se han sometido a pruebas previas de preparación y compatibilidad con la nube pública de Azure, la plataforma en la nube de Microsoft alojada por proveedores de servicios a través de la red Cloud OS y las implementaciones de Windows Server Hyper-V en nube privada local gestionadas por los clientes".
+Además de las pruebas comparativas para los productos y servicios de Microsoft, CSI ha publicado [Las imágenes protegidas CSI en Azure](https://www.cisecurity.org/cis-hardened-images/microsoft/)configuradas para cumplir con las pruebas comparativas de la CSI y disponibles en Microsoft Azure Marketplace. Estas imágenes incluyen Imágenes protegidas CSI para Windows Server 2016 y Windows Server 2019, así como muchas versiones de Linux. Todas las imágenes protegidas CSI que están disponibles en Azure Marketplace están certificadas para ejecutarse en Microsoft Azure. Como [indica el CSI](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/), "se han probado previamente para su preparación y compatibilidad con la nube pública Microsoft Azure, la plataforma en la nube de Microsoft hospedada por los proveedores de servicios a través de Cloud OS Network y las implementaciones de Windows Server Hyper-V de nube privada local administradas por los clientes".
+
+[Imágenes protegidas CSI](https://www.cisecurity.org/cis-hardened-images/)son imágenes de máquinas virtuales configuradas de forma segura basadas en los bancos de pruebas CSI protegidos a un perfil de referencia CSI de Nivel 1 o Nivel 2. La protección es un proceso que ayuda a proteger contra el acceso no autorizado, la denegación de servicio y otras ciberamenazas al limitar los posibles puntos débiles que hacen que los sistemas sean vulnerables a los ciberataques. Las imágenes protegidas CSI están disponibles tanto en Azure como en Azure Government.
+
+Para obtener asistencia adicional al cliente, Microsoft proporciona [Azure Blueprints](https://azure.microsoft.com/services/blueprints/), que es un servicio que le ayuda a implementar y actualizar entornos en la nube de forma repetible mediante artefactos que admiten composición como plantillas de Azure Resource Manager para aprovisionar recursos, controles de acceso basados en roles y directivas. Los recursos aprovisionados a través de Azure Blueprints cumplen los estándares, patrones y requisitos de cumplimiento de una organización. El objetivo general de Azure Blueprints es ayudar a automatizar el cumplimiento y la administración de riesgos de ciberseguridad en entornos en la nube. Para ayudarle a implementar un conjunto básico de directivas para cualquier arquitectura basada en Azure que debe implementar las recomendaciones de CIS Azure Foundations Benchmark, Microsoft ha publicado [Azure Blueprint for CIS Microsoft Azure Foundations Benchmark](/azure/governance/blueprints/samples/cis-azure-1-3-0). Cuando se asigna a una arquitectura, Azure Policy evalúa los recursos para el cumplimiento de las definiciones de directiva asignadas.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
 
@@ -94,7 +98,15 @@ El CIS señala que sus "bancos de pruebas se desarrollan gracias a los generosos
 
 ## <a name="resources"></a>Recursos
 
-- [Mejores prácticas de CIS para el uso seguro de Microsoft 365](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
+- [Documentación de cumplimiento de Azure](/azure/compliance/)
+- [Azure habilita un mundo de cumplimiento](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Ofertas del Centro de cumplimiento de Microsoft 365](/compliance/regulatory/offering-home)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [CIS Microsoft Azure Foundations Benchmark](https://www.cisecurity.org/benchmark/azure/) proporciona una lista de comprobación paso a paso para proteger Azure.
+- [Las imágenes protegidas de CSI en Microsoft Azure](https://www.cisecurity.org/cis-hardened-images/microsoft/) están certificadas y preconfiguradas por Azure para las recomendaciones de seguridad de las pruebas comparativas de la CSI.  Están disponibles en Azure y Azure Government.
+- [Azure Blueprint for CIS Microsoft Azure Foundations Benchmark](/azure/governance/blueprints/samples/cis-azure-1-3-0) ayuda a los clientes a implementar un conjunto principal de directivas para cualquier arquitectura basada en Azure que debe implementar las recomendaciones de CIS Azure Foundations Benchmark.
+- [La asignación de recomendaciones de Azure Policy](/azure/governance/policy/samples/cis-azure-1-3-0) proporciona detalles sobre las definiciones de políticas incluidas en el plano técnico anterior y cómo estas definiciones de políticas se asignan a los dominios de cumplimiento y controles en CIS Microsoft Azure Foundations Benchmark. Cuando se asigna a una arquitectura, Azure Policy evalúa los recursos por el incumplimiento de las definiciones de directiva asignadas.
+- [La Guía complementaria de controles CSI en la nube](https://www.cisecurity.org/white-papers/cis-controls-cloud-companion-guide/) proporciona orientación sobre la aplicación de las mejores prácticas de seguridad para los Controles CSI Versión 7 en los entornos de nube.
+- [CIS Microsoft 365 Foundations Benchmark](https://www.cisecurity.org/benchmark/microsoft_office/) proporciona instrucciones prescriptivas para establecer una configuración de línea base segura para Microsoft 365.
 - [Configuración de las directivas de seguridad de Windows 10](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
 - [ Seguridad de Windows 10 para empresas](/windows/security/index)
-- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
