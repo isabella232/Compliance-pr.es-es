@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ae5177f524fd8f2025198aa5155821f4aa759050
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8be83f6faa3d365e2cb91c996e2c87367797670f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481772"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678599"
 ---
 # <a name="risk-management-overview"></a>Información general sobre administración de riesgos
 
@@ -35,7 +35,7 @@ La administración de riesgos es el proceso de identificación, evaluación y re
 
 La administración de riesgos de Microsoft se alinea con el Enterprise de administración de riesgos (ERM). ERM permite el proceso general de administración de riesgos empresariales y trabaja con la administración en toda la empresa para identificar y garantizar la responsabilidad de los riesgos más importantes de Microsoft.
 
-![Estructura de administración de riesgos](../media/assurance-risk-management-structure.png)
+![Estructura de administración de riesgos.](../media/assurance-risk-management-structure.png)
 
 Microsoft ERM permite principios comunes de administración de riesgos en toda la empresa para que las unidades de negocio puedan facilitar de forma independiente evaluaciones de riesgos coherentes y comparativas. Esta coordinación ofrece a Microsoft la capacidad de agregar e informar de la información de riesgos de forma consolidada para la administración. ERM proporciona unidades de negocio en Microsoft con metodologías, herramientas y objetivos comunes para el proceso de administración de riesgos. Microsoft 365 y otros grupos de ingeniería y unidades de negocio usan estas herramientas para realizar evaluaciones de riesgos individuales como parte de sus propios programas de administración de riesgos bajo la guía de ERM.
 

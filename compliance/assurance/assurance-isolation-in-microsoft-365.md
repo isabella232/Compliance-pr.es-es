@@ -20,24 +20,24 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9b152aedd872c43d58b248f846d5550117566442
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 82378b72d8dc17441a1ab92fc7ac222d7b9d4036
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481932"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678629"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>Aislamiento y control de acceso en Microsoft 365
 
 Azure Active Directory (Azure AD) y Microsoft 365 un modelo de datos muy complejo que incluye decenas de servicios, cientos de entidades, miles de relaciones y decenas de miles de atributos. En un nivel alto, Azure AD y los directorios de servicio son los contenedores de inquilinos y destinatarios que se mantienen sincronizados mediante protocolos de replicación basados en estado. Además de la información de directorio de Azure AD, cada una de las cargas de trabajo de servicio tiene su propia infraestructura de servicios de directorio.
  
-![Microsoft 365 datos de inquilino](../media/office-365-isolation-tenant-data-sync.png)
+![Microsoft 365 datos de inquilino.](../media/office-365-isolation-tenant-data-sync.png)
 
 Dentro de este modelo, no hay un solo origen de datos de directorio. Los sistemas específicos poseen datos individuales, pero ningún sistema único contiene todos los datos. Microsoft 365 colaboran con Azure AD en este modelo de datos. Azure AD es el "sistema de verdad" para los datos compartidos, que normalmente son datos pequeños y estáticos usados por todos los servicios. El modelo federado usado en Microsoft 365 y Azure AD proporciona la vista compartida de los datos.
 
 Microsoft 365 el almacenamiento físico y el almacenamiento en la nube de Azure. Exchange Online (incluidos Exchange Online Protection) y Skype Empresarial su propio almacenamiento para los datos del cliente. SharePoint Online usa tanto SQL Server almacenamiento como Azure Storage, de ahí la necesidad de aislamiento adicional de los datos de los clientes en el nivel de almacenamiento.
 
-## <a name="exchange-online"></a>Exchange en línea
+## <a name="exchange-online"></a>Exchange Online
 
 Exchange Online los datos de cliente en los buzones. Los buzones se hospedan en bases de datos extensibles Storage motor de correo (ESE) denominadas bases de datos de buzones de correo. Esto incluye buzones de usuario, buzones vinculados, buzones compartidos y buzones de carpetas públicas. Los buzones de usuario incluyen Skype Empresarial contenido guardado, como historiales de conversaciones.
 

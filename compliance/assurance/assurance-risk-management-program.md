@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ed400fabf50cfcd7f02d9246bb4d552f62f26eef
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 56d28813cd5cf0d1f0e54ebe2f4c64b23e98d169
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481782"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678609"
 ---
-# <a name="microsoft-365-risk-management-program"></a>Programa de administración de riesgos de Microsoft 365
+# <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programa de administración de riesgos
 
 El propósito del programa Microsoft 365 administración de riesgos es identificar, evaluar y administrar los riesgos para Microsoft 365. Microsoft 365 prioridad es cumplir con las obligaciones contractuales y las acreditaciones, aumentar la confianza del cliente y mantener nuestra ventaja competitiva. Aunque el programa Microsoft 365 administración de riesgos de Enterprise funciona de forma independiente, se alinea con las directivas, prioridades y metodologías del programa de administración de riesgos de Enterprise (ERM). Trabajar con el programa ERM permite una comparación coherente entre unidades de negocio y grupos de ingeniería, lo que contribuye a un enfoque más coherente para la administración de riesgos en toda la empresa.
 
@@ -37,7 +37,7 @@ El equipo de confianza también mantiene el marco de controles de Microsoft 365,
 
 Las actividades de administración de riesgos se encuadrán en cuatro fases: identificación, evaluación, respuesta y supervisión e informes.
 
-![Actividades del proceso de administración de riesgos](../media/assurance-risk-management-review-process.png)
+![Actividades de proceso de administración de riesgos.](../media/assurance-risk-management-review-process.png)
 
 ## <a name="identification"></a>Identificación
 

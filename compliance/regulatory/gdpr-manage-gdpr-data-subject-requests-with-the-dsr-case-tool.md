@@ -20,12 +20,12 @@ ms.collection:
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 951dd6063477a29fc3d442d07886d5d62e4d0dae
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: e29c6501ce4c8f1ee645a8c4b5bf22eee6e9cab8
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482615"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678649"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-microsoft-365-compliance-center"></a>Administrar solicitudes de los interesado del RGPD con la herramienta de casos de DSR en el Centro de cumplimiento de Microsoft 365
 
@@ -106,7 +106,7 @@ El siguiente paso consiste en crear un caso de DSR. Al crear un caso, puede eleg
 
     Se muestra una página que confirma que se ha creado el nuevo caso de DSR.
 
-    ![Inicie la búsqueda o cierre la página del nuevo caso de DSR](../media/b5e62c2c-cafe-4a8d-a38c-789ed9f9ccbd.png)
+    ![Inicie la búsqueda o cierre la página del nuevo caso de DSR.](../media/b5e62c2c-cafe-4a8d-a38c-789ed9f9ccbd.png)
   
     En este punto, puede llevar a cabo una de estas dos cosas:
 
@@ -201,7 +201,7 @@ El equipo que usa para exportar datos debe cumplir los siguientes requisitos del
 
 4. En la página **Opciones de exportación**, seleccione las siguientes opciones recomendadas para solicitudes de exportación de DSR. 
 
-    ![Establecer la configuración de exportación](../media/25416b79-57da-46a1-ae07-e640602a8fa4.png)
+    ![Establecer la configuración de exportación.](../media/25416b79-57da-46a1-ae07-e640602a8fa4.png)
   
     a. En **Opciones de salida**, seleccione la primera opción (**Todos los elementos, excluidos los que tienen un formato no reconocido, están cifrados o no se han indexado por otras razones**) para exportar solo elementos indizados. El motivo por el que no quiere exportar elementos indizados parcialmente desde la búsqueda integrada es que también se exportarán elementos indizados parcialmente de otros usuarios. Para exportar solo los elementos indizados parcialmente para el interesado, le recomendamos que cree una búsqueda independiente. Para más información, vea [Exportar elementos indizados parcialmente](#exporting-partially-indexed-items) en la sección "Más información sobre el uso de la herramienta de casos de DSR".
 
@@ -221,7 +221,7 @@ El equipo que usa para exportar datos debe cumplir los siguientes requisitos del
 
 8. En **Clave de exportación**, haga clic en **Copiar al Portapapeles**. Esta clave se usa para descargar los resultados de la búsqueda en el paso 11.
 
-9. Haga clic en el ![icono Exportar resultados de búsqueda](../media/47205c65-babd-4b3a-bd7b-98dfd92883ba.png) **Descargar resultados** en la parte superior de la página desplegable de exportación. 
+9. Haga clic en el ![icono Exportar resultados de búsqueda.](../media/47205c65-babd-4b3a-bd7b-98dfd92883ba.png) **Descargar** resultados en la parte superior de la página desplegable de exportación. 
 
 10. En la ventana emergente de la parte inferior de la página, haga clic en **Abrir** para abrir la **Herramienta de exportación de eDiscovery**. La **Herramienta de exportación de eDiscovery** se instalará la primera vez que descargue los resultados de búsqueda. 
 
@@ -262,11 +262,11 @@ Para modificar las ubicaciones de contenido para buscar:
 
 2. En la consulta de búsqueda, en **Ubicaciones**, haga clic en **Modificar** junto a la opción **Ubicaciones específicas**. 
 
-    ![Haga clic en Modificar para cambiar las ubicaciones de contenido de la consulta de búsqueda integrada](../media/d66f7ba7-b71f-4ff5-a030-460ff02e3123.png)
+    ![Haga clic en Modificar para cambiar las ubicaciones de contenido de la consulta de búsqueda integrada.](../media/d66f7ba7-b71f-4ff5-a030-460ff02e3123.png)
   
     Se muestra la página desplegable **Modificar ubicaciones**. A continuación se ofrece una descripción de las ubicaciones de contenido de la búsqueda integrada e información sobre cómo modificar las ubicaciones en las que se buscan. 
 
-    ![Modificar la página desplegable de ubicaciones](../media/56c033f6-6735-46ba-abb2-a263a2b79836.png)
+    ![Modificar la página desplegable de ubicaciones.](../media/56c033f6-6735-46ba-abb2-a263a2b79836.png)
   
     a. El botón de alternancia en **Seleccionar todos** de la sección del buzón en la parte superior de la página desplegable está seleccionado, lo que indica que se buscan todos los buzones. Para restringir el ámbito de la búsqueda, haga clic en el botón de alternancia para anular la selección y, después, haga clic en **Elegir usuarios, grupos o equipos** y elija buzones específicos para buscar.
 
@@ -305,13 +305,13 @@ Al exportar datos desde el Servicio de roaming de Office, los datos se guardan e
   
 1. En el Centro de cumplimiento de Microsoft 365, haga clic en **Solicitudes de los interesados** y, después, haga clic en **Abrir caso** al lado del caso de DSR para el interesado para el que quiere exportar los datos de uso. 
 
-2. Haga clic en la pestaña **Buscar** en la parte superior de la página y, después, haga clic en ![Agregar icono](../media/ITPro-EAC-AddIcon.gif) **Búsqueda guiada**.
+2. Haga clic en la pestaña **Buscar** en la parte superior de la página y, después, haga clic en ![el icono Agregar.](../media/ITPro-EAC-AddIcon.gif) **Búsqueda guiada**.
 
 3. Haga clic en **Cancelar** en la página **Nombre de la búsqueda**. 
 
 4. En **Consulta de búsqueda**, en la condición **Tipo**, seleccione la casilla junto a **Servicio de roaming de Office**. 
 
-    ![Seleccione la casilla del Servicio de roaming de Office para exportar datos de uso](../media/O365_DSRCase_SDSDataExport1.png)
+    ![Seleccione la casilla del Servicio de roaming de Office para exportar datos de uso.](../media/O365_DSRCase_SDSDataExport1.png)
   
     La condición **Tipo** (que son clases de mensajes de correo electrónico) debería ser el único elemento de la consulta de la búsqueda. Puede eliminar el cuadro de **Palabras clave** o dejarlo en blanco. 
 
@@ -327,13 +327,13 @@ Al exportar datos desde el Servicio de roaming de Office, los datos se guardan e
 
  **Para exportar datos del Servicio de roaming de Office**:
   
-1. Cuando la búsqueda que ha creado en el paso anterior esté completa, haga clic en la pestaña **Buscar** en la parte superior de la página y, después, haga clic en la casilla situada junto a la búsqueda. Es posible que deba hacer clic en ![Actualizar](../media/165fb3ad-38a8-4dd9-9e76-296aefd96334.png)**Actualizar** para que se muestre la búsqueda.
+1. Cuando la búsqueda que ha creado en el paso anterior esté completa, haga clic en la pestaña **Buscar** en la parte superior de la página y, después, haga clic en la casilla situada junto a la búsqueda. Es posible que tenga que hacer clic en ![Actualizar. ](../media/165fb3ad-38a8-4dd9-9e76-296aefd96334.png) **Actualizar** para mostrar la búsqueda.
 
 2. En la página del control flotante, haga clic en **Exportar resultados**.
 
 3. En la página **Opciones de exportación**, seleccione las siguientes opciones recomendadas para la exportación de datos de uso. 
 
-    ![Opciones de exportación al exportar datos de uso del Servicio de roaming de Office](../media/470a7d1e-eeae-4b42-95aa-15cb82ce2f68.png)
+    ![Opciones de exportación al exportar datos de uso del Servicio de roaming de Office.](../media/470a7d1e-eeae-4b42-95aa-15cb82ce2f68.png)
   
     a. En **Opciones de salida**, seleccione la primera opción (**Todos los elementos, excluidos los que tienen un formato no reconocido, están cifrados o no se han indexado por otras razones**) para exportar solo elementos indizados.
 
@@ -351,7 +351,7 @@ Al exportar datos desde el Servicio de roaming de Office, los datos se guardan e
 
 7. En **Clave de exportación**, haga clic en **Copiar al Portapapeles**. Usará esta clave para descargar los resultados de la búsqueda en el paso 10.
 
-8. Haga clic en el ![icono Exportar resultados de búsqueda](../media/47205c65-babd-4b3a-bd7b-98dfd92883ba.png) **Descargar resultados** en la parte superior de la página desplegable de exportación. 
+8. Haga clic en el ![icono Exportar resultados de búsqueda.](../media/47205c65-babd-4b3a-bd7b-98dfd92883ba.png) **Descargar** resultados en la parte superior de la página desplegable de exportación. 
 
 9. En la ventana emergente de la parte inferior de la página, haga clic en **Abrir** para abrir la **Herramienta de exportación de eDiscovery**. La **Herramienta de exportación de eDiscovery** se instalará la primera vez que descargue los resultados de búsqueda. 
 

@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5da29f30c9f6886ce047f4e3fd51669a2f510ca8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 02df77f949cf1633017dd25f4cff17175c536d53
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481722"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676826"
 ---
 # <a name="sharepoint-and-onedrive-data-resiliency-in-microsoft-365"></a>Resistencia de datos de SharePoint y OneDrive en Microsoft 365
 
@@ -43,7 +43,7 @@ SharePoint tiene una solución personalizada para el almacenamiento de datos de 
 
 SharePoint usa Append-Only almacenamiento. Este proceso garantiza que los archivos no se puedan cambiar ni dañar después de un guardado inicial, pero también mediante el control de versiones en el producto, se puede recuperar cualquier versión anterior del contenido del archivo.
 
-![Resistencia de almacenamiento de blobs](../media/assurance-blob-storage-resiliency-diagram.png)
+![Resistencia de almacenamiento de blobs.](../media/assurance-blob-storage-resiliency-diagram.png)
 
 SharePoint entornos en cualquiera de los centros de datos pueden tener acceso a contenedores de almacenamiento en ambas regiones de Azure. Por motivos de rendimiento, siempre se prefiere el contenedor de almacenamiento en el mismo centro de datos local, pero las solicitudes de lectura que no vean resultados dentro del umbral deseado tendrán el mismo contenido solicitado desde el centro de datos remoto para garantizar que los datos estén siempre disponibles.
 
@@ -53,7 +53,7 @@ SharePoint metadatos también es fundamental para obtener acceso al contenido de
 
 SharePoint el modelo de replicación proporcionado por Azure SQL y ha creado una tecnología de automatización propietaria para determinar que se requiere una conmutación por error e iniciar la operación si es necesario. Por lo tanto, entra en la categoría "Conmutación por error manual de la base de datos" desde una perspectiva SQL Azure. Las métricas más recientes para la recuperación SQL base de datos de Azure están disponibles [aquí.](/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server)
 
-![Resistencia de metadatos](../media/assurance-metadata-resiliency-diagram.png)
+![Resistencia de metadatos.](../media/assurance-metadata-resiliency-diagram.png)
 
 SharePoint el sistema de copia de seguridad de Azure SQL para habilitar las restauraciones de punto en tiempo (PITR) durante un máximo de 14 días. PITR se trata más en una [sección posterior.](#deletion-backup-and-point-in-time-restore)
 

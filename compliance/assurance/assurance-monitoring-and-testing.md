@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 940e5a4aa0a1327da6d964d9babf0ae3fb897598
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: ff5860197375d6504bc85f257a442915dfff50cc
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481862"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678619"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Simulación de ataques en Microsoft 365
 
@@ -64,7 +64,7 @@ El equipo rojo es un grupo de personal a tiempo completo dentro de Microsoft que
 
 El rol del equipo rojo es atacar y penetrar entornos con los mismos pasos que un adversario:
 
-![Fases de vulneración](../media/office-365-isolation-breach-stages.png)
+![Fases de infracción.](../media/office-365-isolation-breach-stages.png)
 
 Entre otras funciones, los equipos rojos intentan específicamente vulnerar los límites de aislamiento de inquilinos para encontrar errores o vacíos en nuestro diseño de aislamiento.
 
@@ -86,6 +86,6 @@ Cuando un adversario, como un equipo rojo, ha vulnerado un entorno, el equipo az
 
 Estos pasos forman la respuesta a incidentes de seguridad que se ejecuta paralela a la del adversario, como se muestra a continuación:
 
-![Fases de respuesta a infracciones](../media/office-365-isolation-breach-response-stages.png)
+![Fases de respuesta de infracción.](../media/office-365-isolation-breach-response-stages.png)
 
 Las infracciones del equipo rojo permiten ejercer la capacidad del equipo azul para detectar y responder a los ataques reales de un extremo a otro. Lo más importante es que permite una respuesta a incidentes de seguridad práctica antes de una infracción original. Además, debido a las infracciones del equipo rojo, el equipo azul mejora su conciencia situacional, que puede ser valiosa cuando se trata de infracciones futuras (ya sea del equipo rojo u otro adversario). A lo largo del proceso de detección y respuesta, el equipo azul produce inteligencia procesable y obtiene visibilidad de las condiciones reales de los entornos que están intentando defender. Con frecuencia, esto se logra a través del análisis de datos y los análisis forenses, realizados por el equipo azul, al responder a los ataques del equipo rojo y al establecer indicadores de amenazas, como indicadores de peligro. Al igual que el equipo rojo identifica las diferencias en el artículo de seguridad, los equipos azules identifican las diferencias en su capacidad para detectar y responder. Además, dado que los equipos rojos modelan ataques reales, el equipo azul puede evaluarse con precisión en función de su capacidad o incapacidad para hacer frente a los adversarios determinados y persistentes. Por último, las infracciones del equipo rojo miden la preparación y el impacto de nuestra respuesta de infracción.

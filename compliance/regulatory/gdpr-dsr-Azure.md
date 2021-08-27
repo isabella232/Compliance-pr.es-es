@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 2c016cb1d13654564dcbbc3a013e6bb52e1fbb2b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 820197523e37958873853e00afdcff555408f423
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482423"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676859"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de titulares de los datos de Azure para el RGPD y la CCPA
 
@@ -97,15 +97,15 @@ Esto es útil si desea buscar o cambiar datos personales de un usuario específi
 
 2. Seleccione **Azure Active Directory**.
 
-     ![Seleccionar todos los servicios](../media/gdpr-azure-dsr-azure-portal.png)
+     ![Seleccione Todos los servicios.](../media/gdpr-azure-dsr-azure-portal.png)
 
 3. Seleccione **Usuarios**.
 
-     ![Seleccionar a los usuarios](../media/gdpr-azure-dsr-azure-all-users.png)
+     ![Seleccionar a los usuarios.](../media/gdpr-azure-dsr-azure-all-users.png)
 
 4. En la hoja **Todos los usuarios**, seleccione un usuario de la lista y, a continuación, en el módulo para el usuario seleccionado, seleccione **Perfil** para ver la información de perfil de usuario que puede contener datos personales.
 
-    ![Seleccionar perfil](../media/gdpr-azure-dsr-azure-user-profile.png)
+    ![Seleccione el perfil.](../media/gdpr-azure-dsr-azure-user-profile.png)
 
 5. Si necesita agregar o cambiar la información de perfil del usuario, puede hacerlo seleccionando **Editar** en la barra de comandos y, a continuación **Guardar** después de realizar los cambios.
 
@@ -145,17 +145,17 @@ Puede corregir, actualizar o eliminar información de identificación personal s
 
 2. Seleccione **Azure Active Directory**.
 
-    ![Seleccionar todos los servicios](../media/gdpr-azure-dsr-azure-portal.png)
+    ![Seleccione Todos los servicios.](../media/gdpr-azure-dsr-azure-portal.png)
 
 3. Seleccione **Usuarios**.
 
-    ![Seleccionar a los usuarios](../media/gdpr-azure-dsr-azure-all-users.png)
+    ![Seleccionar a los usuarios.](../media/gdpr-azure-dsr-azure-all-users.png)
 
 4. En la hoja **Todos los usuarios**, seleccione un usuario de la lista y, a continuación, en el módulo para el usuario seleccionado, seleccione **Perfil** para ver la información que debe corregirse o actualizarse.
 
-    ![Seleccionar perfil de usuario](../media/gdpr-azure-dsr-azure-user-profile.png)
+    ![Seleccione el perfil de usuario.](../media/gdpr-azure-dsr-azure-user-profile.png)
 
-5. Para corregir o actualizar la información de perfil del usuario, incluida la información de trabajo, seleccionando **Editar** en la barra de comandos y, a continuación  **Guardar** después de realizar los cambios.
+5. Para corregir o actualizar la información de perfil del usuario, incluida la información de trabajo, seleccionando **Editar** en la barra de comandos y  **Guardar** después de realizar los cambios.
 
     ![Seleccione Editar.](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
 
@@ -194,26 +194,26 @@ Este el proceso de alto nivel para borrar usuarios de su inquilino.
 
 2. Seleccione **Azure Active Directory**.
 
-    ![Seleccionar todos los servicios](../media/gdpr-azure-dsr-azure-portal.png)
+    ![Seleccione Todos los servicios.](../media/gdpr-azure-dsr-azure-portal.png)
 
 3. Seleccione **Usuarios**.
 
-    ![Seleccionar a los usuarios](../media/gdpr-azure-dsr-azure-all-users.png)
+    ![Seleccionar a los usuarios.](../media/gdpr-azure-dsr-azure-all-users.png)
 
 4. Active la casilla situada junto al usuario que desea eliminar, seleccione **Eliminar usuario** y después seleccione **Sí** en el cuadro que le pregunta si desea eliminar el usuario.
 
-    ![Administración de usuarios](../media/gdpr-azure-dsr-azure-selected-user.png)
+    ![Administración de usuarios.](../media/gdpr-azure-dsr-azure-selected-user.png)
 
-5. En **Todos los usuarios** en la hoja, seleccione **Usuarios eliminados**.
+5. En la hoja  **Todos los usuarios** , seleccione  **Usuarios eliminados**.
 
-    ![Ver el perfil del usuario](../media/gdpr-azure-dsr-azure-deleted-user.png)
+    ![Ver el perfil del usuario.](../media/gdpr-azure-dsr-azure-deleted-user.png)
 
 4. Vuelva a seleccionar el mismo usuario, seleccione  **Eliminar permanentemente** en la barra de comandos y luego seleccione **Sí**  en el cuadro que le pregunta si está seguro.
 
 >[!IMPORTANT]  
 >Tenga en cuenta que al hacer clic en **Sí** eliminará el usuario y todos los datos y registros generados por el sistema asociados de forma permanente e irrevocable. Si hace esto por error, tendrá que volver a agregar al usuario al inquilino de forma manual. Los datos asociados y los registros generados por el sistema no se pueden recuperar.
 
-   ![Ver información de trabajo del usuario](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
+   ![Ver información de trabajo del usuario.](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
 
 #### <a name="service-specific-interfaces"></a>Interfaces específicas del servicio
 
@@ -289,15 +289,15 @@ Aquí está el proceso de alto nivel para exportar los datos de su inquilino.
 
 1. Abra Azure Portal, seleccione **Todos los servicios**, escriba *directiva* en el filtro y seleccione **Directiva**.
 
-     ![Filtro Todos los servicios ](../media/gdpr-azure-dsr-azure-policy.png)
+     ![Filtro Todos los servicios.](../media/gdpr-azure-dsr-azure-policy.png)
 
-2. En la hoja **Directiva**, seleccione **Privacidad del usuario**, a continuación **Administrar las solicitudes de usuario** y después **Agregar solicitud de exportación**.
+2. En la hoja **Directiva**, seleccione **Privacidad del usuario**, **Administrar las solicitudes de usuario** y después **Agregar solicitud de exportación**.
 
-    ![Agregar solicitud de exportación ](../media/gdpr-azure-dsr-azure-add-export-request.png)
+    ![Agregar solicitud de exportación.](../media/gdpr-azure-dsr-azure-add-export-request.png)
 
 3. Completar la **solicitud de exportación de datos**:
 
-    ![Nueva solicitud de exportación de datos](../media/gdpr-azure-dsr-azure-export-data-request.png)
+    ![Nueva solicitud de exportación de datos.](../media/gdpr-azure-dsr-azure-export-data-request.png)
 
 - **Usuario.** Escriba la dirección de correo electrónico del usuario de Azure Active Directory que solicita la exportación.
 - **Suscripción.** Seleccione la cuenta que usa para informar del uso de recursos y para facturar por servicios. Esta también es la ubicación de la cuenta de almacenamiento de Azure.
