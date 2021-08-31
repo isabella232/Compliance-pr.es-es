@@ -1,7 +1,7 @@
 ---
 title: Regla 4511(c) de la Autoridad reguladora de la industria financiera (FINRA) Estados Unidos
 description: Una firma de evaluación independiente validó que Azure y Office 365 pueden ayudar a las empresas financieras a cumplir los requisitos de retención de registros y almacenamiento inmutable de la Regla 4511 de FINRA.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: addcf3852fda46989e75b18bd323d86aa1981d4e
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479772"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707149"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Regla 4511(c) de la Autoridad reguladora de la industria financiera (FINRA) Estados Unidos
 
@@ -41,7 +41,7 @@ Microsoft Azure Los blobs inmutables Storage bloqueo de directivas y Microsoft O
 
 ## <a name="microsoft-azure"></a>Microsoft Azure
 
-Para evaluar el cumplimiento de Azure con la regla 4511(c) de FINRA, Microsoft conservó una firma de evaluación independiente especializada en administración de registros y gobierno de información, Cohasset Associates. El informe resultante, [SEC 17a-4(f) & CFTC 1.31 (c-d) Evaluación](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)del cumplimiento: Microsoft Azure Storage , abarca el cumplimiento de Azure con la regla FINRA 4511(c), que aplaza los requisitos de formato y medios de la regla 17a-4(f) de la SEC.
+Para evaluar el cumplimiento de Azure con la regla 4511(c) de FINRA, Microsoft conservó una firma de evaluación independiente especializada en administración de registros y gobierno de información, Cohasset Associates. El informe resultante, [SEC 17a-4(f) & CFTC 1.31 (c-d) Evaluación](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)del cumplimiento: Microsoft Azure Storage , abarca el cumplimiento de Azure con la regla FINRA 4511(c), que aplaza los requisitos de formato y medios de la regla 17a-4(f) de la SEC.
 
 Cohasset validó que [Azure Immutable Blob Storage](/azure/storage/blobs/storage-blob-immutable-storage) con la opción de bloqueo de directivas, cuando se usa para retener blobs basados en tiempo en un formato no eliminable y no reescribible (WORM), cumple los requisitos de almacenamiento de FINRA relevantes. Cada blob (registro) está protegido para que no se modifique, sobrescriba o elimine hasta que haya expirado el período de retención requerido y se hayan liberado las retenciones legales asociadas.
 

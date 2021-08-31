@@ -1,7 +1,7 @@
 ---
 title: Regla 1.31(c-d) de la Comisión de Negociación de Futuros de Materias Primas (CFTC) Estados Unidos
 description: Una firma de evaluación independiente validó que Azure y Office 365 pueden ayudar a las empresas financieras a cumplir con los requisitos de retención de registros y almacenamiento inmutable de la Regla 1.31 de CFTC.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 86e3c24be220da0cf29f66fc87d4642fa5270303
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8bb9f380d57e932576c969f10512f508de7c6ada
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482745"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707139"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>Regla 1.31(c-d) de la Comisión de Negociación de Futuros de Materias Primas (CFTC) Estados Unidos
 
@@ -39,7 +39,7 @@ Los clientes de servicios financieros, que representan una de las industrias má
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
-Para evaluar el cumplimiento de Azure con la regla 1.31(c-d) de CFTC, Microsoft conservó una firma de evaluación independiente especializada en administración de registros y gobierno de la información, Cohasset Associates. En el informe resultante, [CFTC 1.31 (c)–(d) Evaluación](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)del cumplimiento: Microsoft Azure Storage , Cohasset validó que [Azure Immutable Blob Storage](/azure/storage/blobs/storage-blob-immutable-storage) con la opción Bloqueo de directivas, cuando se usa para retener blobs basados en tiempo en un formato no eliminable y no reescribible (WORM), cumple los requisitos basados en principios de la regla CFTC. Cada blob (registro) está protegido para que no se modifique, sobrescriba o elimine hasta que haya expirado el período de retención requerido y se hayan liberado las retenciones legales asociadas. Los proveedores de software y asociados con cargas de trabajo confidenciales ahora pueden confiar en Azure Immutable Blob Storage como una solución en la nube de tienda única para la retención de registros. Las instituciones financieras ahora pueden crear sus propias aplicaciones aprovechando estas características mientras se mantienen conformes.
+Para evaluar el cumplimiento de Azure con la regla 1.31(c-d) de CFTC, Microsoft conservó una firma de evaluación independiente especializada en administración de registros y gobierno de la información, Cohasset Associates. En el informe resultante, [CFTC 1.31 (c) (d) Evaluación](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)de cumplimiento: Microsoft Azure Storage , Cohasset validó que [Azure Immutable Blob Storage](/azure/storage/blobs/storage-blob-immutable-storage) con la opción bloqueo de directivas, cuando se usa para retener blobs basados en tiempo en un formato no eliminable y no reescribible (WORM), cumple los requisitos basados en principios de la regla CFTC. Cada blob (registro) está protegido para que no se modifique, sobrescriba o elimine hasta que haya expirado el período de retención requerido y se hayan liberado las retenciones legales asociadas. Los proveedores de software y asociados con cargas de trabajo confidenciales ahora pueden confiar en Azure Immutable Blob Storage como una solución en la nube de tienda única para la retención de registros. Las instituciones financieras ahora pueden crear sus propias aplicaciones aprovechando estas características mientras se mantienen conformes.
 
 ### <a name="microsoft-365"></a>Microsoft 365
 

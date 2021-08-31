@@ -1,7 +1,7 @@
 ---
 title: Regla 17a-4(f) de la Comisión de Valores Exchange (SEC) Estados Unidos
 description: Una firma de evaluación independiente validó que Azure y Office 365 pueden ayudar a las empresas financieras a cumplir con los requisitos de retención de registros y almacenamiento inmutable de la regla 17a-4(f) de la SEC.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 57e5a9140c7a4aaff49bceb798bb6815e675f328
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.openlocfilehash: 50c44b6801e15af02bf4bfa4f4d46758b7a6c7a8
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505933"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707129"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>Regla 17a-4(f) de la Comisión de Valores Exchange (SEC) Estados Unidos
 
@@ -54,7 +54,7 @@ Para evaluar el cumplimiento de Azure y Office 365 con la regla 17a-4(f) de la S
 
 Microsoft retuvo una firma de evaluación independiente de terceros que se especializa en la administración de registros y el gobierno de la información para evaluar el almacenamiento inmutable para el cumplimiento del almacenamiento de blobs de Azure con los requisitos de la Regla 17a-4(f) de la SEC. El informe *[resultante Cohasset Assessment: Microsoft Azure WORM Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)* está disponible para los clientes.
 
-El evaluador opina que Azure Storage con la característica de almacenamiento inmutable  para *blobs* de Azure y la opción de directiva basada en tiempo bloqueada conserva blobs (registros) basados en tiempo en un formato no modificable y no modificable y cumple los requisitos de almacenamiento pertinentes de la Regla 17a-4(f), la Regla [FINRA 4511(c)](/azure/compliance/offering-finra-4511-us.md)y los requisitos basados en principios de la Regla [1.31(c)-(d)](offering-cftc-1-31-us.md)de CFTC .
+El evaluador opina que Azure Storage con la característica de almacenamiento inmutable  para *blobs* de Azure y la opción de directiva basada en tiempo bloqueada conserva blobs (registros) basados en tiempo en un formato no modificable y no modificable y cumple los requisitos de almacenamiento pertinentes de la Regla 17a-4(f), la Regla [FINRA 4511(c)](offering-FINRA-4511.md)y los requisitos basados en principios de la Regla [1.31(c)-(d)](offering-cftc-1-31-us.md)de CFTC .
 
 A petición, Microsoft también proporcionará una carta de *90* días necesaria para cumplir los requisitos sec 17a-4(f)(2) para que los clientes notifiquen a su autoridad examinadora designada al menos 90 días antes de usar medios de almacenamiento electrónico. Como se indica en el reglamento, "el miembro, agente o distribuidor debe proporcionar su propia representación o una del proveedor de medios de almacenamiento u otro tercero con la experiencia adecuada para que el medio de almacenamiento seleccionado cumpla las condiciones establecidas en este párrafo (f)(2)." Para obtener la Certificación de *Microsoft* de Storage Media Services electrónico para la regla 17a-4 [](https://azure.microsoft.com/support/create-ticket/) de la SEC, los clientes con un plan de soporte técnico de [Azure](https://azure.microsoft.com/support/plans/) pueden crear un vale de soporte técnico en Azure Portal y solicitar la carta de atestación para la regla 17a-4 de la SEC. En este documento, Microsoft proporciona garantías relevantes para los requisitos de la SEC 17a-4(f)(2).
 
