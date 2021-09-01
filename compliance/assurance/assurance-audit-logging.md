@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3212ca2a42677dc27afda8a7598b39d7f24bf27c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 11695a941e5d5e6740833ab19bf2d68ac487c1c5
+ms.sourcegitcommit: 5e6e25ed264b248522ad49ea25490962db08e471
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482193"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58832263"
 ---
 # <a name="audit-logging-overview"></a>Información general sobre el registro de auditoría
 
@@ -53,6 +53,8 @@ Muchos tipos diferentes de datos de registro se cargan desde servidores microsof
 Los registros se procesan en NRT mediante métodos basados en reglas, estadísticas y aprendizaje automático para detectar indicadores de rendimiento del sistema y eventos de seguridad potenciales. Los modelos de aprendizaje automático usan datos de registro entrantes y datos de registro histórico almacenados en Cosmos o Kusto para mejorar continuamente las capacidades de detección. Las detecciones relacionadas con la seguridad generan alertas, notificando a los ingenieros de llamadas de un posible incidente y desencadenando acciones de corrección automatizadas cuando corresponda. Además de la supervisión de seguridad automatizada, los equipos de servicio usan herramientas de análisis y paneles para la correlación de datos, consultas interactivas y análisis de datos. Estos informes se usan para supervisar y mejorar el rendimiento general del servicio.
 
 Para obtener más información sobre la supervisión de seguridad y las alertas, vea la información general [sobre la supervisión de seguridad](assurance-security-monitoring.md).
+
+![Flujo de datos de auditoría.](../media/assurance-audit-data-flow.png)
 
 ## <a name="how-do-microsoft-online-services-protect-audit-logs"></a>¿Cómo protegen los registros de auditoría los servicios en línea de Microsoft?
 
