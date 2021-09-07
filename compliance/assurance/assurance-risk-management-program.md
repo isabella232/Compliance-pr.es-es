@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 56d28813cd5cf0d1f0e54ebe2f4c64b23e98d169
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.openlocfilehash: 8e895308358853f2c59009503d079361dca84c49
+ms.sourcegitcommit: 91038a980f08745a12ab6b223ed90a6cd561c5bf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58678609"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923120"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programa de administración de riesgos
 
-El propósito del programa Microsoft 365 administración de riesgos es identificar, evaluar y administrar los riesgos para Microsoft 365. Microsoft 365 prioridad es cumplir con las obligaciones contractuales y las acreditaciones, aumentar la confianza del cliente y mantener nuestra ventaja competitiva. Aunque el programa Microsoft 365 administración de riesgos de Enterprise funciona de forma independiente, se alinea con las directivas, prioridades y metodologías del programa de administración de riesgos de Enterprise (ERM). Trabajar con el programa ERM permite una comparación coherente entre unidades de negocio y grupos de ingeniería, lo que contribuye a un enfoque más coherente para la administración de riesgos en toda la empresa.
+El propósito del programa Microsoft 365 administración de riesgos es identificar, evaluar y administrar los riesgos para Microsoft 365. La prioridad principal de Microsoft es identificar proactivamente y solucionar los riesgos que podrían afectar a nuestra infraestructura de servicio, así como a nuestros clientes, sus datos y su confianza. Además, es necesario un sólido programa de administración de riesgos para cumplir con las obligaciones contractuales y mantener las acreditaciones públicas en las que nuestros clientes dependen para satisfacer sus propios requisitos de cumplimiento. Aunque el programa Microsoft 365 administración de riesgos de Enterprise funciona de forma independiente, se alinea con las directivas, prioridades y metodologías del programa de administración de riesgos de Enterprise (ERM). Trabajar con el programa ERM permite una comparación coherente entre unidades de negocio y grupos de ingeniería, lo que contribuye a un enfoque más coherente para la administración de riesgos en toda la empresa.
 
-El Microsoft 365 trust es responsable de administrar el programa de administración de riesgos de Microsoft 365 y llevar a cabo las actividades establecidas por el programa ERM. El equipo de confianza se centra en integrar el marco de administración de riesgos con la ingeniería Microsoft 365, las operaciones de servicio y el proceso de cumplimiento existentes para que el programa de administración de riesgos sea más eficaz y eficaz.
+El Microsoft 365 trust es responsable de administrar el programa de administración de riesgos Microsoft 365 y de llevar a cabo las actividades definidas por el programa ERM. El equipo de confianza se centra en integrar el marco de administración de riesgos con la ingeniería Microsoft 365, las operaciones de servicio y el proceso de cumplimiento existentes para que el programa de administración de riesgos sea más eficaz y eficaz.
 
 El equipo de confianza también mantiene el marco de controles de Microsoft 365, un conjunto de controles racionalizados que, cuando se implementan correctamente con actividades de cumplimiento, permite a los equipos de ingeniería cumplir con las normativas y certificaciones clave. Este marco se actualiza continuamente en función de los comentarios y los resultados como parte del proceso de administración de riesgos.
 
