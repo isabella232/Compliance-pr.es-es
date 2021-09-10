@@ -18,18 +18,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: d30214f68911553b0e835e072e02233428bf296bc4927c7c0e49fb04718a9282
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 838f6bfbae65770071cfa1e07e668bb6641e89a8
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289888"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948462"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-professional-services"></a>Evaluaciones de impacto en la protección de datos personales: Guía para controladores de datos que usen los Servicios Profesionales de Microsoft
 
 ## <a name="introduction-to-microsoft-professional-services"></a>Introducción a los Servicios Profesionales de Microsoft
 
-Los Servicios profesionales de Microsoft incluyen un amplio grupo de arquitectos técnicos, ingenieros, consultores y profesionales de soporte técnico dedicados a cumplir la misión de Microsoft de motivar a sus clientes a que hagan más y logren más. Para obtener más información acerca de los Servicios profesionales de Microsoft, visite la [página de confianza de los Servicios profesionales de Microsoft ](https://aka.ms/pstrust).
+Los servicios profesionales de Microsoft incluyen un amplio grupo de arquitectos técnicos, ingenieros, consultores y profesionales de soporte técnico dedicados a cumplir la misión de Microsoft de motivar a sus clientes a que hagan más y logren más. Obtenga más información sobre los Servicios Profesionales en la página de [Confianza de los Servicios profesionales de Microsoft](https://aka.ms/pstrust).
 
 Los Servicios profesionales de Microsoft se toman muy en serio sus obligaciones bajo el Reglamento general de protección de datos (RGPD). La información de este documento está diseñada para proporcionar información sobre las ofertas de consultoría y soporte de Microsoft que los clientes pueden usar al preparar las Evaluaciones del impacto sobre la protección de datos (EIPD) según el RGPD.
 
@@ -51,7 +51,7 @@ El artículo 35 del RGPD exige que un responsable de los datos cree una evaluaci
 |||
 
 > [!Note]
-> <sup>1</sup> Con respecto a los criterios según los que el procesamiento se realiza a "gran escala", el considerando 91 del RGPD aclara que: "El procesamiento de datos personales no debe considerarse a gran escala si lo realiza, respecto de datos personales de pacientes o clientes, un solo médico, otro profesional de la salud o abogado. En estos casos, la evaluación de impacto de la protección de datos no debe ser obligatoria".
+> <sup>1</sup> Con respecto a los criterios según los que el tratamiento se realice a "gran escala", el considerando 91 del RGPD aclara que: "El tratamiento de datos personales no debe considerarse a gran escala si lo realiza, respecto de datos personales de pacientes o clientes, un solo médico, otro profesional de la salud o abogado. En estos casos, la evaluación de impacto de la protección de datos no debe ser obligatoria".
   
 [Nota de desarrollo personalizado] Los Servicios Profesionales ofrecen una amplia variedad de soluciones de consultoría. Un controlador de datos podría potencialmente solicitar una solución que, según los criterios anteriores, podría ser una solución de alto riesgo. Por ejemplo, un controlador de datos puede solicitar que los Servicios Profesionales creen una solución para desarrollar un motor de inteligencia empresarial para decisiones de empleo o aplicaciones de crédito, o una solución que implique el seguimiento de usuario, un uso especializado de inteligencia artificial (IA) y análisis o el tratamiento de categorías especiales de datos personales.
 
