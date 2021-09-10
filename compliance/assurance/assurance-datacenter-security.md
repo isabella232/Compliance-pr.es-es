@@ -23,11 +23,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: b2f88172d2a8158a2232acd1c4312217d7c3fef4
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482093"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947243"
 ---
 # <a name="datacenter-security-overview"></a>Información general sobre seguridad del centros de datos
 
@@ -65,6 +65,6 @@ Los servicios en línea de Microsoft se auditan periódicamente para cumplir con
 | [SOC 1 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=66043614-5628-4e26-83be-057eb3bb026c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1: aprovisionamiento de acceso físico del centro de datos <br> PE-2: Comprobación de seguridad del centro de datos <br> PE-3: Revisión de acceso de usuario del centro de datos <br> PE-4: Mecanismos de acceso físico del centro de datos <br> PE-5: Supervisión de la supervisión física del centro de datos <br> PE-6: Mantenimiento del entorno crítico del centro de datos <br> PE-7: Controles del entorno del centro de datos <br> PE-8: Respuesta a incidentes del centro de datos | 30 de octubre de 2020 |
 | [SOC 2 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=ce5bfbea-3514-40ae-a8a6-3617106a0b56&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1: aprovisionamiento de acceso físico del centro de datos <br> PE-2: Comprobación de seguridad del centro de datos <br> PE-3: Revisión de acceso de usuario del centro de datos <br> PE-4: Mecanismos de acceso físico del centro de datos <br> PE-5: Supervisión de la supervisión física del centro de datos <br> PE-6: Mantenimiento del entorno crítico del centro de datos <br> PE-7: Controles del entorno del centro de datos <br> PE-8: Respuesta a incidentes del centro de datos | 30 de octubre de 2020 |
 
-## <a name="resources"></a>Recursos
+## <a name="resources"></a>Resources
 
 - [Microsoft Story Labs: We Live in the Cloud](https://news.microsoft.com/stories/microsoft-datacenter-tour/)

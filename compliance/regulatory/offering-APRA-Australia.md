@@ -1,7 +1,7 @@
 ---
 title: Autoridad australiana de regulación prudencial (APRA)
 description: Instrucciones de Microsoft para ayudar a los clientes de servicios financieros a cumplir con los estándares de subcontratación de la Autoridad australiana de regulación prudencial.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: e8e6ca43cbce4755ab29f3ef7cadc06a5dda7e32
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482293"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948174"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>Autoridad australiana de regulación prudencial (APRA)
 
@@ -72,7 +72,7 @@ Al confiar en nuestro enfoque completo para la garantía de riesgos en la nube, 
 
 Obtenga soporte práctico para mover datos y cargas de trabajo a Azure de acuerdo con las normativas de APRA: Descargar los servicios en la nube de [Microsoft:](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)una lista de comprobación de cumplimiento para las instituciones financieras en Australia .
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

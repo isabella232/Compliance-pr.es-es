@@ -1,7 +1,7 @@
 ---
 title: Complemento de regulación de adquisición federal de Defensa (DFARS)
 description: Microsoft Azure El gobierno admite los requisitos del Reglamento federal de adquisición de Defensa (DFARS).
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: e190a98a475d6170e793e92e8052012048cc3d7f
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482273"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948240"
 ---
 # <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>Complemento de regulación de adquisición federal de Defensa (DFARS)
 
@@ -35,7 +35,7 @@ La última cláusula DFARS 252.204-7012 (Proteger la información de defensa cub
 
 Los servicios en la nube de Microsoft Government ayudan a los clientes de la base industrial de defensa de Estados Unidos y a los clientes de contratistas de defensa a cumplir los requisitos de DFARS enumerados en las cláusulas DFARS de 252.204-7012 que se aplican a los proveedores de servicios en la nube. Cuando se requiere que los contratistas de defensa cumplan con la cláusula 252.204-7012 de DFARS en los contratos, Microsoft puede admitir los requisitos aplicables a los proveedores de servicios en la nube para los servicios de Azure Government y Office 365 U.S. Government Defense. Ambos servicios muestran compatibilidad con las capacidades necesarias para que los clientes cumplan con las cláusulas DFARS 7012 a través de su acreditación L5 a la Guía de requisitos de seguridad del Departamento de Defensa.  
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 Servicios cubiertos para el nivel de impacto doD 5
 

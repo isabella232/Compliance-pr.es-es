@@ -1,7 +1,7 @@
 ---
 title: Reglamento de tráfico internacional de armas (ITAR)
 description: Azure Government es compatible con los clientes que construyen el tráfico internacional de Estados Unidos en sistemas compatibles con los regantes de armas.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482925"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948246"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Reglamento de tráfico internacional de armas (ITAR)
 
@@ -41,7 +41,7 @@ El ITAR tiene obligaciones específicas para informar sobre infracciones, lo que
   
 Los clientes que deban hospedar datos regulados por ITAR deben trabajar con su cuenta de Microsoft y los equipos de licencias para obtener más información, obtener acuerdos adecuados y obtener acceso a la información relevante de arquitectura del sistema.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure Government
 - Office 365 Gobierno de EE. UU.: defensa de nivel Office 365 alta
@@ -71,7 +71,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 Póngase en contacto Microsoft Office 365 representante de la cuenta.
 
-### <a name="resources"></a>Recursos
+### <a name="resources"></a>Resources
 
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
 - [TÍTULO ITAR 22 CFR 120–130](https://aka.ms/itar)

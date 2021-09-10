@@ -1,7 +1,7 @@
 ---
 title: Ley de portabilidad y responsabilidad de seguros de salud (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH)
 description: Microsoft ofrece contratos de asociación empresarial (BAA) & ley de responsabilidad del seguro de salud.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482473"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948342"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Ley de portabilidad y responsabilidad de seguros de salud (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH)
 
@@ -47,7 +47,7 @@ Los servicios en la nube de microsoft enterprise también están cubiertos por e
 
 Para obtener información sobre cómo Microsoft Cloud ayuda a los clientes a admitir hipaa y los requisitos hitech, visite [Microsoft Customer Stories](https://customers.microsoft.com/).
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure y Azure Government
 - Azure DevOps Services

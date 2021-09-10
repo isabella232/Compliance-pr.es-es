@@ -1,7 +1,7 @@
 ---
 title: NIST SP 800-171
 description: Los servicios en la nube de Microsoft cumplen con las directrices de NIST SP 800-171 para proteger la información controlada sin clasificar (CUI) en sistemas de información no profesionales.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: bce6847fe4c0cd1541348b70aadacc9c13238c31
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481142"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948373"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -44,7 +44,7 @@ Los requisitos de NIST SP 800-171 son un subconjunto de NIST SP 800-53, el está
 
 Cualquier entidad que procese o almacena CUI del gobierno de Estados Unidos: instituciones de investigación, empresas de consultoría, contratistas de fabricación, debe cumplir con los estrictos requisitos de NIST SP 800-171. Esta atestación significa que los servicios en la nube de Microsoft en el ámbito pueden dar cabida a clientes que buscan implementar cargas de trabajo de CUI con la garantía de que Microsoft está en plena conformidad. Por ejemplo, todos los contratistas doD que procesan, almacenan o transmiten "información de defensa cubierta" con servicios en la nube de Microsoft en el ámbito de sus sistemas de información cumplen las cláusulas DFARS del Departamento de Defensa de Estados Unidos que requieren el cumplimiento de los requisitos de seguridad de NIST SP 800-171.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure Commercial, Azure Government
 - Dynamics 365 U.S. Government

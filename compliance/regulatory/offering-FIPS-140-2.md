@@ -1,7 +1,7 @@
 ---
 title: Publicación 140-2 del Estándar federal de procesamiento de información (FIPS)
 description: Microsoft certifica que sus módulos criptográficos cumplen con el Estándar federal de procesamiento de información de Estados Unidos.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 0e087393901b76a798c4a4ea3bef25fad8dcda84
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481232"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948251"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Publicación 140-2 del Estándar federal de procesamiento de información (FIPS)
 
@@ -37,7 +37,7 @@ Microsoft mantiene un compromiso activo de cumplir los 140-2 requisitos, despué
 
 Para obtener información técnica sobre los módulos criptográficos de Microsoft Windows, la directiva de seguridad de cada módulo y el catálogo de detalles del certificado CMVP, vea el contenido de Windows y [Windows Server FIPS 140-2](https://aka.ms/AA6ehud).
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 Aunque la guía de implementación actual de CMVP FIPS 140-2 impide una validación fips 140-2 para un servicio en la nube en sí; Los proveedores de servicios en la nube pueden elegir obtener y operar módulos criptográficos validados por FIPS 140 para los elementos informáticos que componen su servicio en la nube. Los servicios en línea de Microsoft que incluyen componentes, que han sido validados por FIPS 140-2, incluyen, entre otros:
 

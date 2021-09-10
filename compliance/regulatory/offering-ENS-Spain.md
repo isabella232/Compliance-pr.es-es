@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: bfdaaab4cc119460b5dc44124b8f92ab9ea070cd
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482715"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948269"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Medidas de seguridad de alto nivel: el Esquema Nacional de Seguridad de España (ENS)
 
@@ -41,7 +41,7 @@ El esquema prescribe un proceso de acreditación voluntario para los sistemas qu
 
 Microsoft Azure y Microsoft Office 365 han superado un proceso de rigurosa evaluación por BDO, un auditor independiente, que les ha proporcionado un informe oficial de cumplimiento. BDO informa de que las medidas de seguridad de los servicios, así como sus sistemas de información y recursos de procesamiento de datos, cumplen en el nivel alto con RD 3/2010 sin necesidad de medidas correctivas. Microsoft fue el primer proveedor de servicios de nube ampliados en recibir esta certificación en España.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure
 - Office 365

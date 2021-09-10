@@ -19,11 +19,11 @@ titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
 ms.openlocfilehash: f5b0acae758e149f2bfde5683a0b9f2c45f0db29
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58676839"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948228"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes del interesado de Office 365 para el RGPD y la CCPA
 
@@ -647,7 +647,7 @@ Tabla 3: Aplicaciones con funcionalidad integrada en la aplicación que puede us
 - Stream
 - Yammer
 
-### <a name="access"></a>Acceso
+### <a name="access"></a>Access
 
 En las secciones siguientes se explica cómo usar la funcionalidad integrada en la aplicación en Microsoft Access para acceder a datos personales, buscarlos, exportarlos y eliminarlos.
 
@@ -1101,7 +1101,7 @@ Puede exportar el contenido de un usuario específico de su entorno de Project O
 
 Las secciones siguientes explican cómo usar la función integrada en la aplicación en Microsoft Publisher para acceder a datos personales, buscarlos, exportarlos y eliminarlos.
 
-#### <a name="discover"></a>Detectar
+#### <a name="discover"></a>Descubrir
 
 Puede usar la característica de búsqueda en la aplicación para buscar texto en un archivo de Publisher del mismo modo que puede hacer en la mayoría de aplicaciones de Office. Vea [Buscar y reemplazar texto](https://support.office.com/article/find-and-replace-text-bfe54275-b7c7-4d0f-904d-a2f38d322268).
 

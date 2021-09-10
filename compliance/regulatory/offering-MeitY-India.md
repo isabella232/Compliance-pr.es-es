@@ -1,7 +1,7 @@
 ---
 title: Ministerio de Electrónica y Tecnología de la Información (MeitY)
 description: Microsoft recibió una acreditación completa por parte del Ministerio de Electrónica y Tecnología de la Información en india.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482955"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948357"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministerio de Electrónica y Tecnología de la Información (MeitY)
 

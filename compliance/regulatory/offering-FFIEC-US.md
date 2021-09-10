@@ -1,7 +1,7 @@
 ---
 title: Consejo de examen de instituciones financieras federales (FFIEC)
 description: Microsoft ayuda a los clientes de servicios financieros a cumplir con los requisitos de auditoría del Consejo federal de examen de instituciones financieras (FFIEC).
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505903"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948287"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Consejo de examen de instituciones financieras federales (FFIEC)
 
@@ -44,7 +44,7 @@ Además, Azure ha desarrollado una herramienta de diagnóstico de seguridad en l
 
 También está disponible para los clientes el complemento de libro de diagnóstico de seguridad en la nube FFIEC de Azure, que ofrece instrucciones sobre el uso de servicios de Azure y consideraciones sobre el cumplimiento de los requisitos de FFIEC por parte del cliente
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure
 - Intune
@@ -77,7 +77,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 Vea los Office 365 de atestación SOC.
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Puedo usar el cumplimiento de Microsoft con los estándares SOC para cumplir las obligaciones de cumplimiento de FFIEC para mi institución?**
 

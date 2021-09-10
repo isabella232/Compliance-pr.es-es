@@ -18,11 +18,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.openlocfilehash: 044631cd05dc25f126388f38e9d45675ce397d4f
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480382"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948429"
 ---
 # <a name="microsoft-support-and-professional-services-accountability-readiness-checklist-for-the-gdpr"></a>Lista de comprobación de preparación de responsabilidad del soporte técnico y los servicios profesionales de Microsoft para RGPD
 

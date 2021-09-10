@@ -19,11 +19,11 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 ms.openlocfilehash: 325dc91f1d3480414236abfde38eb48d372f3e69
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482433"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948477"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-controllers-using-windows-diagnostic-data-processor-configuration"></a>Evaluaciones de impacto en la protección de datos: guía para controladores que usan datos de diagnóstico de Windows configuración del procesador
 

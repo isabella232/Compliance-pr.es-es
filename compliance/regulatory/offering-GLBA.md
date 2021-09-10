@@ -1,7 +1,7 @@
 ---
 title: Ley Gramm-Leach-Bliley (GLBA)
 description: Microsoft ayuda a los clientes de servicios financieros a cumplir con los requisitos de privacidad y seguridad de la Ley Gramm-Leach-Bliley (GLBA).
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: b7b1e3ea3600023c2ec95d4db7f318d70183b197
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482685"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948301"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>Ley Gramm-Leach-Bliley (GLBA)
 
@@ -40,7 +40,7 @@ Microsoft ha desarrollado herramientas de evaluación de riesgos para [Azure](ht
 - [Descargar la Herramienta de evaluación de riesgos en la nube de Azure Financial Services](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [Descargar la herramienta Office 365 evaluación de riesgos en la nube](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

@@ -1,7 +1,7 @@
 ---
 title: Nivel de impacto del Departamento de Defensa (DoD) 5 (IL5)
 description: Obtenga información sobre cómo Microsoft cumple los estándares de Nivel de impacto 5 (IL5) del Departamento de Defensa (DoD).
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: c0c987dc5fbe2bee60508f0fab7dbdb8dce97857
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482845"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948234"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>Nivel de impacto del Departamento de Defensa (DoD) 5 (IL5)
 
@@ -51,7 +51,7 @@ Además, de acuerdo con la sección [5.2.2.3 de SRG,](https://dl.dod.cyber.mil/w
 - Se requiere la separación física de los inquilinos que no son doD o que no son del Gobierno federal (es decir, inquilinos públicos, de gobierno local o estatal).
 - El CSP restringe el acceso potencial a los DoD y la información de la comunidad a los empleados de CSP que son ciudadanos estadounidenses.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure
 - Servicio al cliente de Dynamics 365
@@ -86,7 +86,7 @@ Los clientes gubernamentales de Estados Unidos pueden solicitar Office 365 fedRA
 
 Seleccione la documentación de FedRAMP y DoD, incluidos el Plan de seguridad del sistema (SSP), los informes de supervisión continua, plan de acción e hitos (POA M), etc., está disponible para los clientes bajo NDA y la autorización de acceso pendiente de la sección Informes de auditoría del Portal de confianza de servicio \& [- Informes de FedRAMP.](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) Póngase en contacto con el representante de su cuenta microsoft para obtener ayuda.
 
-### <a name="resources"></a>Recursos
+### <a name="resources"></a>Resources
 
 - [Soluciones gubernamentales de Microsoft](https://www.microsoft.com/enterprise/government)
 - [Guía de requisitos de seguridad de DoD Cloud Computing](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html)

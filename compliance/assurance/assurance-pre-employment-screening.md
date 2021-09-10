@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 633873434620266d0fc9f24bbe7a3470554c35f3
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481832"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947331"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Filtrado previo al empleo de Microsoft
 

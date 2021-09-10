@@ -1,7 +1,7 @@
 ---
 title: Ley de derechos educativos y privacidad de la familia (FERPA)
 description: Microsoft se alinea con los requisitos de la Ley de privacidad y derechos educativos de la familia de Estados Unidos.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505953"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948276"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Ley de derechos educativos y privacidad de la familia (FERPA)
 
@@ -37,7 +37,7 @@ La seguridad es fundamental para el cumplimiento de FERPA, que requiere la prote
 
 FERPA no requiere ni reconoce auditorías u otras certificaciones, por lo que cualquier institución académica que esté sujeta a FERPA debe evaluar por sí misma si su uso de un servicio en la nube afecta a su capacidad de cumplir con los requisitos de FERPA. En el [Addendum](https://aka.ms/DPA) de protección de datos (DPA) de términos de Servicios en línea, Microsoft acepta ser designado como "funcionario de escuela" con "intereses educativos legítimos" en los datos de los clientes, tal como se define en FERPA. Los datos de los clientes incluirían los registros de alumnos proporcionados a través del uso de Azure por parte de una escuela. Al administrar los registros educativos de los alumnos, Microsoft acepta cumplir con las limitaciones y requisitos impuestos por 34 CFR 99.33(a) tal como lo hacen los funcionarios de la escuela.  Microsoft ha publicado documentación de orientación para ayudar a los clientes de Azure a cumplir los requisitos de cumplimiento de FERPA.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 Los servicios para los que Microsoft acepta ser designado como "oficial de escuela" con "intereses educativos legítimos" en los datos del cliente incluyen:
 
@@ -75,7 +75,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 FERPA no requiere ni reconoce auditorías ni certificaciones.
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Por qué es importante FERPA?**
 

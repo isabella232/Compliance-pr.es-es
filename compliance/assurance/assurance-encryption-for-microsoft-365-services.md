@@ -22,11 +22,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 480e7e03564075707c90e25ad5777631c1e68ed8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482032"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947298"
 ---
 # <a name="encryption-for-skype-for-business-onedrive-for-business-sharepoint-online-microsoft-teams-and-exchange-online"></a>Cifrado para Skype Empresarial, OneDrive para la Empresa, SharePoint Online, Microsoft Teams y Exchange Online
 
@@ -36,7 +36,7 @@ Microsoft 365 es un entorno altamente seguro que ofrece una protección extensa 
 
 Skype Empresarial datos del cliente pueden almacenarse en reposo en forma de archivos o presentaciones que los participantes de la reunión cargan. El servidor de conferencia web cifra los datos de los clientes mediante AES con una clave de 256 bits. Los datos de cliente cifrados se almacenan en un recurso compartido de archivos. Cada fragmento de datos del cliente se cifra con una clave de 256 bits generada aleatoriamente. Cuando se comparte un fragmento de datos de cliente en una conferencia, el servidor de conferencia web indica a los clientes de conferencia que descarguen los datos cifrados del cliente a través de HTTPS. Envía la clave correspondiente a los clientes para que se puedan descifrar los datos del cliente. El servidor de conferencia web también autentica a los clientes de conferencia antes de que permita a los clientes acceder a los datos de los clientes de conferencia. Al unirse a una conferencia web, cada cliente de conferencia establece un cuadro de diálogo SIP con el componente de foco de conferencia que se ejecuta en el servidor front-end a través de TLS primero. El foco de conferencia pasa al cliente de conferencia una cookie de autenticación generada por el servidor de conferencia web. A continuación, el cliente de conferencia se conecta al servidor de conferencia web que presenta la cookie de autenticación que el servidor va a autenticar.
 
-## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint en línea y OneDrive para Empresas
+## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online y OneDrive para la Empresa
 
 Todos los archivos de cliente SharePoint Online están protegidos por claves únicas por archivo que siempre son exclusivas de un único inquilino. El servicio de SharePoint Online crea y administra las claves, o cuando los clientes usan, crean y administran la clave de cliente. Cuando se carga un archivo, SharePoint Online realiza el cifrado en el contexto de la solicitud de carga, antes de enviarse a Azure Storage. Cuando se descarga un archivo, SharePoint Online recupera los datos de cliente cifrados de Azure Storage en función del identificador de documento único y descifra los datos del cliente antes de enviarlos al usuario. Azure Storage no tiene capacidad para descifrar ni siquiera identificar o comprender los datos del cliente. Todo el cifrado y descifrado ocurren en los mismos sistemas que aplican el aislamiento de inquilinos, que se Azure Active Directory y SharePoint online.
 
@@ -83,7 +83,7 @@ En OneDrive para la Empresa y SharePoint Online, hay dos escenarios en los que l
 - **Comunicación del cliente con el servidor:** la comunicación con SharePoint Online y OneDrive para la Empresa a través de Internet usa conexiones TLS.
 - **Movimiento de datos entre centros de datos:** el motivo principal para mover datos entre centros de datos es la replicación geográfica para habilitar la recuperación ante desastres. Por ejemplo, los registros de transacciones y diferencias de almacenamiento de blobs de SQL Server recorren esta canalización. Mientras que estos datos ya se transmiten mediante una red privada, tendrán una mayor protección con el mejor cifrado de su clase.
 
-## <a name="exchange-online"></a>Exchange en línea
+## <a name="exchange-online"></a>Exchange Online
 
 Exchange Online usa BitLocker para todos los datos del buzón y la configuración de BitLocker se describe en [BitLocker para cifrado](/microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption). El cifrado de nivel de servicio cifra todos los datos del buzón en el nivel de buzón. 
 

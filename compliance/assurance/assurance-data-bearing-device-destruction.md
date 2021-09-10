@@ -1,5 +1,5 @@
 ---
-title: Destrucción de dispositivos portadores de datos
+title: Destrucción de dispositivos que contienen datos
 description: En este artículo, encontrará una introducción al proceso de destrucción de dispositivos portadores de datos para centros de datos de Microsoft.
 ms.author: robmazz
 author: robmazz
@@ -21,13 +21,13 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 6a26334b805be069298302d3ad1e8e5b9e728150
-ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862408"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947202"
 ---
-# <a name="data-bearing-device-destruction"></a>Destrucción de dispositivos portadores de datos
+# <a name="data-bearing-device-destruction"></a>Destrucción de dispositivos que contienen datos
 
 ## <a name="data-destruction-overview"></a>Introducción a la destrucción de datos
 

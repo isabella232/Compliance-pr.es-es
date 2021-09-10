@@ -1,7 +1,7 @@
 ---
 title: Sarbanes-Oxley Act of 2002 (SOX) (Ley Sarbanes-Oxley de 2002, SOX)
 description: Las empresas de servicios financieros pueden usar informes de cumplimiento de Microsoft para abordar su cumplimiento con la Sarbanes-Oxley de cumplimiento.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505893"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948437"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002 (SOX) (Ley Sarbanes-Oxley de 2002, SOX)
 
@@ -41,7 +41,7 @@ El informe de auditoría, producido por una firma de auditoría de terceros, ate
 
 En Microsoft, compartimos la responsabilidad del cumplimiento con nuestros clientes. Proporcionamos los detalles sobre nuestros programas de cumplimiento, que puede comprobar solicitando resultados de auditoría detallados de terceros certificadores. Sin embargo, en última instancia, le corresponde determinar si nuestros servicios cumplen con las leyes y normativas específicas aplicables a su empresa. Por ejemplo, hay controles de seguridad relacionados con SOX, como el acceso de usuarios a recursos en la nube, que son su responsabilidad: su organización debe desarrollar la auditoría adecuada de estos controles como parte del cumplimiento de sox.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -84,7 +84,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 - Dynamics 365
 - Office 365
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Cómo puedo usar el cumplimiento de Microsoft SOX para facilitar el proceso de cumplimiento de mi organización?**
 
@@ -94,8 +94,8 @@ Al migrar las aplicaciones y los datos a los servicios en la nube de Microsoft c
 
 - [Documentación de cumplimiento de Azure](/azure/compliance/)
 - [Azure habilita un mundo de cumplimiento](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
-- [Microsoft 365 de cumplimiento normativo](/compliance/regulatory/offering-home)
-- [Cumplimiento en el Centro de Confianza de Microsoft ](https://www.microsoft.com/trust-center/compliance/compliance-overview).
+- [Ofertas del Centro de cumplimiento de Microsoft 365](/compliance/regulatory/offering-home)
+- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 - [Ley Sarbanes-Oxley de 2002](https://www.congress.gov/bill/107th-congress/house-bill/3763) (SOX)
 - [Securities and Exchange Commission](https://www.sec.gov/) (SEC)
 - [Recursos de servicios financieros de Microsoft Cloud](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)

@@ -1,7 +1,7 @@
 ---
 title: Sección 508 de EE. UU.
 description: Microsoft ofrece informes detallados de conformidad de accesibilidad para muchos de sus servicios en la nube que describen las características de accesibilidad de esos servicios.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 728050d20babd819c2153cd04b3eae849120eeee
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480532"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948413"
 ---
 # <a name="us-section-508"></a>Sección 508 de EE. UU.
 
@@ -35,7 +35,7 @@ Microsoft es un proveedor principal de software y servicios en la nube para los 
 
 La consideración de Microsoft de la sección 508 de Estados Unidos en el desarrollo de productos y servicios apunta a su compromiso de hacer que la tecnología y los datos puedan ser accesibles para todos los clientes.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure y Azure Government
 - Azure DevOps Services

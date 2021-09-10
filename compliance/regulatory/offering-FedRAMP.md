@@ -1,7 +1,7 @@
 ---
 title: Programa Federal de Administración de Autorizaciones y Riesgo (FedRAMP)
 description: A Microsoft se le concedió el Programa federal de administración de riesgos y autorización de Estados Unidos P-ATOs y ATOs.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482945"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948221"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>Programa Federal de Administración de Autorizaciones y Riesgo (FedRAMP)
 
@@ -47,7 +47,7 @@ Los servicios en la nube gubernamentales de Microsoft, incluidos Azure Governmen
 
 Los servicios en la nube del gobierno de Microsoft ofrecen a los clientes del sector público una amplia variedad de servicios compatibles con FedRAMP y herramientas sólidas de guía e implementación, incluido el plan [de FedRAMP High,](https://aka.ms/fedrampblueprint)que ayuda a los clientes a implementar un conjunto básico de directivas para cualquier arquitectura implementada en Azure que debe implementar los controles FedRAMP High.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure y Azure Government
 - [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)

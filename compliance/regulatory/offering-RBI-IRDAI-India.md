@@ -1,7 +1,7 @@
 ---
 title: Reserve Bank of India (RBI) y Insurance Regulatory and Development Authority of India (IRDAI)
 description: Microsoft ha publicado instrucciones para ayudar a las instituciones financieras de India con la adopción en la nube.
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 200319178a714383feeca3d58cf608e9a3baa304
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481022"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948390"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>Reserve Bank of India (RBI) y Insurance Regulatory and Development Authority of India (IRDAI)
 
