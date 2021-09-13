@@ -22,8 +22,8 @@ ms.openlocfilehash: ed23af0982dd5ce066c78963f108c2b7eaa2403a
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948446"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159990"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-dynamics-365"></a>Evaluaciones de impacto en la protección de datos personales: Guía para poseedores de los datos que usen Dynamics 365
 
@@ -45,7 +45,7 @@ El artículo 35 de la GDPR exige que el responsable del tratamiento de datos cre
 | Supervisión sistemática de un área accesible públicamente a gran escala. | Dynamics 365 no se diseñó para realizar o facilitar dicha supervisión. <br><br> Pero un poseedor de los datos podría usarlo para procesar datos recopilados con esa supervisión. |
 
 >[!Note]
-><sup>1</sup> Con respecto a los criterios según los que el tratamiento se realice a "gran escala", el considerando 91 del RGPD aclara que: "el tratamiento de datos personales no debe considerarse a gran escala si se trata de datos personales de pacientes o clientes por parte de un médico, otro profesional sanitario o un abogado En estos casos, la evaluación de impacto de la protección de datos no debe ser obligatoria".
+><sup>1</sup> Con respecto a los criterios según los que el tratamiento se realice a "gran escala", el considerando 91 del RGPD aclara que: "El tratamiento de datos personales no debe considerarse a gran escala si lo realiza, respecto de datos personales de pacientes o clientes, un solo médico, otro profesional de la salud o abogado. En estos casos, la evaluación de impacto de la protección de datos no debe ser obligatoria".
 
 ## <a name="part-2-contents-of-a-dpia"></a>Parte 2: Contenido de una EIPD
 

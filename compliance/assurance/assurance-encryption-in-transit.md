@@ -25,8 +25,8 @@ ms.openlocfilehash: ebeface33b0d5ba419773c13305c277d681e8400
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947307"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160090"
 ---
 # <a name="encryption-for-data-in-transit"></a>Cifrado para datos en tránsito
 

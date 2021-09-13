@@ -20,8 +20,8 @@ ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948227"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161025"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Directiva de seguridad de Criminal Justice Information Services (CJIS)
 
@@ -82,7 +82,7 @@ Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Florida, 
 
 El compromiso de Microsoft de cumplir con los controles normativos CJIS aplicables permite a las organizaciones de justicia penal implementar soluciones basadas en la nube y cumplir con la directiva de seguridad CJIS V5.9.
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Dónde puedo solicitar información de cumplimiento?**
 

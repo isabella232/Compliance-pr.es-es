@@ -24,8 +24,8 @@ ms.openlocfilehash: e29c6501ce4c8f1ee645a8c4b5bf22eee6e9cab8
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948517"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160153"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-microsoft-365-compliance-center"></a>Administrar solicitudes de los interesado del RGPD con la herramienta de casos de DSR en el Centro de cumplimiento de Microsoft 365
 

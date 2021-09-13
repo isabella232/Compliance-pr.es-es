@@ -24,8 +24,8 @@ ms.openlocfilehash: 312de9f1417ba6298898d47b2b7e05b5fa7034fe
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947323"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160250"
 ---
 # <a name="microsoft-365-isolation-controls"></a>Controles de aislamiento de Microsoft 365
 
@@ -58,7 +58,7 @@ Se han implementado varias formas de protección a lo largo de Microsoft 365 par
 
 Juntos, las protecciones mencionadas anteriormente proporcionan controles de aislamiento lógico robustos que proporcionan protección contra amenazas y mitigación equivalentes a las proporcionadas por el aislamiento físico solo.
 
-## <a name="resources"></a>Resources
+## <a name="resources"></a>Recursos
 
 - [Aislamiento y control de acceso en Azure Active Directory](/microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory)
 - [Supervisión y prueba de límites de inquilinos](assurance-monitoring-and-testing.md)

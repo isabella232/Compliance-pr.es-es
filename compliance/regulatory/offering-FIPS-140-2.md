@@ -20,8 +20,8 @@ ms.openlocfilehash: 0e087393901b76a798c4a4ea3bef25fad8dcda84
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948251"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161018"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Publicación 140-2 del Estándar federal de procesamiento de información (FIPS)
 
@@ -63,7 +63,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 |:------------------|:----------------------|
 | Office 365, GCC, GCC High, DoD | Consulta [Validación de FIPS 140-2](/windows/security/threat-protection/fips-140-validation) |
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Cuál es la diferencia entre "FIPS 140 Validated" y "FIPS 140 compliant"?**
 

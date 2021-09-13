@@ -21,8 +21,8 @@ ms.openlocfilehash: 48b438ba764c0210acf028dc3d7acc7c66c783f2
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947283"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160282"
 ---
 # <a name="train-for-business-continuity-in-your-organization"></a>Entrenar para la continuidad empresarial en su organización
 

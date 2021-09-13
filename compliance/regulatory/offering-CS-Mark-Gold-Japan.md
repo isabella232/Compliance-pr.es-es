@@ -20,8 +20,8 @@ ms.openlocfilehash: 3972a5d470db8f0a75e7717e671be5a268308d5b
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948239"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160873"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>Marca de oro de seguridad en la nube (Marca de oro de CS)
 

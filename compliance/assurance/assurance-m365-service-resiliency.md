@@ -21,8 +21,8 @@ ms.openlocfilehash: 592cfcdf3da33e6c26e90d5a83fb6bcd3b4241e0
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947315"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160044"
 ---
 # <a name="built-in-service-resiliency-in-microsoft-365"></a>Resistencia del servicio integrado en Microsoft 365
 

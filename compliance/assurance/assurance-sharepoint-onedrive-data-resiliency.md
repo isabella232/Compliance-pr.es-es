@@ -23,8 +23,8 @@ ms.openlocfilehash: 02df77f949cf1633017dd25f4cff17175c536d53
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947416"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160777"
 ---
 # <a name="sharepoint-and-onedrive-data-resiliency-in-microsoft-365"></a>Resistencia de datos de SharePoint y OneDrive en Microsoft 365
 

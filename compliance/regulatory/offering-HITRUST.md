@@ -20,8 +20,8 @@ ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948349"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160498"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Marco común de seguridad (CSF) de Health Information Trust Alliance (HITRUST)
 
@@ -72,7 +72,7 @@ La certificación HITRUST CSF de Office 365 es válida durante dos años.
 
 - [Office 365 Carta de certificación hitrust](https://aka.ms/O365HITRUSTcertification)
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Por qué algunos Office 365 servicios no están en el ámbito de esta certificación?**
 
@@ -90,7 +90,7 @@ Sí, puede encontrar acciones de cliente recomendadas en Compliance Score, soluc
 
 [El Administrador de cumplimiento de Microsoft](/microsoft-365/compliance/compliance-manager) es una característica en el [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) que le ayuda a entender la actitud de su organización en relación con el cumplimiento normativo y a tomar medidas para contribuir a reducir los riesgos. El Administrador de cumplimiento ofrece una plantilla premium para crear una evaluación de esta normativa. Busque la plantilla en la página **plantillas de evaluación** en el Administrador de cumplimiento. Obtenga información sobre cómo [crear y administrar evaluaciones en el Administrador de cumplimiento](/microsoft-365/compliance/compliance-manager-assessments).
 
-### <a name="resources"></a>Resources
+### <a name="resources"></a>Recursos
 
 - [ALIANZA HITRUST](https://hitrustalliance.net/)
 - [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)

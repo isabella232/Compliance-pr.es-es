@@ -24,8 +24,8 @@ ms.openlocfilehash: 92da9e7bb2716f61088e02c244cb9905af142ead
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947378"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161034"
 ---
 # <a name="network-security-overview"></a>Información general sobre seguridad de red
 

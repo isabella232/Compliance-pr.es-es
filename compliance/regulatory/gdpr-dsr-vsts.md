@@ -24,8 +24,8 @@ ms.openlocfilehash: c72fd7054a79a7498180e92e3c93e9ef15252ef5
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948215"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159984"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes del interesado de Azure DevOps Services para el RGPD y CCPA
 

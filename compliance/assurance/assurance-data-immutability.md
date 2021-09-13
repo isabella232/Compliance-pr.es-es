@@ -24,8 +24,8 @@ ms.openlocfilehash: e17685c7d927ab8188abe1ef4dae4d2cdf0f3764
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947251"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160329"
 ---
 # <a name="data-immutability-in-microsoft-365"></a>Inmutabilidad de datos en Microsoft 365
 

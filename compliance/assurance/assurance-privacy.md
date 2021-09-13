@@ -24,8 +24,8 @@ ms.openlocfilehash: 29d0c6633c67d65c6bef27a9768fa213a9e50ac4
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947399"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160458"
 ---
 # <a name="privacy-overview"></a>Información general sobre privacidad
 
@@ -72,6 +72,6 @@ Los servicios en línea de Microsoft se auditan periódicamente para cumplir con
 | [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Declaración de aplicabilidad](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Propósito del procesador PII de nube pública | 20 de abril de 2021 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: Acuerdos de nivel de servicio (SLA) <br> CA-17: directiva de seguridad de Microsoft <br> CA-25: Actualizaciones del marco de control | 24 de diciembre de 2020 |
 
-## <a name="resources"></a>Resources
+## <a name="resources"></a>Recursos
 
 - [Centro de confianza de Microsoft:](https://www.microsoft.com/trust-center/privacy)Principios de privacidad

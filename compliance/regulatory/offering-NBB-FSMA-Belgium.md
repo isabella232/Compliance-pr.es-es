@@ -20,8 +20,8 @@ ms.openlocfilehash: c98d95da506ceafb148baa8a4b63a8326c0839d3
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948358"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160410"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>Banco Nacional de Bélgica (NBB) y Autoridad de Mercados y Servicios Financieros (FSMA)
 

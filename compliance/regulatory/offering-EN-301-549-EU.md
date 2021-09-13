@@ -20,8 +20,8 @@ ms.openlocfilehash: fe5f8ff2208fd2586ef2806aed73a5ee77cb5b97
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948252"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160857"
 ---
 # <a name="european-standards-en-301-549"></a>Estándares europeos EN 301 549
 

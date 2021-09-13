@@ -20,8 +20,8 @@ ms.openlocfilehash: 200319178a714383feeca3d58cf608e9a3baa304
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948390"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161186"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>Reserve Bank of India (RBI) y Insurance Regulatory and Development Authority of India (IRDAI)
 
@@ -60,7 +60,7 @@ La lista de comprobación de Microsoft ayuda a las empresas financieras de india
 - [Guía de cumplimiento y evaluación de riesgos](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Cree un modelo de gobierno para la evaluación de riesgos de los servicios en la nube de Microsoft y las notificaciones reglamentarias.
 - [Casos de uso financiero para Azure:](/azure/industry/financial/)use información general sobre casos, tutoriales y otros recursos para crear soluciones de Azure para servicios financieros.
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Hay términos obligatorios que se deban incluir en el contrato con el proveedor de servicios en la nube?**
 

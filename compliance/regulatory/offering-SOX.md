@@ -20,8 +20,8 @@ ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948437"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161137"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002 (SOX) (Ley Sarbanes-Oxley de 2002, SOX)
 
@@ -84,7 +84,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 - Dynamics 365
 - Office 365
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Cómo puedo usar el cumplimiento de Microsoft SOX para facilitar el proceso de cumplimiento de mi organización?**
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 717b3d7b024b0fddc4916fff3558d95fb2cedcc2
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948167"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160129"
 ---
 # <a name="title-23-nycrr-part-500"></a>Título 23 NYCRR parte 500
 

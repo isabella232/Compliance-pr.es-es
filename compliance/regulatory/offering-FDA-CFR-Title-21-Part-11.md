@@ -20,8 +20,8 @@ ms.openlocfilehash: 5d6f590a9035b8628645bdfa46f794c1dfbcd4fb
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948264"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160937"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>Cfr de administración de alimentos y medicamentos 21 parte 11
 

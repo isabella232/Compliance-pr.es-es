@@ -20,8 +20,8 @@ ms.openlocfilehash: 61b15a095dec310aac74bac10b2d062eb1011750
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948191"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161122"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>Ley de privacidad del consumidor de California (CCPA)
 
@@ -60,7 +60,7 @@ Estos son algunos pasos que puede seguir para prepararse para el CCPA:
 - Configure etiquetas y directivas para detectar, clasificar, etiquetar y proteger los datos confidenciales con Microsoft Information Protection.
 - Use las capacidades de cifrado de correo electrónico para controlar aún más la información confidencial.
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Cómo afectará la CCPA a mi empresa?**
 

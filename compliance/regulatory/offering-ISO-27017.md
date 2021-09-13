@@ -20,8 +20,8 @@ ms.openlocfilehash: b17c7629918bdf4386ad24d28c6cb6687728603c
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948350"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160626"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>Código de prácticas para los controles de la seguridad de la información ISO/IEC 27017:2015
 

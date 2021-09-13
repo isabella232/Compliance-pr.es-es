@@ -20,8 +20,8 @@ ms.openlocfilehash: 81de800d437427d77c5004f20e0cdf672db3a533
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948365"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161009"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>Estándar de Seguridad en la Nube Multinivel (MTCS) para Singapur
 

@@ -21,8 +21,8 @@ ms.openlocfilehash: 1b513c80c24ae6c06488972196579aff30e703fa
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947386"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160289"
 ---
 # <a name="enterprise-business-continuity-management-legal-disclaimer"></a>Declinación de responsabilidades de la administración de continuidad empresarial de Enterprise
 

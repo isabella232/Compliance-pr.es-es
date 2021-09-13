@@ -24,8 +24,8 @@ ms.openlocfilehash: 3b0a4c7f12eba49c252f71e47eda1685fd4d41a4
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947439"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160721"
 ---
 # <a name="supplier-management-overview"></a>Información general sobre administración de suministros
 
@@ -82,6 +82,6 @@ Los servicios en línea de Microsoft se auditan periódicamente para cumplir con
 | [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Declaración de aplicabilidad](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) |  A.8.1: Divulgación del procesamiento de PII subcontratado | 24 de diciembre de 2020 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-53: Supervisión de terceros | 24 de diciembre de 2020 |
 
-## <a name="resources"></a>Resources
+## <a name="resources"></a>Recursos
 
 - [Programa de seguridad y privacidad de proveedores](https://www.microsoft.com/procurement/sspa?activetab=pivot1%3aprimaryr6)

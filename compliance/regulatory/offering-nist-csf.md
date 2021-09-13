@@ -1,7 +1,7 @@
 ---
 title: Marco de ciberseguridad del Instituto Nacional de Estándares y Tecnología (NIST) (CSF)
 description: Microsoft Cloud Services cumple con el Marco de ciberseguridad (CSF) del Instituto Nacional de Estándares y Tecnología (NIST).
-keywords: Microsoft 365, cumplimiento, ofertas
+keywords: Cumplimiento y ofertas de Microsoft 365
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: aef50dc21274c863708c5b5d774b401e91407114
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480522"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160554"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>Marco de ciberseguridad del Instituto Nacional de Estándares y Tecnología (NIST) (CSF)
 
@@ -42,7 +42,7 @@ Obtenga información sobre cómo acelerar la implementación de NIST Cybersecuri
 - [Información general sobre el ejemplo de blueprint de NIST SP 800-53 R4](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
 - [Obtenga más información sobre la evaluación del NIST CSF para Office 365 puntuación de cumplimiento](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
 
 - Azure Government
 - Dynamics 365 for Government
@@ -72,7 +72,7 @@ La certificación CSF de NIST de Office 365 es válida durante dos años.
 
 - [Office 365 Carta de certificación del CSF de NIST](https://aka.ms/O365NISTCSFcertification)
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Ha validado un evaluador independiente que Office 365 los requisitos del CSF de NIST?**
 

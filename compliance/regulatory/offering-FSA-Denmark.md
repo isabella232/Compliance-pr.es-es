@@ -20,8 +20,8 @@ ms.openlocfilehash: dbe94dfd4100da30248b093a068695d845096f63
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948282"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161082"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>Autoridad de supervisión financiera (FSA) de Dinamarca
 

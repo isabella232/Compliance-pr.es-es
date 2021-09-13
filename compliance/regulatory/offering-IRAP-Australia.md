@@ -20,8 +20,8 @@ ms.openlocfilehash: cd7ad9a68f69f134689262ad7e379eec89284035
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948326"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160482"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Programa de evaluadores registrados de seguridad de la información del gobierno australiano (IRAP)
 
@@ -83,7 +83,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 |:------------------|:----------------------|
 | **Comercial** | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, OneDrive para la Empresa, Planner, SharePoint Online, Skype Empresarial, Whiteboard, Yammer |
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿A quién se aplica el IRAP?**
 

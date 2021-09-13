@@ -20,8 +20,8 @@ ms.openlocfilehash: bce6847fe4c0cd1541348b70aadacc9c13238c31
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948373"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160546"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -72,7 +72,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 SharePoint Online, Skype Empresarial, Windows Ink |
 | **DoD** | Servicio de fuente de actividades, servicios de Bing, Exchange Online, servicios inteligentes, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, Microsoft Teams, SharePoint Online, Skype Empresarial, Windows Ink |
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Puedo usar el cumplimiento de Microsoft con NIST SP 800-171 para mi organización?**
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: c0c987dc5fbe2bee60508f0fab7dbdb8dce97857
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948234"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161041"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>Nivel de impacto del Departamento de Defensa (DoD) 5 (IL5)
 
@@ -86,7 +86,7 @@ Los clientes gubernamentales de Estados Unidos pueden solicitar Office 365 fedRA
 
 Seleccione la documentación de FedRAMP y DoD, incluidos el Plan de seguridad del sistema (SSP), los informes de supervisión continua, plan de acción e hitos (POA M), etc., está disponible para los clientes bajo NDA y la autorización de acceso pendiente de la sección Informes de auditoría del Portal de confianza de servicio \& [- Informes de FedRAMP.](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) Póngase en contacto con el representante de su cuenta microsoft para obtener ayuda.
 
-### <a name="resources"></a>Resources
+### <a name="resources"></a>Recursos
 
 - [Soluciones gubernamentales de Microsoft](https://www.microsoft.com/enterprise/government)
 - [Guía de requisitos de seguridad de DoD Cloud Computing](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html)

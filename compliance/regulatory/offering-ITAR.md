@@ -20,8 +20,8 @@ ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948246"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160617"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Reglamento de tráfico internacional de armas (ITAR)
 
@@ -65,13 +65,13 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 | **GCC High** | Servicio de fuente de actividad, servicios de Bing, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 | **DoD** | Servicio de fuente de actividad, servicios de Bing, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Dónde puedo solicitar Office 365 de cumplimiento para ITAR?**
 
 Póngase en contacto Microsoft Office 365 representante de la cuenta.
 
-### <a name="resources"></a>Resources
+### <a name="resources"></a>Recursos
 
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
 - [TÍTULO ITAR 22 CFR 120–130](https://aka.ms/itar)

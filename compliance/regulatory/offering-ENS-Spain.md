@@ -20,8 +20,8 @@ ms.openlocfilehash: bfdaaab4cc119460b5dc44124b8f92ab9ea070cd
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948269"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160929"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Medidas de seguridad de alto nivel: el Esquema Nacional de Seguridad de España (ENS)
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948357"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161265"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministerio de Electrónica y Tecnología de la Información (MeitY)
 
@@ -53,7 +53,7 @@ La acreditación MeitY de Microsoft fue el resultado de una rigurosa auditoría 
 
 - Acreditación de Microsoft Cloud en [estado de auditoría de proveedores de servicios en la nube](https://meity.gov.in/content/gi-cloud-meghraj)
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Por qué es importante MeitY?**
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948293"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161010"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Reino Unido Government-Cloud (G-Cloud)
 
@@ -96,7 +96,7 @@ Mover los servicios gubernamentales a la nube es ahora más fácil que nunca con
 
 [Empezar a usar el blueprint G-Cloud de Azure UK](https://aka.ms/ukofficialblueprint)
 
-## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **Quién puede usar el Marketplace digital?**
 

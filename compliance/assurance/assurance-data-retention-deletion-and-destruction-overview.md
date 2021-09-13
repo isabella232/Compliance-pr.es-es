@@ -23,8 +23,8 @@ ms.openlocfilehash: c851b235a70104720457d08c51529ee7b25c65e4
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947267"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160306"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>Retención, eliminación y destrucción de datos en Microsoft 365
 

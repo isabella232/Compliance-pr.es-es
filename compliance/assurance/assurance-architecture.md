@@ -24,8 +24,8 @@ ms.openlocfilehash: 97fe615296f03c8f72dbf23d886501988686b53a
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947226"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160386"
 ---
 # <a name="architecture-overview"></a>Introducción a la arquitectura
 

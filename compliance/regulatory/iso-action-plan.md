@@ -20,8 +20,8 @@ ms.openlocfilehash: 4fc85558c4bef8763b7d6cae039f5ab085df6c61
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948185"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160122"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Plan de acción de Microsoft 365 ISO 27001: principales prioridades de los primeros 30 días, 90 días y el periodo posterior
 

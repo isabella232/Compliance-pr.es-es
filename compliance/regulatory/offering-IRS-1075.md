@@ -20,8 +20,8 @@ ms.openlocfilehash: 94e032efec2fd10f1d352f4f1b610916abe23cf7
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948317"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160649"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Us Internal Revenue Service Publication 1075
 
@@ -78,7 +78,7 @@ El cumplimiento de los requisitos sustantivos del IRS 1075 está cubierto por la
 
 - [Autorizaciones de FedRAMP](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Cómo aborda Microsoft los requisitos del IRS 1075?**
 

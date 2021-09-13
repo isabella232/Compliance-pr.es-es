@@ -22,8 +22,8 @@ ms.openlocfilehash: 06dbe8eeeddc32fb98b7b4bf0351834fb6a34944
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948209"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159985"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitudes de interesados del soporte técnico y los servicios profesionales de Microsoft para el RGPD y la CCPA
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948287"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161249"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Consejo de examen de instituciones financieras federales (FFIEC)
 
@@ -77,7 +77,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 Vea los Office 365 de atestación SOC.
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Puedo usar el cumplimiento de Microsoft con los estándares SOC para cumplir las obligaciones de cumplimiento de FFIEC para mi institución?**
 

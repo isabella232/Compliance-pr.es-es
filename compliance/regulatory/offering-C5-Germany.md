@@ -20,8 +20,8 @@ ms.openlocfilehash: 0399a959bce2d15bc856bad25aca29f831193efc
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948186"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160874"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>El Catálogo de controles de cumplimiento de informática en la nube (C5)
 

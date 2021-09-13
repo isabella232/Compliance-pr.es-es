@@ -20,8 +20,8 @@ ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948276"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161090"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Ley de derechos educativos y privacidad de la familia (FERPA)
 
@@ -75,7 +75,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 FERPA no requiere ni reconoce auditorías ni certificaciones.
 
-### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
 
 **¿Por qué es importante FERPA?**
 

@@ -23,8 +23,8 @@ ms.openlocfilehash: cb9d27f02ec53c98e2f00d3106f8e4be8798d78f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947354"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160793"
 ---
 # <a name="microsoft-security-incident-management"></a>Administración de incidentes de seguridad de Microsoft
 
