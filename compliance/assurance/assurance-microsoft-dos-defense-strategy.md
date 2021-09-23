@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: e1613765d3ffb7b43b80d07823fe8aef45719b70
-ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
+ms.openlocfilehash: ba0d0bbea11000144d7091455c6ee204f2c17037
+ms.sourcegitcommit: 856111c112a30160950fdd0ce94369aff7e176dc
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "59486197"
+ms.locfileid: "59489377"
 ---
 # <a name="microsoft-denial-of-service-defense-strategy"></a>Estrategia de defensa por denegación de servicio de Microsoft
 
@@ -49,7 +49,7 @@ Microsoft también adopta un enfoque ofensivo para la defensa de DDoS. Botnets a
 
 ## <a name="application-level-defenses"></a>Defensas de nivel de aplicación
 
-Los equipos de ingeniería de Microsoft siguen los rigurosos estándares establecidos [por Microsoft Operational Security Assurance](https://www.microsoft.com/SDL/OperationalSecurityAssurance) para ayudar a proteger los datos de los clientes. Los servicios en la nube de Microsoft se han creado intencionadamente para admitir cargas elevadas, lo que ayuda a proteger contra ataques DDoS de nivel de aplicación. La arquitectura de escalado horizontal de Microsoft distribuye servicios en varios centros de datos globales con aislamiento regional y características de limitación específicas de la carga de trabajo para cargas de trabajo relevantes.
+Los servicios en la nube de Microsoft se han creado intencionadamente para admitir cargas elevadas, lo que ayuda a proteger contra ataques DDoS de nivel de aplicación. La arquitectura de escalado horizontal de Microsoft distribuye servicios en varios centros de datos globales con aislamiento regional y características de limitación específicas de la carga de trabajo para cargas de trabajo relevantes.
 
 El país o la región de cada cliente, que el administrador del cliente identifica durante la configuración inicial de los servicios, determina la ubicación de almacenamiento principal para los datos de ese cliente. Los datos de los clientes se replican entre centros de datos redundantes de acuerdo con una estrategia principal/de copia de seguridad. Un centro de datos principal hospeda el software de la aplicación junto con todos los datos de cliente principales que se ejecutan en el software. Un centro de datos de copia de seguridad proporciona conmutación por error automática. Si el centro de datos principal deja de funcionar por cualquier motivo, las solicitudes se redirigen a la copia del software y los datos del cliente en el centro de datos de copia de seguridad. En cualquier momento, los datos de los clientes pueden procesarse en el centro de datos principal o en el centro de datos de copia de seguridad. La distribución de datos entre varios centros de datos reduce la superficie afectada en caso de que se ataque un centro de datos. Además, los servicios del centro de datos afectado se pueden redirigir rápidamente al centro de datos secundario para mantener la disponibilidad durante un ataque y redirigirlos al centro de datos principal una vez mitigado un ataque.
 
