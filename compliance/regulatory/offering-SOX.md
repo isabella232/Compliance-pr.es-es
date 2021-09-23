@@ -1,7 +1,7 @@
 ---
 title: Sarbanes-Oxley Act of 2002 (SOX) (Ley Sarbanes-Oxley de 2002, SOX)
 description: Las empresas de servicios financieros pueden usar informes de cumplimiento de Microsoft para abordar su cumplimiento con la Sarbanes-Oxley de cumplimiento.
-keywords: Cumplimiento y ofertas de Microsoft 365
+keywords: Microsoft 365, cumplimiento, ofertas
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: aa85357047d3f92b694023b102fa7141eb26344d
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161137"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486447"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002 (SOX) (Ley Sarbanes-Oxley de 2002, SOX)
 
@@ -74,7 +74,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Comercial** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Ideas, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive para la Empresa, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype Empresarial, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
+| **Comercial** | Bucle de aumento, texto alternativo automático, Azure Information Protection, Servicios de conversión binaria, Reservas, Delve, Elemento de documento, Editor, Exchange Online, Formularios, Insertar medios en línea, Ideas, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, OneDrive para la Empresa, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype Empresarial, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
 
 ### <a name="audits-reports-and-certificates"></a>Auditorías, informes y certificados
 
@@ -84,7 +84,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 - Dynamics 365
 - Office 365
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Cómo puedo usar el cumplimiento de Microsoft SOX para facilitar el proceso de cumplimiento de mi organización?**
 

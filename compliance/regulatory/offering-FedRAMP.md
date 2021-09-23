@@ -1,7 +1,7 @@
 ---
 title: Programa Federal de Administración de Autorizaciones y Riesgo (FedRAMP)
 description: A Microsoft se le concedió el Programa federal de administración de riesgos y autorización de Estados Unidos P-ATOs y ATOs.
-keywords: Cumplimiento y ofertas de Microsoft 365
+keywords: Microsoft 365, cumplimiento, ofertas
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 36e3ddb58a61bc3a0a14a300e15f22262027fc92
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161074"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486347"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>Programa Federal de Administración de Autorizaciones y Riesgo (FedRAMP)
 
@@ -47,7 +47,7 @@ Los servicios en la nube gubernamentales de Microsoft, incluidos Azure Governmen
 
 Los servicios en la nube del gobierno de Microsoft ofrecen a los clientes del sector público una amplia variedad de servicios compatibles con FedRAMP y herramientas sólidas de guía e implementación, incluido el plan [de FedRAMP High,](https://aka.ms/fedrampblueprint)que ayuda a los clientes a implementar un conjunto básico de directivas para cualquier arquitectura implementada en Azure que debe implementar los controles FedRAMP High.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure y Azure Government
 - [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
@@ -75,9 +75,9 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **GCC** | Servicio de fuentes de actividad, servicios de Bing, Delve, Exchange Online, Exchange Online Protection, infraestructura, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
-| **GCC High** | Servicio de fuentes de actividad, servicios de Bing, Exchange Online, Exchange Online Protection, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
-| **DoD** | Servicio de fuentes de actividad, servicios de Bing, Exchange Online Protection, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
+| **GCC** | Servicio de fuentes de actividad, servicios de Bing, reservas, Delve, Exchange Online, Exchange Online Protection, infraestructura, servicios inteligentes, Microsoft Teams, portal de Office 365 cliente, Office Online, Office service, Office Usage Reports, OneDrive para la Empresa, People Card, SharePoint Online, Skype Empresarial, Windows Ink |
+| **GCC High** | Servicio de fuente de actividades, servicios de Bing, reservas, Exchange Online, Exchange Online Protection, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, servicio Office Infraestructura, Office de uso, OneDrive para la Empresa, tarjeta de personas, SharePoint online, Skype Empresarial, Windows Ink |
+| **DoD** | Servicio de fuente de actividades, servicios de Bing, reservas, Exchange Online Protection, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, servicio de Office Infraestructura, Office de uso, OneDrive para la Empresa, tarjeta de personas, SharePoint online, Skype Empresarial, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Auditorías, informes y certificados de Office 365
 
@@ -85,7 +85,7 @@ Microsoft debe recertificar sus servicios en la nube cada año para mantener sus
 
 - [Informes de auditoría de Microsoft FedRAMP](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Los servicios en la nube de Microsoft cumplen con la Ley federal de administración de seguridad de la información (FISMA)?**
 

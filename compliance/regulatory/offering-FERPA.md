@@ -1,7 +1,7 @@
 ---
 title: Ley de derechos educativos y privacidad de la familia (FERPA)
 description: Microsoft se alinea con los requisitos de la Ley de privacidad y derechos educativos de la familia de Estados Unidos.
-keywords: Cumplimiento y ofertas de Microsoft 365
+keywords: Microsoft 365, cumplimiento, ofertas
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: df079bc4622d633918c1a44da9cd55ae20ebc5ea
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161090"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486367"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Ley de derechos educativos y privacidad de la familia (FERPA)
 
@@ -37,7 +37,7 @@ La seguridad es fundamental para el cumplimiento de FERPA, que requiere la prote
 
 FERPA no requiere ni reconoce auditorías u otras certificaciones, por lo que cualquier institución académica que esté sujeta a FERPA debe evaluar por sí misma si su uso de un servicio en la nube afecta a su capacidad de cumplir con los requisitos de FERPA. En el [Addendum](https://aka.ms/DPA) de protección de datos (DPA) de términos de Servicios en línea, Microsoft acepta ser designado como "funcionario de escuela" con "intereses educativos legítimos" en los datos de los clientes, tal como se define en FERPA. Los datos de los clientes incluirían los registros de alumnos proporcionados a través del uso de Azure por parte de una escuela. Al administrar los registros educativos de los alumnos, Microsoft acepta cumplir con las limitaciones y requisitos impuestos por 34 CFR 99.33(a) tal como lo hacen los funcionarios de la escuela.  Microsoft ha publicado documentación de orientación para ayudar a los clientes de Azure a cumplir los requisitos de cumplimiento de FERPA.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 Los servicios para los que Microsoft acepta ser designado como "oficial de escuela" con "intereses educativos legítimos" en los datos del cliente incluyen:
 
@@ -66,8 +66,8 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Comercial** | Azure Active Directory, Azure Information Protection, Bookings, Administrador de cumplimiento, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Bookings, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Office 365 Cloud App Security, Grupos de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
-| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Formularios, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de cumplimiento & de seguridad de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, harePoint Online, Skype Empresarial, Stream |
+| **Comercial** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Cumplimiento avanzado de Office 365 add-on, Office 365 Cloud App Security, Office 365 Groups, Office 365 Centro de cumplimiento de &, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
+| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Formularios, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de cumplimiento de Office 365 Seguridad &, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, harePoint Online, Skype Empresarial, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial |
 | **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, Power BI, SharePoint Online, Skype Empresarial |
 
@@ -75,7 +75,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 FERPA no requiere ni reconoce auditorías ni certificaciones.
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Por qué es importante FERPA?**
 
