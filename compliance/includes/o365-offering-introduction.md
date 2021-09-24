@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b42797a1987251ab34dc8ee44e654667992f0ee3
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: dc958775342570cc15a2549bb83e22a2b53db8fe
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259744"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486220"
 ---
 <!-- This file is a part of all Office 365 compliance offering topics. Please coordinate with Robert Mazzoli (robmazz) for any changes.-->
 
@@ -12,8 +12,9 @@ Microsoft Office 365 es una plataforma en la nube multiempresa a hiperescala y u
 
 En esta sección se tratan los siguientes entornos en la nube de Office 365:
 
-- **Office 365 (comercial)**: el servicio en la nube público comercial de Office 365 disponible a nivel mundial.
-- **Office 365 Government Community Cloud (GCC)**: el [servicio en la nube GCC de Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc) está disponible para el Gobierno federal de los Estados Unidos, así como para los gobiernos estatales, locales y tribales y los contratistas que mantienen o procesan datos en nombre del Gobierno de los Estados Unidos.
+- **Software cliente (cliente)**: Software cliente comercial que se ejecuta en dispositivos cliente.
+- **Office 365 (comercial)**: El servicio en la nube público comercial de Office 365 disponible a nivel mundial.
+- **Office 365 Government Community Cloud (GCC)**: El [servicio en la nube GCC de Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc) está disponible para el Gobierno federal de los Estados Unidos, así como para los gobiernos estatales, locales y tribales, y los contratistas que mantienen o procesan datos en nombre del Gobierno de los Estados Unidos.
 - **Office 365 Government Community Cloud - High (GCC High)**: el [servicio en la nube GCC High de Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) está diseñado de acuerdo con los controles de nivel 4 de las directrices sobre requisitos de seguridad del Departamento de Defensa (DoD) y admite información federal y de defensa regulada rigurosamente. Este entorno lo usan las agencias federales, la Base Industrial de Defensa (DIB) y los contratistas gubernamentales.
 - **Office 365 DoD (DoD)**: el [servicio en la nube del DoD de Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) está diseñado de acuerdo con los controles de nivel 5 de las directrices sobre requisitos de seguridad del DoD y admite estrictas regulaciones federales y de defensa. Este entorno es para uso exclusivo del Departamento de Defensa de EE. UU.
 

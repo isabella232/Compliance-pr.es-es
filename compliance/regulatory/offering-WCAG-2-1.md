@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 3208fab9675c02ec1e7af0824a05f9a062b311b2
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161057"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486437"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Directrices de accesibilidad al contenido en la web
 
@@ -62,10 +62,11 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Comercial** | Excel, Centro de administración de Exchange, Centro de administración de Office 365 (Portal), Experiencia de inicio de sesión de Office 365 y Azure AD, Portal de clientes de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Lens, Office.com, Centro de administración de OneDrive, OneDrive para la Empresa, Cliente de sincronización de OneDrive, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
-| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
-| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial |
-| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, Forms, Power BI, SharePoint Online, Skype Empresarial |
+| **Cliente** | Portal de administración de Access, Excel y Office 365 para Android, portal de administración de Office 365 para iOS, Office Configuration Tool, Office Lens, OneNote, Outlook, PowerPoint, Project, SharePoint, To-Do, Visio, Word |
+| **Comercial** | Centro de administración de Exchange, Portal de clientes de Office 365, Centro de seguridad y cumplimiento de Office 365, Office.com, Centro de administración de OneDrive, OneDrive para la Empresa, Cliente de sincronización de OneDrive, Orcas, Outlook Groups |
+| **GCC** | Azure Active Directory, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Portal de clientes de Office 365, Office 365 Centro de seguridad y cumplimiento, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, Skype Empresarial, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Cumplimiento avanzado de Office 365, Portal de clientes de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, Skype Empresarial |
+| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender para Office 365, Microsoft Teams, complemento de cumplimiento avanzado de Office 365, Portal de clientes de Office 365, Office 365 Centro de seguridad y cumplimiento, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, Forms, Power BI, Skype Empresarial |
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Informes de conformidad de la accesibilidad de Microsoft
 
