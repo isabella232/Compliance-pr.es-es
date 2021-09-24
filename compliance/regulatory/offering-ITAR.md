@@ -1,7 +1,7 @@
 ---
 title: Reglamento de tráfico internacional de armas (ITAR)
 description: Azure Government es compatible con los clientes que construyen el tráfico internacional de Estados Unidos en sistemas compatibles con los regantes de armas.
-keywords: Cumplimiento y ofertas de Microsoft 365
+keywords: Microsoft 365, cumplimiento, ofertas
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e91675de1f8f974b643b46a5367d9d3754d32e96
+ms.sourcegitcommit: 3fac638ed9a54411d113dd2db1c942b77657b96d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160617"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59501325"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Reglamento de tráfico internacional de armas (ITAR)
 
@@ -41,9 +41,11 @@ El ITAR tiene obligaciones específicas para informar sobre infracciones, lo que
   
 Los clientes que deban hospedar datos regulados por ITAR deben trabajar con su cuenta de Microsoft y los equipos de licencias para obtener más información, obtener acuerdos adecuados y obtener acceso a la información relevante de arquitectura del sistema.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
+- Azure
 - Azure Government
+- Secreto de gobierno de Azure
 - Office 365 Gobierno de EE. UU.: defensa de nivel Office 365 alta
 
 ## <a name="azure-dynamics-365-and-itar"></a>Azure, Dynamics 365 e ITAR
@@ -65,7 +67,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 | **GCC High** | Servicio de fuente de actividad, servicios de Bing, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 | **DoD** | Servicio de fuente de actividad, servicios de Bing, Exchange Online, servicios inteligentes, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
+### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **¿Dónde puedo solicitar Office 365 de cumplimiento para ITAR?**
 

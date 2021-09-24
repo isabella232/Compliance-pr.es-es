@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e38e5f2c370692a60d07ac25491ae457e0ed34c0
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: a770f37d778d56116050adefa03f2b27a1241792
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160418"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486277"
 ---
 # <a name="my-number-act-japan"></a>Sistema Mi Número Personal (Japón)
 
@@ -39,13 +39,13 @@ El [Q\&A](https://www.ppc.go.jp/legal/policy/faq/) (japonés), publicado por la 
 
 Los servicios en la nube de Microsoft para empresas cumplen con los requisitos en las [condiciones de Microsoft Online Services](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31), en los que se estipula que la propiedad y la responsabilidad de los datos de los clientes que contienen mis datos numéricos se encuentran en nuestros clientes, no en Microsoft. Por lo tanto, el cliente debe contar con controles adecuados para proteger los datos de Mi Número Personal contenidos en los datos del cliente.
 
-Dado que Microsoft no tiene acceso permanente a los datos de Mi Número Personal almacenados en sus servicios en la nube, no es necesario un contrato de "subcontratación" para gestionar sus datos. Si un cliente desea que Microsoft tenga acceso a los datos de cliente que contienen datos de Mi Número, el cliente debe crear un contrato de subcontratación adicional con Microsoft para cada caso antes de realizar dicha solicitud.
+Dado que Microsoft no tiene acceso permanente a los datos de Mi Número Personal almacenados en sus servicios en la nube, no es necesario un contrato de "subcontratación" para gestionar sus datos. Si un cliente desea que Microsoft acceda a los datos del cliente que contienen datos de Mi número, el cliente debe crear otro contrato de subcontratación con Microsoft para cada caso antes de realizar dicha solicitud.
 
 Estos términos también establecen que Microsoft se compromete a utilizar los datos de los clientes sólo para prestar servicios al cliente -no para fines publicitarios o comerciales similares- y que Microsoft cuenta con sólidos sistemas de control de acceso.
 
 En relación con la seguridad, los servicios en la nube de Microsoft Business cumplen con el estándar de[Marca de Seguridad en la Nube (Dorada)](offering-cs-mark-gold-japan.md)que es la primera acreditación de seguridad japonesa para proveedores de servicios en la nube.
 
-Por lo tanto, los servicios en la nube de Microsoft Business son compatibles con todos los requisitos del Sistema y no crean ninguna obligación adicional por parte de los clientes, como el consentimiento de un propietario individual de datos personales.
+Por lo tanto, los servicios en la nube para empresas de Microsoft son compatibles con los requisitos de la Ley Mi Número y no crean ninguna otra obligación en virtud de la ley para los clientes, como el consentimiento de un propietario individual de datos personales.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
@@ -66,7 +66,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Comercial** | Azure Active Directory, Azure Information Protection, Bookings, Administrador de cumplimiento, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Bookings, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para la Web, MyAnalytics, Complemento de cumplimiento avanzado de Office 365, Office 365 Cloud App Security, Grupos de Office 365, Centro de seguridad y cumplimiento de Office 365, Office 365 Video, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Comercial** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Cloud App Security, Office 365 Groups, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>Cómo implementar
 

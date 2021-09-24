@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 91735f08e93777a7ffa1a9c86d3a4776cc8cf1a0
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: af9568a2ecb3e2b2be1fe3086b48e82f95f0869d
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160097"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486221"
 ---
 # <a name="enisa-information-assurance-framework"></a>Marco de seguridad de la información de ENISA
 
