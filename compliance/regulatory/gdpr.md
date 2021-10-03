@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: d0016ed24cec4797ff515efa5614d8016fe7f1c1
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 10f8253d9acbed535d4aec31734be1ee16dd2b3a
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160138"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050584"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Resumen del reglamento general de protección de datos 
 
@@ -53,8 +53,8 @@ El[plan de acción recomendado para el reglamento general de protección de dato
 
 Las siguientes tareas están relacionadas con el cumplimiento de los estándares del reglamento general de protección de datos (RGPD). Siga los vínculos de la lista para obtener más información sobre la implementación.  
 
-- **[Solicitudes de temas de datos (STD)](gdpr-data-subject-requests.md)**. Una solicitud formal de datos, sujetos a un controlador para realizar una acción (cambiar, restringir, acceder) en sus datos personales. 
-- **[Notificación de infracciones](gdpr-breach-notification.md)**. Según el reglamento general de protección de datos (RGPD), una infracción de datos personales es "una infracción de seguridad que se traduce en la destrucción accidental o ilegal, la pérdida, la modificación, la divulgación no autorizada o el acceso a datos personales transmitidos, almacenados o procesados de alguna forma".
+- **[Solicitudes de los interesados (DSR)](gdpr-data-subject-requests.md)**. Una solicitud formal por parte del interesado a un controlador para realizar una acción (cambiar, restringir, acceder) con respecto a sus datos personales.
+- **[Notificación de vulneración](gdpr-breach-notification.md)**. Según el RGPD, una vulneración de datos personales es "una vulneración de seguridad que se traduce en la destrucción accidental o ilegal, la pérdida, la modificación, la divulgación no autorizada o el acceso a datos personales transmitidos, almacenados o procesados de alguna forma".
 - **[ Evaluación de impacto de la protección de datos (EPIA)](gdpr-data-protection-impact-assessments.md)**. Los controladores de datos son requeridos en el reglamento general de protección de datos (RGPD), para preparar una evaluación de impacto de la protección de datos (EIPA) para las operaciones de datos que sean "probables que resulten en un alto riesgo para los derechos y libertades de las personas naturales".
 
 Como se ha mencionado anteriormente, el plan de acción recomendado para las listas de comprobación de la preparación de el reglamento general de protección de datos (RGPD), y el control en las listas de comprobación ofrece una guía de conformidad para implementar o evaluar el reglamento general de protección de datos (RGPD), con los productos y servicios de Microsoft.
@@ -65,7 +65,7 @@ Como se ha mencionado anteriormente, el plan de acción recomendado para las lis
 
 ## <a name="data-subject-request-dsr"></a>Solicitud de temas de datos (STD).
 
-El RGPD concede a las personas (o interesados) determinados derechos en relación con el procesamiento de sus datos personales, incluido el derecho a corregir datos inexactos, borrar datos o restringir su procesamiento, recibir sus datos y cumplimentar una solicitud para transmitirlos a otro responsable del tratamiento. El controlador es responsable de proporcionar a tiempo una respuesta coherente del reglamento general de protección de datos (RGPD). Para obtener información técnica, consulte [Solicitudes de temas de datos](gdpr-data-subject-requests.md).  
+El RGPD concede a las personas (o interesados) determinados derechos en relación con el procesamiento de sus datos personales, incluido el derecho a corregir datos inexactos, borrar datos o restringir su procesamiento, recibir sus datos y cumplimentar una solicitud para transmitirlos a otro responsable del tratamiento. El controlador es el responsable de proporcionar una respuesta inmediata y que esté en conformidad con el RGPD. Para detalles técnicos, consulte [Solicitudes de los interesados](gdpr-data-subject-requests.md).  
 
 ### <a name="dsr-faqs"></a>Preguntas frecuentes sobre STD
 
@@ -224,10 +224,10 @@ Como empresa global con clientes en casi todos los países del mundo, Microsoft 
 El RGPD impone una amplia variedad de requisitos a las organizaciones que recopilan o procesan datos personales, incluido el requisito de cumplir con seis principios clave:
 
 - *Transparencia*, *equidad* y *legitimidad* en el manejo y uso de datos personales. Deberá ser claro con las personas sobre cómo se usan los datos personales y también necesitará una "base legítima" para procesar dichos datos.
-- Limitar el procesamiento de datos personales a los propósitos *especificados*, *explícitos* y *legitimados*. No podrá volver a usar ni revelar datos personales para propósitos que no sean "compatibles" con el propósito para el que los datos se recopilaron originalmente.
+- Limitar el procesamiento de datos personales a los *propósitos especificados*, *explícitos* y *legitimados*. No podrá volver a usar ni revelar datos personales para propósitos que no sean "compatibles" con el propósito para el que los datos se recopilaron originalmente.
 - *Minimizar la recogida y el almacenamiento de datos personales* hasta lo apropiado y relevante para la finalidad prevista.
 - Asegurar la *precisión de los datos personales* y permitir que sean *eliminados o rectificados*. Tendrá que tomar medidas para asegurarse de que los datos personales que contiene son precisos y se pueden corregir si se producen errores.
-- *Limitar el almacenamiento de datos personales*. Deberá asegurarse de que los datos personales se conserven solo durante el tiempo necesario para lograr el propósito para el que se recopilan los datos.
+- *Limitar el almacenamiento de datos personales*. Deberá asegurarse de que los datos personales se conserven solo durante el tiempo necesario hasta lograr el propósito para el que se han recopilado.
 - Garantizar la *seguridad*, la *integridad* y la *confidencialidad de los datos personales*. Su organización debe realizar las acciones necesarias para proteger los datos personales con medidas de seguridad técnicas y organizacionales.
 
 Tendrá que entender cuáles son las obligaciones específicas de su organización para con la GDPR y cómo las cumplirá, aunque Microsoft está aquí para ayudarle en su viaje a la GDPR.
@@ -316,7 +316,7 @@ En caso de que existan fundamentos legítimos para el procesamiento continuado y
 
 **¿Es compatible el RGPD con el cifrado?**
 
-El cifrado se identifica en el RGPD como medida de protección que hace los datos ininteligibles cuando se ven afectados por una infracción. Por lo tanto, tanto si se usa como si no, el cifrado puede afectar a los requisitos de notificación de infracción de datos personales. El RGPD también señala el cifrado como medida técnica u organizativa apropiada en determinados casos, en función del riesgo. El cifrado es también un requisito en el Estándar de Seguridad de Datos del Sector de Tarjetas de Pago y está incluido en las estrictas directivas de cumplimiento específicas para el sector de servicios financieros. Los productos y servicios de Microsoft, como Azure, Dynamics 365, Enterprise Mobility + Security, Office Microsoft 365, SQL Server/Azure SQL Database y Windows 10 proporcionan un potente cifrado para datos en tránsito y estacionarios.
+El cifrado se identifica en el RGPD como medida de protección que hace los datos ininteligibles cuando se ven afectados por una infracción. Por lo tanto, tanto si se usa como si no, el cifrado puede afectar a los requisitos de notificación de infracción de datos personales. El RGPD también señala el cifrado como medida técnica u organizativa apropiada en determinados casos, en función del riesgo. El cifrado es también un requisito en el Estándar de Seguridad de Datos del Sector de Tarjetas de Pago y está incluido en las estrictas directivas de cumplimiento específicas para el sector de servicios financieros. Los productos y servicios de Microsoft tales como Azure, Dynamics 365, Enterprise Mobility + Security, Office Microsoft 365, SQL Server/Azure SQL Database, Windows 10 y Windows 11, proporcionan un potente cifrado para datos en tránsito y en reposo.
 
 **¿Cómo cambia la respuesta de una organización a las violaciones de los datos personales?**
 
