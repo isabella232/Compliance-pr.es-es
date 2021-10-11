@@ -28,10 +28,18 @@
   items:
     - name: Información general sobre seguridad del centros de datos
       href: assurance-datacenter-security.md
-    - name: Centro de datos de TVRA
+    - name: Arquitectura e infraestructura del centro de datos
+      href: assurance-datacenter-architecture-infrastructure.md
+    - name: Administración de riesgos del centro de datos
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: Protección ambiental
+      href: assurance-datacenter-environmental-safeguards.md
+    - name: Seguridad de acceso físico
+      href: assurance-datacenter-physical-access-security.md
     - name: Destrucción de dispositivos que contienen datos
       href: assurance-data-bearing-device-destruction.md
+    - name: Continuidad de la actividad y recuperación de desastres
+      href: assurance-datacenter-business-continuity-disaster-recovery.md
     - name: Seguridad de la cadena de suministro
       href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Cifrado y administración de claves
