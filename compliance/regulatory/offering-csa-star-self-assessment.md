@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6ff20d9ac81562353a5971386d0d498b44edfd3b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 632c8c40348e155d4acefb0c2ed66f1e1a2500b1
+ms.sourcegitcommit: 963eeffcf34f2696a1530ef95154adc2fa3a1941
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160594"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60266710"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>Autoevaluación de la nube Security Alliance (CSA)
 
@@ -72,7 +72,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 **¿Con qué estándares del sector de la industria se alinea CSA CCM?**
 
-El CCM corresponde a los estándares de seguridad, regulaciones y marcos de control aceptados por la industria, tales como ISO 27001, PCI DSS, HIPAA, AICPA SOC 2, NERC CIP, FedRAMP, NIST y muchos más. Para ver la lista más actual, visite el [sitio web de CSA](https://cloudsecurityalliance.org/).
+La CCM corresponde a los estándares de seguridad, regulaciones y marcos de control aceptados por la industria, tales como ISO 27001, PCI DSS, HIPAA, AICPA SOC 2, NERC CIP, FedRAMP, NIST y muchos más. Para ver la lista actualizada, visite el [sitio web de CSA](https://cloudsecurityalliance.org/).
 
 **¿Por qué es importante la autoevaluación por la estrella CSA?**
 
@@ -80,11 +80,11 @@ Permita que los CSP documenten el cumplimiento de CSA, la publicación de proced
 
 **¿Qué niveles de garantía de CSA STAR ha obtenido Office 365?**
 
-- **Nivel 1**: **Autoevaluación de CSA STAR**: El análisis automático es una oferta complementaria de los proveedores de servicios en la nube para documentar sus controles de seguridad y así ayudar a los clientes a evaluar la seguridad del servicio.
+- **Nivel 1**: **autoevaluación de CSA STAR**: [ofrecimiento gratuito](https://cloudsecurityalliance.org/star/registry/services/microsoft-office-365) de los proveedores de servicios en la nube para documentar sus controles de seguridad y así ayudar a los clientes a evaluar la seguridad del servicio.
 
 ### <a name="office-365-resources"></a>Recursos de Office 365
 
-- [Cloud Security Alliance](https://cloudsecurityalliance.org/)
+- [Cloud Security Alliance: Microsoft 365](https://cloudsecurityalliance.org/star/registry/services/microsoft-office-365)
 - [Matriz de Controles en la Nube (CCM)](https://cloudsecurityalliance.org/group/cloud-controls-matrix/)
 - [Cuestionario sobre la iniciativa evaluaciones de consenso (CAIQ)](https://cloudsecurityalliance.org/group/consensus-assessments/)
 - [Registro de Seguridad, Confianza y Garantía (STAR) de CSA](https://cloudsecurityalliance.org/star/)
