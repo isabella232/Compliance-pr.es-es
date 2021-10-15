@@ -1,0 +1,212 @@
+### YamlMime:FAQ
+metadata:
+  title: Preguntas más frecuentes sobre la Ley de protección de datos de consumidores de Virginia (VCDPA)
+  description: Preguntas más frecuentes sobre servicios Microsoft y la Ley de protección de datos de consumidores de Virginia (VCDPA).
+  keywords: Microsoft 365, compliance, CCPA, GDPR, VCDPA
+  ms.localizationpriority: high
+  ms.service: O365-seccomp
+  ms.reviewer: ronandwa
+  ms.topic: article
+  f1.keywords:
+  - NOCSH
+  ms.author: robmazz
+  author: robmazz
+  manager: laurawi
+  audience: itpro
+  ms.collection:
+  - M365-security-compliance
+  - MS-Compliance
+  ms.openlocfilehash: e3574488ce3533de4e476f875351b301a96fe91f
+  ms.sourcegitcommit: 31fe1f7ed9b365f4a0253cfa10c39fda0b6bd55c
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "60366717"
+title: Preguntas más frecuentes sobre la Ley de protección de datos de consumidores de Virginia (VCDPA)
+summary: >
+  >[!Note]
+
+  >Este tema se proporciona "tal cual". La información y las opiniones expresadas en este tema, incluyendo referencias a direcciones URL y a otros sitios web de Internet, pueden cambiar sin aviso previo. El uso que haga de ese contenido es su responsabilidad. Este tema se ha creado como guía y no debe interpretarse como asesoría legal. Debe consultar a sus propios profesionales jurídicos. Este tema no le aporta ningún derecho legal a ninguna propiedad intelectual de ningún producto de Microsoft. Puede copiar y utilizar este tema con finalidades de referencia interna y propia.
+sections:
+- name: Versión rápida de las Preguntas más frecuentes
+  questions:
+  - question: ¿Cuáles son los cuatro principales datos de VCDPA que debería saber?
+    answer: >
+      1. La Ley de protección de datos de consumidores de Virginia (VCDPA) es una ley de privacidad completa en los Estados Unidos y la aplicará el Fiscal General de Virginia (AG) a partir del 1 de enero de **2023**. El Fiscal General puede solicitar "daños de hasta **7.500 dólares por cada infracción".**
+
+      2. El VCDPA proporciona una variedad de derechos de **privacidad a los consumidores de Virginia.** Las empresas reguladas por el VCDPA tendrán muchas obligaciones para esos consumidores, como proporcionar divulgaciones, responder de forma similar a las solicitudes de interesados (DSR) del Reglamento general de protección de datos (RGPD) y cumplir con determinadas obligaciones de procesamiento de datos *(por* ejemplo, minimización de datos, prácticas razonables de seguridad de datos).
+
+      3. Aunque las empresas con programas de cumplimiento de RGPD sólidos pueden disfrutar de un principio de cumplimiento de VCDPA, hay diferencias clave entre el RGPD y **vcdpa** que son importantes a tener en cuenta. El cumplimiento no se puede producir de la noche a la mañana; se necesita tiempo para comprender los entresijos normativos de VCDPA e implementar herramientas y mecanismos internos para garantizar que los estados de datos estén listos para el cumplimiento de VCDPA.
+
+      4. Como se describe más detalladamente en la sección Preguntas más frecuentes completas, Microsoft proporciona productos y servicios para ayudar a los clientes a lograr el cumplimiento de **VCDPA** y para proporcionar determinadas herramientas **elementales** para ayudar a los clientes a establecer, implementar y mantener "prácticas razonables de seguridad de datos administrativos, técnicos y físicos para proteger la confidencialidad, integridad y accesibilidad de los datos personales", como exige vcdpa.
+  - question: ¿Se aplicará vcdpa a mi organización?
+    answer: >
+      El VCDPA se aplicará a las empresas con fines de lucro que controlan o procesan datos personales de los residentes de Virginia a mayor escala.
+
+
+      Más específicamente, el VCDPA se aplica a las organizaciones "que realizan negocios en la comunidad de Virginia o producen productos o servicios dirigidos a los residentes de la Comunidad" y, durante el año calendario: (1) controlar o procesar datos personales de al menos 100 000 residentes de Virginia, o (2) derivar más del 50 % de los ingresos brutos de la venta de datos personales (vcdpa no aclara si el umbral de ingresos se aplica solo a los residentes de Virginia) y controlar o procesar datos personales de al menos 25 000 residentes de Virginia.
+
+
+      Como nota, aunque vcdpa no define "realizar negocios en Virginia", una empresa regulada puede suponer que el VCDPA se aplicará a ella si hay alguna actividad económica que desencadena la responsabilidad fiscal o la jurisdicción personal en Virginia.
+  - question: ¿Es necesario actualizar los contratos de Microsoft para cumplir con el VCDPA?
+    answer: No. Como se describe en ¿Hay otros términos de procesamiento de datos que deben estar en su lugar? sección, los términos del Addendum de Protección de datos de Productos y Servicios de Microsoft cumplirán los requisitos del VCDPA.
+  - question: ¿Cómo afectará el VCDPA a mi empresa?
+    answer: >
+      Muchos de los derechos de VCDPA que se proporcionan a los consumidores de Virginia son similares a los derechos que el RGPD proporciona, incluidos los derechos de los consumidores, como los derechos de acceso, eliminación y portabilidad de datos personales. Por lo tanto, una empresa regulada puede buscar nuestras soluciones de RGPD existentes para ayudarles con sus esfuerzos de cumplimiento de VCDPA.
+
+
+      En función de las circunstancias únicas de su empresa y del lugar en el que desarrolle su programa de privacidad de VCDPA, puede considerar la posibilidad de centrarse en los cinco pasos clave siguientes para comenzar su viaje vcdpa:
+
+
+      - **Descubrir:** identifique qué datos personales tiene su empresa y dónde reside.
+
+      - **Asignación:** determine cómo comparte su empresa datos personales con terceros.
+
+      - **Administrar:** controlar cómo se usa y se accede a los datos personales.
+
+      - **Protección**: establezca controles de seguridad para evitar, detectar y responder a vulnerabilidades y filtraciones de datos.
+
+      - **Document**: Document a data breach response program.
+
+
+      Además, [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) es una característica de la [Centro de cumplimiento de Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ayudarle a comprender la posición de cumplimiento de su organización y tomar medidas para ayudar a reducir los riesgos. Busque la plantilla para generar la evaluación en la página **plantillas de evaluación** en el Administrador de cumplimiento. Para obtener más información, consulte el artículo [sobre evaluaciones de compilación en el Administrador de cumplimiento.](/microsoft-365/compliance/compliance-manager-assessments)
+
+
+      Debe comprender cuáles son las obligaciones específicas de su organización en vcdpa y cómo cumplirlas, aunque Microsoft está aquí para ayudarle en su viaje.
+- name: Versión amplia de las Preguntas más frecuentes
+  questions:
+  - question: ¿Cuándo se hará efectivo el VCDPA?
+    answer: El VCDPA se firmó en la ley el 2 de marzo de 2021. Sin embargo, la ejecución por parte del Fiscal General de Virginia (AG) no comenzará hasta el 1 de enero de 2023.
+  - question: ¿Hay ciertas organizaciones que están exentas del VCDPA?
+    answer: >
+      Ciertas organizaciones están exentas del VCDPA, incluidos:
+
+
+      - Agencias estatales de Virginia
+
+      - Instituciones financieras sujetas a la Ley Gramm-Leach-Bliley
+
+      - Entidades cubiertas o asociados empresariales que se rigen por las reglas de privacidad, seguridad y notificación de infracciones establecidas en virtud de la Ley de portabilidad y responsabilidad del seguro de salud
+
+      - Organizaciones sin ánimo de lucro; e instituciones de educación superior.
+  - question: ¿Qué derechos de consumidor deben habilitar las empresas en el VCDPA?
+    answer: >
+      La VCDPA también proporciona protecciones contra la discriminación si los consumidores deciden ejercer sus derechos y ofrece a los consumidores la posibilidad de no participar en la venta de sus datos personales, publicidad dirigida y determinadas generaciones de perfiles. Para obtener más información sobre cómo usar productos, servicios y herramientas administrativas de Microsoft para ayudar a encontrar y "actuar" en los datos personales, vea Solicitudes del interesado y el RGPD y [CCPA](/compliance/regulatory/gdpr-data-subject-requests).
+
+
+      El VCDPA requiere que las empresas reguladas respondan a solicitudes para ejercer los derechos de los consumidores en un plazo de 45 días, y este período puede extenderse durante 45 días adicionales si se proporciona un aviso al consumidor solicitante que explique el motivo de dicho retraso. El VCDPA también proporciona a los consumidores el derecho de recurrir la negativa de una empresa a dicha solicitud mediante un proceso de apelación proporcionado por la empresa que debe estar "visiblemente disponible". Una empresa debe responder a una apelación por escrito en un plazo de 60 días; si se deniega la apelación, la empresa debe proporcionar al consumidor un "mecanismo en línea (si está disponible) u otro método" a través del cual un consumidor puede enviar una queja a la AG.
+  - question: ¿Cuáles son las obligaciones de procesamiento de datos en el VCDPA?
+    answer: >
+      Entre las obligaciones empresariales del VCDPA se incluyen:
+
+
+      - **Minimización de datos:** limitar la recopilación de datos personales a lo que sea adecuado, relevante y razonablemente necesario *(* por ejemplo, los fines especificados y expresamente para el procesamiento).
+
+      - **Limitación de** propósito: procesar datos personales solo para fines razonablemente necesarios o compatibles con los fines divulgados al consumidor *(* por ejemplo, en un aviso de privacidad).
+
+      - **Controles de** seguridad: establecer, implementar y mantener "prácticas razonables de seguridad de datos administrativos, técnicos y físicos" para proteger los datos personales de los consumidores.
+
+      - **No discriminación:** no procesar datos personales de manera que infrinja las leyes federales o estatales de lucha contra la discriminación. Además, se prohíbe a las empresas discriminar a un consumidor por ejercer sus derechos en virtud de VCDPA (con algunas excepciones, incluidos los programas de fidelidad).
+
+      - **Consentimiento:** obtener el consentimiento explícito de los consumidores cuando la empresa (1) procesa datos confidenciales o (2) se desvía de los fines del procesamiento de datos divulgado al consumidor *(* por ejemplo, dentro del aviso de privacidad de la empresa).
+  - question: ¿Qué se considera específicamente "datos personales" y "datos confidenciales"?
+    answer: >
+      Los "datos personales" se definen como cualquier información vinculada o razonablemente vinculada a una persona física identificada o identificable, pero no incluye datos des identificados ni información disponible públicamente. La definición de "datos personales" del VCDPA se alinea aproximadamente con los "datos personales" en el RGPD.
+
+
+      "Datos confidenciales" es una categoría de "datos personales" que incluye lo siguiente:
+
+
+      - Datos personales que revelan el origen étnico o racial, las creencias religiosas, el diagnóstico de salud física o mental, la orientación sexual, la ciudadanía o el estado de la migración;
+
+      - El procesamiento de datos genéticos o biométricos con el fin de identificar de forma única a una persona natural;
+
+      - Los datos personales recopilados de un elemento secundario conocido; o
+
+      - Datos precisos de geolocalización.
+
+
+      Como se mencionó anteriormente, vcdpa requiere el "consentimiento" del consumidor antes de procesar los datos en determinadas circunstancias, incluso antes de procesar los datos confidenciales de un consumidor. "Consentimiento" se define como un "claro acto afirmativo que significa un acuerdo libre, específico, informado e inequívoco de un consumidor para procesar datos personales relacionados con el cliente" y podría incluir "una declaración escrita, incluida una declaración escrita por medios electrónicos, o cualquier otra acción afirmativa inequívoca".
+  - question: ¿Hay divulgaciones de directivas de privacidad necesarias para VCDPA?
+    answer: >
+      La siguiente información debe incluirse en un aviso de privacidad razonablemente accesible y claro:
+
+
+      - Las categorías de datos personales procesados;
+
+      - La finalidad del procesamiento de datos personales;
+
+      - Cómo los consumidores pueden ejercer sus derechos con respecto a sus datos personales (por *ejemplo,* el derecho a corregir la información personal);
+
+      - Las categorías de datos personales que se comparten con terceros (si las hay);
+
+      - Las categorías de terceros con las que una empresa regulada comparte datos personales (si las hay).
+
+      - El hecho de que los datos personales se venden a terceros o se procesan  para publicidad dirigida, y cómo optar por no participar (esta declaración solo es necesaria si un controlador vende o procesa datos para publicidad dirigida); y
+
+      - Cómo los consumidores pueden recurrir una decisión de solicitud de derechos tomada por la empresa.
+  - question: ¿Cómo se "venden" los datos en vcdpa?
+    answer: >
+      La "venta de datos personales" se define como "intercambio de datos personales por consideración monetaria" por parte de una empresa a un tercero. Vcdpa proporciona a los consumidores el derecho de "no participar" en la venta de sus datos personales.
+
+
+      Como nota, la VCDPA indica que una empresa regulada no necesita cumplir las solicitudes de venta de "no participar" en las siguientes divulgaciones:
+
+
+      - (i) a un procesador (*como* una entidad que procesa datos personales en nombre de la empresa),
+
+      - (ii) a un tercero con el fin de proporcionar un producto o servicio solicitado por un consumidor,
+
+      - (iii) a una filial,
+
+      - (iv) de información que un consumidor ha puesto intencionalmente a disposición del público en general a través de un canal de medios masivos y no restringía dicha información a una audiencia específica, y
+
+      - (v) como parte de una fusión, adquisición, etc., en la que un tercero asume el control de todos o parte de los activos de la empresa.
+  - question: ¿Qué es una evaluación de protección de datos (DPA)?
+    answer: >
+      Un DPA es una evaluación que identifica y sopesa los beneficios frente a los posibles riesgos para los consumidores que resultan de cierto procesamiento de datos personales. En el marco de VCDPA, se debe llevar a cabo un DPA para las siguientes actividades: la venta de datos personales, al procesar datos personales confidenciales, al procesar datos personales para publicidad dirigida, al procesar datos personales para determinados fines de generación de perfiles y los casos en los que el procesamiento presenta un mayor riesgo de daños para los consumidores. Para obtener información sobre cómo usar productos, servicios y herramientas administrativas de Microsoft para llevar a cabo un DPA, consulte [Data Protection Impact Assessment for the GDPR](/compliance/regulatory/gdpr-data-protection-impact-assessments).
+  - question: ¿Hay términos contractuales de procesamiento de datos que deben estar en su lugar?
+    answer: >
+      El VCDPA requiere que un controlador *(por* ejemplo, la entidad que determina la finalidad y los medios de procesamiento de datos personales) y un encargado de los datos *(por* ejemplo, una entidad que procesa datos personales en nombre del responsable del tratamiento) conste un acuerdo que incluya determinados términos de procesamiento de datos. Los términos de este contrato deben incluir determinadas disposiciones, como: instrucciones para procesar datos, tipos de datos sujetos al procesamiento, naturaleza y finalidad del procesamiento, duración del procesamiento y derechos y obligaciones de ambas partes. Además, el contrato debe incluir obligaciones asociadas con la subcontratación, las evaluaciones, el deber de confidencialidad, la eliminación o devolución de datos personales, y demostrar el cumplimiento de un procesador con el VCDPA.
+
+
+      Microsoft puede considerarse un procesador de datos en algunas circunstancias al proporcionar servicios a nuestros clientes. Si ese es el caso, los términos del Addendum de protección de datos de Productos y Servicios de Microsoft (DPA) ya cumplen los requisitos del VCDPA, ya que estos requisitos son similares a los requisitos contractuales del RGPD; no es necesario actualizar el contrato de su organización con Microsoft. Tal como se establece en el DPA, Microsoft cumple con todas las leyes y reglamentos aplicables a su provisión de los Servicios en línea, que incluirían el VCDPA.
+  - question: ¿A cuánto pueden ascender las multas a las empresas por incumplimiento?
+    answer: >
+      Vcdpa concede a la AG autoridad exclusiva para hacer cumplir su provisión, sujeto a un período de curación de 30 días para las infracciones de VCDPA presuntas. La AG puede solicitar medidas cautelares y daños de hasta 7.500 usd por cada infracción y los "gastos razonables incurridos en la investigación y preparación del caso, incluidos los cargos de abogado".
+
+
+      Como nota, el VCDPA no concede a los consumidores un derecho de acción privado.
+  - question: ¿Qué está haciendo Microsoft para ayudarle a lograr el cumplimiento de VCDPA?
+    answer: "Entre otras cosas, Microsoft ha implementado los DSR relacionados con el RGPD a nivel global, por lo que ya estamos en una excelente posición para ayudarle a cumplir requisitos de VCDPA similares. También hemos revisado nuestros acuerdos de uso compartido de datos de terceros y hemos tomado medidas para establecer que se han establecido los términos contractuales y los barandillas de protección necesarios para garantizar que no \"vendemos\" información personal.\n\nMicrosoft también le ayuda a cumplir sus obligaciones en virtud del VCDPA mediante la implementación de medidas técnicas y organizativas adecuadas destinadas a facilitar sus respuestas a los DSR de los consumidores, proporcionar herramientas y mecanismos de cumplimiento técnico y cumplir las instrucciones de procesamiento de datos.\n\nDebido a la naturaleza de la informática en la nube, Microsoft opera bajo un modelo [de responsabilidad compartida](/azure/security/fundamentals/shared-responsibility) para los servicios en línea. La responsabilidad compartida es un tema importante, ya que tanto los proveedores de servicios en la nube como las empresas reguladas son responsables de partes de la seguridad en la nube. Para obtener más información sobre nuestras prácticas de seguridad y privacidad, visite el [Centro de confianza de Microsoft](https://www.microsoft.com/trust-center/privacy). \n"
+  - question: ¿Cuáles son algunas herramientas de Microsoft que pueden ayudar a mi organización a empezar a prepararse para VCDPA?
+    answer: >
+      - Comience a usar la evaluación del RGPD en el Administrador de cumplimiento como parte del programa de privacidad VCDPA de su organización.
+
+      - Establecer un proceso para responder de forma eficaz a las solicitudes de derechos de los consumidores.
+
+      - Configure directivas para detectar, clasificar, etiquetar y proteger datos confidenciales con Microsoft Information Protection.
+
+      - Use las capacidades de cifrado de correo electrónico para controlar aún más la información confidencial.
+  - question: ¿Cómo se aplica vcdpa a los niños?
+    answer: >
+      El VCDPA define un elemento secundario como cualquier persona menor de 13 años de edad. Las empresas que cumplan con los requisitos de consentimiento verificables en virtud de la Regla de protección de privacidad en línea para niños (COPPA) se considerarán conformes con cualquier obligación de obtener el consentimiento paterno en virtud del VCDPA.
+
+
+      El VCDPA establece que los datos confidenciales de un niño deben procesarse de acuerdo con los requisitos [de COPPA.](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule)
+  - question: ¿Qué sucede con los datos personales de los empleados de una empresa?
+    answer: Las obligaciones de VCDPA no se aplican a los datos personales recopilados y usados en un contexto de empleo.
+  - question: ¿Cuáles son las diferencias entre RGPD y VCDPA?
+    answer: >-
+      Hay muchas diferencias. Es más fácil centrarse en las similitudes, como:
+
+
+      - Obligaciones de divulgación/transparencia.
+
+      - Derechos de los consumidores para acceder, eliminar y corregir sus datos personales.
+
+
+      Es importante destacar que VCDPA requiere que las empresas permitan a los consumidores excluirse de las ventas de datos a terceros, la publicidad dirigida y determinadas generaciones de perfiles. Se trata de obligaciones más limitadas y específicas que el amplio derecho del RGPD a oponerse al procesamiento, que abarca este tipo de divulgaciones, pero no se limita específicamente a cubrir dichas divulgaciones.
+
+
+      Además, el VCDPA también proporciona a los consumidores el derecho de recurrir la negativa de una empresa a realizar una solicitud del interesado a través de un proceso de apelación proporcionado por la empresa que debe estar "visiblemente disponible". El RGPD no requiere este proceso de apelación.
