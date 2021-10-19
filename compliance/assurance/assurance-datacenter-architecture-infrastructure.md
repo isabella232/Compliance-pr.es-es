@@ -1,5 +1,5 @@
 ---
-title: Infraestructura y arquitectura del centro de datos
+title: Arquitectura e infraestructura del centro de datos
 description: Información general sobre la infraestructura y la arquitectura del centro de datos de Microsoft.
 ms.author: robmazz
 author: robmazz
@@ -19,14 +19,14 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 44876abef95f269d454139fd721194ef3d48dcd4
-ms.sourcegitcommit: cf424cb1e7c12048120977f294f780b776119a96
+ms.openlocfilehash: 6d9304cd0099ba95da8c58432802a3b1c836b1d4
+ms.sourcegitcommit: 02b7aa81f950037d3c959a522336a7d7af579e86
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60265142"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "60477960"
 ---
-# <a name="datacenter-architecture-and-infrastructure"></a>Infraestructura y arquitectura del centro de datos
+# <a name="datacenter-architecture-and-infrastructure"></a>Arquitectura e infraestructura del centro de datos
 
 Los centros de datos de Microsoft están diseñados para implementar una estrategia de defensa en profundidad, empleando varias capas de protecciones para proteger de forma confiable nuestra arquitectura en la nube y la infraestructura de soporte técnico. La redundancia se basa en todos los sistemas en varios niveles para admitir la disponibilidad del centro de datos.
 
@@ -35,6 +35,10 @@ Microsoft tiene instalaciones de centros de datos de alta seguridad distribuidas
 Las regiones son conjuntos de centros de datos que están interconectados a través de una red masiva y resistente. Las regiones se organizan en ubicaciones geográficas, lo que otorga a los clientes con necesidades específicas de residencia de datos y cumplimiento la capacidad de mantener sus datos y aplicaciones cerca. La tolerancia a errores integrada permite a las geografías soportar errores de región completos a través de su conexión a la infraestructura de red dedicada y de alta capacidad.
 
 Las ubicaciones físicamente separadas dentro de una región se denominan zonas de disponibilidad, cada una de ellas con uno o varios centros de datos equipados con energía, refrigeración y redes independientes. Las zonas de disponibilidad permiten que las aplicaciones críticas se ejecuten con alta disponibilidad y replicación de baja latencia.
+
+En la siguiente figura se muestra cómo la infraestructura global combina las zonas de disponibilidad y región dentro del mismo límite de residencia de datos para alta disponibilidad, recuperación ante desastres y copia de seguridad.
+
+![Límites de residencia de datos.](../media/assurance-data-residency-boundary.png)
 
 Los centros de datos distribuidos geográficamente permiten a Microsoft acercar los servicios a los clientes, reducir la latencia de red y permitir la conmutación por error y copia de seguridad con redundancia geográfica.
 
