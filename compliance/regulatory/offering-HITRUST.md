@@ -1,7 +1,7 @@
 ---
 title: Marco común de seguridad (CSF) de Health Information Trust Alliance (HITRUST)
 description: Azure y Office 365 certificado del Marco común de seguridad (CSF) de Health Information Trust Alliance (HITRUST).
-keywords: Cumplimiento y ofertas de Microsoft 365
+keywords: Microsoft 365, cumplimiento, ofertas
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e95b5c2b73f6b48cbab40bbc5d8d3aff6375cc48
+ms.sourcegitcommit: 9843c6a0318dfea189b07f9cd80e33c3e8f6d676
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160498"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725669"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Marco común de seguridad (CSF) de Health Information Trust Alliance (HITRUST)
 
@@ -41,7 +41,7 @@ Obtenga información sobre cómo acelerar la implementación de HITRUST con nues
 
 [Descargue el Microsoft Azure de matriz de responsabilidad del cliente (CRM) de HITRUST v9.0d](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=3ccde498-4761-4be0-be8b-cd8d379a3a4f&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_Healthcare_Blueprint)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure y Azure Government
 - Intune
@@ -64,7 +64,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 
 | **Aplicabilidad** | **Servicios incluidos** |
 |:------------------|:----------------------|
-| **Comercial** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, portal de clientes de Office 365, Office Online, infraestructura de servicio de Office, informes de uso de Office, OneDrive para la Empresa, tarjeta de personas, SharePoint Online, Skype Empresarial, Windows Ink |
+| **Comercial** | Servicio de fuente de actividades, servicios de Bing, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, portal de clientes de Office 365, Office Online, Office Infraestructura de servicio, Office de uso, OneDrive para la Empresa, tarjeta de personas, SharePoint online, Skype Empresarial, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Auditorías, informes y certificados de Office 365
 
@@ -72,7 +72,7 @@ La certificación HITRUST CSF de Office 365 es válida durante dos años.
 
 - [Office 365 Carta de certificación hitrust](https://aka.ms/O365HITRUSTcertification)
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Por qué algunos Office 365 servicios no están en el ámbito de esta certificación?**
 
@@ -93,7 +93,7 @@ Sí, puede encontrar acciones de cliente recomendadas en Compliance Score, soluc
 ### <a name="resources"></a>Recursos
 
 - [ALIANZA HITRUST](https://hitrustalliance.net/)
-- [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
+- [HITRUST CSF 9.5](https://hitrustalliance.net/csf-license-agreement/)
 - [Comprender y aprovechar el CSF](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [Más información sobre el programa de responsabilidad compartida HITRUST](https://go.microsoft.com/fwlink/p/?linkid=2100268)
-- [Cumplimiento en el Centro de Confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Cumplimiento normativo en el Centro de confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
