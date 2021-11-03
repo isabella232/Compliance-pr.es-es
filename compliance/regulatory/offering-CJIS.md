@@ -1,7 +1,7 @@
 ---
 title: Directiva de seguridad de Criminal Justice Information Services (CJIS)
 description: Los servicios en la nube del gobierno de Microsoft se adhieren a la Directiva de seguridad de servicios de información de justicia penal de Estados Unidos.
-keywords: Cumplimiento y ofertas de Microsoft 365
+keywords: Microsoft 365, cumplimiento, ofertas
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 4b255918c3bb46757d5bd12ae33d907200dd37b0
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161025"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678457"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Directiva de seguridad de Criminal Justice Information Services (CJIS)
 
@@ -43,7 +43,7 @@ Microsoft ha evaluado las directivas operativas y los procedimientos de Microsof
 
 Obtenga información sobre las ventajas de la directiva de seguridad de CJIS en Microsoft Cloud: [lea cómo Genetec borró las investigaciones penales](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure Government
 - Dynamics 365 U.S. Government
@@ -76,13 +76,13 @@ El FBI no ofrece la certificación del cumplimiento de Microsoft con los requisi
 
 ### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>Estado de CJIS en Estados Unidos (actual a partir del 11/5/2020)
 
-45 estados y el Distrito de Columbia con acuerdos de administración, resaltados en el mapa en verde incluyen:
+44 estados y el Distrito de Columbia con acuerdos de administración, resaltados en el mapa en verde incluyen:
 
 Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Massachusetts, Míchigan, Minnesota, Misuri, Misuri, Montana, Nebraska, Nevada, New Hampshire, Nueva Jersey, Nuevo México, Nueva York, Nueva York, North Carolina, North Dakota, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin y el Distrito de Columbia.
 
 El compromiso de Microsoft de cumplir con los controles normativos CJIS aplicables permite a las organizaciones de justicia penal implementar soluciones basadas en la nube y cumplir con la directiva de seguridad CJIS V5.9.
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Dónde puedo solicitar información de cumplimiento?**
 
@@ -104,6 +104,6 @@ Microsoft firma un acuerdo de información con una agencia estatal de sistemas C
 
 - [Servicios de información de justicia penal](https://aka.ms/cjis)
 - [Directiva de seguridad de CJIS](https://aka.ms/cjis-security-policy)
-- [Marco de cumplimiento del centro de controles comunes de Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
+- [Marco de Cumplimiento del Centro de Controles Comunes de Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Nube de Microsoft para la Administración Pública](https://go.microsoft.com/fwlink/?linkid=2087246)
 - [Cumplimiento normativo en el Centro de confianza de Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

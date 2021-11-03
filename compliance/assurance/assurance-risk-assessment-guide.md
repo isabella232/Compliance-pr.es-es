@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a7b6e345afa49d82f96d9eb9e5c804fc7cbf5ffe
-ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
+ms.openlocfilehash: df4b98f90c70bab3bd7f09e6312833d8a7ea768b
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584874"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678437"
 ---
 # <a name="risk-assessment-guide-for-microsoft-cloud"></a>Guía de evaluación de riesgos para Microsoft Cloud
 
 El objetivo de una evaluación de riesgos en la nube es garantizar que el sistema y los datos que se consideran para la migración a la nube no introduzcan ningún riesgo nuevo o no identificado en la organización. El objetivo es garantizar la confidencialidad, integridad, disponibilidad y privacidad del procesamiento de información y mantener los riesgos identificados por debajo del umbral de riesgo interno aceptado.
 
-En un modelo de responsabilidad compartida, el proveedor de servicios en la nube (CSP) es responsable de administrar la seguridad y el cumplimiento de la *nube* como proveedor. El cliente sigue siendo responsable de administrar y configurar la seguridad y el cumplimiento en la nube de acuerdo con sus necesidades y tolerancia a riesgos.
+En un modelo de responsabilidad compartida, el proveedor de servicios en la nube (CSP) es responsable de administrar la seguridad y el cumplimiento de la *nube* como proveedor. El cliente sigue siendo responsable de administrar y configurar la seguridad y el cumplimiento en *la* nube de acuerdo con sus necesidades y tolerancia a riesgos.
 
 ![Modelo de responsabilidad compartida.](../media/assurance-shared-responsibility-model.png)
 
@@ -41,7 +41,7 @@ En esta guía, se comparten procedimientos recomendados sobre cómo evaluar efic
 
 Las implementaciones en la nube se pueden clasificar como Infraestructura como servicio (IaaS), Plataforma como servicio (PaaS) o Software como servicio (SaaS). Según el modelo de servicio en la nube aplicable, el nivel de responsabilidad sobre los controles de seguridad de las soluciones cambia entre el CSP y el cliente. En un modelo local tradicional, el cliente es responsable de toda la pila. Al pasar a la nube, todas las responsabilidades de seguridad física se transfieren al CSP. Según el modelo de servicio en la nube de su organización, las responsabilidades adicionales se trasladan al CSP. Sin embargo, en la mayoría de los modelos de servicio, la organización sigue siendo responsable de los dispositivos usados para acceder a la nube, la conectividad de red, las cuentas e identidades y los datos. Microsoft invierte en gran medida en la creación de servicios que permiten a los clientes mantener el control de sus datos durante todo el ciclo de vida.
 
-Microsoft Cloud funciona a una hiperescala, basándose en una combinación de DevSecOps y automatización para estandarizar los modelos operativos. El modelo operativo de Microsoft cambia la forma en que se aborda el riesgo en comparación con los modelos operativos locales tradicionales, lo que lleva a la implementación de controles diferentes y a veces desconocidos para administrar riesgos. Al realizar la evaluación de riesgos en la nube, tenga en cuenta que el objetivo de Microsoft es garantizar que se aborden todos los riesgos, pero no necesariamente implementar los mismos controles que hace su organización. Microsoft puede abordar los mismos riesgos con un conjunto de controles diferente y eso debe reflejarse en la evaluación de riesgos en la nube. Diseñar e implementar controles preventivos sólidos puede reducir gran parte del trabajo requerido por los controles de detective y correctivo.
+Microsoft Cloud funciona a una hiperescala, basándose en una combinación de DevSecOps y automatización para estandarizar los modelos operativos. El modelo operativo de Microsoft cambia la forma en que se aborda el riesgo en comparación con los modelos operativos locales tradicionales, lo que lleva a la implementación de controles diferentes y a veces desconocidos para administrar riesgos. Al realizar la evaluación de riesgos en la nube, tenga en cuenta que el objetivo de Microsoft es garantizar que se aborden todos los riesgos, pero no necesariamente implementar los mismos controles que hace su organización. Microsoft puede abordar los mismos riesgos con un conjunto de controles diferente y eso debe reflejarse en la evaluación de riesgos en la nube. Diseñar e implementar controles preventivos sólidos puede reducir gran parte del trabajo requerido por los controles de detective y correctivo. Un ejemplo de esto es la implementación de Microsoft de Acceso permanente [cero (ZSA).](assurance-microsoft-365-service-engineer-access-control.md)
 
 ## <a name="adopt-a-framework"></a>Adoptar un marco
 
