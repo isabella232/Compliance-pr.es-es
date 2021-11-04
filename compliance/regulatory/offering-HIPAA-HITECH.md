@@ -1,7 +1,7 @@
 ---
 title: Ley de portabilidad y responsabilidad de seguros de salud (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH)
 description: Microsoft ofrece contratos de asociación empresarial (BAA) & ley de responsabilidad del seguro de salud.
-keywords: Cumplimiento y ofertas de Microsoft 365
+keywords: Microsoft 365, cumplimiento, ofertas
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 373d9c36d67324a1d3792786c45731b3da21686a
+ms.sourcegitcommit: 444a58b28f8611323e16d28b4c63a0f68eaaafa6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160842"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "60780136"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Ley de portabilidad y responsabilidad de seguros de salud (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH)
 
@@ -47,14 +47,13 @@ Los servicios en la nube de microsoft enterprise también están cubiertos por e
 
 Para obtener información sobre cómo Microsoft Cloud ayuda a los clientes a admitir hipaa y los requisitos hitech, visite [Microsoft Customer Stories](https://customers.microsoft.com/).
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro de Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Servicios y plataformas en la nube dentro del ámbito de Microsoft
 
 - Azure y Azure Government
-- Azure DevOps Services
+- Azure DevOps
 - Dynamics 365 y Dynamics 365 para la Administración Pública de Estados Unidos
 - Intune
 - Microsoft Cloud App Security
-- [Microsoft Cloud para el sector sanitario](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Servicio de bots de Microsoft Healthcare
 - [Escritorio administrado por Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Servicios profesionales de Microsoft: Premier y local para Azure, Dynamics 365, Intune y para empresas medianas y clientes empresariales de Microsoft 365 para empresas
@@ -82,7 +81,7 @@ Use la siguiente tabla para determinar la aplicabilidad de los servicios y la su
 | **Comercial** | Access Online, Azure Active Directory, Azure Communications Service, Compliance Manager, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Cumplimiento avanzado de Office 365 add-on, Office 365 Customer Portal, Office 365 Microservices (incluidos, entre otros, Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query, Query Annotation Service, School Data Sync, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive para la Empresa, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype Empresarial, Stream |
 | **GCC** | Azure Active Directory, Servicio de comunicaciones de Azure, Administrador de cumplimiento, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Cumplimiento avanzado de Office 365, Centro de seguridad y cumplimiento de Office 365, Office Online, Office Pro Plus, OneDrive para la Empresa, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype Empresarial, Stream |
 
-### <a name="frequently-asked-questions"></a>Preguntas frecuentes.
+### <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **¿Puede mi organización entrar en un BAA con Microsoft?**
 

@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 513fe8b9f9a4ed5db71606704738cb46a6af8ed1
-ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
+ms.openlocfilehash: 86c49d78deee975b0f7a1504938d81b0dc609cdf
+ms.sourcegitcommit: 444a58b28f8611323e16d28b4c63a0f68eaaafa6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60582673"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "60780116"
 ---
 # <a name="architecture-overview"></a>Introducción a la arquitectura
 
@@ -86,6 +86,6 @@ Los servicios en línea de Microsoft se auditan periódicamente para cumplir con
 | **Auditorías externas** | **Section** | **Fecha de informe más reciente** |
 |:--------------------|:------------|:-----------------------|
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | AC-4: Aplicación del flujo de información <br> CP-9: Copia de seguridad del sistema de información <br> PL-8: Arquitectura de seguridad de la información <br> SC-7: Protección de límites <br> SC-22: Arquitectura y aprovisionamiento | 24 de septiembre de 2020 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Declaración de aplicabilidad](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificación](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.6: Organización de la seguridad de la información <br> A.13.1: Administración de seguridad de red <br> A.17.2: Redundancias | 20 de abril de 2021 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=08ce227f-d1d9-4c4c-b255-4f2e4ec8f941&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Declaración de aplicabilidad](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificación](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.6: Organización de la seguridad de la información <br> A.13.1: Administración de seguridad de red <br> A.17.2: Redundancias | 20 de abril de 2021 |
 | [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-37: aislamiento de inquilinos <br> CA-49: Directivas de copia de seguridad <br> CA-51: replicación de datos | 24 de diciembre de 2020 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-05: Diagramas de flujo de datos <br> CA-37: aislamiento de inquilinos <br> CA-49: Directivas de copia de seguridad <br> CA-51: replicación de datos | 24 de diciembre de 2020 |
